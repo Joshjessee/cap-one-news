@@ -1,0 +1,55 @@
+# Fetches the latest news, has Claude summarize anything new, and commits the
+# updated data/*.json files. Each commit makes Vercel redeploy the site.
+#
+# To run it right now: GitHub → Actions → "Refresh news" → "Run workflow".
+# Note: GitHub only runs scheduled workflows from the default branch (main).
+
+name: Refresh news
+
+on:
+  schedule:
+    # Times are UTC. Every 2 hours from about 6 AM to 6 PM Eastern on weekdays…
+    - cron: "17 10-23/2 * * 1-5"
+    # …and twice a day on weekends.
+    - cron: "17 13,21 * * 0,6"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# Never run two refreshes at the same time.
+concurrency:
+  group: refresh-news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch and summarize news
+        run: npm run refresh
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit updated news (if anything changed)
+        run: |
+          git config user.name "news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Nothing new."
+          else
+            git commit -m "Refresh news data"
+            git pull --rebase
+            git push
+          fi
