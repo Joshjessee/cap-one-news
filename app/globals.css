@@ -312,6 +312,12 @@ a {
   margin-top: 4px !important;
 }
 
+.also {
+  font-size: 14px;
+  color: var(--muted);
+  margin-top: 6px !important;
+}
+
 .badge {
   font-size: 12px;
   font-weight: 700;

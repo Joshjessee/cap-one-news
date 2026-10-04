@@ -3,7 +3,7 @@
 
 import { createHash } from "node:crypto";
 import { XMLParser } from "fast-xml-parser";
-import { findOutlet, OUTLETS, type TopicConfig } from "@/config/sources";
+import { findOutlet, OUTLETS, type DirectFeed, type TopicConfig } from "@/config/sources";
 
 /** An article as it comes out of a feed, before Claude has looked at it. */
 export interface RawArticle {
@@ -98,6 +98,44 @@ export function parseGoogleNewsRss(rss: string): RawArticle[] {
   return articles;
 }
 
+interface RssItem {
+  title?: string;
+  link?: string;
+  pubDate?: string;
+  description?: string;
+}
+
+/** Turn a publisher's own RSS feed into articles, keeping only items that match `mustMention`. */
+export function parseDirectRss(rss: string, feed: DirectFeed): RawArticle[] {
+  const outlet = OUTLETS.find((o) => o.domain === feed.domain);
+  if (!outlet) throw new Error(`${feed.domain} is not in OUTLETS`);
+
+  const doc = xml.parse(rss);
+  const rawItems = doc?.rss?.channel?.item ?? [];
+  const items: RssItem[] = Array.isArray(rawItems) ? rawItems : [rawItems];
+
+  const articles: RawArticle[] = [];
+  for (const item of items) {
+    if (!item.title || !item.link) continue;
+    const title = stripHtml(String(item.title));
+    const snippet = stripHtml(String(item.description ?? "")).slice(0, 600);
+    if (feed.mustMention && !feed.mustMention.test(`${title} ${snippet}`)) continue;
+
+    const url = String(item.link).trim();
+    const published = item.pubDate ? new Date(item.pubDate) : new Date();
+    articles.push({
+      id: articleId(url),
+      title,
+      url,
+      source: outlet.name,
+      paywalled: outlet.paywalled,
+      publishedAt: isNaN(published.getTime()) ? new Date().toISOString() : published.toISOString(),
+      snippet,
+    });
+  }
+  return articles;
+}
+
 function escapeRegExp(s: string): string {
   return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
@@ -166,7 +204,9 @@ export async function fetchTopicArticles(
   }
 
   let feedsFailed = 0;
-  const jobs: Promise<RawArticle[]>[] = queries.map(async (q) => {
+  // Outlets whose own feed we read successfully; Google results for them are dropped below.
+  const directSources = new Set<string>();
+  const googleJobs = queries.map(async (q) => {
     try {
       const found = parseGoogleNewsRss(await fetchText(googleNewsUrl(q)));
       console.log(`  ✓ ${found.length.toString().padStart(3)} from Google News: ${q}`);
@@ -178,8 +218,26 @@ export async function fetchTopicArticles(
     }
   });
 
+  const otherJobs: Promise<RawArticle[]>[] = [];
+  for (const feed of topic.directFeeds ?? []) {
+    otherJobs.push(
+      fetchText(feed.url)
+        .then((rss) => {
+          const found = parseDirectRss(rss, feed);
+          directSources.add(findOutlet(feed.domain)!.name);
+          console.log(`  ✓ ${found.length.toString().padStart(3)} from ${feed.url}`);
+          return found;
+        })
+        .catch((err) => {
+          console.warn(`  ✗ Feed failed (${feed.url}): ${(err as Error).message}`);
+          feedsFailed++;
+          return [];
+        }),
+    );
+  }
+
   if (topic.includeFederalRegister) {
-    jobs.push(
+    otherJobs.push(
       fetchFederalRegister(7)
         .then((found) => {
           console.log(`  ✓ ${found.length.toString().padStart(3)} from the Federal Register`);
@@ -193,8 +251,12 @@ export async function fetchTopicArticles(
     );
   }
 
-  const articles = dedupe((await Promise.all(jobs)).flat());
-  return { articles, feedsTried: jobs.length, feedsFailed };
+  const [fromGoogle, fromOthers] = await Promise.all([Promise.all(googleJobs), Promise.all(otherJobs)]);
+  const articles = dedupe([
+    ...fromOthers.flat(),
+    ...fromGoogle.flat().filter((a) => !directSources.has(a.source)),
+  ]);
+  return { articles, feedsTried: googleJobs.length + otherJobs.length, feedsFailed };
 }
 
 /** Remove repeats: same link, or the same headline from the same outlet. */
