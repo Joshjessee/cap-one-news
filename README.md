@@ -31,7 +31,7 @@ The site never copies articles. It shows the headline, the outlet, and the AI su
 | --- | --- |
 | `config/sources.ts` | **The file you'll edit most**: trusted outlets, search terms, and the instructions Claude gets about what's important |
 | `scripts/refresh.ts` | The news-refresh job |
-| `lib/feeds.ts` | Reads Google News RSS and the Federal Register API |
+| `lib/feeds.ts` | Reads Google News RSS, NIST's news feed, and the Federal Register API |
 | `lib/claude.ts` | Asks Claude for summaries, priorities, and the briefing |
 | `data/*.json` | The saved news (written by the refresh job, read by the site) |
 | `app/` | The website pages (Next.js) |
@@ -62,7 +62,7 @@ Locally, the site doesn't ask for a password unless you set `SITE_PASSWORD`.
 ## Costs
 
 - **Vercel and GitHub Actions**: free tiers are enough.
-- **Claude**: only new articles are sent, in batches, at low effort. That should come to a few dollars a month. You can see actual usage in the Anthropic console. To make it cheaper, change `MODEL` in `lib/claude.ts`.
+- **Claude**: uses Claude Sonnet 5.5 at low effort. Only new articles are sent, in batches, and the briefing is only rewritten when a medium- or high-priority article arrives (or once a day). Expect roughly $4–7 a month. You can see actual usage under **Usage** in the Anthropic console. To switch models, change `MODEL` in `lib/claude.ts`.
 
 ## Common changes
 

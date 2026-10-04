@@ -26,6 +26,10 @@ export interface Article {
   whyItMatters?: string;
   priority?: Priority;
   category?: string;
+  /** Which version of the analysis prompt produced these fields (see scripts/refresh.ts). */
+  analysisVersion?: number;
+  /** Id of the article that started this story. Missing = this article is its own story. */
+  storyId?: string;
 }
 
 export interface TopicData {

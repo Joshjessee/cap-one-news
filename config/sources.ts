@@ -58,6 +58,15 @@ export const OUTLETS: Outlet[] = [
   { name: "FTC", domain: "ftc.gov", paywalled: false },
 ];
 
+/** A publisher's own RSS feed, read directly instead of through Google News. */
+export interface DirectFeed {
+  url: string;
+  /** Must match an entry in OUTLETS. */
+  domain: string;
+  /** Only keep items whose headline or description matches this. */
+  mustMention?: RegExp;
+}
+
 export interface TopicConfig {
   id: TopicId;
   /** Tab label on the website. */
@@ -71,6 +80,8 @@ export interface TopicConfig {
   queries: string[];
   /** Also search each core outlet directly with this phrase, so they never get crowded out. */
   coreOutletPhrase?: string;
+  /** Publisher RSS feeds to read directly. */
+  directFeeds?: DirectFeed[];
   /** Also pull AI-related documents from the Federal Register's free API. */
   includeFederalRegister?: boolean;
   /** Buckets Claude sorts each article into (shown as filter chips). */
@@ -119,9 +130,17 @@ Priority:
       '(NIST OR "AI Safety Institute" OR CAISI) "artificial intelligence" when:3d',
       '(Treasury OR Bessent) "artificial intelligence" when:3d',
       '"artificial intelligence" (banks OR "financial services" OR regulators) when:3d',
-      '"artificial intelligence" site:nist.gov when:7d',
       '"artificial intelligence" site:treasury.gov when:7d',
       '"artificial intelligence" site:whitehouse.gov when:7d',
+    ],
+    // NIST's own news releases. (Searching Google for site:nist.gov returned lots of
+    // non-news NIST web pages, so we read their news feed instead.)
+    directFeeds: [
+      {
+        url: "https://www.nist.gov/news-events/news/rss.xml",
+        domain: "nist.gov",
+        mustMention: /\bAI\b|artificial intelligence|machine learning/i,
+      },
     ],
     includeFederalRegister: true,
     categories: ["Congress", "Administration", "NIST", "Treasury", "Financial Regulators", "Other"],

@@ -8,7 +8,7 @@ import type { TopicConfig } from "@/config/sources";
 import type { Article, Priority } from "@/lib/types";
 import type { RawArticle } from "@/lib/feeds";
 
-const MODEL = "claude-opus-5-5";
+const MODEL = "claude-sonnet-5-5";
 
 // How many articles to send to Claude in one request.
 const BATCH_SIZE = 40;
@@ -48,7 +48,7 @@ async function ask<T>(system: string, prompt: string, format: AutoParseableBetaO
   return response.parsed_output;
 }
 
-function analysisFormat(topic: TopicConfig) {
+function analysisFormat(topic: TopicConfig, storyIds: string[]) {
   return betaJSONSchemaOutputFormat(
     {
       type: "object",
@@ -64,8 +64,10 @@ function analysisFormat(topic: TopicConfig) {
               why_it_matters: { type: "string" },
               priority: { type: "string", enum: ["high", "medium", "low"] },
               category: { type: "string", enum: topic.categories },
+              // "" = a new story; otherwise the id of an article about the same event.
+              same_story_as: { type: "string", enum: ["", ...storyIds] },
             },
-            required: ["id", "relevant", "summary", "why_it_matters", "priority", "category"],
+            required: ["id", "relevant", "summary", "why_it_matters", "priority", "category", "same_story_as"],
             additionalProperties: false,
           },
         },
@@ -83,12 +85,25 @@ export interface Analysis {
   whyItMatters: string;
   priority: Priority;
   category: string;
+  /** Id of an earlier article covering the same event, if any. */
+  sameStoryAs?: string;
 }
 
-/** Summarize and prioritize a list of articles. Returns results keyed by article id. */
+/** A recent article Claude can match new articles against. */
+export interface KnownStory {
+  id: string;
+  source: string;
+  title: string;
+}
+
+/**
+ * Summarize and prioritize a list of articles, and spot ones covering the same event as each
+ * other or as one of `knownStories`. Returns results keyed by article id.
+ */
 export async function analyzeArticles(
   topic: TopicConfig,
   articles: RawArticle[],
+  knownStories: KnownStory[],
 ): Promise<Map<string, Analysis>> {
   const system = `You help a busy policy team at Capital One decide what news to read.
 You only see each article's headline, outlet, date, and (sometimes) a short public teaser —
@@ -102,11 +117,17 @@ For EVERY article you are given, return one result with the same id:
 - summary: one or two plain-English sentences on what happened.
 - why_it_matters: one short sentence on why this team should (or needn't) care.
 - priority: high, medium, or low, using the rules above.
-- category: the best fit from the allowed list.`;
+- category: the best fit from the allowed list.
+- same_story_as: if this article reports the same specific event as an EARLIER-listed article
+  (one of the "Already seen" articles, or one above it in this list), give that article's id.
+  Different outlets covering the same announcement, vote, ruling, or deal count as the same
+  story; merely sharing a topic (e.g. two different AI bills) does not. Otherwise "".`;
 
   const results = new Map<string, Analysis>();
+  const known = [...knownStories];
   for (let i = 0; i < articles.length; i += BATCH_SIZE) {
     const batch = articles.slice(i, i + BATCH_SIZE);
+    const seen = known.map((k) => JSON.stringify({ id: k.id, outlet: k.source, headline: k.title })).join("\n");
     const listing = batch
       .map((a) =>
         JSON.stringify({
@@ -119,7 +140,12 @@ For EVERY article you are given, return one result with the same id:
       )
       .join("\n");
 
-    const out = await ask(system, `Analyze these ${batch.length} articles:\n\n${listing}`, analysisFormat(topic));
+    const prompt =
+      (seen ? `Already seen (for same_story_as only — do not analyze these):\n${seen}\n\n` : "") +
+      `Analyze these ${batch.length} articles:\n\n${listing}`;
+    const storyIds = [...new Set([...known.map((k) => k.id), ...batch.map((a) => a.id)])];
+
+    const out = await ask(system, prompt, analysisFormat(topic, storyIds));
     for (const r of out.results) {
       results.set(r.id, {
         relevant: r.relevant,
@@ -128,7 +154,12 @@ For EVERY article you are given, return one result with the same id:
         // Belt and braces in case a value ever slips outside the allowed lists.
         priority: (["high", "medium", "low"] as const).find((p) => p === r.priority) ?? "medium",
         category: topic.categories.includes(r.category) ? r.category : "Other",
+        ...(r.same_story_as && r.same_story_as !== r.id ? { sameStoryAs: r.same_story_as } : {}),
       });
+    }
+    // Later batches can match against this batch's relevant articles too.
+    for (const a of batch) {
+      if (results.get(a.id)?.relevant) known.push({ id: a.id, source: a.source, title: a.title });
     }
   }
   return results;

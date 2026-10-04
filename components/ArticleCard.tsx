@@ -3,7 +3,13 @@ import type { Article } from "@/lib/types";
 
 const PRIORITY_LABEL = { high: "Read first", medium: "Worth a look", low: "FYI" } as const;
 
-export default function ArticleCard({ article }: { article: Article }) {
+interface Props {
+  article: Article;
+  /** Other outlets' articles about the same story. */
+  alsoCovered?: Article[];
+}
+
+export default function ArticleCard({ article, alsoCovered = [] }: Props) {
   const { priority } = article;
   const classes = ["card", priority === "high" ? "high" : "", article.relevant === false ? "dimmed" : ""];
 
@@ -28,6 +34,20 @@ export default function ArticleCard({ article }: { article: Article }) {
         </>
       ) : (
         article.snippet && <p>{article.snippet}</p>
+      )}
+      {alsoCovered.length > 0 && (
+        <p className="also">
+          Also covered by:{" "}
+          {alsoCovered.map((a, i) => (
+            <span key={a.id}>
+              {i > 0 && " · "}
+              <a href={a.url} target="_blank" rel="noopener noreferrer" title={a.title}>
+                {a.source}
+              </a>
+              {a.paywalled && " 🔒"}
+            </span>
+          ))}
+        </p>
       )}
     </article>
   );
