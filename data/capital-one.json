@@ -1,11 +1,45 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-04T22:40:13.133Z",
+  "updatedAt": "2026-10-05T15:37:08.204Z",
   "briefing": [
     "Demand for AI agent skills on Wall Street jumped 1,721% as banks move to adopt agentic AI, according to a CNBC report on hiring trends. The story is an industry-wide look at AI talent rather than a Capital One-specific development, and Capital One appears only in passing among the banks covered (CNBC)."
   ],
   "briefingUpdatedAt": "2026-10-04T22:40:13.133Z",
   "articles": [
+    {
+      "id": "5ed047e752d8dcf1",
+      "title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-05T13:49:17.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:08.204Z",
+      "relevant": false,
+      "summary": "Washington Post homepage with no specific story tied to Capital One.",
+      "whyItMatters": "No evident Capital One focus.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:08.204Z"
+    },
+    {
+      "id": "7dae3b019c8e6425",
+      "title": "Building beyond software with embedded financial products",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUFPUS1VT1UwNmIwRTAybm4tQUgzUWpKaDVUdTQwbllKb293dTBhLUdTVnZTRUh3dzBPb0hvNDRIZWZfMm9HMDJNWjZrSWVjTUpCQ3BRLU9iVVNCQ0NGWUR3QlJGR0hQVXBiZTJyZi1KYkZpZHpMb3JnUlpQbWdVaU1HVG5ZOEozaWd5MjJpV3RIVEpNb1ViMW9GQ1pvNmdxY1E?oc=5",
+      "source": "Payments Dive",
+      "paywalled": false,
+      "publishedAt": "2026-10-05T12:36:08.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:08.204Z",
+      "relevant": true,
+      "summary": "Payments Dive piece on embedded financial products offered beyond software platforms; Capital One may be mentioned but the teaser gives no detail.",
+      "whyItMatters": "Possible mention of Capital One in embedded finance trends, but likely minor.",
+      "priority": "low",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:08.204Z"
+    },
     {
       "id": "6a3f487c815f6ed6",
       "title": "Zach Bryan dons ‘Free Palestine’ shirt at Gillette Stadium after Macklemore block",
@@ -16,11 +50,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "Zach Bryan wore a 'Free Palestine' shirt at a Gillette Stadium concert after Macklemore was reportedly blocked.",
-      "whyItMatters": "No evident connection to Capital One; no need to read.",
+      "summary": "Zach Bryan wore a 'Free Palestine' shirt at a Gillette Stadium show after Macklemore was blocked.",
+      "whyItMatters": "Not about Capital One.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "analysisVersion": 2
     },
     {
       "id": "c860021adac1dddb",
@@ -32,11 +67,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "A roundup of Trump administration actions, including G-7 oil reserve releases, military preparations in the Middle East and aid diverted to Latin America.",
-      "whyItMatters": "A general political roundup with no evident Capital One angle.",
+      "summary": "Roundup of Trump administration news on oil reserves, military and aid.",
+      "whyItMatters": "No evident Capital One connection.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "analysisVersion": 2
     },
     {
       "id": "ef50a9a22b4cbe0d",
@@ -48,11 +84,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "The Kennedy Center Honors will be held at Capital One Arena amid a fight over adding Trump's name to the Kennedy Center.",
-      "whyItMatters": "Capital One appears only as the arena's name; the story isn't about the company.",
+      "summary": "Kennedy Center Honors will be held at Capital One Arena amid a fight over adding Trump's name to the Kennedy Center.",
+      "whyItMatters": "Capital One appears only as the arena name; not about the company.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "analysisVersion": 2
     },
     {
       "id": "f376141476a0eee6",
@@ -64,11 +101,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "The Kennedy Center Honors will move to Capital One Arena while the Kennedy Center's closure continues.",
-      "whyItMatters": "Venue-name mention only; not about Capital One.",
+      "summary": "Kennedy Center Honors move to Capital One Arena as the Kennedy Center closure continues.",
+      "whyItMatters": "Venue name only; not about the company.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "storyId": "ef50a9a22b4cbe0d",
+      "analysisVersion": 2
     },
     {
       "id": "fe64f66a5159f8f5",
@@ -80,11 +119,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "Politico examines the costs of gutting Voice of America.",
+      "summary": "Politico piece on the costs of gutting Voice of America.",
       "whyItMatters": "No evident Capital One connection.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "analysisVersion": 2
     },
     {
       "id": "4d134e4751704de8",
@@ -96,11 +136,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "The Kennedy Center awards will take place at an offsite venue amid a broader shutdown fight.",
-      "whyItMatters": "Likely mentions Capital One Arena only as the venue; not about the company.",
+      "summary": "Kennedy Center Awards will be held offsite amid a broader shutdown fight.",
+      "whyItMatters": "Venue mention only.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "storyId": "ef50a9a22b4cbe0d",
+      "analysisVersion": 2
     },
     {
       "id": "28fb7fe878b1c0cb",
@@ -112,11 +154,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "The Kennedy Center Honors will be held at Capital One Arena amid a fight over demolition.",
-      "whyItMatters": "Arena-name mention only; not about Capital One.",
+      "summary": "Reuters reports the Kennedy Center Honors will be at Capital One Arena amid a demolition fight.",
+      "whyItMatters": "Arena name only.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "storyId": "ef50a9a22b4cbe0d",
+      "analysisVersion": 2
     },
     {
       "id": "1bd48fffc662f5f8",
@@ -128,11 +172,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "The Kennedy Center Honors will be held at Capital One Arena amid a fight over adding Trump's name.",
-      "whyItMatters": "Arena-name mention only; not about Capital One.",
+      "summary": "The Hill reports the Kennedy Center Honors moving to Capital One Arena amid the Trump naming fight.",
+      "whyItMatters": "Arena name only.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "storyId": "ef50a9a22b4cbe0d",
+      "analysisVersion": 2
     },
     {
       "id": "e423c4757c933480",
@@ -144,11 +190,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "The New York Times reports the Kennedy Center Honors will be held at Capital One Arena.",
-      "whyItMatters": "Venue-name mention only; not about Capital One.",
+      "summary": "NYT reports the Kennedy Center Honors will be held at Capital One Arena.",
+      "whyItMatters": "Arena name only.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "storyId": "ef50a9a22b4cbe0d",
+      "analysisVersion": 2
     },
     {
       "id": "0fa843c3381e80f1",
@@ -160,11 +208,30 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": false,
-      "summary": "A Breakingviews commentary argues that Meta's Muse AI agent will destroy value.",
-      "whyItMatters": "About Meta, not Capital One; no evident relevance.",
+      "summary": "Breakingviews commentary on Meta's Muse AI and value destruction.",
+      "whyItMatters": "No evident Capital One connection.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "analysisVersion": 2
+    },
+    {
+      "id": "9cc7cccdcf272926",
+      "title": "Kennedy Center Honors Moves to New Venue Amid Building Closure",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVFVRTB5Ujh1amFqblVKdVRoaHg5a0JhN2JjZ3FMQ0hKNVdZc0kzWXNxUG9OMDVRQjk5cVByX1ExUVA5Y29ZWG56aVhXdjlwdjBxVEtlYmI0X2lVT3p4S3FLUmNXTXpQdDAzVmVxOUJnVDl1S2haWEtZU19ha0VObHFNQzN4S1FpMjFwekVIYzRuMExCX3FpSVA4QUZaSjEteVRoWWlpTzBVQWxxaHlObzBGcw?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-02T16:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:08.204Z",
+      "relevant": false,
+      "summary": "Bloomberg reports the Kennedy Center Honors moving to a new venue due to the building closure.",
+      "whyItMatters": "Venue only; not about the company.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "ef50a9a22b4cbe0d",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:08.204Z"
     },
     {
       "id": "b57907aca29e632d",
@@ -176,11 +243,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:13.133Z",
       "relevant": true,
-      "summary": "CNBC reports that demand for AI agent skills on Wall Street jumped 1,721% as banks adopt AI agents.",
-      "whyItMatters": "Capital One may be among the banks mentioned in this industry trend piece on AI agents in banking; worth a skim at most.",
+      "summary": "CNBC reports demand for AI agent skills surged 1,721% as banks adopt agents; Capital One may be cited among banks.",
+      "whyItMatters": "Industry AI adoption trend that may involve Capital One, but it appears only in passing.",
       "priority": "low",
       "category": "Products & Technology",
-      "analyzedAt": "2026-10-04T22:40:13.133Z"
+      "analyzedAt": "2026-10-05T15:37:08.204Z",
+      "analysisVersion": 2
     }
   ]
 }

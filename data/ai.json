@@ -1,12 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-04T22:40:29.731Z",
+  "updatedAt": "2026-10-05T15:37:22.404Z",
   "briefing": [
-    "President Trump named Director of National Intelligence Jay Clayton as the administration's AI czar, an added title, and Clayton will head an AI task force. The move puts federal AI policy coordination under the intelligence chief (Politico, CNBC, Reuters, The Washington Post).",
-    "Treasury Secretary Bessent said the AI industry must own its risks and find solutions. The remarks are a signal worth watching for Treasury's posture on AI, including in financial services (Bloomberg).",
-    "A New York Times piece examines who should be held responsible when AI systems behave unexpectedly or harmfully. The question bears on emerging debates over AI liability (The New York Times)."
+    "President Trump named Director of National Intelligence Jay Clayton as AI czar and head of a new task force, and the Washington Post reports he also launched a 'Super Intelligence Force' after calls for an AI slowdown. (Reuters, CNBC, Politico, The Washington Post)",
+    "Treasury Secretary Bessent said the AI industry must own its risks and find solutions, a signal on Treasury's posture toward AI accountability that is relevant to financial services. (Bloomberg)",
+    "Politico reports that the Cruz-Cantwell college sports deal will not make an AI legislative breakthrough in Congress any easier, suggesting federal AI legislation remains difficult. (Politico)",
+    "Data centers are drawing political attention: Trump promoted them at a rally with a Republican facing backlash over them, and Sen. Wicker touted their benefits. (The New York Times, U.S. Senate)",
+    "Sen. Sanders backed Pope Leo's call to protect human art from AI, adding to the congressional debate over AI's societal effects. (The Hill)"
   ],
-  "briefingUpdatedAt": "2026-10-04T22:40:29.731Z",
+  "briefingUpdatedAt": "2026-10-05T15:37:22.404Z",
   "articles": [
     {
       "id": "7e3737813fbc0343",
@@ -18,11 +20,80 @@
       "snippet": "Notice — Securities and Exchange Commission — Notice is given that the Securities and Exchange Commission (the \"Commission\") is considering whether to issue an order designating holding a charter as a Chartered Financial Analyst (\"CFA\") in good standing as qualifying natural persons for accredited investor status.",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "The SEC is considering an order to let CFA charterholders in good standing qualify as accredited investors.",
-      "whyItMatters": "This is a securities policy item with no AI angle.",
+      "summary": "SEC is considering designating CFA charterholders as qualifying for accredited investor status.",
+      "whyItMatters": "Securities regulation but not AI policy.",
       "priority": "low",
       "category": "Financial Regulators",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
+    },
+    {
+      "id": "8fdebf9627ecc395",
+      "title": "Wicker Touts Data Center Benefits",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOE43WkJ0ZUVtTFBNUjlIdVhqdFlOdG9iMXBFMWNUUUJ3dVJTSGpIRzlfcjhmOHE3Y1BIaE1ZVkV1alRPMHVKOXQzVS1qV2JUbXI0VklIei1YemFMRl9tZUIzanZmYV9wTUU4Vko5UmFieThhWWo1T1JNanlMYWhFaA?oc=5",
+      "source": "U.S. Senate",
+      "paywalled": false,
+      "publishedAt": "2026-10-05T15:19:29.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": true,
+      "summary": "Sen. Wicker promotes the benefits of data centers.",
+      "whyItMatters": "Data center policy is part of the AI infrastructure debate in Congress.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
+    },
+    {
+      "id": "be5890758151b960",
+      "title": "Ted Cruz and Maria Cantwell’s big college sports win won’t make an AI breakthrough easier",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0xGUlc5UVNiSUZPaUlyWVF2aEZMX0VxUHJ2b09vc3JTVnY2N2N3MlJod2phY29faFRTNlVvZWQteFI4OXV1YXE0U1hjcHZkeXFhNmsxcUx6Vnd4TGNzcW55cVRCTUJPaWVubjV4SGZObDhDcUNWaUpFM2E0VExBeV9TbVpHTk9Y?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-05T08:45:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": true,
+      "summary": "Politico reports that the Cruz-Cantwell college sports deal won't make an AI legislative breakthrough easier.",
+      "whyItMatters": "Signals prospects for federal AI legislation in the Senate Commerce Committee.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
+    },
+    {
+      "id": "dc2e1d76fb7f5065",
+      "title": "Sanders backs Pope Leo’s call to protect human art from AI",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIU1lhcTkyT3VNcF9QRzQtaGpXR3FoTkY1ZF81MF9uNjI3ZFRCTE5MeUtYZS1qUnBLeTZzWlU4RUhKNTBnLXVpTTdocVBZYjE2VUFiOXRCYVRYYV9aeTRTcWMtNjlDc1RFemNNQVB0VXRPakQyUmExNGp30gF_QVVfeXFMT3RzYnRCYWlCV3BYMWpKSk1JRC1LUWkybUxZbFRjYVlzNGZyTmtxYml3MWMtUFpweFpvdHVKUUJjcXlRZmpBbUd5ejlfeE9ZemlTeW5FX0hJZ04tN3hnRHNOLUxXQ2ZKdVI2QmxYTTJESXJiTldGQzAzTHpGOFgycw?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-05T02:51:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": true,
+      "summary": "Sen. Sanders backs Pope Leo's call to protect human art from AI.",
+      "whyItMatters": "Shows political attention to AI and creative works; limited direct policy action.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
+    },
+    {
+      "id": "acb587d1bfd70301",
+      "title": "Trump launches ‘Super Intelligence Force’ after calls for AI slowdown",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa19adU9sV0V4bFFRV1BZYlJySTRjbURpekNybjFtZWIzQ3h6LWJrdXRoVG5nSGlMaTh0QlJRZkYwYWczR1JNejNIZ0wwYkFETDhPMVp2c1RrRlhqNFVyMDR1OHJIajljMkgzSEVwOUtEMXY3S2N5UE5KWFpZNExLelNIN0hUSjZhRWRaS0dMd0U0WndnMXpZWjk4UDhGR0daLS1ZV2xUMDBPREJTT3d3VFZKU1FyUQ?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-04T21:26:20.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": true,
+      "summary": "Trump launches a 'Super Intelligence Force' following calls to slow AI development.",
+      "whyItMatters": "A major Administration AI initiative that could shape federal AI policy.",
+      "priority": "high",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
     },
     {
       "id": "32af91bb494f6740",
@@ -34,11 +105,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "President Trump has given the director of national intelligence the added title of AI czar.",
-      "whyItMatters": "The appointment sets who leads White House AI policy coordination.",
+      "summary": "Trump gives the intelligence chief a new title of AI czar.",
+      "whyItMatters": "Sets up leadership of federal AI policy coordination.",
       "priority": "high",
       "category": "Administration",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "f61a0368bb0be2dc",
@@ -50,11 +122,29 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "South Korea's president ordered an investigation into data leaks across the country's financial industry.",
-      "whyItMatters": "This is a foreign data-security story with no evident U.S. AI policy angle.",
+      "summary": "South Korea's president ordered a probe into data leaks across the financial industry.",
+      "whyItMatters": "Foreign matter with no U.S. federal AI policy angle.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
+    },
+    {
+      "id": "57f93c5cce3494e9",
+      "title": "Trump Promotes Data Centers at Rally With Republican Facing Heat on Them",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeWVmU2N6MWRiaENsSnlaeWItSGdwUkE5ZjNwNUFSQjA0NTdzTjN4bmpLNjJLZjdyR2Jlc0l1NUNmRVNMQUpBVGpueDVEYmNuZEVnT1NKclhuZzlDNDFxN2ZuUDJ3Z0tYSTlKZkd0c0R4VmVKdTJxWTUzbk5uTV84SE5sa3M0TF9NaVE?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-04T02:10:24.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": true,
+      "summary": "Trump promotes data centers at a rally with a Republican facing backlash over them.",
+      "whyItMatters": "Shows the political dynamics around AI infrastructure.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
     },
     {
       "id": "636fbbd35c79c8e4",
@@ -66,11 +156,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "Trump tapped Director of National Intelligence Jay Clayton as AI czar.",
-      "whyItMatters": "A former SEC chair now leads federal AI policy, which could shape the approach to AI in finance.",
+      "summary": "Trump taps DNI Jay Clayton as AI czar.",
+      "whyItMatters": "Key personnel decision for federal AI policy.",
       "priority": "high",
       "category": "Administration",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "32af91bb494f6740",
+      "analysisVersion": 2
     },
     {
       "id": "2fe64f6139585ba1",
@@ -82,11 +174,30 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "Trump named intelligence chief Jay Clayton as AI czar, and Clayton will head a task force.",
-      "whyItMatters": "A new AI task force is a concrete Administration action the team should track.",
+      "summary": "Trump names Clayton AI czar and head of a task force.",
+      "whyItMatters": "Key personnel decision for federal AI policy.",
       "priority": "high",
       "category": "Administration",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "32af91bb494f6740",
+      "analysisVersion": 2
+    },
+    {
+      "id": "658555b0be7884a6",
+      "title": "Trump, Cotton tussle over daylight saving bill after cellphone number leak",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0txQjFiYnBZVlM1Y244QzR3cmQ2WGdyWHpCSWlPRTF4VHBWTTNKTWxLZ1VxTGtxWlh0REE2ckd6elpFbDVQZWxsRGJRMmR1aG1WMjJfQ2VFb0IxWE1IYTlRNjJhMFlGWDB6NUY1cUt6SWZ3b3JxNVZ3QXI4YUs3SjI4Sm9fNU9wWDhuV0w1MUdJWTdobXBFRtIBngFBVV95cUxPQzA3N2xacVFkWHp3ZVRZUzlYWWtIUFNFQ1hRQ0M2aHRfQ2Z3ajBLYmtleW85UDhOSUxuaGxTenZPTGJnQy0wZUcwdXBYNDNUZXcyWHVFbDJjU19qWmh2QWtjNklOZS00QXRhLVMwV0VIcU42cFZLNUpsSXJoM3YwUmZsSWx2NGRoME9XR0EyaGJrQ3pDb09qd3hWOWVKdw?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-03T19:53:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": false,
+      "summary": "Trump and Sen. Cotton clash over a daylight saving bill after a phone number leak.",
+      "whyItMatters": "Not AI policy.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
     },
     {
       "id": "2fa24860e9de8e3d",
@@ -98,11 +209,30 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "Treasury Secretary Bessent said the AI industry must own its risks and find solutions.",
-      "whyItMatters": "It signals Treasury's stance on AI risk accountability.",
-      "priority": "medium",
+      "summary": "Treasury Secretary Bessent says the AI industry must own its risks and find solutions.",
+      "whyItMatters": "Statement from a key official, Treasury, on AI risk.",
+      "priority": "high",
       "category": "Treasury",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
+    },
+    {
+      "id": "a205a5243feff266",
+      "title": "Trump posts GOP senator’s cell phone number over daylight savings act stall",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV3dYdnB6eHA5NGdSUW5ZbjZlMi00QjBNaXFOWjQwZ2lqY2loOUZyUkhHUlFkMXR0M3B0cnZHVDVhVzBaSTNuVnpKQzlidDNrbU9JV2h2ZG1hNENGRTRVVk82ak9XRXFERURONjZLclFlUkV6OHI3VWlING9ELUh6QnoyTm0tRUlFLWJfV0ZtVG1xUdIBlwFBVV95cUxNaFZ2N2tCX09WVmxuYVNYZnM2SnBrell6SFNlZU5FWDhQNjNBaF9pRFhKVTRGZE4yQW9yLVJBMXRqbXpzYUtYb2F4bkhKNzZOQzUwMnliUXJ4OXZPRFNnWmROVFZhc3pWdktaVVphcXB6aUdBM2Vfa1RlVk40TkVVQjJfbndSNWw1SkRJSTdrQ053S1czUmM0?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-03T16:20:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": false,
+      "summary": "Trump posted a GOP senator's cell number over a daylight saving stall.",
+      "whyItMatters": "Not AI policy.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "658555b0be7884a6",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
     },
     {
       "id": "016f9af0e9dfe27b",
@@ -114,11 +244,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "This is a generic NIST page titled 'Projects'.",
-      "whyItMatters": "The headline shows no specific AI policy content.",
+      "summary": "NIST projects page with no detail.",
+      "whyItMatters": "Insufficient information to judge relevance.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "ea10d6a5c20e9568",
@@ -130,11 +261,29 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "A New York Times piece examines who should be held responsible when AI systems behave unexpectedly or harmfully.",
-      "whyItMatters": "It is background on the AI liability debate.",
+      "summary": "NYT explores who should be held responsible when AI acts rogue.",
+      "whyItMatters": "AI liability is a live policy question.",
+      "priority": "medium",
+      "category": "Other",
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
+    },
+    {
+      "id": "2c80b1f96cf96c2b",
+      "title": "Opinion | Who should be held liable when AI causes harm?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3ZMU3BrZzRPQXlpdk52QXQ3UHhiYVZ4RzJ1U205VzBsZDNVSmtwYW0wQk1JQjhfeW5wNi1iMmVETzdFbUc5b0dCSE04aUFTMkwyWWx4VHZKVDc3TUtDMEtVZm1QdlFKc0pkbEdhSUdkcnJfODNMLUVuUFAteDhrODNjNkI3dEdsYV9JU2YwWQ?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-03T01:12:24.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": true,
+      "summary": "Washington Post opinion on who should be liable when AI causes harm.",
+      "whyItMatters": "Commentary on AI liability policy.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
     },
     {
       "id": "aa75006587e31f3a",
@@ -146,11 +295,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "Trump was expected to name intelligence chief Jay Clayton as the new AI czar.",
-      "whyItMatters": "This is advance reporting on a key AI leadership appointment.",
-      "priority": "medium",
+      "summary": "Trump expected to name Clayton as AI czar.",
+      "whyItMatters": "Key personnel decision for federal AI policy.",
+      "priority": "high",
       "category": "Administration",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "32af91bb494f6740",
+      "analysisVersion": 2
     },
     {
       "id": "c388f6ad3644b4bf",
@@ -162,11 +313,47 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "The Wall Street Journal reports Trump was expected to name ODNI's Jay Clayton as AI czar.",
-      "whyItMatters": "It is a preview of the AI czar appointment.",
-      "priority": "medium",
+      "summary": "Trump expected to name Clayton as AI czar.",
+      "whyItMatters": "Key personnel decision for federal AI policy.",
+      "priority": "high",
       "category": "Administration",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "32af91bb494f6740",
+      "analysisVersion": 2
+    },
+    {
+      "id": "43bb43c6a9e606c1",
+      "title": "Sanders, Ocasio-Cortez, Merkley Unveil Ban Flock Act to Protect Americans’ Right to Privacy",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmszWUVuWEpQeWJnM29RUmtlVnQwVS0wbTl5WEVQRjduT09JVlBSYzVLdUhSazU3VldqU3JWcHJaT1BzQmtCVmRGRXlJM0p0UExLd1NobEJEb3A5Y0l2b3hERjljTmtPenRVYkx1c1BRNlpFSExSYkRXcGwxX1ZIaGZROUNmT2VTbXdhc1lCYVlhb0x1ZE1ldm5tMWhMWlJkV21XU19NRkJxOVMya0dXRjYyaGZGYjB2RloyMQ?oc=5",
+      "source": "U.S. Senate",
+      "paywalled": false,
+      "publishedAt": "2026-10-02T19:58:36.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": true,
+      "summary": "Sanders, Ocasio-Cortez and Merkley unveil the Ban Flock Act on surveillance cameras and privacy.",
+      "whyItMatters": "A bill touching AI-enabled surveillance and privacy.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
+    },
+    {
+      "id": "662f321430f5c068",
+      "title": "Watch live: House convenes hearing on confronting terrorism threat post-9/11",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWnk2Tkluc284akpTTHh2clluQnFQS3V6X1JlR25iRjAzZVNrNjV6T0FtamozTVBEck9POExnandDQ1VFTXktelZWa01zLWV2dlpQUDZXQi1aMmlTMmxXdjhzV2V4ZGtENEZ0S3RMR3BPYTgwMDZvbEY3WlJIYkZ4X3ZUMnhCRlhCSjg5WENiU0cwQWtGelY1NDFkT3M5Q1IyRFlkVllqaUczWnVQbEQ4V2tmMUVHT0lnUXJ6M20ydFnSAcYBQVVfeXFMUHk2SFUtaXhtSmpDcVdKaWtjSGJ3SWR0QldibEFMVGhfZWp5TlVKaXhOMVpHbUVKcW1vX3B4WVAzYkNvSUx1OVJIeGNWMmpJc0F5c29GbUJxckV3SGtkSXVtcjVCRndISDlBdEpFSFBaMkxyeERxa0x6MHRCd1pjbjZSVnR3TjM3VUtUbzlfdXp1THN3X0NaaWtFZ0RUSWxkX1NmZVJMSWFvZDgyWXluLXZLQ3JDOHd5MmNCVEhOUENTLXM3WUZB?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-02T16:38:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T15:37:22.404Z",
+      "relevant": false,
+      "summary": "House hearing on terrorism threats post-9/11.",
+      "whyItMatters": "Not AI policy.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T15:37:22.404Z"
     },
     {
       "id": "e9c4ef9d130ace33",
@@ -178,11 +365,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "Sens. Sanders and Rep. Ocasio-Cortez introduced a bill to crack down on Flock surveillance cameras.",
-      "whyItMatters": "The bill concerns surveillance technology, which is only loosely tied to AI.",
-      "priority": "low",
+      "summary": "Sanders and Ocasio-Cortez debut a bill cracking down on Flock cameras.",
+      "whyItMatters": "A bill touching AI-enabled surveillance.",
+      "priority": "medium",
       "category": "Congress",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "43bb43c6a9e606c1",
+      "analysisVersion": 2
     },
     {
       "id": "ad09a189b9514511",
@@ -194,11 +383,13 @@
       "snippet": "Presidential Document — Executive Office of the President",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "A presidential document titled 'Inaugurating the Era of Super Intelligence' was published in the Federal Register.",
-      "whyItMatters": "This is the formal publication of a new presidential AI directive.",
+      "summary": "Federal Register publishes the presidential document 'Inaugurating the Era of Super Intelligence'.",
+      "whyItMatters": "Formal publication of the Administration's AI action.",
       "priority": "high",
       "category": "Administration",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "516d278d0d2bf100",
+      "analysisVersion": 2
     },
     {
       "id": "8ebea7e1a7f1afb0",
@@ -210,11 +401,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "The New York Times reports Trump will name Jay Clayton to serve as AI czar.",
-      "whyItMatters": "It covers the same key AI leadership appointment.",
-      "priority": "medium",
+      "summary": "Trump to name Clayton AI czar.",
+      "whyItMatters": "Key personnel decision for federal AI policy.",
+      "priority": "high",
       "category": "Administration",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "32af91bb494f6740",
+      "analysisVersion": 2
     },
     {
       "id": "6a2fd72bb05df2b4",
@@ -225,12 +418,13 @@
       "publishedAt": "2026-10-02T11:48:10.000Z",
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": false,
-      "summary": "Investors are pushing back on data center projects.",
-      "whyItMatters": "This is a market story with no evident policy angle.",
+      "relevant": true,
+      "summary": "Investors are increasingly restive about data center spending.",
+      "whyItMatters": "Affects the AI infrastructure policy debate.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "62a0e3619c7bba63",
@@ -241,12 +435,13 @@
       "publishedAt": "2026-10-02T10:00:01.000Z",
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": false,
-      "summary": "CNBC looks at how AI is changing Wall Street jobs and driving demand for a particular skill.",
-      "whyItMatters": "This is workforce news with no policy angle.",
+      "relevant": true,
+      "summary": "AI is reshaping Wall Street jobs and raising demand for AI skills.",
+      "whyItMatters": "Touches AI in financial services, though there is no policy action.",
       "priority": "low",
-      "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "category": "Financial Regulators",
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "3138eb3db7b42257",
@@ -258,11 +453,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "This is a generic Axios Technology section page.",
-      "whyItMatters": "There is no identifiable content.",
+      "summary": "Axios technology section page with no detail.",
+      "whyItMatters": "Insufficient information.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "0bf51b30bbe84b35",
@@ -274,11 +470,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "The U.S. imposed new sanctions on a Russian financial firm it called a 'criminal organization'.",
-      "whyItMatters": "This is a sanctions story, not AI policy.",
+      "summary": "A Russian financial firm faces new U.S. sanctions.",
+      "whyItMatters": "Sanctions, not AI policy.",
       "priority": "low",
       "category": "Treasury",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "10197745cb10dd49",
@@ -290,11 +487,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "NIST posted a page titled 'Super Intelligence'.",
-      "whyItMatters": "It may be NIST's work tied to the new superintelligence directive.",
+      "summary": "NIST page titled 'Super Intelligence', likely tied to the White House order.",
+      "whyItMatters": "May signal NIST's role in the new initiative.",
       "priority": "medium",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "4921aabf4ccc9751",
@@ -305,12 +503,13 @@
       "publishedAt": "2026-10-01T16:00:00.000Z",
       "snippet": "Proposed Rule — Federal Trade Commission — The Federal Trade Commission (\"FTC\" or \"Commission\") proposes to commence a rulemaking proceeding to prevent certain unfair or deceptive acts or practices by search engine, social media, and other digital marketplace platforms that further government and business impersonation scams to defraud consumers. The Commission is soliciting written comment, data, and arguments concerning the need for such rulemaking.",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": true,
-      "summary": "The FTC proposed a rulemaking to curb platforms' role in government and business impersonation scams and is seeking comment.",
-      "whyItMatters": "Impersonation scams, often AI-enabled, hit banks and their customers, though the teaser does not mention AI.",
-      "priority": "medium",
-      "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "relevant": false,
+      "summary": "FTC proposes rulemaking on platforms facilitating impersonation scams.",
+      "whyItMatters": "Consumer fraud rule, not AI-specific, though relevant to fraud.",
+      "priority": "low",
+      "category": "Financial Regulators",
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "54e33abb5560b9d9",
@@ -321,12 +520,13 @@
       "publishedAt": "2026-10-01T07:00:00.000Z",
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": false,
-      "summary": "This is an image asset for NIST's Generative SI Evaluations.",
-      "whyItMatters": "It is only an image file, but it points to a NIST evaluation program.",
-      "priority": "low",
+      "relevant": true,
+      "summary": "NIST page on generative AI evaluations.",
+      "whyItMatters": "NIST AI evaluation work may inform standards.",
+      "priority": "medium",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "d483248fa8717227",
@@ -338,11 +538,12 @@
       "snippet": "Notice — Commerce Department, National Technical Information Service — The National Technical Information Service (NTIS) is seeking general information, feedback, suggestions, and experiential and technical insights from stakeholders to inform NTIS's goal of fully digitizing, modernizing, and enhancing the utility of the National Technical Reports Library (NTRL). NTIS has historically collected, indexed, abstracted, and stored U.S. Government-sponsored technical reports and made them available to the public through the NTRL. To further unlock the NTRL's intrinsic value, NTIS aims to digitize r",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NTIS issued a request for information on digitizing and modernizing the National Technical Reports Library.",
-      "whyItMatters": "This is a records modernization item with no AI policy angle.",
+      "summary": "NTIS requests information on modernizing the National Technical Reports Library.",
+      "whyItMatters": "Not directly AI policy.",
       "priority": "low",
-      "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "category": "Administration",
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "762d0535c8b4fe34",
@@ -354,11 +555,12 @@
       "snippet": "Notice — Federal Communications Commission — The Federal Communications Commission (FCC or Commission) is publishing this notice to announce the renewal of the Consumer Protection and Accessibility Advisory Committee (CPAAC). The Commission has determined that the renewal of the CPAAC is necessary and in the public's interest.",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "The FCC renewed its Consumer Protection and Accessibility Advisory Committee.",
-      "whyItMatters": "This is not AI-related.",
+      "summary": "FCC renews a consumer advisory committee.",
+      "whyItMatters": "Not AI-related.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "a12d3e4eae546942",
@@ -370,11 +572,12 @@
       "snippet": "Rule — Transportation Department, National Highway Traffic Safety Administration — NHTSA, on behalf of the U.S. Department of Transportation (DOT), is substantially recalibrating the Corporate Average Fuel Economy (CAFE) program to bring the program into compliance with the law and to remove previous regulatory distortions which have induced manufacturers to make design decisions that have neither aligned with market demand and the needs of American families nor have delivered the consistent improvements in the fuel economy performance of manufacturer fleets, as Congress intended. This recalib",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NHTSA issued a rule recalibrating fuel economy (CAFE) standards for model years 2022 to 2031.",
-      "whyItMatters": "This is not AI-related.",
+      "summary": "NHTSA finalizes a CAFE fuel economy rule.",
+      "whyItMatters": "Not AI-related.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "0c57430c73bf96fe",
@@ -386,11 +589,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "This is a NIST staff profile page.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "NIST staff profile page.",
+      "whyItMatters": "No policy content.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "84e90ff810768934",
@@ -402,11 +606,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "This is a NIST National Vulnerability Database entry for a software vulnerability (CVE).",
-      "whyItMatters": "It is not policy.",
+      "summary": "NVD vulnerability entry.",
+      "whyItMatters": "Not AI policy.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "8958b573079d93e9",
@@ -418,11 +623,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NIST's Bryant C. Nelson was recognized with a 2026 ACS ChemLuminary Award.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "NIST staffer receives a chemistry award.",
+      "whyItMatters": "Not AI policy.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "a2a02227dc4d2538",
@@ -434,11 +640,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "This is a NIST staff profile page.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "NIST staff profile page.",
+      "whyItMatters": "No policy content.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "3b00b8f47d60fa6b",
@@ -450,11 +657,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "The White House released a fact sheet on President Trump's action inaugurating 'The Era of Super Intelligence'.",
-      "whyItMatters": "It summarizes a major new presidential AI action.",
+      "summary": "White House fact sheet on Trump's 'Era of Super Intelligence' order.",
+      "whyItMatters": "Core Administration AI action affecting federal AI policy.",
       "priority": "high",
       "category": "Administration",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "516d278d0d2bf100",
+      "analysisVersion": 2
     },
     {
       "id": "516d278d0d2bf100",
@@ -466,11 +675,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "The White House published the presidential document 'Inaugurating the Era of Super Intelligence'.",
-      "whyItMatters": "This is the core text of the new AI directive.",
+      "summary": "White House publishes the presidential action 'Inaugurating the Era of Super Intelligence'.",
+      "whyItMatters": "Core Administration AI action affecting federal AI policy.",
       "priority": "high",
       "category": "Administration",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "0c5002e5b798e5b8",
@@ -482,11 +692,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NIST's Bryant C. Nelson received a 2026 ACS Outstanding Service Award.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "NIST staffer receives an ACS service award.",
+      "whyItMatters": "Not AI policy.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "8958b573079d93e9",
+      "analysisVersion": 2
     },
     {
       "id": "2bc32a50845e119e",
@@ -498,11 +710,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NIST's Chris Soles was named among the 2026 'Heroes of Polymer Science'.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "NIST item about Chris Soles being named a 2026 'Hero of Polymer Science'.",
+      "whyItMatters": "Materials science recognition with no AI policy angle.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "c4e62ac981a10529",
@@ -514,11 +727,13 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NIST's Christopher Soles was selected as a 'Hero of Polymer Science'.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "NIST announces Christopher Soles was selected as a 'Hero of Polymer Science'.",
+      "whyItMatters": "Not related to AI policy.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "storyId": "2bc32a50845e119e",
+      "analysisVersion": 2
     },
     {
       "id": "95c372d7c63e853f",
@@ -530,11 +745,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "This is a NIST instructions template page.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "A NIST page titled with image instructions (16x9 aspect ratio); no substantive content evident.",
+      "whyItMatters": "No policy content.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "b8ab9e9b58b64ddf",
@@ -546,11 +762,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": true,
-      "summary": "NIST posted comments it received on its concept paper about identity for software and agentic SI systems.",
-      "whyItMatters": "Identity for AI agents matters for agentic AI in banking.",
+      "summary": "NIST posted comments received on its Software and Agentic SI Identity Concept Paper.",
+      "whyItMatters": "NIST guidance on identity for agentic AI systems could shape standards relevant to financial services AI use and authentication.",
       "priority": "high",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "4a45d26215209de9",
@@ -562,11 +779,12 @@
       "snippet": "Proposed Rule — Federal Reserve System — The Board of Governors of the Federal Reserve System (Board) proposes to issue regulations to implement the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) with respect to Board-supervised permitted payment stablecoin issuers (PPSIs) and certain other entities that are subject to the Board's jurisdiction. In addition, the Board proposes to issue regulations to implement the prohibition on tying in section 4(a)(8) of the GENIUS Act, which is applicable generally to all PPSIs.",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "The Federal Reserve proposed rules to implement the GENIUS Act for the stablecoin issuers it supervises, including a ban on tying.",
-      "whyItMatters": "This is an important banking rule, but it is not about AI.",
+      "summary": "The Federal Reserve Board proposed a rule implementing GENIUS Act responsibilities for Board-supervised payment stablecoin issuers, including a tying prohibition.",
+      "whyItMatters": "Important for financial regulation and stablecoins, but it is not about AI policy.",
       "priority": "low",
       "category": "Financial Regulators",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "2b57378a8bc94b4e",
@@ -578,11 +796,12 @@
       "snippet": "Notice — Labor Department, Labor Statistics Bureau — The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the ",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "The Bureau of Labor Statistics proposed revising the information collection for the National Longitudinal Survey of Youth 1979.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "Labor Department notice seeking comment on an information collection for the National Longitudinal Survey of Youth 1979.",
+      "whyItMatters": "Routine paperwork notice with no AI policy relevance.",
       "priority": "low",
       "category": "Other",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "8ca4f937315cb0cc",
@@ -595,10 +814,11 @@
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
       "summary": "NIST published a seminar series report on building an in-space circular economy.",
-      "whyItMatters": "It is not relevant.",
+      "whyItMatters": "Not AI policy.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "be7b8e4849705a54",
@@ -610,11 +830,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "This is a NIST page about Bryant C. Nelson for 2026.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "NIST page on the Bryant C. Nelson 2026 item, apparently an award or recognition.",
+      "whyItMatters": "No evident AI policy relevance.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "d277980e2c43edbf",
@@ -626,11 +847,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NIST describes a framework for standardizing a human cell assay to produce AI-ready reference data.",
-      "whyItMatters": "This is technical science work with no policy angle.",
+      "summary": "NIST describes a framework for standardizing a human cell assay across instruments to produce AI-ready reference datasets.",
+      "whyItMatters": "Scientific data standards work; only tangentially AI and not financial or policy relevant.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "a1c33a7765315f18",
@@ -642,11 +864,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NIST published work on using retail markets and transactive resources for power grid flexibility.",
-      "whyItMatters": "It is not relevant.",
+      "summary": "NIST publication on retail markets and transactive resources for grid flexibility.",
+      "whyItMatters": "Energy research, not AI policy.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "90eb89a251f12a82",
@@ -658,11 +881,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NIST published a technical report describing a transactive energy market simulation component for GridLAB-D power grid co-simulations.",
-      "whyItMatters": "Energy grid simulation research with no evident AI policy angle; safe to skip.",
+      "summary": "NIST publication on a transactive energy market tool for GridLAB-D co-simulations.",
+      "whyItMatters": "Energy research, not AI policy.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "0f0d21f0e632406a",
@@ -674,11 +898,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "NIST published a technical report on a price- and voltage-responsive device controller for GridLAB-D power grid co-simulations.",
-      "whyItMatters": "Grid technical research unrelated to AI policy or financial services; no action needed.",
+      "summary": "NIST publication on a price and voltage-responsive device controller for GridLAB-D simulations.",
+      "whyItMatters": "Energy research, not AI policy.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     },
     {
       "id": "5fd4e8556bcda9ee",
@@ -690,11 +915,12 @@
       "snippet": "",
       "firstSeenAt": "2026-10-04T22:40:29.731Z",
       "relevant": false,
-      "summary": "This appears to be a generic NIST news search page rather than a specific article.",
-      "whyItMatters": "No substantive content to review.",
+      "summary": "A generic NIST news search page.",
+      "whyItMatters": "No specific content or policy action.",
       "priority": "low",
       "category": "NIST",
-      "analyzedAt": "2026-10-04T22:40:29.731Z"
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
     }
   ]
 }
