@@ -28,6 +28,10 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Start from the branch's newest commit, not the one from when this run was
+          # queued, so a run that waited behind another one sees that run's news.
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-node@v4
         with:

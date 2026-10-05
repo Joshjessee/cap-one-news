@@ -48,6 +48,24 @@ The site never copies articles. It shows the headline, the outlet, and the AI su
 
 If you change `SITE_PASSWORD` in Vercel, redeploy for it to take effect. Everyone will need the new password.
 
+### Backup timer (recommended)
+
+GitHub's built-in schedule is "best effort": runs can start an hour late or be skipped, and a brand-new repo can go a day or more before its first scheduled run. To make refreshes reliable, have a free outside service press "Run workflow" for you:
+
+1. **Make a GitHub token.** GitHub → your profile picture → **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**. Name it `cron-job`, set an expiration date, choose **Only select repositories → cap-one-news**, and under **Repository permissions** set **Actions** to **Read and write**. Copy the token (it starts with `github_pat_`). Treat it like a password.
+2. **Make a free account at <https://cron-job.org>** and create a cron job:
+   - **URL**: `https://api.github.com/repos/Joshjessee/cap-one-news/actions/workflows/refresh-news.yml/dispatches`
+   - **Schedule**: every 2 hours (or whatever you like).
+   - **Advanced → Request method**: `POST`
+   - **Advanced → Headers**:
+     - `Accept`: `application/vnd.github+json`
+     - `Authorization`: `Bearer github_pat_…` (your token)
+     - `X-GitHub-Api-Version`: `2022-11-28`
+   - **Advanced → Request body**: `{"ref":"main"}`
+3. Click **Test run**. A response of **204** means it worked; you'll see a new run under GitHub → **Actions** within a few seconds.
+
+Keep the GitHub schedule too. If both start at once, the second waits for the first, and it only pays Claude for articles the first didn't already handle. When the token expires, the cron job starts getting **401** errors. Make a new token and paste it in.
+
 ## Running it on your own computer
 
 ```bash
