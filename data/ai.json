@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-05T15:37:22.404Z",
+  "updatedAt": "2026-10-05T19:12:27.210Z",
   "briefing": [
     "President Trump named Director of National Intelligence Jay Clayton as AI czar and head of a new task force, and the Washington Post reports he also launched a 'Super Intelligence Force' after calls for an AI slowdown. (Reuters, CNBC, Politico, The Washington Post)",
     "Treasury Secretary Bessent said the AI industry must own its risks and find solutions, a signal on Treasury's posture toward AI accountability that is relevant to financial services. (Bloomberg)",
@@ -43,6 +43,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-05T15:37:22.404Z"
+    },
+    {
+      "id": "c8a3697bb5386fb4",
+      "title": "Citadel Securities Says Economic Strength Drives Higher Yields",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGNNRWhWTU8ta1E2Ykt1bXlOLV9idjg3VGxRaWpFVnIwWmRqelA3dmZQZzBhMHI2S2tRYWNkZktKTHJNS0Q4MnlKZW1wQjU5VkRwdGRFSk5ydlZ2S1dYNkJEbTdTR19CWHlzd2U4MUVXRnVKWVpUU0VmWUQ1SzY3ZFlQWDVKZmpVUVZMNU5YMVAycGIwQU5yLVF4dVJGSHVENUdQMWlxcV8tV3ktOUFtYXh3aw?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-05T15:06:46.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-05T19:12:27.210Z",
+      "relevant": false,
+      "summary": "Bloomberg reports Citadel Securities' view that economic strength, not other factors, is driving higher bond yields.",
+      "whyItMatters": "This is market commentary with no evident AI policy or government action angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-05T19:12:27.210Z"
     },
     {
       "id": "be5890758151b960",
