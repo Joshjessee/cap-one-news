@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-06T01:19:04.757Z",
+  "updatedAt": "2026-10-06T15:25:10.469Z",
   "briefing": [
     "Banks are rapidly adopting AI agents, with CNBC reporting demand for agent-related skills on Wall Street jumped 1,721%; Capital One may be cited among the banks, though the summary gives no detail on its role. (CNBC)",
     "Payments Dive ran a piece on embedded financial products offered beyond software platforms; Capital One may be mentioned, but the teaser gives no detail and the mention appears minor. (Payments Dive)",
@@ -8,6 +8,23 @@
   ],
   "briefingUpdatedAt": "2026-10-06T01:19:04.757Z",
   "articles": [
+    {
+      "id": "36166bdf021b0347",
+      "title": "Trump's sweeping makeover of the White House and Washington",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdYRlI5dkdEVm9XTXdsSzBFcmNSd0NrUHY2aUtYRVE3MkZqYWZqbWdWM0J2SlJrUWVpZWJ5d0pobERwQWNEbmo4MjdWci0wUEgxNWZJUEN3MkpRdjRKYk9GbnJiMVNjYy1NMGVFSzhSYzJyMThVQjgweGdFSVYwQUVYck5JV2tra1hrcGZXazZVUXRXQl9UOVlFS3VURVhEUm40MQ?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-06T14:07:49.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-06T15:25:10.469Z",
+      "relevant": false,
+      "summary": "Reuters piece on President Trump's broad renovation and redesign efforts at the White House and across Washington. The headline gives no indication that Capital One is involved.",
+      "whyItMatters": "No evident connection to Capital One, so the policy team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-06T15:25:10.469Z"
+    },
     {
       "id": "5ed047e752d8dcf1",
       "title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video",
