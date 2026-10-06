@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-06T15:25:14.073Z",
+  "updatedAt": "2026-10-06T16:50:15.504Z",
   "briefing": [
-    "President Trump launched a 'Super Intelligence Force' following calls to slow AI development, signaling the Administration is accelerating rather than pausing AI efforts; details on the initiative's scope are limited. (The Washington Post)",
-    "Critics who warned about AI risks are reportedly being targeted by Trump's allies, pointing to rising political pressure on AI safety voices; only the headline was available, so details are unclear. (The Washington Post)",
-    "The Cruz-Cantwell college sports deal is not expected to make an AI legislative breakthrough in Congress any easier, suggesting federal AI legislation remains difficult to advance. (Politico)",
-    "Sen. Wicker touted the benefits of data centers, reflecting continued congressional support for AI infrastructure buildout. (U.S. Senate)",
-    "Sen. Sanders backed Pope Leo's call to protect human art from AI, adding to the broader debate on AI and creative works. (The Hill)"
+    "President Trump launched a 'Super Intelligence Force' after calls to slow AI development, a White House move that signals the Administration's push to accelerate AI; details on structure and authority are limited. (The Washington Post)",
+    "Trump allies are reportedly targeting people who warned of AI dangers, pointing to a widening political fight over AI safety; only the headline was available, so details are unclear. (The Washington Post)",
+    "Passage of the Cruz-Cantwell college sports deal is not expected to ease the path to an AI legislative breakthrough in Congress, so federal AI legislation, including preemption, still faces hurdles. (Politico)",
+    "South Korean authorities are investigating whether AI was used in hacking attacks on the country's banks, a case relevant to AI-enabled cyber risk in financial services. (The New York Times)",
+    "Sen. Wicker is promoting the benefits of data centers, while Sen. Sanders backs Pope Leo's call to protect human art from AI, showing the range of congressional views on AI infrastructure and creative-sector impacts. (U.S. Senate, The Hill)"
   ],
-  "briefingUpdatedAt": "2026-10-06T15:25:14.073Z",
+  "briefingUpdatedAt": "2026-10-06T16:50:15.504Z",
   "articles": [
     {
       "id": "5074058cb66103fd",
@@ -60,6 +60,40 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-06T15:25:14.073Z"
+    },
+    {
+      "id": "2ae64780517bbe3a",
+      "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakFtbFQyazJjZVY3S21qb193RWduTk1LZ3RZTlFoeEJ2b0tnSVVBclNQeW9EYjVKZHEzTGdPSVJ5eVdjOGxiXzJCVHJkUm5fXzNJODJaRGdpaFFqZ0RTRXRDTlVkMGtlVy1Rcjl1R1FHN3h1SEh0SUxjMHpqeUh2SWJFa2w?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-06T08:51:52.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-06T16:50:15.504Z",
+      "relevant": true,
+      "summary": "South Korean authorities are investigating whether artificial intelligence was used in hacking attacks on the country's banks.",
+      "whyItMatters": "AI-enabled cyberattacks on banks are a growing risk that could shape financial regulators' expectations for cybersecurity and AI.",
+      "priority": "medium",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-06T16:50:15.504Z"
+    },
+    {
+      "id": "94d228438f0ef67e",
+      "title": "China AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFd6a1hfTDVHa3NPRXlaRlRWcUVxd1N3R2JSN0t5UEYwbE9ZZFdIZkVic1BzZUFOVmVGNVVvdWoxMzBVem8wYVhkOW5razA3VERnNFZRdldHa05rVHZEZW96dW9GdjhRX1BDVW5hV08zOUVFQnpfR3JlMjZ6RE5KczFucmN0bzRPQkJWYXBxeTNkOUk4Y3VPMkVsdm9CVkNRbTFaREpyeWZ5dURjTFVBVUQyaHA?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-06T02:49:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-06T16:50:15.504Z",
+      "relevant": false,
+      "summary": "Chinese AI video startup Kling has chosen banks for an IPO expected to raise over $1 billion.",
+      "whyItMatters": "This is a corporate capital-markets story with no U.S. federal AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-06T16:50:15.504Z"
     },
     {
       "id": "5af4cae6b2ae8ce5",
