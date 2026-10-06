@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-05T19:12:27.210Z",
+  "updatedAt": "2026-10-06T01:19:08.178Z",
   "briefing": [
     "President Trump named Director of National Intelligence Jay Clayton as AI czar and head of a new task force, and the Washington Post reports he also launched a 'Super Intelligence Force' after calls for an AI slowdown. (Reuters, CNBC, Politico, The Washington Post)",
     "Treasury Secretary Bessent said the AI industry must own its risks and find solutions, a signal on Treasury's posture toward AI accountability that is relevant to financial services. (Bloomberg)",
@@ -10,6 +10,40 @@
   ],
   "briefingUpdatedAt": "2026-10-05T15:37:22.404Z",
   "articles": [
+    {
+      "id": "5af4cae6b2ae8ce5",
+      "title": "Banks Chase Risky Chip Loans in Asia’s $8.2 Trillion AI Buildout",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnRTMGN4WmF5S0w3U1VQMDY0NEhhSHhWTWhnYWE1VXU0TWRwV1BMdFowSEZMa2x2ZTdDR0NaYlhHelV1TGNMQ1kzc0NURkxPTHpVR1dHbWxKZzMtMl9aT1Q2Mkhnb2N4a1pveTZVcXk3NHVjc3RoWnBRaXZFbkVmamRZTFJvM2Q2c3F4SVBEM0tuY3RudTZLRXdsZnpYMU9UOUlkMHZ5RVl6aE1PS3AtdXZORWk?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-06T01:19:08.178Z",
+      "relevant": false,
+      "summary": "Bloomberg reports that banks are making risky chip-related loans to finance Asia's large AI infrastructure buildout.",
+      "whyItMatters": "It touches bank lending exposure to AI but is market reporting with no evident federal policy action.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-06T01:19:08.178Z"
+    },
+    {
+      "id": "33f514311220bf35",
+      "title": "Stocks are hitting records despite surging yields. Cramer explains why",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybERrUC1CbG9kYXM2bzdJRElHVFZsQUJWcDIzNUdkQ25PTzh2YVd2anI1YUNSY1FIWXVlUDB0MHRickpIZ2UycXNWZGJ6cnJMRjZLYzA1eWxvLXJGV3ZLNl80UGZMNU52OTBFeHlrdFRiejNmTUhrMtIBfkFVX3lxTFBKaHdzZEprV0s2LTloMDlXbHNqZ3otUkN3MmpTOF9hSG1RY2Nsc1dWMEQwZmVHajdTbUVtRk1HcFl4a21HTGFtTWxQNkNPQk9aZ3ltdUx2OXpHUlpPcUpjbGJKUGZtNy1JLVJqazlIR1NJZk45NEk3dGxla3pzUQ?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-05T22:18:13.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-06T01:19:08.178Z",
+      "relevant": false,
+      "summary": "CNBC's Jim Cramer explains why stocks are hitting records even as bond yields surge.",
+      "whyItMatters": "Market commentary with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-06T01:19:08.178Z"
+    },
     {
       "id": "7e3737813fbc0343",
       "title": "Potential Designation of Chartered Financial Analyst Designation as Qualifying Natural Persons for Accredited Investor Status",
@@ -145,6 +179,23 @@
       "category": "Other",
       "analyzedAt": "2026-10-05T15:37:22.404Z",
       "analysisVersion": 2
+    },
+    {
+      "id": "99dfeacad1442ed3",
+      "title": "Trump reveals Tom Cotton’s phone number in daylight saving time standoff",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGp6MjI4cHhDUDBqblFvT01fcjlZb3pXMXRKODlaS0tIZ3MzZG9xR0hVSWpveGVRSW1rU0tmQXFwSUxYLThkM2gzYmk3NVJZM0lMRnZ0NjVNUTNnRnRxay1Nb1hENmxSaDdVUmxMZXdfR0Q1N2lIVnppejRrejZ1WFRTZ3lKVVp1S3kzUmZxOEFsTGxQOWNsdXVZNURqWk8yZFJuaW5fSU5GTExOWElya0FpdE8yM01OQzNwMm1SN2lhZw?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-04T02:36:39.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-06T01:19:08.178Z",
+      "relevant": false,
+      "summary": "Trump disclosed Sen. Tom Cotton's phone number amid a standoff over daylight saving time.",
+      "whyItMatters": "Not about AI policy.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-06T01:19:08.178Z"
     },
     {
       "id": "57f93c5cce3494e9",

@@ -1,10 +1,12 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-05T15:37:08.204Z",
+  "updatedAt": "2026-10-06T01:19:04.757Z",
   "briefing": [
-    "Demand for AI agent skills on Wall Street jumped 1,721% as banks move to adopt agentic AI, according to a CNBC report on hiring trends. The story is an industry-wide look at AI talent rather than a Capital One-specific development, and Capital One appears only in passing among the banks covered (CNBC)."
+    "Banks are rapidly adopting AI agents, with CNBC reporting demand for agent-related skills on Wall Street jumped 1,721%; Capital One may be cited among the banks, though the summary gives no detail on its role. (CNBC)",
+    "Payments Dive ran a piece on embedded financial products offered beyond software platforms; Capital One may be mentioned, but the teaser gives no detail and the mention appears minor. (Payments Dive)",
+    "No articles in this batch cover regulators, Congress, courts, enforcement, or the Discover integration, so nothing here requires urgent policy-team action today."
   ],
-  "briefingUpdatedAt": "2026-10-04T22:40:13.133Z",
+  "briefingUpdatedAt": "2026-10-06T01:19:04.757Z",
   "articles": [
     {
       "id": "5ed047e752d8dcf1",
