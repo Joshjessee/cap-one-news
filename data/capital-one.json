@@ -1,12 +1,12 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-07T17:26:43.130Z",
+  "updatedAt": "2026-10-07T23:07:22.197Z",
   "briefing": [
-    "Banks are rapidly embracing AI agents, with demand for agent-related skills up 1,721% and Capital One possibly cited among the banks hiring for them; the teaser gives limited detail on its role. (CNBC)",
-    "Payments Dive looks at embedded financial products offered beyond software platforms; Capital One may be mentioned, but the teaser gives no detail, so this is a low-priority item. (Payments Dive)",
-    "Neither article centers on Capital One or reports regulatory, legal, or Discover-related developments, so there are no high-priority items in this batch."
+    "Discover's rotating 5% cash-back bonus categories for Q4 2026 (October through December) have been outlined, a routine product update for the Discover card now under Capital One. (CNBC)",
+    "Banks are rapidly embracing AI agents, with demand for AI agent skills reportedly up 1,721%; Capital One may be cited among the banks, but the mention appears to be in passing. (CNBC)",
+    "A piece on embedded financial products beyond software platforms may mention Capital One, but the teaser gives no detail and it is low relevance. (Payments Dive)"
   ],
-  "briefingUpdatedAt": "2026-10-07T11:46:18.261Z",
+  "briefingUpdatedAt": "2026-10-07T23:07:22.197Z",
   "articles": [
     {
       "id": "b332b90bef3c0ad0",
@@ -160,6 +160,23 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-05T15:37:08.204Z"
+    },
+    {
+      "id": "089835a9748359ef",
+      "title": "Discover’s 5% cash-back bonus categories for Q4 2026: October — December",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yUGEtZXM1S2ZaazBoRE05MXpVRUttUXdSOUlfaDM1NkJiWF8wSXJFcGtVdHRoa0pmSk0tV3ZyREJ6MTduU0czYU9OYUtndWNLWHZ0YjA3dkpKMUpId0RLWXV0MVRMeVXSAWxBVV95cUxPRWhNMDZmT09BTTFaMmhtaDVjUFZRTUlTWm9oUzRwaVVjVm13VDhYN1hnNGlPSGNfRlBDbTRLbmNjd09WNW40Q1I3dG5XNTVOa0NvRlZjUXp3VGY2VW1MSzRaR3gzVjlFbEhIMjM?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-07T23:07:22.197Z",
+      "relevant": true,
+      "summary": "CNBC outlines the Discover card's rotating 5% cash-back bonus categories for the fourth quarter of 2026, covering October through December.",
+      "whyItMatters": "It is routine product news about Discover, now part of Capital One, with no direct regulatory or legal angle.",
+      "priority": "medium",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-07T23:07:22.197Z"
     },
     {
       "id": "6a3f487c815f6ed6",
