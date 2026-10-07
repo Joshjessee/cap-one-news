@@ -1,13 +1,13 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-07T11:46:22.034Z",
+  "updatedAt": "2026-10-07T17:26:48.341Z",
   "briefing": [
-    "The administration's AI push is consolidating under Jay Clayton, who has been named AI czar and is taking control of federal AI efforts. The Hill separately explains Trump's choices to lead a new 'Super Intelligence Force' on AI. (The Washington Post, The Hill)",
-    "Reporting indicates that Trump allies are targeting people who warned about AI dangers, a possible sign of friction over the direction of federal AI safety policy. Only the headline was available, so details are unclear. (The Washington Post)",
-    "South Korean authorities are investigating whether AI was used in hacking attacks on the country's banks, a development relevant to AI-enabled cyber risk in financial services. (The New York Times)",
-    "Sen. Roger Wicker touted the benefits of data centers, signaling continued congressional support for AI infrastructure buildout. (U.S. Senate)"
+    "Jay Clayton is taking control of the administration's AI efforts after being named AI czar, and Trump has named leaders to head a new 'Super Intelligence Force' on AI. Details on the structure and mandate are limited in the coverage. (The Washington Post, The Hill)",
+    "The Trump administration will receive $100 million in compute credits to support an AI-for-science initiative, a sign of continued reliance on private-sector resources for federal AI priorities. (Politico)",
+    "Trump allies are reportedly targeting people who warned about AI dangers, pointing to a widening political fight over AI safety messaging; only the headline was available, so details are unclear. (The Washington Post)",
+    "South Korean authorities are investigating whether AI was used in hacking attacks on the country's banks, which is relevant to financial-sector AI and cyber risk discussions. (The New York Times)"
   ],
-  "briefingUpdatedAt": "2026-10-07T11:46:22.034Z",
+  "briefingUpdatedAt": "2026-10-07T17:26:48.341Z",
   "articles": [
     {
       "id": "bb55975fd75ff160",
@@ -45,6 +45,23 @@
       "analyzedAt": "2026-10-07T11:46:22.034Z"
     },
     {
+      "id": "9ab8802ec73fdb73",
+      "title": "Trump admin to receive $100 million in compute credits for AI science initiative",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcERucDQtcnBwUW9mbGx4dVM5RzJuYndHdC1jdmJsa01jY1J5NUl5eGc3N3ZyYnE5T24xdHRfWXFsSUR5c0FURXVoWlRIM1ktMi1SUGdZeDBpSUZtUFlNdURCV084Z1VhRHlFYlVnQVFoaGZMM1dJVWRlM25zRkV6SVhVakxWVzc3NGVPc09vRFpRREFrdFFxTA?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-07T09:45:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-07T17:26:48.341Z",
+      "relevant": true,
+      "summary": "Politico reports the Trump administration will receive $100 million in compute credits to support an AI-for-science initiative.",
+      "whyItMatters": "It signals how the administration is resourcing federal AI efforts and its partnerships with industry.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-07T17:26:48.341Z"
+    },
+    {
       "id": "dcad1baa8401b320",
       "title": "Takeaways from the Maine Senate debate between Susan Collins, Troy Jackson",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1dibWNFc21FSF9oeElKX1I4eUE4RndyVlZyX29hNkx3eloxbU93bTI2T1RQWHEzWC1qTVNPT3R4SExxNXd1b0QzVXdhWGtBOTdoSVhFQlYzSDZSNTRZR1Qzdm03ZjVHRzBBUVcwREstcTl1RUtGeV9sOEVINm1PYTdYU2FqMXd5dDl3OWVQTFlyVmJqRjIxb09vQ3MxejB0V2RHbDVSdWY0c2ZPdTBDanNqS2VoeGc?oc=5",
@@ -60,6 +77,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-07T11:46:22.034Z"
+    },
+    {
+      "id": "ac2d0b79ba1ee009",
+      "title": "Australian Lawmakers Question OpenAI Officials on Breaches",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SVUxYVUJlWm1tak1SdVpMb0lUTnF2UXFaZmZFUWk0Z19yUHpRTFUxb1laemRQNnpOdjJGaXhlR3pxbDZWUGdVY0V1UnlpdDQzQ2pxMm05WVdJM3p1QjF5WFY2UjEwcklkWGpEaUwxQkdIYXhQaXNEdGd3?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-07T01:25:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-07T17:26:48.341Z",
+      "relevant": false,
+      "summary": "Australian lawmakers questioned OpenAI officials about security breaches.",
+      "whyItMatters": "This is a foreign legislative inquiry, not U.S. federal AI policy, so it is of limited direct relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-07T17:26:48.341Z"
     },
     {
       "id": "a6198117fe355bb2",
@@ -78,6 +112,23 @@
       "storyId": "32af91bb494f6740",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-06T22:40:45.417Z"
+    },
+    {
+      "id": "8b2b9e879faf16b9",
+      "title": "Northeast Democrats urge Trump administration action as heating oil costs surge",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjNTOThyMXhvc1UzM1A2TVVrak53cDQ2d2h5dElha3lIWVU1NXVVbjhpRHhCejJldi1IS04tOVpBNzR1eDFGeGthX0F3TUNmSXljbkhaWnR6X0xIRmtMNUZtbW5KeG9nQ0NTMXFsdE9rdmdlTjE5dlFOR3JfbFJiWGJUU1pBUTd3RE8wNHgtcVowX1NlWUxRM3VESDM3d1NYRFFJdUJEeGR0eGd3blZtZnhKRDZpTlR3bE1fMEtKS25NS0l0OFVvVw?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-06T17:52:48.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-07T17:26:48.341Z",
+      "relevant": false,
+      "summary": "Northeast Democrats are urging the Trump administration to act as heating oil costs rise.",
+      "whyItMatters": "This is an energy-cost story with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-07T17:26:48.341Z"
     },
     {
       "id": "5074058cb66103fd",
@@ -231,6 +282,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-06T22:40:45.417Z"
+    },
+    {
+      "id": "1ca22a4968b13ff2",
+      "title": "Crypto industry PAC gives to 32 House incumbents, on both sides",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZaXNDM3ZBMVJCVzNucFB3Z2cycHV4X0pEUy05WHA2c29TakRLdDhRMTVuYnF4Y0xBaE5uMW1raDVJVW9fZFByVHQtdmx0VldkLWFZ?oc=5",
+      "source": "Roll Call",
+      "paywalled": false,
+      "publishedAt": "2026-10-05T19:33:02.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-07T17:26:48.341Z",
+      "relevant": false,
+      "summary": "A crypto industry PAC has donated to 32 House incumbents from both parties.",
+      "whyItMatters": "This is crypto campaign finance, not AI policy, so it is not relevant to this team's AI tracking.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-07T17:26:48.341Z"
     },
     {
       "id": "7e3737813fbc0343",
