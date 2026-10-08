@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-07T23:07:22.197Z",
+  "updatedAt": "2026-10-08T11:46:20.587Z",
   "briefing": [
     "Discover's rotating 5% cash-back bonus categories for Q4 2026 (October through December) have been outlined, a routine product update for the Discover card now under Capital One. (CNBC)",
     "Banks are rapidly embracing AI agents, with demand for AI agent skills reportedly up 1,721%; Capital One may be cited among the banks, but the mention appears to be in passing. (CNBC)",
@@ -8,6 +8,41 @@
   ],
   "briefingUpdatedAt": "2026-10-07T23:07:22.197Z",
   "articles": [
+    {
+      "id": "a204bfe1661a1707",
+      "title": "Capitals top Penguins in Ovechkin’s final home opener",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNm01TE42UGRfS0taTXdXVjZ1cVdmcFdhbjZuUlo3QVFxcHRXQ3hWdklWRmZuTC1WS2tKcjYyMUtGR1NvOXFFRUQ0dkROaXpSbFhaeWUzVHFqQ1owc1V5Q2NwRVQzVE0yOVg1MXpZNFQ5bFdnUmh5ZFZseEgxUWM2WldZNi1JZzQ2ekE4empncHFVeUtWTjBoczNIdTRmSmRm?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-08T05:31:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T11:46:20.587Z",
+      "relevant": false,
+      "summary": "Washington Capitals beat the Pittsburgh Penguins in Ovechkin's final home opener, per the headline. The story is a sports recap with no evident connection to Capital One the company.",
+      "whyItMatters": "Likely only matched on the Capital One Arena name; no policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T11:46:20.587Z"
+    },
+    {
+      "id": "3b783d7ff00e28a2",
+      "title": "Tom Wilson produces 3 points as Capitals get past Penguins",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWpHd2pyUHZfaTlMV2o1U05xZWY5T0lJU0UxMnE5Szk5REhta2puSFd2enNMSXNoTGZ0MW1fZ0pZclc3a2tCdEdLQ3dGRXJWTVR0b3hpNGhJUnlxUHZ2MDBsMFRldVVlSy1kcl9hc1N6dnhTVlUtT1ZkMWhPdlJDRDFBQ3JjRnJQTjY2Y1p6NUpRQXpWdmItenFlMlVSMU1zRUpiOXFZcWw3d28?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-08T02:40:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T11:46:20.587Z",
+      "relevant": false,
+      "summary": "Tom Wilson had three points as the Capitals beat the Penguins, per the headline. This is a sports game recap, apparently the same game covered by the Washington Post.",
+      "whyItMatters": "Sports coverage with no apparent link to Capital One the company; no policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "a204bfe1661a1707",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T11:46:20.587Z"
+    },
     {
       "id": "b332b90bef3c0ad0",
       "title": "Hegseth greets ship returning from troubled waters",
