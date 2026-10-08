@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-08T11:46:25.437Z",
+  "updatedAt": "2026-10-08T17:25:12.606Z",
   "briefing": [
-    "Sen. Maria Cantwell unveiled a new AI policy framework, though details on its contents were not available; a separate AI safety group laid out its demands for AI legislation and warned lawmakers. (The Hill)",
-    "Jay Clayton is taking control of the administration's AI efforts after being named AI czar, while Trump's 'Super Intelligence Force' leaders have been chosen and the administration will receive $100 million in compute credits for an AI-for-science initiative. (The Washington Post, The Hill, Politico)",
-    "Hackers used a Chinese AI tool to attack South Korean banks, flagging a new cyber risk relevant to financial institutions; former Treasury Secretary Robert Rubin separately warned the AI boom poses risks to the U.S. economy and markets. (The Wall Street Journal, Bloomberg)",
-    "A Reuters/Ipsos poll finds most U.S. voters think Trump and Congress are not taking AI risks seriously, and The Washington Post reports that people who warned about AI dangers are being targeted by Trump's allies. (Reuters, The Washington Post)",
-    "A nonprofit says OpenAI's ChatGPT for teens poses an 'unacceptable risk,' adding to child-safety pressure on AI products. (The Wall Street Journal)"
+    "Treasury issued its first enforcement penalty under the outbound investment rules, tied to a deal involving AI in China, which signals active enforcement of the regime. (The Wall Street Journal)",
+    "The White House's 'Super Intelligence Force' is taking shape: Politico published its charter setting out structure and mandate, The Hill explains Trump's choice of leaders, and the Washington Post reports Jay Clayton is taking control of the administration's AI efforts as AI czar. (Politico, The Hill, The Washington Post)",
+    "Sen. Maria Cantwell unveiled a new AI policy framework, though details were not available in the coverage; separately, an AI safety group laid out its demands for legislation and warned lawmakers. (The Hill)",
+    "A hacker used a Chinese-developed AI tool to attack South Korean banks, per CrowdStrike, raising new cyber and third-party AI risk for financial institutions. (The Wall Street Journal, The New York Times)",
+    "Politico reports the administration will receive $100 million in compute credits for an AI-for-science initiative. Reuters/Ipsos polling finds most voters think Trump and Congress aren't taking AI risks seriously, and Robert Rubin warned the AI boom poses risks to the economy and markets. (Politico, Reuters, Bloomberg)"
   ],
-  "briefingUpdatedAt": "2026-10-08T11:46:25.437Z",
+  "briefingUpdatedAt": "2026-10-08T17:25:12.606Z",
   "articles": [
     {
       "id": "1d2eb6b9c8f17a56",
@@ -28,6 +28,40 @@
       "analyzedAt": "2026-10-08T11:46:25.437Z"
     },
     {
+      "id": "12c2fab9f5a2f528",
+      "title": "Treasury Issues First Penalty Under Outbound Investment Rules Over China AI Deal",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmt4NEdCWnNpRjlPSjROVDE5OTZWck9GWjh5VjZOdjV0VXJKM05XZkd2M3V1YUF6OXRFOHMyYWdZNU4yNTFTSnRYUmJYWVgtc240TDRWR3R0eEVlZ0tDWHhlSkZVWjF0cHBRMFdXaE85TFQtVHl6RkM5Vjk2d2ZLSF9TNWluZVZyMllHbFZCMTFYcE5fM3R3YU41UVRiVWZsaHBMZDczaFNUUjVoSE5GME8yYnp1RXlF?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-10-08T14:27:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T17:25:12.606Z",
+      "relevant": true,
+      "summary": "Treasury issued its first enforcement penalty under the outbound investment rules, tied to a deal involving AI in China.",
+      "whyItMatters": "It shows Treasury is actively enforcing limits on AI investment in China, which affects financial institutions' compliance and diligence.",
+      "priority": "high",
+      "category": "Treasury",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T17:25:12.606Z"
+    },
+    {
+      "id": "ac68d03e5b6e00d3",
+      "title": "Big Banks Seen Keeping Up Torrid Borrowing Pace to Fund AI Boom",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5pVy1pa2M3UnRkeFgtZmMteGt6MmxSZEFqRXZFRjc2djhSUThwZFVmUHhFcnlHMXZ2Y3FkenhUYjJFb2FxVVdoR3RzUTVCZVNUa1Jwc0xCa2JRRnp1alJqaWpfb0hQUTRwYWUyQ0hrbDlQTzk5V0ZhdnlTZnRmZW4wYm1kY2hONEdWQ0xnY3o2b1BpQ01DNGNnbHZSZ2tqQkxzQVRrX2tOU3hDZE5aZFd2TUI?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-08T14:01:09.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T17:25:12.606Z",
+      "relevant": false,
+      "summary": "Bloomberg reports big banks are expected to keep borrowing heavily to fund the AI boom.",
+      "whyItMatters": "It is market and financing news with no federal policy action, though it is of some background interest to a bank.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T17:25:12.606Z"
+    },
+    {
       "id": "814a0dc4ae3214ef",
       "title": "Opinion | Democrats, take the win on permitting reform",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNFVCQ1o2OVhzaU9GY0ZKOS1xNHZkeTkyU3JzZ2EyWWlYcG9QZHVSOEtCUzIyam9MeHZUYTN5bGVsOVpXWDZId2dadERIZk4xenJGcHVqaUJ0MGFjcGk0ZVRvOFcybVNkTmdrTGRlcWxmWVBydTF5dHZNTWlpdXNXWGVCTFVPVzN6YnVwYjhIUEg1VVVHVWV1WjRTWmc4NWp4eGV6a1ZJSnpYVlRjOUN4Sg?oc=5",
@@ -43,6 +77,24 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-08T11:46:25.437Z"
+    },
+    {
+      "id": "07131b79e80c05d0",
+      "title": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU19zYV9HTnA4M0s3eDhwOFMzeC1fd25VeHQ5LW1DOEhnXzJkNUk4SXFxWXMwUi1PRHZXUHlUMHZLR0xnLVQ3RlMzYWs0RXAzajFMTE8wWVZWZDlBc0RYR1UtQXl4NE9ueklHZDJlWjdwLTJFUndtNk5IUld0aUI1TmtTcW1WVXYtR2g5WlhvdGlacW8?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-08T09:53:17.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T17:25:12.606Z",
+      "relevant": true,
+      "summary": "CrowdStrike says a hacker used a Chinese-developed AI tool to attack South Korean banks, another outlet's take on an already-seen story.",
+      "whyItMatters": "It highlights AI-enabled cyber risk to banks, which could shape financial regulators' and policymakers' views on AI security.",
+      "priority": "medium",
+      "category": "Financial Regulators",
+      "storyId": "2ae64780517bbe3a",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T17:25:12.606Z"
     },
     {
       "id": "ccd4b66cd84c48ff",
@@ -301,6 +353,24 @@
       "storyId": "32af91bb494f6740",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-06T22:40:45.417Z"
+    },
+    {
+      "id": "c6c09af5c7b02af1",
+      "title": "Read the charter for the White House’s ‘Super Intelligence Force’",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTBwQ0VQN2V3SjJzTHRQLVhNTmlaMmt1TmtqcjNCanpmZEl2RnoxZTVmRVkxc1dCU1RwT196b0pIVnNjVWtIT1pXUmRaVDUwVHBfRzRkd1Z3Z2ZTZllkeE9DN1pwbEJyQW9FTW9sZmhNR0RGRDBPZ3RMY1BGY3pTWWd0RHdnQ3JfN1oyRXhiZEFoQmY2OUE?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-06T21:30:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T17:25:12.606Z",
+      "relevant": true,
+      "summary": "Politico published the charter for the White House's 'Super Intelligence Force' on AI, which sets out its structure and mandate.",
+      "whyItMatters": "The charter shows how the Administration plans to organize and direct federal AI policy.",
+      "priority": "high",
+      "category": "Administration",
+      "storyId": "acb587d1bfd70301",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T17:25:12.606Z"
     },
     {
       "id": "8b2b9e879faf16b9",
