@@ -1,15 +1,49 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-08T17:25:12.606Z",
+  "updatedAt": "2026-10-08T23:23:17.189Z",
   "briefing": [
-    "Treasury issued its first enforcement penalty under the outbound investment rules, tied to a deal involving AI in China, which signals active enforcement of the regime. (The Wall Street Journal)",
-    "The White House's 'Super Intelligence Force' is taking shape: Politico published its charter setting out structure and mandate, The Hill explains Trump's choice of leaders, and the Washington Post reports Jay Clayton is taking control of the administration's AI efforts as AI czar. (Politico, The Hill, The Washington Post)",
-    "Sen. Maria Cantwell unveiled a new AI policy framework, though details were not available in the coverage; separately, an AI safety group laid out its demands for legislation and warned lawmakers. (The Hill)",
-    "A hacker used a Chinese-developed AI tool to attack South Korean banks, per CrowdStrike, raising new cyber and third-party AI risk for financial institutions. (The Wall Street Journal, The New York Times)",
-    "Politico reports the administration will receive $100 million in compute credits for an AI-for-science initiative. Reuters/Ipsos polling finds most voters think Trump and Congress aren't taking AI risks seriously, and Robert Rubin warned the AI boom poses risks to the economy and markets. (Politico, Reuters, Bloomberg)"
+    "Treasury issued its first penalty under the outbound investment rules, tied to a China AI deal, which signals active enforcement of the regime. (The Wall Street Journal)",
+    "Senate Commerce ranking Democrat Maria Cantwell unveiled a new AI policy framework, a marker for where Democrats may head on federal AI legislation. Details were not in the summaries. (The Hill, Politico)",
+    "Reps. Carter and Thompson reintroduced the CISA Securing AI Task Force Act, which would create a task force on AI-related cybersecurity challenges. (U.S. House)",
+    "Hackers used a Chinese AI tool to attack South Korean banks, per CrowdStrike, which raises the AI-enabled cyber risk for financial institutions. Separately, Treasury is using data and analytics to fight payments fraud. (The New York Times, The Wall Street Journal, Payments Dive)",
+    "On the White House side, Trump said AI critics are wrong because the White House uses AI itself, and the administration will receive $100 million in compute credits for an AI-for-science initiative. A Reuters/Ipsos poll finds most voters think Trump and Congress aren't taking AI risks seriously. (Axios, Politico, Reuters)"
   ],
-  "briefingUpdatedAt": "2026-10-08T17:25:12.606Z",
+  "briefingUpdatedAt": "2026-10-08T23:23:17.189Z",
   "articles": [
+    {
+      "id": "584e4e117de479ac",
+      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-10-08T20:58:57.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T23:23:17.189Z",
+      "relevant": true,
+      "summary": "Trump reportedly said that people calling AI \"the enemy\" are wrong, noting the White House itself uses AI. The remark comes amid a broader fight over AI policy.",
+      "whyItMatters": "A statement from the president signals the administration's pro-AI stance, which shapes federal policy direction.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T23:23:17.189Z"
+    },
+    {
+      "id": "6d3b7d38e6c4f8ec",
+      "title": "Reps. Carter, Thompson Reintroduce the Cybersecurity and Infrastructure Security Agency Securing AI Task Force Act to Address the Evolving Challenges Posed by AI",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQcEhSLWp5MWwyZHdob0N4X055Wm9BR19WZFlNZjN5c1R0MUxEY2NIX2ozbVNZQWhGckhPY2pqNXdCZkpqREo4cDVTaDJNeV81c0h4eWhhNXRZQzhzTThxLXA3dm5kUHVheGNyOW5OeGgtZWdaVUpfU29nV2tnaGpES2pzakxzdWF1RFlkMndTQU00S25OZFQ3SVdSa3d0Rmp3Y0ZmdU55aXpQSjM0aERjaTRoTDJyVXpCS3JHYmJ0d20wMExpbVpLUWZJRDlsYWNxMTlkYVFYb01talY4YkZzQ3dQd1hCQzNYaDRCSS1LMTBVcmhwTGVMUEl0bDVKSENlOFBiSi1FX2RsSmxDczJQMFVDcVIybFpZVVRNRmVsbDhWbE5GcjlwR1FCU1pyeW90R2V3bm5LTG8?oc=5",
+      "source": "U.S. House",
+      "paywalled": false,
+      "publishedAt": "2026-10-08T19:17:57.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T23:23:17.189Z",
+      "relevant": true,
+      "summary": "Reps. Carter and Thompson reintroduced a bill to create a CISA Securing AI Task Force to address AI-related cybersecurity challenges.",
+      "whyItMatters": "A new AI security bill in Congress could affect critical infrastructure and financial sector cyber expectations.",
+      "priority": "high",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T23:23:17.189Z"
+    },
     {
       "id": "1d2eb6b9c8f17a56",
       "title": "Public Meeting of the National Sea Grant Advisory Board",
@@ -26,6 +60,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-08T11:46:25.437Z"
+    },
+    {
+      "id": "69a96a5bca5a1c35",
+      "title": "Treasury taps data to fend off fraud",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUpkbS1iT1RYeE5HUlA4dWJTS2Z5MHgtdGh3Yjhid0RhVzlpY1JLSF80RlJqR0N6R29ULTV3OVhjbmJwclR1Y1kzV2xnY3BsZndFVHgzVVNiaFU5bGlKZ3FCb2RmbU9vSkN3M2hjNGVjTzYzTjBBYnFrOTB4Um5WODBGUm1vVEVPcjlNakZVUjM?oc=5",
+      "source": "Payments Dive",
+      "paywalled": false,
+      "publishedAt": "2026-10-08T15:58:38.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T23:23:17.189Z",
+      "relevant": true,
+      "summary": "Treasury is using data and analytics to combat payments fraud, according to Payments Dive.",
+      "whyItMatters": "Treasury's fraud-prevention data efforts touch payments and banking, which are directly relevant to a financial institution.",
+      "priority": "high",
+      "category": "Treasury",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T23:23:17.189Z"
     },
     {
       "id": "12c2fab9f5a2f528",
@@ -248,6 +299,24 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-07T23:07:28.506Z"
+    },
+    {
+      "id": "f4fed26701591459",
+      "title": "Top Commerce Committee Democrat releases AI framework",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXpON2Z0UXlCcWFwNTlQSzZaM29Wb3ljbXpsU1lOYTZjMkhaS0Q3UnFWdGsyeGlfQUM2RXpzOHNBUHJ3aHM4Z0RLZXR5a3FaMl9tWUVVZXlieDA1Wm1YRjJJSXFCbGxpcDZWVDJxdG00UW1nYXZTX2E4Rkd2Ry13cWFFNA?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-07T13:37:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T23:23:17.189Z",
+      "relevant": true,
+      "summary": "The top Democrat on the Senate Commerce Committee, Cantwell, released an AI policy framework.",
+      "whyItMatters": "It signals Democratic legislative priorities on AI in a key committee with jurisdiction over AI.",
+      "priority": "medium",
+      "category": "Congress",
+      "storyId": "95c31786ad96f478",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T23:23:17.189Z"
     },
     {
       "id": "c96cc7515d4d0984",

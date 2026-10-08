@@ -1,13 +1,47 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-08T11:46:20.587Z",
+  "updatedAt": "2026-10-08T23:23:09.696Z",
   "briefing": [
-    "Discover's rotating 5% cash-back bonus categories for Q4 2026 (October through December) have been outlined, a routine product update for the Discover card now under Capital One. (CNBC)",
-    "Banks are rapidly embracing AI agents, with demand for AI agent skills reportedly up 1,721%; Capital One may be cited among the banks, but the mention appears to be in passing. (CNBC)",
-    "A piece on embedded financial products beyond software platforms may mention Capital One, but the teaser gives no detail and it is low relevance. (Payments Dive)"
+    "Discover's rotating 5% cash-back bonus categories for Q4 2026 (October through December) have been outlined, a routine product update following the Capital One–Discover combination. (CNBC)",
+    "Banks are rapidly embracing AI agents, with demand for the skill reportedly up 1,721%; Capital One may be cited among the banks, though the summary gives no detail. (CNBC)",
+    "A piece on embedded financial products beyond software platforms may mention Capital One, but the teaser offers no specifics and it is low priority. (Payments Dive)"
   ],
-  "briefingUpdatedAt": "2026-10-07T23:07:22.197Z",
+  "briefingUpdatedAt": "2026-10-08T23:23:09.696Z",
   "articles": [
+    {
+      "id": "f9da1df6437a6cb7",
+      "title": "Venture Global breached LNG supply deal with Galp, tribunal rules",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEgxQzJIWjlpem9jZUZxcnpLRTZWRkdNeFR4cmJLZkJvZ2VsV01FSWNYTW1LNHZmMHVxMlFqdUg2VW5qeHBxNkdPTW1LQ1VLd2hUVGZkbk9wU1A2eXYzTXVNWXo4RFhNRVZCalBUdlhKTVM3LS1wN1hJbmxXaXpJaXpVZkZHdXViLVpsLW1sQTFNTjdPQlJkbnRSMEVrcFh1VVlub0VZRjZTZWZ3Qnc?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-08T19:46:06.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T23:23:09.696Z",
+      "relevant": false,
+      "summary": "A tribunal ruled that Venture Global breached an LNG supply agreement with Galp. The headline gives no indication of any Capital One connection.",
+      "whyItMatters": "No evident Capital One connection; not relevant to the policy team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T23:23:09.696Z"
+    },
+    {
+      "id": "bf2896668c87c7d6",
+      "title": "0HT4.L",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aa05ILTcwQUZqRmFPbVpVc0tCeHlzUVdVSmVoRGdROVQyOW5Rb0hxWUdHWEp3V1ZOUmplX3lpVWFyVVQ2eElNYkxUR2p5MVVmMlJxMzhvZ2JYVF81eEJvLVpDd0hRNnlGb0NLZlhrVQ?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-08T18:46:01.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T23:23:09.696Z",
+      "relevant": false,
+      "summary": "The headline is only a ticker-style code (0HT4.L) with no descriptive content, so the story's subject cannot be determined.",
+      "whyItMatters": "Nothing indicates a Capital One connection, so it needn't be read.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T23:23:09.696Z"
+    },
     {
       "id": "a204bfe1661a1707",
       "title": "Capitals top Penguins in Ovechkin’s final home opener",
@@ -161,6 +195,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-06T15:25:10.469Z"
+    },
+    {
+      "id": "1e59c0f4073cb448",
+      "title": "The best student checking accounts of October 2026",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iaXVVcEdMa0ZGamNCcUFWdnFFNloxRUpVcDJ3SHU2NG5kNmdkTHhVUkMxUl9WOEExQ0tya2FnMEt3S1pCTFR5M1J2WmlDS1Q4TEpJckxoZFNFcjEzc1ZZbGRDaEJ2QzFBSlM00gFwQVVfeXFMTlNZbHZkZVBGT1FlTkZ3b2JrajJvNHp0bFNGRjhxYVlVWFdWNHZzb2RERkphUXhxYWMwV0ZFOXpQR3RVQVZIeXBfOVZxalhnS3B2ZlpGelcwQ3p2eDFfV29taTBkNVZyeE9pYV9fUHVwRA?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-08T23:23:09.696Z",
+      "relevant": false,
+      "summary": "CNBC roundup of the best student checking accounts for October 2026. Capital One may appear as one of the listed banks, but the headline doesn't confirm it.",
+      "whyItMatters": "Consumer product roundup with at most a passing mention of Capital One; low value for policy work.",
+      "priority": "low",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-08T23:23:09.696Z"
     },
     {
       "id": "5ed047e752d8dcf1",
