@@ -6,22 +6,45 @@ import type { TopicData, TopicId } from "@/lib/types";
 export default function TopicPage({ topicId, data }: { topicId: TopicId; data: TopicData }) {
   const topic = TOPICS[topicId];
 
+  // Quick stats for the banner. These count stories (an event several outlets covered counts
+  // once), the same way the "Read first" list below does.
+  const onTopic = data.articles.filter((a) => a.relevant !== false);
+  const storyKey = (a: (typeof onTopic)[number]) => a.storyId ?? a.id;
+  const stats = [
+    { value: new Set(onTopic.map(storyKey)).size, label: "stories" },
+    { value: new Set(onTopic.filter((a) => a.priority === "high").map(storyKey)).size, label: "read first" },
+    { value: new Set(onTopic.map((a) => a.source)).size, label: "outlets" },
+  ];
+
   return (
     <>
-      <h1 className="page-title">{topic.label}</h1>
-      <p className="page-subtitle">{topic.description}</p>
-      <p className="updated">
-        {data.updatedAt ? `Last updated ${formatEastern(data.updatedAt)}` : "Waiting for the first news refresh."}
-      </p>
+      <section className="hero">
+        <p className="eyebrow">
+          <span className="live-dot" aria-hidden="true" />
+          {data.updatedAt ? `Updated ${formatEastern(data.updatedAt)}` : "Waiting for the first news refresh"}
+        </p>
+        <h1 className="page-title">{topic.label}</h1>
+        <p className="page-subtitle">{topic.description}</p>
+        {data.articles.length > 0 && (
+          <dl className="stats">
+            {stats.map((s) => (
+              <div key={s.label} className="stat">
+                <dt>{s.label}</dt>
+                <dd>{s.value}</dd>
+              </div>
+            ))}
+          </dl>
+        )}
+      </section>
 
       {data.briefing.length > 0 && (
         <section className="briefing" aria-labelledby="briefing-title">
           <h2 id="briefing-title">Today&apos;s briefing</h2>
-          <ul>
+          <ol>
             {data.briefing.map((bullet, i) => (
               <li key={i}>{bullet}</li>
             ))}
-          </ul>
+          </ol>
         </section>
       )}
 

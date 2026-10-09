@@ -1,36 +1,54 @@
-/* Colors are defined once here, with a dark-mode version below. */
+/* Colors are defined once here, with a dark-mode version below.
+   The navy + red palette is inspired by Capital One's colors, but we don't use their logo,
+   swoosh, typeface, or slogans, which are trademarks. */
 :root {
-  --bg: #f6f7f9;
+  --bg: #f2f4f7;
   --surface: #ffffff;
-  --text: #16202c;
-  --muted: #5b6776;
-  --border: #e1e5ea;
-  --accent: #0b4f8a;
-  --accent-soft: #e6f0fa;
-  --high: #b42318;
-  --high-soft: #fdecea;
-  --medium: #8a5a00;
-  --medium-soft: #fdf3dc;
-  --low: #5b6776;
-  --low-soft: #eef0f3;
-  --radius: 10px;
+  --text: #0f1d2c;
+  --muted: #5a6778;
+  --border: #dde3ea;
+  --accent: #0f4c81;
+  --accent-soft: #e5eef8;
+  --navy: #0b2a4a;
+  --navy-2: #164573;
+  --red: #d8343a;
+  --selected: #0b2a4a;
+  --selected-text: #ffffff;
+  --high: #c0262d;
+  --high-soft: #fdeaea;
+  --medium: #9a6200;
+  --medium-soft: #fdf2d9;
+  --low: #5a6778;
+  --low-soft: #edf0f4;
+  --shadow: 0 1px 2px rgba(11, 42, 74, 0.06), 0 4px 14px rgba(11, 42, 74, 0.06);
+  --shadow-hover: 0 2px 4px rgba(11, 42, 74, 0.08), 0 12px 28px rgba(11, 42, 74, 0.12);
+  --radius: 12px;
+  --font-body: var(--font-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  --font-headline: var(--font-serif), Georgia, "Times New Roman", serif;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0f1419;
-    --surface: #182029;
-    --text: #e6eaef;
-    --muted: #9aa6b4;
-    --border: #2a3440;
-    --accent: #6fb3f2;
-    --accent-soft: #1b2c3d;
-    --high: #ff8a80;
-    --high-soft: #3a1f1f;
+    --bg: #09131e;
+    --surface: #111d2a;
+    --text: #e6ebf1;
+    --muted: #97a4b4;
+    --border: #233243;
+    --accent: #7db8f0;
+    --accent-soft: #16293d;
+    --navy: #0a1f36;
+    --navy-2: #12355a;
+    --red: #f0565b;
+    --selected: #7db8f0;
+    --selected-text: #09131e;
+    --high: #ff8a85;
+    --high-soft: #3a1c1e;
     --medium: #f2c46d;
-    --medium-soft: #352b17;
-    --low: #9aa6b4;
-    --low-soft: #222b35;
+    --medium-soft: #33291a;
+    --low: #97a4b4;
+    --low-soft: #1b2735;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    --shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.45);
   }
 }
 
@@ -47,26 +65,36 @@ body {
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-body);
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.55;
   -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 a {
   color: var(--accent);
 }
 
+:focus-visible {
+  outline: 2px solid var(--red);
+  outline-offset: 2px;
+}
+
 .container {
-  max-width: 880px;
+  width: 100%;
+  max-width: 920px;
   margin: 0 auto;
   padding: 0 16px;
 }
 
 /* ── Header ─────────────────────────────────────────────── */
 .site-header {
-  background: var(--surface);
-  border-bottom: 1px solid var(--border);
+  background: var(--navy);
+  color: #ffffff;
+  border-bottom: 3px solid var(--red);
   position: sticky;
   top: 0;
   z-index: 10;
@@ -75,17 +103,32 @@ a {
 .site-header .container {
   display: flex;
   align-items: center;
-  gap: 16px;
-  min-height: 56px;
+  gap: 8px 16px;
+  min-height: 64px;
   flex-wrap: wrap;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 .brand {
-  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 500;
   font-size: 17px;
-  color: var(--text);
+  letter-spacing: -0.01em;
+  color: #ffffff;
   text-decoration: none;
   margin-right: auto;
+}
+
+.brand strong {
+  font-weight: 800;
+}
+
+.logo {
+  flex-shrink: 0;
+  display: block;
 }
 
 .tabs {
@@ -94,95 +137,235 @@ a {
 }
 
 .tab {
-  padding: 8px 14px;
+  padding: 7px 14px;
   border-radius: 999px;
-  color: var(--muted);
+  color: rgba(255, 255, 255, 0.75);
   text-decoration: none;
   font-weight: 600;
   font-size: 15px;
+  transition: background 0.15s, color 0.15s;
 }
 
 .tab:hover {
-  background: var(--low-soft);
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
 }
 
 .tab.active {
-  background: var(--accent-soft);
-  color: var(--accent);
+  background: #ffffff;
+  color: var(--navy);
 }
 
 .logout {
+  font: inherit;
   background: none;
   border: none;
-  color: var(--muted);
+  color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   cursor: pointer;
   padding: 8px 0;
 }
 
+.logout:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 /* ── Page ───────────────────────────────────────────────── */
 .site-main {
+  flex: 1;
   padding-top: 24px;
-  padding-bottom: 64px;
+  padding-bottom: 48px;
+}
+
+/* The navy banner at the top of each topic page. */
+.hero {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--navy) 0%, var(--navy-2) 100%);
+  color: #ffffff;
+  border-radius: 16px;
+  padding: 28px 28px 24px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
+}
+
+/* Decorative dot grid that fades in on the right side. */
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.16) 1.2px, transparent 1.2px);
+  background-size: 18px 18px;
+  mask-image: linear-gradient(to right, transparent 40%, #000 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 40%, #000 100%);
+  pointer-events: none;
+}
+
+.hero > * {
+  position: relative;
+  z-index: 1;
+}
+
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.8);
+  margin: 0 0 10px;
+}
+
+.live-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--red);
+  box-shadow: 0 0 0 0 rgba(216, 52, 58, 0.6);
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  70% {
+    box-shadow: 0 0 0 8px rgba(216, 52, 58, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(216, 52, 58, 0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .live-dot {
+    animation: none;
+  }
 }
 
 .page-title {
-  font-size: 28px;
-  margin: 0 0 4px;
+  font-size: clamp(30px, 6vw, 40px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  margin: 0 0 6px;
 }
 
 .page-subtitle {
-  color: var(--muted);
-  margin: 0 0 4px;
+  color: rgba(255, 255, 255, 0.82);
+  margin: 0;
+  max-width: 560px;
 }
 
-.updated {
-  color: var(--muted);
-  font-size: 13px;
-  margin: 0 0 20px;
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 28px;
+  margin: 22px 0 0;
+}
+
+/* Number on top, label underneath. */
+.stat {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.stat + .stat {
+  padding-left: 28px;
+  border-left: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.stat dd {
+  margin: 0;
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+.stat dt {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 .briefing {
   background: var(--surface);
   border: 1px solid var(--border);
-  border-left: 4px solid var(--accent);
+  border-top: 4px solid var(--red);
   border-radius: var(--radius);
-  padding: 16px 20px;
+  padding: 18px 22px 20px;
   margin-bottom: 28px;
+  box-shadow: var(--shadow);
 }
 
 .briefing h2 {
-  font-size: 15px;
+  font-size: 13px;
+  font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--accent);
-  margin: 0 0 8px;
+  letter-spacing: 0.1em;
+  color: var(--red);
+  margin: 0 0 12px;
 }
 
-.briefing ul {
+.briefing ol {
+  list-style: none;
   margin: 0;
-  padding-left: 20px;
+  padding: 0;
+  counter-reset: briefing;
+}
+
+.briefing li {
+  counter-increment: briefing;
+  position: relative;
+  padding-left: 38px;
+  min-height: 26px;
+}
+
+.briefing li::before {
+  content: counter(briefing);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 800;
+  display: grid;
+  place-items: center;
 }
 
 .briefing li + li {
-  margin-top: 6px;
+  margin-top: 12px;
 }
 
 .section-title {
-  font-size: 18px;
-  margin: 28px 0 12px;
+  font-size: 19px;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  margin: 32px 0 14px;
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
+}
+
+.section-title::before {
+  content: "";
+  width: 4px;
+  height: 20px;
+  border-radius: 2px;
+  background: var(--red);
 }
 
 .count {
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--muted);
   background: var(--low-soft);
   border-radius: 999px;
-  padding: 1px 8px;
+  padding: 1px 9px;
 }
 
 .empty {
@@ -203,35 +386,42 @@ a {
 }
 
 .chip {
+  font: inherit;
+  font-weight: 600;
   border: 1px solid var(--border);
   background: var(--surface);
   color: var(--text);
   border-radius: 999px;
-  padding: 5px 12px;
+  padding: 6px 14px;
   font-size: 14px;
   cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, color 0.15s;
+}
+
+.chip:hover {
+  border-color: var(--accent);
 }
 
 .chip.selected {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: var(--surface);
+  background: var(--selected);
+  border-color: var(--selected);
+  color: var(--selected-text);
 }
 
 .filter-row {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin-top: 10px;
+  margin-top: 12px;
 }
 
 .filter-row input,
 .filter-row select {
   font: inherit;
   font-size: 14px;
-  padding: 6px 10px;
+  padding: 9px 12px;
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 10px;
   background: var(--surface);
   color: var(--text);
   min-width: 0;
@@ -259,12 +449,30 @@ a {
 .card {
   background: var(--surface);
   border: 1px solid var(--border);
+  border-left: 4px solid var(--border);
   border-radius: var(--radius);
-  padding: 14px 16px;
+  padding: 16px 18px;
+  box-shadow: var(--shadow);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card:hover {
+    transform: none;
+  }
 }
 
 .card.high {
-  border-left: 4px solid var(--high);
+  border-left-color: var(--high);
+}
+
+.card.medium {
+  border-left-color: var(--medium);
 }
 
 .card.dimmed {
@@ -278,17 +486,22 @@ a {
   align-items: center;
   font-size: 13px;
   color: var(--muted);
-  margin-bottom: 4px;
+  margin-bottom: 6px;
 }
 
 .source {
-  font-weight: 600;
-  color: var(--text);
+  font-weight: 800;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
 }
 
 .card h3 {
-  font-size: 17px;
-  line-height: 1.35;
+  font-family: var(--font-headline);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.3;
   margin: 0 0 6px;
 }
 
@@ -300,6 +513,7 @@ a {
 .card h3 a:hover {
   color: var(--accent);
   text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .card p {
@@ -309,22 +523,29 @@ a {
 .why {
   color: var(--muted);
   font-size: 14px;
-  margin-top: 4px !important;
+  margin-top: 8px !important;
+  padding: 8px 12px;
+  background: var(--bg);
+  border-radius: 8px;
+}
+
+.why strong {
+  color: var(--text);
 }
 
 .also {
   font-size: 14px;
   color: var(--muted);
-  margin-top: 6px !important;
+  margin-top: 8px !important;
 }
 
 .badge {
-  font-size: 12px;
-  font-weight: 700;
-  border-radius: 6px;
-  padding: 1px 7px;
+  font-size: 11px;
+  font-weight: 800;
+  border-radius: 999px;
+  padding: 2px 9px;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.05em;
 }
 
 .badge.high {
@@ -345,49 +566,85 @@ a {
 .tag {
   font-size: 12px;
   border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 0 6px;
+  border-radius: 999px;
+  padding: 0 8px;
 }
 
 /* ── Login ──────────────────────────────────────────────── */
 .login {
-  max-width: 360px;
-  margin: 12vh auto 0;
-  padding: 0 16px;
+  flex: 1;
+  display: grid;
+  place-items: center;
+  padding: 32px 16px;
+  background: radial-gradient(rgba(255, 255, 255, 0.08) 1.2px, transparent 1.2px) 0 0 / 18px 18px,
+    linear-gradient(135deg, var(--navy) 0%, var(--navy-2) 100%);
 }
 
 .login form {
+  width: 100%;
+  max-width: 380px;
   background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
+  border-radius: 16px;
   padding: 24px;
   display: grid;
   gap: 12px;
+  overflow: hidden;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+}
+
+/* Navy band across the top of the sign-in card. */
+.login-brand {
+  margin: -24px -24px 8px;
+  padding: 24px;
+  background: var(--navy);
+  border-bottom: 3px solid var(--red);
+  color: #ffffff;
+}
+
+.login-brand svg {
+  margin-bottom: 12px;
 }
 
 .login h1 {
   font-size: 22px;
+  font-weight: 800;
+  margin: 0 0 4px;
+}
+
+.login-brand p {
   margin: 0;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.login label {
+  font-weight: 600;
+  font-size: 14px;
 }
 
 .login input {
   font: inherit;
-  padding: 10px 12px;
+  padding: 11px 12px;
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 10px;
   background: var(--bg);
   color: var(--text);
 }
 
 .login button {
   font: inherit;
-  font-weight: 600;
-  padding: 10px 12px;
+  font-weight: 700;
+  padding: 11px 12px;
   border: none;
-  border-radius: 8px;
-  background: var(--accent);
-  color: var(--surface);
+  border-radius: 10px;
+  background: var(--red);
+  color: #ffffff;
   cursor: pointer;
+  transition: filter 0.15s;
+}
+
+.login button:hover {
+  filter: brightness(1.08);
 }
 
 .error {
@@ -400,4 +657,36 @@ a {
   color: var(--muted);
   font-size: 13px;
   margin-top: 40px;
+}
+
+/* ── Footer ─────────────────────────────────────────────── */
+.site-footer {
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  font-size: 12px;
+  padding: 18px 0;
+}
+
+/* ── Small screens ──────────────────────────────────────── */
+@media (max-width: 560px) {
+  .hero {
+    padding: 22px 20px 20px;
+  }
+
+  .stats {
+    gap: 12px 18px;
+  }
+
+  .stat + .stat {
+    padding-left: 18px;
+  }
+
+  .stat dd {
+    font-size: 24px;
+  }
+
+  .card h3 {
+    font-size: 18px;
+  }
 }

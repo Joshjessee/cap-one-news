@@ -11,7 +11,7 @@ interface Props {
 
 export default function ArticleCard({ article, alsoCovered = [] }: Props) {
   const { priority } = article;
-  const classes = ["card", priority === "high" ? "high" : "", article.relevant === false ? "dimmed" : ""];
+  const classes = ["card", priority ?? "", article.relevant === false ? "dimmed" : ""];
 
   return (
     <article className={classes.filter(Boolean).join(" ")}>
@@ -30,7 +30,9 @@ export default function ArticleCard({ article, alsoCovered = [] }: Props) {
       {article.summary ? (
         <>
           <p>{article.summary}</p>
-          {article.whyItMatters && <p className="why">Why it matters: {article.whyItMatters}</p>}
+          {article.whyItMatters && <p className="why">
+              <strong>Why it matters:</strong> {article.whyItMatters}
+            </p>}
         </>
       ) : (
         article.snippet && <p>{article.snippet}</p>
