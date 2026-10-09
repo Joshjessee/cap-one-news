@@ -1,15 +1,49 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-08T23:23:17.189Z",
+  "updatedAt": "2026-10-09T11:46:47.490Z",
   "briefing": [
-    "Treasury issued its first penalty under the outbound investment rules, tied to a China AI deal, which signals active enforcement of the regime. (The Wall Street Journal)",
-    "Senate Commerce ranking Democrat Maria Cantwell unveiled a new AI policy framework, a marker for where Democrats may head on federal AI legislation. Details were not in the summaries. (The Hill, Politico)",
-    "Reps. Carter and Thompson reintroduced the CISA Securing AI Task Force Act, which would create a task force on AI-related cybersecurity challenges. (U.S. House)",
-    "Hackers used a Chinese AI tool to attack South Korean banks, per CrowdStrike, which raises the AI-enabled cyber risk for financial institutions. Separately, Treasury is using data and analytics to fight payments fraud. (The New York Times, The Wall Street Journal, Payments Dive)",
-    "On the White House side, Trump said AI critics are wrong because the White House uses AI itself, and the administration will receive $100 million in compute credits for an AI-for-science initiative. A Reuters/Ipsos poll finds most voters think Trump and Congress aren't taking AI risks seriously. (Axios, Politico, Reuters)"
+    "Sen. Maria Cantwell, the top Democrat on Senate Commerce, unveiled a new AI policy framework; details were not in the coverage provided, but it is a marker for where Democrats may steer Commerce-led AI legislation. (The Hill, Politico)",
+    "Treasury issued its first enforcement penalty under the outbound investment rules, tied to an AI deal in China, signaling active enforcement on AI-related cross-border investment. (The Wall Street Journal)",
+    "Reps. Carter and Thompson reintroduced the CISA Securing AI Task Force Act, which would create a task force at CISA to address AI-related cybersecurity challenges. (U.S. House)",
+    "Treasury is using data and analytics to combat payments fraud, which is relevant to AI and fraud tools in financial services. Separately, CrowdStrike says a hacker used a Chinese-developed AI tool to target South Korean banks. (Payments Dive, The New York Times)",
+    "Public and political pressure on AI is building: Reuters/Ipsos and AP-NORC polls show most Americans think AI is moving too fast and that Trump and Congress aren't taking its risks seriously. Trump said anyone calling AI \"THE ENEMY\" is wrong because the White House uses it, and Robert Rubin warned the AI boom carries risks for the economy and markets. (Reuters, The Washington Post, Axios, Bloomberg)"
   ],
-  "briefingUpdatedAt": "2026-10-08T23:23:17.189Z",
+  "briefingUpdatedAt": "2026-10-09T11:46:47.490Z",
   "articles": [
+    {
+      "id": "d7c9e4bbc72c82df",
+      "title": "The cost of AI uncertainty",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMVRlZGxud0NnczZaMy1MSFhXNldILTVsSEsxRjQ0ZlZQek91RUJpdTBaVkM1YzZDR1pMeEZ0aWE4a3JnT0R0WG1PblpBVjZMb0FOUGRzdE5Vc19NV1Vzc2NtbUI1YU5QSGFBVUdaNlF0LXdmaGVjYnRZNXhtTllRNmVFUG4xbUtNaUtOUzJhdFo4YlZWblBNTjMyTEtmajc1QlhCYjRR?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-09T10:55:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-09T11:46:47.490Z",
+      "relevant": true,
+      "summary": "Politico piece on the costs of uncertainty around AI policy, evidently regulatory and legislative unpredictability. Only the headline is available.",
+      "whyItMatters": "Signals how policy uncertainty may affect AI planning and investment, which is relevant to compliance strategy.",
+      "priority": "medium",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-09T11:46:47.490Z"
+    },
+    {
+      "id": "355c2c65e7e64137",
+      "title": "Cyber information-sharing law stuck in Senate stalemate",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkMzNjNUYVhrZVYwNHcyNXZQMlVZX0syV216NmZtMlJmTXhyWUhLelR6V2haUklXS1BUN3Y1eUxkSE1PUGV1TUpTY1FxZzJSdDl0VkFhWlBmS0ctWHRqdTVoRVphbEVPMFZaRWtGM0JGN0pHRUpCN2d6ZWlINGQ3dk83SExnenlHZWU1aTA1S3Z0QQ?oc=5",
+      "source": "Roll Call",
+      "paywalled": false,
+      "publishedAt": "2026-10-09T10:30:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-09T11:46:47.490Z",
+      "relevant": false,
+      "summary": "Roll Call reports that a cyber information-sharing law is stalled in the Senate. The headline does not mention AI.",
+      "whyItMatters": "It is a cybersecurity policy item of adjacent interest, but not AI policy, so it is likely not needed for AI tracking.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-09T11:46:47.490Z"
+    },
     {
       "id": "584e4e117de479ac",
       "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
@@ -43,6 +77,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-08T23:23:17.189Z"
+    },
+    {
+      "id": "4ca5a7b4d0c499e7",
+      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcXE2Zy0xZGJuSkdSY2IwWmo4aGYySGRuTktNNzItU0NiMU5LakRWNVFEdEpvcnItX1BVT3M5WWlyUjM1X2ctc08xQ1RpZENZWmxXSW56bUxvbTJPY2hfc2s1YVJHc3d5Y0haZnhkdFcxSnR0N01MVERVNE43TGw0MVk0U2xPLUYyWXhYQlRleHVPdXdKWkh6VHgxMEJ0MHVwa1Q5OHplTkR2eVNjazZrb1YycTVodHhkdFd4emMtY20tQlU4OEJLZTZVT2l0UExqSnNQeDJ1cW4wWjh3OExzMlM1UlBzcVVtNEdVV1RXRQ?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-08T17:23:53.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-09T11:46:47.490Z",
+      "relevant": true,
+      "summary": "A new AP-NORC poll finds most Americans think AI is developing too fast.",
+      "whyItMatters": "Public opinion shapes the political pressure on lawmakers and the Administration to act on AI regulation.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-09T11:46:47.490Z"
     },
     {
       "id": "1d2eb6b9c8f17a56",
