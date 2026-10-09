@@ -1,15 +1,49 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-09T17:00:44.540Z",
+  "updatedAt": "2026-10-09T22:40:58.267Z",
   "briefing": [
-    "Treasury issued its first enforcement penalty under the outbound investment rules, tied to a deal involving AI in China, a signal of how the rules will be enforced. (The Wall Street Journal)",
-    "Sen. Maria Cantwell unveiled a new AI policy framework, though details were not available in the coverage reviewed; Sen. Patty Murray separately pressed for federal AI action that does not preempt state laws, underscoring the preemption debate. (The Hill, U.S. Senate)",
-    "Reps. Carter and Thompson reintroduced the CISA Securing AI Task Force Act, which would create a task force to address AI-related cybersecurity challenges. (U.S. House)",
-    "Treasury is using data and analytics to fend off payments fraud, a development relevant to financial institutions. (Payments Dive)",
-    "Public pressure on AI oversight is building: Reuters/Ipsos finds most voters think Trump and Congress aren't taking AI risks seriously, and AP-NORC finds most Americans think AI is developing too fast, while Trump said the White House itself uses AI and dismissed calling it 'the enemy.' (Reuters, The Washington Post, Axios)"
+    "Reps. Carter and Thompson reintroduced the CISA Securing AI Task Force Act, which would create a task force at the Cybersecurity and Infrastructure Security Agency to address AI-related cybersecurity challenges. (U.S. House)",
+    "Treasury issued its first penalty under the outbound investment rules, tied to an AI deal in China, a signal of active enforcement on AI-related cross-border investment. Separately, Treasury is using data and analytics to combat payments fraud. (The Wall Street Journal, Payments Dive)",
+    "Sen. Patty Murray, after hearing from Washington state leaders on their AI regulation efforts, called for federal action that does not preempt state laws. Politico also reports Democrats are laying the groundwork for a major AI policy push. (U.S. Senate, Politico)",
+    "Trump said anyone who calls AI 'the enemy' is wrong and noted the White House itself uses AI, amid a broader fight over AI policy. (Axios, Politico)",
+    "CrowdStrike says a hacker used a Chinese-developed AI tool to target South Korean banks, which is relevant to AI-enabled threats against financial institutions. An AP-NORC poll finds most Americans think AI is developing too fast. (The New York Times, The Washington Post)"
   ],
-  "briefingUpdatedAt": "2026-10-09T17:00:44.540Z",
+  "briefingUpdatedAt": "2026-10-09T22:40:58.267Z",
   "articles": [
+    {
+      "id": "a01939760a5caa66",
+      "title": "Decoded by POLITICO",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qU1pWZUo2VmlvNnVub2pPVTJVN1VRbVh5alcyNzZNd2R5ZERZWDJzMVkyUXlkcFpEYXJWYzJxSUUyT1NYS3NUb3EzTUJMOEhxMVhXNjJ1ZWNKQkg1NlFnenl1eGl0MTQ?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-09T20:01:39.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-09T22:40:58.267Z",
+      "relevant": false,
+      "summary": "A Politico newsletter-style item titled 'Decoded by POLITICO' with no headline detail indicating a specific AI policy topic.",
+      "whyItMatters": "Nothing in the headline points to a specific policy development, so there is nothing to act on.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-09T22:40:58.267Z"
+    },
+    {
+      "id": "82e9df1c7efd9a79",
+      "title": "Democrats lay groundwork for massive AI offensive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0tUR0N3TkMxZmpfWXU3YkNpZnp2RE9lYzJlR3ZSWkstWG9iRkJIeV9YZS1QWHVmbVpJLXo2Zlo5T2s1eHhVWVBHN1NBcjVYa1hmWklhYzk4WUlBb3FjNHdFTHptWnl4Nm9TTGRzdTFqZUxsSXhpUzJXbUNsUGZYbVM1eXFoQW5YR0FRX28zaTd4S0RpVnJ5eg?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-09T15:28:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-09T22:40:58.267Z",
+      "relevant": true,
+      "summary": "Politico reports that Democrats are laying the groundwork for a large-scale push on AI policy, apparently ahead of future legislative or political efforts.",
+      "whyItMatters": "It signals where congressional Democrats may take AI legislation and oversight, which could affect the policy environment for financial services.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-09T22:40:58.267Z"
+    },
     {
       "id": "d7c9e4bbc72c82df",
       "title": "The cost of AI uncertainty",
@@ -94,6 +128,24 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-08T23:23:17.189Z"
+    },
+    {
+      "id": "234c45af5427b001",
+      "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-08T20:18:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-09T22:40:58.267Z",
+      "relevant": true,
+      "summary": "Trump said that anyone who does not call AI 'super intelligence' is 'THE ENEMY,' reported by Politico. This is the same remark covered earlier by Axios.",
+      "whyItMatters": "It shows the president's framing of AI, which may shape Administration messaging and policy direction.",
+      "priority": "medium",
+      "category": "Administration",
+      "storyId": "584e4e117de479ac",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-09T22:40:58.267Z"
     },
     {
       "id": "6d3b7d38e6c4f8ec",
