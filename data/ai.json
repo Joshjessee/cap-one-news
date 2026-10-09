@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-09T11:46:47.490Z",
+  "updatedAt": "2026-10-09T17:00:44.540Z",
   "briefing": [
-    "Sen. Maria Cantwell, the top Democrat on Senate Commerce, unveiled a new AI policy framework; details were not in the coverage provided, but it is a marker for where Democrats may steer Commerce-led AI legislation. (The Hill, Politico)",
-    "Treasury issued its first enforcement penalty under the outbound investment rules, tied to an AI deal in China, signaling active enforcement on AI-related cross-border investment. (The Wall Street Journal)",
-    "Reps. Carter and Thompson reintroduced the CISA Securing AI Task Force Act, which would create a task force at CISA to address AI-related cybersecurity challenges. (U.S. House)",
-    "Treasury is using data and analytics to combat payments fraud, which is relevant to AI and fraud tools in financial services. Separately, CrowdStrike says a hacker used a Chinese-developed AI tool to target South Korean banks. (Payments Dive, The New York Times)",
-    "Public and political pressure on AI is building: Reuters/Ipsos and AP-NORC polls show most Americans think AI is moving too fast and that Trump and Congress aren't taking its risks seriously. Trump said anyone calling AI \"THE ENEMY\" is wrong because the White House uses it, and Robert Rubin warned the AI boom carries risks for the economy and markets. (Reuters, The Washington Post, Axios, Bloomberg)"
+    "Treasury issued its first enforcement penalty under the outbound investment rules, tied to a deal involving AI in China, a signal of how the rules will be enforced. (The Wall Street Journal)",
+    "Sen. Maria Cantwell unveiled a new AI policy framework, though details were not available in the coverage reviewed; Sen. Patty Murray separately pressed for federal AI action that does not preempt state laws, underscoring the preemption debate. (The Hill, U.S. Senate)",
+    "Reps. Carter and Thompson reintroduced the CISA Securing AI Task Force Act, which would create a task force to address AI-related cybersecurity challenges. (U.S. House)",
+    "Treasury is using data and analytics to fend off payments fraud, a development relevant to financial institutions. (Payments Dive)",
+    "Public pressure on AI oversight is building: Reuters/Ipsos finds most voters think Trump and Congress aren't taking AI risks seriously, and AP-NORC finds most Americans think AI is developing too fast, while Trump said the White House itself uses AI and dismissed calling it 'the enemy.' (Reuters, The Washington Post, Axios)"
   ],
-  "briefingUpdatedAt": "2026-10-09T11:46:47.490Z",
+  "briefingUpdatedAt": "2026-10-09T17:00:44.540Z",
   "articles": [
     {
       "id": "d7c9e4bbc72c82df",
@@ -43,6 +43,40 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-09T11:46:47.490Z"
+    },
+    {
+      "id": "90d8874f38c2a023",
+      "title": "Trump to tout innovation ‘Golden Age’ amid funding cuts, researcher exodus",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnhQZ0ZzOTlYRW9OU1FSS0tpQzJtRzNrX2x1cW4wSVhOM3hzWExZT09ncG12RE9UNGRuakIyU2FWUVU5ay0wb2JCNnRLSWtDS1VwaHZZZnZNd0g1N1RsY09uZTNQMUUtZXRadW53VVZ4SzJKR2VhZktxWnQ1aGd4dHZZOE1XUS1XZ1BoRXF2UGlYQzg4WEZ0MzhkM2RNeUI2MkZWZEFVUVF4UXpzbW4wT0pjU0JXR254eVM1Mw?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-09T02:25:11.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-09T17:00:44.540Z",
+      "relevant": false,
+      "summary": "The Washington Post reports that Trump is set to promote an innovation 'Golden Age' even as research funding is cut and researchers leave. The headline gives no indication of specific AI policy action.",
+      "whyItMatters": "It is only loosely tied to science and tech policy and has no evident AI regulatory angle, so it is likely not needed reading for this team.",
+      "priority": "low",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-09T17:00:44.540Z"
+    },
+    {
+      "id": "999d29b53fac7217",
+      "title": "In Olympia, Murray Hears from State Leaders on WA Efforts to Regulate AI; Murray Emphasizes Need for Federal Action Without Preemption",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMW5rcXRQelRrMDRpc2YzQk5nU3FuX2xhejdnbkE1dnlwRVFrTG96XzZBTTlySU16bXBwNDBFYWdyYm5PMlotY0JsMUV3cXIyaXZLaTkybjlkSldDMnZsNEFWaTMyVlZ3NUp0b0dldzhOTnZDSkRSTTAzMHZ5UkhMRk05ay0tRENTbkNIYmFqUG4tOXIxUnVQOHkxVWJaRkltc216Yk13b05sdWVXbHJGUVhyeHZGX0Jucmd5MFBtVjRLTDJDV013cDJhanhxNjctMHl2QUxuTElaQ2ZxMHJvaEtkd29aVGhfUkJITDVEY1FzTU12a2c?oc=5",
+      "source": "U.S. Senate",
+      "paywalled": false,
+      "publishedAt": "2026-10-08T23:34:51.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-09T17:00:44.540Z",
+      "relevant": true,
+      "summary": "Sen. Patty Murray met with Washington state leaders in Olympia to hear about state efforts to regulate AI. She stressed the need for federal action that does not preempt state laws.",
+      "whyItMatters": "It shows where the federal preemption debate over state AI laws stands, which affects compliance planning for a national company.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-09T17:00:44.540Z"
     },
     {
       "id": "584e4e117de479ac",
