@@ -1,3 +1,4 @@
+import Logo from "@/components/Logo";
 import { passwordConfigured } from "@/lib/auth";
 
 export default async function LoginPage({ searchParams }: PageProps<"/login">) {
@@ -8,7 +9,11 @@ export default async function LoginPage({ searchParams }: PageProps<"/login">) {
   return (
     <main className="login">
       <form method="post" action="/api/login">
-        <h1>Policy News Briefing</h1>
+        <div className="login-brand">
+          <Logo size={44} />
+          <h1>Policy News Briefing</h1>
+          <p>Capital One and AI policy news, summarized and prioritized.</p>
+        </div>
         {passwordConfigured() ? (
           <>
             <label htmlFor="password">Team password</label>

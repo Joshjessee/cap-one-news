@@ -86,4 +86,5 @@ Locally, the site doesn't ask for a password unless you set `SITE_PASSWORD`.
 
 - **Add or remove an outlet**: edit `OUTLETS` in `config/sources.ts`.
 - **Change what counts as "Read first"**: edit the `guidance` text for that topic in `config/sources.ts`. It's plain English, and Claude follows it.
+- **Change the colors**: edit the variables at the top of `app/globals.css` (there's a light and a dark set). The navy and red are inspired by Capital One's colors, but the site deliberately doesn't use Capital One's logo, swoosh, typeface, or slogans, since those are trademarks. Keep it that way, and keep the trademark note in the footer (`app/(site)/layout.tsx`).
 - **Change how often it refreshes**: edit the `cron` lines in `.github/workflows/refresh-news.yml`. The times are in UTC.
