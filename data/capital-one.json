@@ -1,12 +1,29 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-10T17:51:49.609Z",
+  "updatedAt": "2026-10-11T00:14:26.270Z",
   "briefing": [
     "Discover's rotating 5% cash-back bonus categories for Q4 2026 (October through December) are now out, a routine product update for Capital One's Discover card business after the acquisition. (CNBC)",
     "Payments Dive has a piece on embedded financial products beyond software platforms; Capital One may be mentioned, but the available summary gives no detail and it appears to be background reading only. (Payments Dive)"
   ],
   "briefingUpdatedAt": "2026-10-10T17:51:49.609Z",
   "articles": [
+    {
+      "id": "629a607b1b29e08f",
+      "title": "Rangers G Igor Shesterkin out for season with lower-body injury",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFF1UjhDSWVXTGxRVE5nc1BfU0FLOWN1a3lyaW5mVm5KRWNqajh5TU1GVlVmOEk5VzVKWF9PR19UTWtDMldKNkZRa040R1hpblluSDRJRzNVZ1VMZE50aGVEQm1lX0V5YlVjRV96V1RsY2FYeTZXVHRGZ2E3VUdRTjVkMHhxSTVQcGxQaXVOM0c4RHhXaFNYUGlCcUE0SHJFblhVdzBXUHV1bk0?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-10T17:39:43.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T00:14:26.270Z",
+      "relevant": false,
+      "summary": "Reuters reports that New York Rangers goaltender Igor Shesterkin is out for the season with a lower-body injury. The headline does not mention Capital One.",
+      "whyItMatters": "This is a sports story with no evident connection to Capital One or its policy interests.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T00:14:26.270Z"
+    },
     {
       "id": "fbea4b6e9197251a",
       "title": "Capitals rally to beat the Rangers, 3-1, after New York loses Igor Shesterkin to injury",

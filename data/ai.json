@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-10T17:51:58.041Z",
+  "updatedAt": "2026-10-11T00:14:30.120Z",
   "briefing": [
     "Reps. Carter and Thompson reintroduced the CISA Securing AI Task Force Act, which would create a task force at CISA to address AI-related cybersecurity challenges. (U.S. House)",
     "Democrats are laying the groundwork for a large-scale AI policy push, while Sen. Schiff used the Punchbowl News Tech Summit to discuss AI guardrails, competition with China, and the outlook for tech regulation in the new Congress. (Politico, U.S. Senate)",
@@ -60,6 +60,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-10T17:51:58.041Z"
+    },
+    {
+      "id": "807a4816fda4f4ac",
+      "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWpxNGFmUUppOTFNODljMXFLMlUxdnpvcUlqQU9zdVNBZU5qc3ctaUpNelBXdkQwSlFDYTRrRW9Nek85ejUzZlpZcGJLNF9KclJ4b3FWSzA1dlU4WXVBaVRtMW8xVTFsZXRGU2lKbEN3TlJWUlVkZTBNcE1EZHhDQ0RDN1hOYXB20gGOAUFVX3lxTE5WN0FzTkZ5akI2eEpiMHY4dkZqSHAzMHdIM3hZT09GdzROV1lNSXM3Wi1hanBwXzJzNUIwQmZBdTZicGpUTkFCcGFVeVF3d2Ytc2hDblNVS2lieGhhZXR4Y2hMZ2NTMTUtZGRSNFNJVjdtaENwcUwybmExRHhvRU9WY2o4dlo4UURzaFZKUlE?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-09T22:22:35.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T00:14:30.120Z",
+      "relevant": false,
+      "summary": "CNBC's Jim Cramer previews the coming week, focusing on bank and chipmaker earnings reports.",
+      "whyItMatters": "This is market and earnings commentary with no federal AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T00:14:30.120Z"
     },
     {
       "id": "a01939760a5caa66",
