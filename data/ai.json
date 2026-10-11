@@ -1,14 +1,12 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-11T00:14:30.120Z",
+  "updatedAt": "2026-10-11T18:04:31.641Z",
   "briefing": [
-    "Reps. Carter and Thompson reintroduced the CISA Securing AI Task Force Act, which would create a task force at CISA to address AI-related cybersecurity challenges. (U.S. House)",
-    "Democrats are laying the groundwork for a large-scale AI policy push, while Sen. Schiff used the Punchbowl News Tech Summit to discuss AI guardrails, competition with China, and the outlook for tech regulation in the new Congress. (Politico, U.S. Senate)",
-    "Sen. Murray, after meeting Washington state leaders on their AI regulation efforts, called for federal action that does not preempt state laws, which keeps the preemption debate in play. (U.S. Senate)",
-    "Trump said that anyone calling AI 'the enemy' is wrong, pointing out that the White House itself uses AI. Politico's account frames it as the claim that those who don't call AI 'super intelligence' are 'THE ENEMY', amid a broader fight over AI policy. (Axios, Politico)",
-    "Payments Dive examines the risks agentic AI payments pose to the payments ecosystem, which is relevant to AI in financial services. Politico also has a piece on the cost of AI policy uncertainty, though only the headline was available. (Payments Dive, Politico)"
+    "The Trump administration's push on AI liability is raising questions about who bears responsibility when AI models misbehave, a potential decision point for developers, deployers, and regulated firms such as banks using AI. (Bloomberg)",
+    "A Senate release argues consumers should not have to pay for the costs of AI data centers, signaling congressional interest in electricity rates and infrastructure cost allocation tied to AI buildout. (U.S. Senate)",
+    "Sen. Schiff discussed AI guardrails, competition with China, and the outlook for tech regulation in the new Congress at the Punchbowl News Tech Summit, offering a read on likely legislative priorities. (U.S. Senate)"
   ],
-  "briefingUpdatedAt": "2026-10-10T17:51:58.041Z",
+  "briefingUpdatedAt": "2026-10-11T18:04:31.641Z",
   "articles": [
     {
       "id": "8d223abb809ea810",
@@ -45,6 +43,74 @@
       "analyzedAt": "2026-10-10T17:51:58.041Z"
     },
     {
+      "id": "4535e10bab8809d6",
+      "title": "Prominent Republican senator says Trump's Russian diesel deal may be illegal",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDdtenR1Q0JlMzNKUUlHb0ROcUkwZHVpRlQ4ZDFDT2d2WlJndmVVMldTdC1EZkp6TUhSSHNNOWU3SFh3YnJVVk1wTFZIRl9nQTh5OEhHaGtUd1ZOUmJyaGtUOFJIZkFOb2E2N1VtREhDVEZFaHVPMXdaM3pRYlVLWUxTUW45WEllbmNVQ3RQTjZBSDltRXJIbUtJVHJGcU9lVEtNMTgtT0l5VWh2Tk5YQWdma0piSGhMWDQyYkhtc0tkZ2tNelE?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-11T15:59:34.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T18:04:31.641Z",
+      "relevant": false,
+      "summary": "A Republican senator says Trump's Russian diesel deal may be illegal. The story concerns energy and sanctions, not AI.",
+      "whyItMatters": "No AI policy angle; not relevant to this team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T18:04:31.641Z"
+    },
+    {
+      "id": "6d37f509c0bf1c9d",
+      "title": "You shouldn't have to pay for AI data centers.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXRpNjVjSXc4REJiN0tDRjl2UzhYYm9SMkRLNWY4WUtBWEJHcDNLNTBXUXFEVFQzWktkSWU3SFRKQ3Ewd25NdElicFo4Ujk4WTM3VmIxdmp5RWVXaXZHYVdELXZPMkhNbmNhR045bFBGMlBQQ0g2WnlISk4ycG1MMjVDUEd4YVZ5M0JaNHlIN051OFlzTFNr?oc=5",
+      "source": "U.S. Senate",
+      "paywalled": false,
+      "publishedAt": "2026-10-11T10:08:35.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T18:04:31.641Z",
+      "relevant": true,
+      "summary": "A Senate release argues that consumers should not bear the costs of AI data centers, likely tied to electricity rates and infrastructure costs.",
+      "whyItMatters": "Signals congressional interest in data center cost allocation, which is part of the broader federal AI infrastructure debate.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T18:04:31.641Z"
+    },
+    {
+      "id": "097fcf39349b6cd6",
+      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXdBc3BKTGl3aWplclNJc2plbjFONl9tN21BemhRS2dvVTVhaUp2eTNIUzhIcUJwaHRSc0ZzTHNyY29yMHpyNVF5TEptaGF5bFRXRjlFb0x4YU5jMnozbjdWa3ZqTTJRTW9BS1lWSFl6U1BETHJPTkI4MC1lZFNDNmd2elA1OVF3ZGVBYnVacjZJRE9DVU1qUWhRcG9MTXRqaWxrM1MwQUHSAa4BQVVfeXFMUDhORjVWTE9lbnVUT2NaNzRWMm1pQ29WSEMwQ2ZFc2Flby1qMHlPVWZwanFGV1pNTVdUcWs0SXNNNHk1SEQ3NWZzQ0cteWRyeUdGV2FRaXViVndFZ2ZUVWVXeHQ5SUxFNVZVaHpXUnItZ0pSRTB2OGRuWWdmelJjSHlQc25HWlZlM3pDMUZ5dHA5Q3FPM0drOF9EWjhLemdYaGJDVm9wZXZTY1F3N3FR?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-10T15:00:01.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T18:04:31.641Z",
+      "relevant": false,
+      "summary": "JPMorgan calls fixed income a once-in-a-generation opportunity.",
+      "whyItMatters": "Market commentary with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T18:04:31.641Z"
+    },
+    {
+      "id": "b4ec4452b451758b",
+      "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlEwdWh3UlBnVFNxWEtNemNtUzI4eXppbzRTV1E5eTFkVmMyYXAxcVdXd2ZXLUtIcHhpWkRNUlFuQUd5TjE0T21MY2E4UG9xOG0wbDBDemFoMXRpQVRrYWJjU0hVN0N0eTFCd0Rnc21CbTF2NURqWllxZzF6RmZXZkExX1JxZVk5cGczRG16dktMRE5sTk1vTDQ1YVdDTWI5TnR5Mm93UndTWDBZZDM1aTlHdWdoZw?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-10T14:19:14.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T18:04:31.641Z",
+      "relevant": true,
+      "summary": "Bloomberg reports that the Trump administration's push on AI liability is raising questions about who is responsible when AI models behave badly.",
+      "whyItMatters": "Liability rules for AI developers and deployers could affect how banks use and procure AI systems.",
+      "priority": "high",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T18:04:31.641Z"
+    },
+    {
       "id": "d2ce477426d952ac",
       "title": "ICYMI: Sen. Schiff Talks AI Guardrails, Competition with China, and Outlook for Tech Regulation in New Congress at Punchbowl News Tech Summit",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQODFiMHhaUF9CVmNZZENjZ0VRQ0dYRFRuVkliQlcwZXVxM2pkWEdueXVYT1ZUeVcxNnBrWlRkRmcxbDE4ZTdYeDllNnJMVjllanhsT1RZYWNEWmctVEhaUUQ1ZF9kMG5lRFZ1c20zUU00Y2c0M0FZT2twbGthLU5HQUc3Q1NDN3gxazRCWmlUME1qS0pYaXhNY3R4TkVvX2JtLUI4QXo4VGxrMmNPWXZwVUNTWVJVY1JmLUdubVlfR2ZTSGRNbk1kdnBuQ0c4VTRncDJFVXFETXI1Vm1xNXQ2RHhyNlpjOHZuRnRCcEJNX0hFQ1QtS2JOV1BCLUttcDZSSUVzMS15X2lHVTN3SU1KUGNBTC0wRE0?oc=5",
@@ -79,6 +145,23 @@
       "analyzedAt": "2026-10-11T00:14:30.120Z"
     },
     {
+      "id": "0835f624425be719",
+      "title": "In our current system, Congress’s crazy behavior is actually rational",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkNiVG1ncGIxM0E2TG1xQVl0RmlNeHh0aGpRckxNaE1MMXY5NmpQb0V5WVFHLWNSemJORFh0X2NWQml3dDA4SFBGQllwcmtIUThVWjBzb3BtdEVUTTItMmxoTzRVekpOUlpvbVp6N2R5THBkUFRtcmJSb3dscmx6cmFsMVZDaUk?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-09T20:49:17.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T18:04:31.641Z",
+      "relevant": false,
+      "summary": "An opinion piece argues that Congress's seemingly irrational behavior is rational under the current system.",
+      "whyItMatters": "General congressional commentary with no AI policy focus.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T18:04:31.641Z"
+    },
+    {
       "id": "a01939760a5caa66",
       "title": "Decoded by POLITICO",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qU1pWZUo2VmlvNnVub2pPVTJVN1VRbVh5alcyNzZNd2R5ZERZWDJzMVkyUXlkcFpEYXJWYzJxSUUyT1NYS3NUb3EzTUJMOEhxMVhXNjJ1ZWNKQkg1NlFnenl1eGl0MTQ?oc=5",
@@ -94,6 +177,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-09T22:40:58.267Z"
+    },
+    {
+      "id": "4852e4333276ede5",
+      "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNi1iY054UEl5aTlvS1BuX19XMlFXSko5ZEJydGxWQTZpXzV2ME90MFdob0gyeUo4TXRJcWFpc0JEOXBaMW5TTlF1M0ZoSHBQRTJPajNBLU15UmVUZU5pay01QkQ3TTNqNVNIZE5tTS1FZ3otUGR6MlA1Ul9HaUVCcDloUU9RZFk3T0Q2cWZmS05IX1RfeFJsRDI0Vk1hanNqYnhwZUYzaXhHRm9id2ozV0h5c2pTY21DMHB3YlowTUpFeXM?oc=5",
+      "source": "U.S. House",
+      "paywalled": false,
+      "publishedAt": "2026-10-09T16:28:33.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T18:04:31.641Z",
+      "relevant": true,
+      "summary": "Rep. Barrett introduced legislation to address growing threats from artificial intelligence and other emerging technologies.",
+      "whyItMatters": "A new House AI bill that is worth tracking for its scope and any link to financial services or security.",
+      "priority": "high",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T18:04:31.641Z"
     },
     {
       "id": "2593377c8e4f346d",
@@ -145,6 +245,23 @@
       "category": "Treasury",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-10T17:51:58.041Z"
+    },
+    {
+      "id": "31cc5b4f82f70fe5",
+      "title": "Inside Congress Live, Oct 09, 2026 - Live Updates",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KamZfUTJ6ZktlcmFiWGVZdmhqME1sOWhRd0tfYTNIVVpIc1NXS3JKMDV3U1c3dUoxR0d3aUdqLVgtSzVxMzU4U1pqN0JUU0RwUFo4bHdxVXdMUQ?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T18:04:31.641Z",
+      "relevant": false,
+      "summary": "Politico's live updates cover the day in Congress, and the headline gives no indication of AI content.",
+      "whyItMatters": "Nothing in the headline points to AI policy; low value for this team.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T18:04:31.641Z"
     },
     {
       "id": "d7c9e4bbc72c82df",
@@ -213,6 +330,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-09T17:00:44.540Z"
+    },
+    {
+      "id": "4bc98a0a35dcc9b0",
+      "title": "AI safety framework floated by Democratic duo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVRlWFhpTHRBcUVxcDMwVE9sNUhCdGNvSjd5eFdYOWZCNjJIS0NCdUtWM2VYbksxdmtEQl9tVDluVEJzcGVvNkpVeExUdHdaX2FFdlhwSXNJbC1zMHlZQ2NNWnc4M0RQb1FHZGs1b2N6TjBnaWc5MWpaX3lCdFZTeGw1QUNWQmRGcHZBdWVuRWtjdDFjQ3l3ejhIQQ?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-08T22:55:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-11T18:04:31.641Z",
+      "relevant": true,
+      "summary": "Two Democratic lawmakers have floated an AI safety framework, according to Politico.",
+      "whyItMatters": "It shows where Democratic AI legislation may be heading, which could shape future federal AI rules.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-11T18:04:31.641Z"
     },
     {
       "id": "e9bf9cf41670ae82",
