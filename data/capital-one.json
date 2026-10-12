@@ -1,13 +1,28 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-12T11:46:38.435Z",
+  "updatedAt": "2026-10-12T19:49:22.511Z",
   "briefing": [
-    "Discover's rotating 5% cash-back bonus categories for Q4 2026 (October through December) are out, a routine product update for the card now under Capital One. (CNBC)",
-    "Payments Dive ran a piece on embedded financial products beyond software platforms; the teaser gives no detail on Capital One, so treat it as a low-priority mention. (Payments Dive)",
-    "No regulatory, legal, congressional, or enforcement developments involving Capital One appear in today's articles."
+    "Capital One is likely among the issuers in CNBC's roundup of the best beginner travel credit cards for 2026, but the mention is incidental and low priority; nothing here involves regulators, Congress, courts, enforcement, or the Discover deal. (CNBC)"
   ],
-  "briefingUpdatedAt": "2026-10-11T18:04:27.805Z",
+  "briefingUpdatedAt": "2026-10-12T19:49:22.511Z",
   "articles": [
+    {
+      "id": "8439668f5de59217",
+      "title": "Where platforms are losing (and winning) merchants: Inside switching triggers",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVhjUVhnd01uMlJ0N1dPdlRGR2x4dUNLcFZ1X3NlRnV5YnRZZzluRkhLMm1uRXhQdURnNllPVi1kMFExVklZUzc1UU9RSmhuQWxaOVJXUnZwa3QwQWZtMHZaSmUzazNaN093aVdRV0xpbWtjdHJRWlFrTW5sLXlsTFNyRDZTcTdjaXozbWpYQmtxaVZhTWh5bXdUaC11eXRHekdGT1VjLXFjandFT1lKbDJpX0x0Zw?oc=5",
+      "source": "Payments Dive",
+      "paywalled": false,
+      "publishedAt": "2026-10-12T12:59:11.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-12T19:49:22.511Z",
+      "relevant": false,
+      "summary": "A Payments Dive piece on why merchants switch payment platforms and what triggers those moves. The headline does not mention Capital One, and no teaser is available.",
+      "whyItMatters": "Nothing visible ties this to Capital One, so it is likely not relevant unless the full text covers the company or Discover.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-12T19:49:22.511Z"
+    },
     {
       "id": "d21dc0fd97bdadcf",
       "title": "Ovechkin finds the net for first goal, but Capitals fall to Kraken",
