@@ -1,12 +1,12 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-11T18:04:31.641Z",
+  "updatedAt": "2026-10-12T00:31:57.027Z",
   "briefing": [
-    "The Trump administration's push on AI liability is raising questions about who bears responsibility when AI models misbehave, a potential decision point for developers, deployers, and regulated firms such as banks using AI. (Bloomberg)",
-    "A Senate release argues consumers should not have to pay for the costs of AI data centers, signaling congressional interest in electricity rates and infrastructure cost allocation tied to AI buildout. (U.S. Senate)",
-    "Sen. Schiff discussed AI guardrails, competition with China, and the outlook for tech regulation in the new Congress at the Punchbowl News Tech Summit, offering a read on likely legislative priorities. (U.S. Senate)"
+    "The Trump administration's push on AI liability is raising questions about who bears responsibility when AI models behave badly, a framework that could matter for financial institutions deploying models. (Bloomberg)",
+    "A Senate release argues consumers should not have to pay for AI data center costs, signaling congressional interest in electricity rates and infrastructure burdens tied to AI buildout. (U.S. Senate)",
+    "Sen. Schiff discussed AI guardrails, competition with China, and the outlook for tech regulation in the new Congress at the Punchbowl News Tech Summit. (U.S. Senate)"
   ],
-  "briefingUpdatedAt": "2026-10-11T18:04:31.641Z",
+  "briefingUpdatedAt": "2026-10-12T00:31:57.027Z",
   "articles": [
     {
       "id": "8d223abb809ea810",
@@ -58,6 +58,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-11T18:04:31.641Z"
+    },
+    {
+      "id": "302a3c4729fd3b5b",
+      "title": "Marshall pays bakery bill after complaint goes viral",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Z2g4dTRMb3ZWd1J0X3pUazRKRTZENDFRM3c5cWZwUU53SmhkVmVWVFFXRVZzRVpXOWZ5eWRFQ0lhbFZ6WW44LWRfc2lMTkVyR3FMbENMRWMxbmF1elB5VDg1RVlaUHhfR3V6M2xtQjVfQkREMTFhRmFuUm0tcWfSAYQBQVVfeXFMUC1Id2dHczBtbjV3UlQ0ZFhNbGdyOHhQUllJekFFWG81ZjFNWjJsSzNqYU53RldhYWJjVHpLWHlCU1BPRkpvZjRzTEJOOERIemF3VnJsSlc3UmZ2dU9ETlV3eGhoZnQzbXBGU2kzaEdvMjlnUVI2UDdPbHB1Y0FvdHdGc2Vp?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-11T15:19:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-12T00:31:57.027Z",
+      "relevant": false,
+      "summary": "Per the headline, Sen. Marshall paid a bakery bill after a complaint about it went viral. No AI policy angle is evident.",
+      "whyItMatters": "Not related to AI policy or financial services regulation.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-12T00:31:57.027Z"
     },
     {
       "id": "6d37f509c0bf1c9d",
@@ -177,6 +194,40 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-09T22:40:58.267Z"
+    },
+    {
+      "id": "d9dcf229ceae47ba",
+      "title": "Coordinating AI Guardrails",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44LTVUYkNOZjRaOEpTQTBEaGlGdFd6ejFsa2hpLWNpX2tJV3pJbTkwMVlzUTQ2eGxXMDh2U3BSMkZTTFNTamExUlhzX1Flb1MtTDdzeVp0UjRRV0ZuUXk3ZDcwR2diSW1yXzlXMk1QZGk?oc=5",
+      "source": "U.S. House",
+      "paywalled": false,
+      "publishedAt": "2026-10-09T19:13:52.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-12T00:31:57.027Z",
+      "relevant": true,
+      "summary": "A House-published item titled 'Coordinating AI Guardrails' appears to address how AI safeguards should be coordinated across government. Only the headline is available, so details are unclear.",
+      "whyItMatters": "It may signal House activity on federal AI guardrails or coordination that could affect the regulatory landscape for financial services.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-12T00:31:57.027Z"
+    },
+    {
+      "id": "cd4c837c1601b437",
+      "title": "Bearish Bond Narrative Has Gone Too Far, Deutsche Bank Says",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHVORVFlYlB1T1haZTRfVWRrM21GR18tN2RHeXBfd3FuTnQ2N2hjSHNBVWQwd0pvdmhxUlhBTHU3WW1FN2JCTERncElxZXRsOGwxRS0yQXRDRHVkaThTUnEtTVFzdUtWY3BJZWRTM1MteUo1WGd1al9DT3lYXzdzUWU2MXhTLWJvVG9aRHdyZG0zNW82QUUxRElnUU9fZHU1bUZkbXVmdG5hcWRrWUE?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-09T16:39:49.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-12T00:31:57.027Z",
+      "relevant": false,
+      "summary": "Deutsche Bank argues that the bearish narrative on bonds has been overdone. This is a market commentary piece.",
+      "whyItMatters": "It is bond market news with no AI policy or government action on AI.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-12T00:31:57.027Z"
     },
     {
       "id": "4852e4333276ede5",
