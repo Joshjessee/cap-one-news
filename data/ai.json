@@ -1,12 +1,12 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-12T00:31:57.027Z",
+  "updatedAt": "2026-10-12T11:46:43.178Z",
   "briefing": [
-    "The Trump administration's push on AI liability is raising questions about who bears responsibility when AI models behave badly, a framework that could matter for financial institutions deploying models. (Bloomberg)",
-    "A Senate release argues consumers should not have to pay for AI data center costs, signaling congressional interest in electricity rates and infrastructure burdens tied to AI buildout. (U.S. Senate)",
-    "Sen. Schiff discussed AI guardrails, competition with China, and the outlook for tech regulation in the new Congress at the Punchbowl News Tech Summit. (U.S. Senate)"
+    "The Trump administration's push on AI liability is raising questions about who bears responsibility when AI models misbehave, a key issue for firms deploying models in regulated settings like financial services (Bloomberg)",
+    "A Senate release argues consumers should not have to pay for AI data centers, likely signaling congressional interest in electricity rates and infrastructure costs tied to AI buildout (U.S. Senate)",
+    "The UK has reversed course on plans, tied to Trump administration positions, to hold back access to OpenAI and Anthropic models; details are limited, but it points to evolving cross-border handling of frontier model access (Bloomberg)"
   ],
-  "briefingUpdatedAt": "2026-10-12T00:31:57.027Z",
+  "briefingUpdatedAt": "2026-10-12T11:46:43.178Z",
   "articles": [
     {
       "id": "8d223abb809ea810",
@@ -41,6 +41,23 @@
       "category": "Financial Regulators",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-10T17:51:58.041Z"
+    },
+    {
+      "id": "9b40905bc9b0f1d9",
+      "title": "UK Reverses Trump Plans to Keep Back OpenAI, Anthropic Models",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFNDcUJ6c1JhdEw2SjZ3TmNoZ1FSMzRXcWNrUjlxeFk2N3dHbEk2N01YN0UwSlBxVm9YQnA3TWVwU3lud1lldHQ0SV9NbWxLd2tadmRDWTM4NXIzWF9mV0d0c0tLOUk1eGRNd0QwZ21HSnlCbjJiS0dvUVh4SGljWWxxU1J2T2dIR18yaExLQWktV0pjMUFzUXZJZXhaU2xJclc1WVBMLXdRM0hvazhqdw?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-12T11:05:05.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-12T11:46:43.178Z",
+      "relevant": true,
+      "summary": "Bloomberg reports the UK has reversed course on plans, tied to Trump administration positions, to keep back access to OpenAI and Anthropic models. Details are limited to the headline.",
+      "whyItMatters": "It signals how US-UK coordination on frontier AI model access and export-style controls is shifting, which could affect the wider federal AI policy landscape.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-12T11:46:43.178Z"
     },
     {
       "id": "4535e10bab8809d6",
@@ -160,6 +177,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-11T00:14:30.120Z"
+    },
+    {
+      "id": "595ace3fff3663e3",
+      "title": "Kentucky U.S. Senate Election 2026: Latest Polls",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckdfSE1VUG5vQjA1S0RkeExWUU5IU2xzMEsxcWNBNzRvYVdqMWlOODVvRno0Sk9pNW9tUHFFS3A4b0ZtSDZhaFhZbG9YQ0pEc2F2ZzFoZEo3VThlNW8zczM0QWFsaDlpSmRuU1lPRFM5YkF0RmlKLVJsVnZVTGcwY3Izc3J0UFFGQWk1a0JB?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-09T22:12:13.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-12T11:46:43.178Z",
+      "relevant": false,
+      "summary": "A polling roundup for the 2026 Kentucky U.S. Senate election.",
+      "whyItMatters": "It has no AI policy angle, so the team needn't read it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-12T11:46:43.178Z"
     },
     {
       "id": "0835f624425be719",
@@ -2045,23 +2079,6 @@
       "relevant": false,
       "summary": "NIST publication on a price and voltage-responsive device controller for GridLAB-D simulations.",
       "whyItMatters": "Energy research, not AI policy.",
-      "priority": "low",
-      "category": "NIST",
-      "analyzedAt": "2026-10-05T15:37:22.404Z",
-      "analysisVersion": 2
-    },
-    {
-      "id": "5fd4e8556bcda9ee",
-      "title": "Search News and Updates",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0ZxUURPeDdlcjhNeGFVaENBN3AwXzVJZFBGRVdrQmprcWw0WGVrT3Q2Y0c5TUtOS09EZDhrYUU4THoxSVAwOUNXLUxoYjJfQXZHTVdqU2FMMFEyR3RSdW5KWkVSaWpGWjlkX2VUbHhLVDZMZzBXTnhtWi1qYS1yYWR0QWlKN0JqNkdjUUcxQWdjUFNFVzlxMURsaWN3a1RaeWR3cy1TanpwSVk5eEE?oc=5",
-      "source": "NIST",
-      "paywalled": false,
-      "publishedAt": "2026-09-28T10:19:52.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": false,
-      "summary": "A generic NIST news search page.",
-      "whyItMatters": "No specific content or policy action.",
       "priority": "low",
       "category": "NIST",
       "analyzedAt": "2026-10-05T15:37:22.404Z",

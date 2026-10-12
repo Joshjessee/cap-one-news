@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-12T00:31:52.213Z",
+  "updatedAt": "2026-10-12T11:46:38.435Z",
   "briefing": [
     "Discover's rotating 5% cash-back bonus categories for Q4 2026 (October through December) are out, a routine product update for the card now under Capital One. (CNBC)",
     "Payments Dive ran a piece on embedded financial products beyond software platforms; the teaser gives no detail on Capital One, so treat it as a low-priority mention. (Payments Dive)",
@@ -8,6 +8,40 @@
   ],
   "briefingUpdatedAt": "2026-10-11T18:04:27.805Z",
   "articles": [
+    {
+      "id": "d21dc0fd97bdadcf",
+      "title": "Ovechkin finds the net for first goal, but Capitals fall to Kraken",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemRTOTY1YTZXdFFTcHdTUk5ucmFKN1RUeFJZeWNhV3p6UkJRYTljTnVxZVRkQkpWY3JEd2gtdjBmSEFiRUhzYjRadDc4RG0zRVZaVl84NTZGVzJHYzItbGVRRHJ5elNuUUJ5RkdfSjdEbFVyV0txcmx6V003MldXUmsyeDBaeUxmTFE5U0VvYVg5OUtQZENsSkNFcGd6bXdYZ1E?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-12T04:05:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-12T11:46:38.435Z",
+      "relevant": false,
+      "summary": "Washington Post game report: Alex Ovechkin scored his first goal of the season, but the Capitals lost to the Kraken.",
+      "whyItMatters": "Sports story with no evident connection to Capital One as a company; any link would only be the arena name.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-12T11:46:38.435Z"
+    },
+    {
+      "id": "914d7b09f18f3feb",
+      "title": "NHL roundup: With fifth straight victory, Canes keep Flyers winless",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xCU2RsWHpaOXRqMzh1ZTI1aXhUQmxpY2FnUmdIZ05QTzRUc25NQ0dUOTJsbkZHX1czN1FEN2l6N0I0bW5UaHQtbWFzeEVkSVYyMF9JYW03QzAxRk96T0FsdWRoS0ZfWmxucVJ6SFNkYThnaEhQOXJmakdaRC1USHRLdmFfR1ppQWQ2Q3ZRU3d2RDJwd1BIT2tJOEh0UGl4RWhTVjlvaXJONkg0d3BEWDZuaw?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-12T02:44:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-12T11:46:38.435Z",
+      "relevant": false,
+      "summary": "Reuters NHL roundup: the Hurricanes won their fifth straight game and kept the Flyers winless.",
+      "whyItMatters": "Sports results with no apparent connection to Capital One; the team needn't read it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-12T11:46:38.435Z"
+    },
     {
       "id": "3f0d46281322b6ba",
       "title": "Kraken continue explosive offensive start, outlast Capitals",
