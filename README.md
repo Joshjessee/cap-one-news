@@ -36,12 +36,17 @@ The site never copies articles. It shows the headline, the outlet, and the AI su
 | `data/*.json` | The saved news (written by the refresh job, read by the site) |
 | `app/` | The website pages (Next.js) |
 | `components/` | Pieces of the pages (article card, filters, tabs) |
+| `app/opengraph-image.tsx` | The preview picture shown when someone shares a link to the site |
+| `app/robots.ts`, `app/sitemap.ts` | Tell search engines they can list the site, and which pages it has |
+| `lib/site.ts` | The site's name, description, and web address |
 | `.github/workflows/refresh-news.yml` | The schedule that runs the refresh |
 
 ## One-time setup
 
 1. **Anthropic API key**: create one at <https://console.anthropic.com> (Settings → API keys) and add some credit. Then in GitHub open this repo's **Settings → Secrets and variables → Actions → New repository secret**, name it `ANTHROPIC_API_KEY`, and paste the key.
-2. **Vercel**: import this GitHub repo at <https://vercel.com/new> and deploy. No environment variables are needed there.
+2. **Vercel**: import this GitHub repo at <https://vercel.com/new> and deploy. No environment variables are needed there. Then:
+   - **Turn on visitor stats**: open the project → **Analytics** tab → **Enable**. The site already includes the tracking code; this switch starts collecting. It doesn't use cookies.
+   - **Make sure the public can see it**: **Settings → Deployment Protection**. If "Vercel Authentication" covers production, visitors will be asked to log in to Vercel. Set it to preview deployments only.
 3. **Merge to `main`**: GitHub only runs scheduled jobs from the default branch.
 4. **First refresh**: GitHub → **Actions** → **Refresh news** → **Run workflow**. A couple of minutes later the site has news.
 
@@ -74,7 +79,8 @@ npm run dev                  # open http://localhost:3000
 
 ## Costs
 
-- **Vercel and GitHub Actions**: free tiers are enough.
+- **Vercel and GitHub Actions**: free tiers are enough (including Web Analytics, up to a monthly visit limit).
+- **More visitors don't cost more**: Claude writes the summaries once, in the scheduled refresh, not for each visitor.
 - **Claude**: uses Claude Sonnet 5.5 at low effort. Only new articles are sent, in batches, and the briefing is only rewritten when a medium- or high-priority article arrives (or once a day). Expect roughly $4–7 a month. You can see actual usage under **Usage** in the Anthropic console. To switch models, change `MODEL` in `lib/claude.ts`.
 
 ## Common changes
@@ -83,3 +89,5 @@ npm run dev                  # open http://localhost:3000
 - **Change what counts as "Read first"**: edit the `guidance` text for that topic in `config/sources.ts`. It's plain English, and Claude follows it.
 - **Change the colors**: edit the variables at the top of `app/globals.css` (there's a light and a dark set). The navy and red are inspired by Capital One's colors, but the site deliberately doesn't use Capital One's logo, swoosh, typeface, or slogans, since those are trademarks. Keep it that way, and keep the trademark note in the footer (`app/(site)/layout.tsx`).
 - **Change how often it refreshes**: edit the `cron` lines in `.github/workflows/refresh-news.yml`. The times are in UTC.
+- **Change the link-preview picture**: edit `app/opengraph-image.tsx`. To check how a link will look, paste it into <https://www.opengraph.xyz>.
+- **Hide the site from Google again**: in `app/robots.ts`, change `allow: "/"` to `disallow: "/"`.
