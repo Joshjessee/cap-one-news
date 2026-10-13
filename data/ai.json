@@ -1,12 +1,12 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-12T19:49:30.178Z",
+  "updatedAt": "2026-10-13T02:02:29.080Z",
   "briefing": [
-    "The Trump administration's push on AI liability is raising questions about who bears responsibility when AI models misbehave, a key issue for firms deploying models in regulated settings like financial services (Bloomberg)",
-    "A Senate release argues consumers should not have to pay for AI data centers, likely signaling congressional interest in electricity rates and infrastructure costs tied to AI buildout (U.S. Senate)",
-    "The UK has reversed course on plans, tied to Trump administration positions, to hold back access to OpenAI and Anthropic models; details are limited, but it points to evolving cross-border handling of frontier model access (Bloomberg)"
+    "Officials from the US government's AI testing agency are reportedly moving to the White House, a shift that could change how federal AI evaluation and standards work is directed. The report is secondhand and details are limited. (Reuters)",
+    "The UK has reversed course on plans, tied to Trump administration positions, to hold back access to OpenAI and Anthropic models. Bloomberg's report is thin on detail, but it points to ongoing US-UK friction over frontier model access and testing. (Bloomberg)",
+    "A U.S. Senate release argues consumers should not bear the costs of AI data centers, likely a reference to electricity rates and infrastructure costs. It signals congressional interest in the energy and cost side of AI buildout, though no specific bill or action is cited. (U.S. Senate)"
   ],
-  "briefingUpdatedAt": "2026-10-12T11:46:43.178Z",
+  "briefingUpdatedAt": "2026-10-13T02:02:29.080Z",
   "articles": [
     {
       "id": "8d223abb809ea810",
@@ -41,6 +41,57 @@
       "category": "Financial Regulators",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-10T17:51:58.041Z"
+    },
+    {
+      "id": "ea86872be0b668d9",
+      "title": "San Diego Police Department Is Weighing Using AI to Write Police Reports",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeUxocEdLTWNmaXV3eWFmT3l1NWN6Q3QtXzdRWjVlcVFFczgxTFdyQTZvZE1Hdl9pMC05SGI1c3pSSWtKNmtHa3NUb1YzRDZJeWpoMFFyNzFnYnB2ODJqM0hIMkNlX0w2ZFVaN2xVX2ZSZFdieTNjUWs1RnlQTEFVZVcxT1JpRVI1aU1tOFRqbjVGSzliZnFRQ09mZlhSUHhPOGR4WW50ZWZmY214dEhMa3hnSlJNUzYzVHhUUG9neFdhbjNYVERxRDNaenhIekVvYThOb3prcFNTT0tRaWY3cw?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-13T00:06:45.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-13T02:02:29.080Z",
+      "relevant": false,
+      "summary": "The San Diego Police Department is considering using AI to draft police reports. This is a local government decision.",
+      "whyItMatters": "Local law enforcement AI use has little bearing on federal AI policy or financial services.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-13T02:02:29.080Z"
+    },
+    {
+      "id": "2df5a5c34e66f3fc",
+      "title": "Failed Firmus IPO Reverberates Across Asia’s Listings Market",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNalhjWG9kWU9ESUJSVEtOUm10anlnb0F0NVN5QUVvTW8xS2ZSRzM0SU9pZEg1T3BFalF0T3Q4cjhMckdlYXd4Z1dncmVPMy0xV2o2ZzBxRU9TdS1nbnRyZHNqZUczRElqaEozTzhlTm9JSzdJVjZDWmNoNE9WcnZkUC1xbkFsa05GWWZhYUdfTExvTXJiaTktLXFla1BRdU1BVVBNVTZXYVlsMmlTZVo0dk1McUlwODU3cDdsNDVsZlZ4MlM2RVI0eGJnWQ?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-12T21:39:04.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-13T02:02:29.080Z",
+      "relevant": false,
+      "summary": "A failed IPO of Firmus is affecting sentiment in Asia's listings market.",
+      "whyItMatters": "This is market news with no evident U.S. federal AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-13T02:02:29.080Z"
+    },
+    {
+      "id": "b592b5ff570f867a",
+      "title": "US AI testing agency officials to move to White House, The Information reports",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3NjZGpMYnpWV3ZoWUNuOEFsWnROQzNvT3Y0dnRzdWhMLWZKS2NqY09USExBZWZlRFZmWndkM0sxRDlFOTBZQW1yNk5ZSk9jVURtbldzUFU2SFoydGRLaUp5cEZodnFBZHYyRmxsOTJoRnBHUnNQekdEQ1JmRUFlUk9HTy1QTmVWYkZ0ZlF5R2VYYTZhUU1VaEM0cGgxM1p1R3JTd255NDZEQ3Y1b29IQ1RfTW5RU0U?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-12T20:09:55.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-13T02:02:29.080Z",
+      "relevant": true,
+      "summary": "Reuters, citing The Information, reports that officials from the US government's AI testing agency are moving to the White House.",
+      "whyItMatters": "It signals a shift in where federal AI evaluation and oversight is housed, which could affect how AI standards and model testing are set.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-13T02:02:29.080Z"
     },
     {
       "id": "014c0923f4029acd",
