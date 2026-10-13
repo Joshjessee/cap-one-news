@@ -1,6 +1,6 @@
 # Policy News Briefing (cap-one-news)
 
-A password-protected website with two pages:
+A public website with two pages:
 
 1. **Capital One**: every article from a reputable outlet that mentions Capital One.
 2. **AI Policy**: Congress, the Administration, NIST, and Treasury on AI.
@@ -36,17 +36,14 @@ The site never copies articles. It shows the headline, the outlet, and the AI su
 | `data/*.json` | The saved news (written by the refresh job, read by the site) |
 | `app/` | The website pages (Next.js) |
 | `components/` | Pieces of the pages (article card, filters, tabs) |
-| `proxy.ts`, `lib/auth.ts` | The shared-password protection |
 | `.github/workflows/refresh-news.yml` | The schedule that runs the refresh |
 
 ## One-time setup
 
 1. **Anthropic API key**: create one at <https://console.anthropic.com> (Settings → API keys) and add some credit. Then in GitHub open this repo's **Settings → Secrets and variables → Actions → New repository secret**, name it `ANTHROPIC_API_KEY`, and paste the key.
-2. **Vercel**: import this GitHub repo at <https://vercel.com/new>. Under **Environment Variables**, add `SITE_PASSWORD` set to the password you'll share with the team. Then deploy.
+2. **Vercel**: import this GitHub repo at <https://vercel.com/new> and deploy. No environment variables are needed there.
 3. **Merge to `main`**: GitHub only runs scheduled jobs from the default branch.
 4. **First refresh**: GitHub → **Actions** → **Refresh news** → **Run workflow**. A couple of minutes later the site has news.
-
-If you change `SITE_PASSWORD` in Vercel, redeploy for it to take effect. Everyone will need the new password.
 
 ### Backup timer (recommended)
 
@@ -74,8 +71,6 @@ npm run refresh -- --no-ai   # fetch headlines only (free)
 npm run refresh              # with summaries (needs ANTHROPIC_API_KEY in your environment)
 npm run dev                  # open http://localhost:3000
 ```
-
-Locally, the site doesn't ask for a password unless you set `SITE_PASSWORD`.
 
 ## Costs
 
