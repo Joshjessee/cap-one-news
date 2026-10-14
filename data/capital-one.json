@@ -1,11 +1,29 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-14T11:46:27.025Z",
+  "updatedAt": "2026-10-14T15:11:23.384Z",
   "briefing": [
-    "Low-priority item: CNBC's roundup of the best travel credit cards for beginners in 2026 likely includes Capital One among the featured issuers, though the headline does not name it and the summary is not confirmed; no regulatory, legal, or Discover-related developments are reported. (CNBC)"
+    "A top regulator says big banks turned away customers for political reasons, per Axios; the report doesn't explicitly name Capital One, so it's unclear whether the company is implicated, but the debanking issue is worth monitoring for policy implications. (Axios)",
+    "CNBC published a roundup of the best beginner travel credit cards for 2026 that likely features Capital One among issuers, though the headline doesn't confirm it; this is a low-priority, passing mention. (CNBC)"
   ],
-  "briefingUpdatedAt": "2026-10-13T22:47:37.194Z",
+  "briefingUpdatedAt": "2026-10-14T15:11:23.384Z",
   "articles": [
+    {
+      "id": "23ba58073e27baf1",
+      "title": "Top regulator says big banks rejected customers over politics",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5UHI1enhSa1JlT2ZTSEdVbWFaUFR5RTRQZWlhdzdXYkQ5RURVT1FRVEdnUG5uUVdmbmtmSHJnS21iMXVHeHhzSVFweEthMXhBd1hhS0htd3FvTFhpUWtiMU5uV3VvQXgybzB0aXln?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-10-14T11:56:51.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-14T15:11:23.384Z",
+      "relevant": true,
+      "summary": "Axios reports that a top regulator says big banks turned away customers for political reasons. The headline doesn't name Capital One, but it is presumably among the large banks implicated or covered by the claim.",
+      "whyItMatters": "A regulator's 'debanking' allegations against big banks could lead to scrutiny, enforcement, or policy changes that affect Capital One, though its role isn't confirmed from the headline.",
+      "priority": "medium",
+      "category": "Regulation & Policy",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-14T15:11:23.384Z"
+    },
     {
       "id": "6d85b00b0aa88405",
       "title": "Kennedy Center names artistic director with deep ties to Trump-era overhaul",
