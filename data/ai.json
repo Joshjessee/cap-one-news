@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-15T19:54:20.154Z",
+  "updatedAt": "2026-10-15T23:05:35.187Z",
   "briefing": [
     "White House 'Super Intelligence' Task Force is set to hold its first meeting; mandate and membership details are not yet clear, but it signals a new Administration coordination body on AI. (Politico)",
     "Treasury is urging global partners to adopt the term 'super intelligence' in place of 'AI', a framing shift worth watching for financial-sector AI messaging and international coordination. (Reuters)",
@@ -10,6 +10,23 @@
   ],
   "briefingUpdatedAt": "2026-10-15T19:54:20.154Z",
   "articles": [
+    {
+      "id": "09974331668ee288",
+      "title": "Rep. Gluesenkamp Perez Introduces Legislation to Target Scammers who Prey on Older Americans",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQUxVX2hkWFQ2bVRETTNxX0JVQmVXNWdnb3BzUjA2SWpJTUx5SDhaMm9XTFkzZVZnX0pzNC1KNDNLX0xQSE5IOUNYN2RhNzVGV25XQ3BiLW5oYUNxT1BXQmxhTVYzVEJjTTNyMzFmTWZkY2tVeDMzbldNY3BYV3ZqcXFCYkg1NklTRXlwMW45YjJ5ajRZLWd0VVFxTzJMbzZLeC1IdW9hMENjaG93Ynozb0VtT2FQWXBVTnJPU3YxQk1MNjI5eWxrTW0zSVU?oc=5",
+      "source": "U.S. House",
+      "paywalled": false,
+      "publishedAt": "2026-10-15T19:28:50.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-15T23:05:35.187Z",
+      "relevant": false,
+      "summary": "Rep. Marie Gluesenkamp Perez introduced legislation aimed at scammers who target older Americans. The headline does not mention AI.",
+      "whyItMatters": "It is a consumer-fraud bill with no evident AI policy angle, so it is likely outside this team's focus, though fraud measures can touch banks.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-15T23:05:35.187Z"
+    },
     {
       "id": "4804c2f4cf74939d",
       "title": "White House ‘Super Intelligence’ Task Force to hold its first meeting",
