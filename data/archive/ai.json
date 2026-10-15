@@ -1,4 +1,22 @@
 {
   "topic": "ai",
-  "articles": []
+  "articles": [
+    {
+      "id": "10197745cb10dd49",
+      "title": "Super Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9hR0I2b0VSZEV0YWVDRFpHU0NBd2V2MEJSZkVfV2dPdmVSZndCbXRJNHhKZmJ0RElibWRQbTNLNllHMlk?oc=5",
+      "source": "NIST",
+      "paywalled": false,
+      "publishedAt": "2026-10-01T18:38:46.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-04T22:40:29.731Z",
+      "relevant": true,
+      "summary": "NIST page titled 'Super Intelligence', likely tied to the White House order.",
+      "whyItMatters": "May signal NIST's role in the new initiative.",
+      "priority": "medium",
+      "category": "NIST",
+      "analyzedAt": "2026-10-05T15:37:22.404Z",
+      "analysisVersion": 2
+    }
+  ]
 }
