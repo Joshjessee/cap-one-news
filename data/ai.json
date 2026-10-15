@@ -1,14 +1,32 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-15T11:46:31.557Z",
+  "updatedAt": "2026-10-15T15:03:50.183Z",
   "briefing": [
-    "Reuters examines how Wall Street banks are both financing the AI buildout and adopting AI internally, and the growing risks on both fronts, a story that bears directly on AI in financial services oversight. (Reuters)",
-    "NIH is seeking public comment on a proposed reorganization that would create an Office of the NIH Chief Artificial Intelligence Officer, a sign of how agencies are formalizing AI leadership roles. (Federal Register)",
-    "Microsoft's president is warning the White House on a tech or AI policy matter, though the headline gives no detail on the specific issue. (Politico)",
-    "Candidate Abdul El-Sayed says voters are anxious about AI and is campaigning on proposals to rein it in, a signal of AI's growing political salience. (The Washington Post)"
+    "Reuters examines how Wall Street banks are both financing the AI buildout and adopting AI internally, with risks mounting on both fronts. This bears directly on AI in financial services and on how regulators may view bank exposure. (Reuters)",
+    "Reuters reports the US Treasury is urging global partners to use the term 'super intelligence' in place of 'AI'. The report offers little detail beyond the headline, so the policy rationale and any follow-up are unclear. (Reuters)",
+    "Politico reports Microsoft's president is warning the White House, apparently on a tech or AI policy matter. The headline does not specify the issue, so the substance is worth watching. (Politico)",
+    "NIH has proposed a reorganization that would create an Office of the NIH Chief Artificial Intelligence Officer, and it is seeking public comment. This is a notable federal agency step on AI governance. (Federal Register)",
+    "Candidate Abdul El-Sayed says voters are anxious about AI and is campaigning on proposals to rein it in, a sign of AI's growing salience in the elections. (The Washington Post)"
   ],
-  "briefingUpdatedAt": "2026-10-15T11:46:31.557Z",
+  "briefingUpdatedAt": "2026-10-15T15:03:50.183Z",
   "articles": [
+    {
+      "id": "a73ddcc32366deda",
+      "title": "US Treasury pushes global partners to rename AI as 'super intelligence'",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-15T12:35:43.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-15T15:03:50.183Z",
+      "relevant": true,
+      "summary": "Reuters reports the US Treasury is urging global partners to adopt the term 'super intelligence' in place of 'AI'. Details beyond the headline are not available.",
+      "whyItMatters": "Treasury's stance on AI terminology and international coordination could shape how AI is framed in financial-sector policy.",
+      "priority": "medium",
+      "category": "Treasury",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-15T15:03:50.183Z"
+    },
     {
       "id": "936096b19696c34c",
       "title": "Microsoft’s president warns the White House",
@@ -27,6 +45,23 @@
       "analyzedAt": "2026-10-15T11:46:31.557Z"
     },
     {
+      "id": "1183179f3aa16e74",
+      "title": "Why Is Tech Billionaire Marc Andreessen So Mad?",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjhnazJ5emNiTW5vallzYmJPYmIwN1JSX2lIMDM0b2NYbDhVLURTcHRmb0d1Qnl1STZjZ3lPTE9PdWNVQXJhWFlCOThoMDBsWEVvX29EdWlsY2JRQm01bVVfYVhLaGVGMThlbXVUdVVxUUJxOERmSGNfNTNjUHVmSE9oZXdfTkNVNWJGamJoWTRzR0hjODBOdDFsbnRKaTNqR3pMSQ?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-15T09:00:54.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-15T15:03:50.183Z",
+      "relevant": false,
+      "summary": "Bloomberg profile or analysis of why venture capitalist Marc Andreessen is so angry. The headline gives no clear policy detail.",
+      "whyItMatters": "Possibly loosely related to tech-industry views on regulation, but there is no evident federal AI policy action.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-15T15:03:50.183Z"
+    },
+    {
       "id": "61e02e072d32a126",
       "title": "GlobalFoundries to open 2 new chip plants in New York with $21 billion in financing from Japan",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUW1hLURrWWJIdXQyR0hBRXIwZHRia3lqRkVCZU5mcnJPZzU1UTZuY0FjWFhVVmZ5bklId2MxbG5kWWs2NW1YOUdxZzc2WmJwM0NoN3ZKNTduMUZMeHJMV0stRTZNTnVxSjBIZGhhQzI1bU5jVkp5NThjdzUzRFJkNlNRZkFIdko4Q2xBUEhwekdEWGZtTVhRVDV3MmtEYWNERjlEUmRuZktoNmZBRml4ZnRtb09za0ZzQVlkN2NUVnlmdDVNMy1RNFlYNEN1MEJFQTdnXy0zOFVCRDdaaUE?oc=5",
@@ -42,6 +77,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-15T11:46:31.557Z"
+    },
+    {
+      "id": "e6b54e90c6a13648",
+      "title": "GOP’s Blackburn releases AI Kendrick Lamar video, to some criticism",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQWxycHNwWVNoRW5vQkNlWERaaW1kYWNXTFNlYzBMcGV2c3FIRXhQU0JBX1V3Ull2d1lSaDZHa01fcmlWa0JUTllLRTV6Z3BoNE5NS3F6Y2JUcjhROUE5UGdnNE5VUWQtVzZMWW9qYkxtUUs4dmJ6TEJRdkNEbE5vRXAzY1fSAYoBQVVfeXFMTVNON1QxbmFoTVBYa3NCMVJIRnZzekZ6TnVEZkdqY2dRdUJHQ05kVjRaTl9qcHRBQzNuTVlCeGh4R3dmTXdacmJOdEE2QUE4MndycTloTVZFTXRQVWg0Uk96akJqNHdMeTlfZXp1SjhfZU92VTBELWg1YmxmWERXVTlqcFg3TncwUVln?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-14T19:18:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-15T15:03:50.183Z",
+      "relevant": false,
+      "summary": "Sen. Marsha Blackburn (R-Tenn.) released an AI-generated Kendrick Lamar video and drew some criticism.",
+      "whyItMatters": "Mostly political and cultural news; only tangentially connected to AI policy debates over likeness and deepfakes.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-15T15:03:50.183Z"
     },
     {
       "id": "216f3aab93e3da9a",
