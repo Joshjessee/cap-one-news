@@ -48,7 +48,7 @@ export default function TopicPage({ topicId, data }: { topicId: TopicId; data: T
         </section>
       )}
 
-      <NewsFeed articles={data.articles} categories={topic.categories} />
+      <NewsFeed topicId={topicId} articles={data.articles} categories={topic.categories} />
 
       <p className="footer-note">
         Summaries are written by AI from each article&apos;s public headline and teaser, so always click through

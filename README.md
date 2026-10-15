@@ -1,11 +1,13 @@
 # Policy News Briefing (cap-one-news)
 
-A public website with two pages:
+A public website with two news pages and a searchable archive:
 
 1. **Capital One**: every article from a reputable outlet that mentions Capital One.
 2. **AI Policy**: Congress, the Administration, NIST, and Treasury on AI.
 
-Each page opens with a short **Today's briefing**. Below it is a **Read first** list of the high-priority articles, then everything else. Claude (Anthropic's AI) writes a one-to-two sentence summary and a "why it matters" line for every article.
+Each page opens with a short **Today's briefing**. Below it is a **Read first** list of the high-priority articles, then everything else. Each of those two lists shows the 20 newest stories. Claude (Anthropic's AI) writes a one-to-two sentence summary and a "why it matters" line for every article.
+
+The **Archive** page (`/archive`) searches every article the site has ever collected, by keyword, topic, outlet, priority, and date range.
 
 ## How it works
 
@@ -15,11 +17,12 @@ GitHub Action (every 2 hours)
   → keep only trusted outlets (config/sources.ts), drop duplicates
   → Claude summarizes and prioritizes only the NEW articles
   → saves data/capital-one.json and data/ai.json and commits them
+  → moves articles older than 14 days into data/archive/
         ↓
 Vercel sees the commit and redeploys the website, which reads those files
 ```
 
-There is no database. The news lives in `data/` and git keeps the history.
+There is no database. The news lives in `data/` and git keeps the history. Older articles are never deleted: they move to `data/archive/*.json`, where the Archive page can find them. (Articles Claude marked as off-topic are dropped instead of archived.)
 
 ### Paywalls
 
@@ -33,7 +36,9 @@ The site never copies articles. It shows the headline, the outlet, and the AI su
 | `scripts/refresh.ts` | The news-refresh job |
 | `lib/feeds.ts` | Reads Google News RSS, NIST's news feed, and the Federal Register API |
 | `lib/claude.ts` | Asks Claude for summaries, priorities, and the briefing |
-| `data/*.json` | The saved news (written by the refresh job, read by the site) |
+| `data/*.json` | The last 14 days of news (written by the refresh job, read by the site) |
+| `data/archive/*.json` | Everything older, for the Archive page |
+| `lib/stories.ts` | Groups articles about the same event, and matches search words (used by the topic pages and the archive) |
 | `app/` | The website pages (Next.js) |
 | `components/` | Pieces of the pages (article card, filters, tabs) |
 | `app/opengraph-image.tsx` | The preview picture shown when someone shares a link to the site |
@@ -88,6 +93,9 @@ npm run dev                  # open http://localhost:3000
 - **Add or remove an outlet**: edit `OUTLETS` in `config/sources.ts`.
 - **Change what counts as "Read first"**: edit the `guidance` text for that topic in `config/sources.ts`. It's plain English, and Claude follows it.
 - **Change the colors**: edit the variables at the top of `app/globals.css` (there's a light and a dark set). The navy and red are inspired by Capital One's colors, but the site deliberately doesn't use Capital One's logo, swoosh, typeface, or slogans, since those are trademarks. Keep it that way, and keep the trademark note in the footer (`app/(site)/layout.tsx`).
+- **Show more or fewer stories per list**: change `MAX_PER_SECTION` in `components/NewsFeed.tsx` (it's 20).
+- **Change how long articles stay on the main pages**: change `KEEP_DAYS` in `scripts/refresh.ts` (it's 14). After that they move to the archive.
+- **Change how many archive results show per page**: change `PAGE_SIZE` in `app/(site)/archive/page.tsx` (it's 25).
 - **Change how often it refreshes**: edit the `cron` lines in `.github/workflows/refresh-news.yml`. The times are in UTC.
 - **Change the link-preview picture**: edit `app/opengraph-image.tsx`. To check how a link will look, paste it into <https://www.opengraph.xyz>.
 - **Hide the site from Google again**: in `app/robots.ts`, change `allow: "/"` to `disallow: "/"`.
