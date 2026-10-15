@@ -5,14 +5,14 @@
 //
 // Runs automatically on a schedule via .github/workflows/refresh-news.yml.
 
-import { readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { TOPICS, type TopicConfig } from "@/config/sources";
 import { fetchTopicArticles, normalizeTitle } from "@/lib/feeds";
 import { analyzeArticles, writeBriefing, type Analysis } from "@/lib/claude";
-import type { Article, TopicData, TopicId } from "@/lib/types";
+import type { ArchiveData, Article, TopicData, TopicId } from "@/lib/types";
 
-const KEEP_DAYS = 14; // Articles older than this are removed
+const KEEP_DAYS = 14; // Articles older than this move to the archive (data/archive/)
 const MAX_TO_ANALYZE = 120; // Per topic per run, to cap cost if a feed suddenly floods
 const BRIEFING_MAX_AGE_HOURS = 24;
 const STORY_MATCH_HOURS = 72; // New articles can be grouped with relevant articles this recent
@@ -23,12 +23,21 @@ const ANALYSIS_VERSION = 2;
 const PRIORITY_RANK = { high: 0, medium: 1, low: 2 } as const;
 
 const DATA_DIR = path.join(process.cwd(), "data");
+const ARCHIVE_DIR = path.join(DATA_DIR, "archive");
 
 async function load(topic: TopicId): Promise<TopicData> {
   try {
     return JSON.parse(await readFile(path.join(DATA_DIR, `${topic}.json`), "utf8"));
   } catch {
     return { topic, updatedAt: null, briefing: [], briefingUpdatedAt: null, articles: [] };
+  }
+}
+
+async function loadArchive(topic: TopicId): Promise<ArchiveData> {
+  try {
+    return JSON.parse(await readFile(path.join(ARCHIVE_DIR, `${topic}.json`), "utf8"));
+  } catch {
+    return { topic, articles: [] };
   }
 }
 
@@ -39,11 +48,14 @@ const hoursSince = (iso: string | null | undefined) =>
 async function refreshTopic(topic: TopicConfig, useAi: boolean): Promise<boolean> {
   console.log(`\n▶ ${topic.label}`);
   const data = await load(topic.id);
+  const archive = await loadArchive(topic.id);
   const before = JSON.stringify({ a: data.articles, b: data.briefing });
   const now = new Date().toISOString();
 
-  // 1. Fetch and keep only articles we haven't stored before.
-  const known = new Set(data.articles.flatMap((a) => [a.id, `${a.source}|${normalizeTitle(a.title)}`]));
+  // 1. Fetch and keep only articles we haven't stored before (including in the archive).
+  const known = new Set(
+    [...data.articles, ...archive.articles].flatMap((a) => [a.id, `${a.source}|${normalizeTitle(a.title)}`]),
+  );
   const { articles: fetched, feedsTried, feedsFailed } = await fetchTopicArticles(topic);
   const fresh: Article[] = fetched
     .filter((a) => !known.has(a.id) && !known.has(`${a.source}|${normalizeTitle(a.title)}`))
@@ -51,8 +63,11 @@ async function refreshTopic(topic: TopicConfig, useAi: boolean): Promise<boolean
   console.log(`  ${fetched.length} articles from trusted outlets, ${fresh.length} new`);
   const feedsOk = feedsFailed < feedsTried;
 
-  // 2. Merge and drop anything too old.
-  let articles = [...data.articles, ...fresh].filter((a) => hoursSince(a.publishedAt) <= KEEP_DAYS * 24);
+  // 2. Merge. Stored articles that are now too old move to the archive (off-topic ones are
+  //    simply dropped); brand-new articles that are already too old are skipped.
+  const isCurrent = (a: Article) => hoursSince(a.publishedAt) <= KEEP_DAYS * 24;
+  const expired = data.articles.filter((a) => !isCurrent(a) && a.relevant !== false);
+  let articles = [...data.articles, ...fresh].filter(isCurrent);
 
   // 3. Ask Claude about anything not analyzed (with the current prompt) yet, newest first.
   let newlyRelevant = 0;
@@ -125,6 +140,18 @@ async function refreshTopic(topic: TopicConfig, useAi: boolean): Promise<boolean
   if (JSON.stringify({ a: articles, b: briefing }) === before) {
     console.log("  No changes");
     return feedsOk;
+  }
+  if (expired.length > 0) {
+    const archived = new Set(archive.articles.map((a) => a.id));
+    const archiveOut: ArchiveData = {
+      topic: topic.id,
+      articles: [...archive.articles, ...expired.filter((a) => !archived.has(a.id))].sort((a, b) =>
+        b.publishedAt.localeCompare(a.publishedAt),
+      ),
+    };
+    await mkdir(ARCHIVE_DIR, { recursive: true });
+    await writeFile(path.join(ARCHIVE_DIR, `${topic.id}.json`), JSON.stringify(archiveOut, null, 2) + "\n");
+    console.log(`  Moved ${expired.length} older articles to the archive (${archiveOut.articles.length} in total)`);
   }
   const out: TopicData = { topic: topic.id, updatedAt: now, briefing, briefingUpdatedAt, articles };
   await writeFile(path.join(DATA_DIR, `${topic.id}.json`), JSON.stringify(out, null, 2) + "\n");

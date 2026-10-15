@@ -41,3 +41,9 @@ export interface TopicData {
   briefingUpdatedAt: string | null;
   articles: Article[];
 }
+
+/** Older articles moved out of TopicData by the refresh script (data/archive/*.json). */
+export interface ArchiveData {
+  topic: TopicId;
+  articles: Article[];
+}

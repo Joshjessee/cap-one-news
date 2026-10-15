@@ -7,9 +7,13 @@ interface Props {
   article: Article;
   /** Other outlets' articles about the same story. */
   alsoCovered?: Article[];
+  /** Show the year in the date (the archive spans more than one year). */
+  showYear?: boolean;
+  /** Extra tag shown next to the category, e.g. the topic name in the archive. */
+  label?: string;
 }
 
-export default function ArticleCard({ article, alsoCovered = [] }: Props) {
+export default function ArticleCard({ article, alsoCovered = [], showYear = false, label }: Props) {
   const { priority } = article;
   const classes = ["card", priority ?? "", article.relevant === false ? "dimmed" : ""];
 
@@ -18,8 +22,9 @@ export default function ArticleCard({ article, alsoCovered = [] }: Props) {
       <div className="card-meta">
         <span className="source">{article.source}</span>
         {article.paywalled && <span title="Subscription required — sign in on the publisher's site">🔒 Subscriber</span>}
-        <time dateTime={article.publishedAt}>{formatEastern(article.publishedAt)}</time>
+        <time dateTime={article.publishedAt}>{formatEastern(article.publishedAt, { year: showYear })}</time>
         {priority && <span className={`badge ${priority}`}>{PRIORITY_LABEL[priority]}</span>}
+        {label && <span className="tag">{label}</span>}
         {article.category && <span className="tag">{article.category}</span>}
       </div>
       <h3>

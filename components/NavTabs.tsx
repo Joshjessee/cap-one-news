@@ -16,6 +16,9 @@ export default function NavTabs() {
           </Link>
         );
       })}
+      <Link href="/archive" className={`tab${pathname === "/archive" ? " active" : ""}`}>
+        Archive
+      </Link>
     </nav>
   );
 }

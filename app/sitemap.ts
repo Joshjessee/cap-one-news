@@ -10,5 +10,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: `${SITE_URL}/capital-one`, lastModified: lastModified(capitalOne.updatedAt), changeFrequency: "hourly" },
     { url: `${SITE_URL}/ai`, lastModified: lastModified(ai.updatedAt), changeFrequency: "hourly" },
+    { url: `${SITE_URL}/archive`, lastModified: lastModified(ai.updatedAt), changeFrequency: "daily" },
   ];
 }

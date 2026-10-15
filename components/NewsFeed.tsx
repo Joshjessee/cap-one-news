@@ -1,25 +1,22 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import Link from "next/link";
 import ArticleCard from "@/components/ArticleCard";
-import type { Article } from "@/lib/types";
+import { groupStories, matchesSearch, type Story } from "@/lib/stories";
+import type { Article, TopicId } from "@/lib/types";
+
+// Each section ("Read first", "Everything else") shows at most this many stories, newest
+// first. Everything else can be found on the Archive page.
+const MAX_PER_SECTION = 20;
 
 interface Props {
+  topicId: TopicId;
   articles: Article[];
   categories: string[];
 }
 
-/** One story: the article we show, plus other outlets' coverage of the same event. */
-interface Story {
-  lead: Article;
-  others: Article[];
-}
-
-const RANK = { high: 0, medium: 1, low: 2 } as const;
-// Off-topic articles sort last; not-yet-analyzed ones count as medium.
-const rank = (a: Article) => (a.relevant === false ? 3 : RANK[a.priority ?? "medium"]);
-
-export default function NewsFeed({ articles, categories }: Props) {
+export default function NewsFeed({ topicId, articles, categories }: Props) {
   const [category, setCategory] = useState<string | null>(null);
   const [source, setSource] = useState("");
   const [search, setSearch] = useState("");
@@ -29,37 +26,20 @@ export default function NewsFeed({ articles, categories }: Props) {
   const offTopicCount = articles.filter((a) => a.relevant === false).length;
 
   const stories = useMemo(() => {
-    const q = search.trim().toLowerCase();
     const shown = (a: Article) => showOffTopic || a.relevant !== false;
     const matches = (a: Article) =>
-      shown(a) &&
-      (!category || a.category === category) &&
-      (!source || a.source === source) &&
-      (!q || `${a.title} ${a.summary ?? ""} ${a.snippet}`.toLowerCase().includes(q));
-
-    // Group by story. Articles are sorted newest first, so stories end up ordered by
-    // their most recent coverage.
-    const groups = new Map<string, Article[]>();
-    for (const a of articles) {
-      const key = a.storyId ?? a.id;
-      groups.set(key, [...(groups.get(key) ?? []), a]);
-    }
-
-    const result: Story[] = [];
-    for (const members of groups.values()) {
-      // A story is shown if any of its articles matches the filters; the best-ranked
-      // matching article (earliest on ties) leads.
-      const lead = members
-        .filter(matches)
-        .sort((a, b) => rank(a) - rank(b) || a.publishedAt.localeCompare(b.publishedAt))[0];
-      if (!lead) continue;
-      result.push({ lead, others: members.filter((a) => a !== lead && shown(a)) });
-    }
-    return result;
+      shown(a) && (!category || a.category === category) && (!source || a.source === source) && matchesSearch(a, search);
+    return groupStories(articles, matches, shown);
   }, [articles, category, source, search, showOffTopic]);
 
   const readFirst = stories.filter((s) => s.lead.priority === "high" && s.lead.relevant !== false);
   const rest = stories.filter((s) => !readFirst.includes(s));
+
+  // Opens the archive for this topic, carrying over whatever was typed in the search box.
+  const archiveParams = new URLSearchParams({ topic: topicId });
+  if (search.trim()) archiveParams.set("q", search.trim());
+  if (source) archiveParams.set("source", source);
+  const archiveHref = `/archive?${archiveParams}`;
 
   if (articles.length === 0) {
     return <p className="empty">No articles yet. The news refresh runs automatically every couple of hours.</p>;
@@ -99,37 +79,53 @@ export default function NewsFeed({ articles, categories }: Props) {
         </select>
       </div>
 
-      <h2 className="section-title">
-        Read first <span className="count">{readFirst.length}</span>
-      </h2>
-      {readFirst.length > 0 ? (
-        <div className="cards">
-          {readFirst.map((s) => (
-            <ArticleCard key={s.lead.id} article={s.lead} alsoCovered={s.others} />
-          ))}
-        </div>
-      ) : (
-        <p className="empty">Nothing flagged as must-read right now.</p>
-      )}
-
-      <h2 className="section-title">
-        Everything else <span className="count">{rest.length}</span>
-      </h2>
-      {rest.length > 0 ? (
-        <div className="cards">
-          {rest.map((s) => (
-            <ArticleCard key={s.lead.id} article={s.lead} alsoCovered={s.others} />
-          ))}
-        </div>
-      ) : (
-        <p className="empty">No other articles match these filters.</p>
-      )}
+      <Section
+        title="Read first"
+        stories={readFirst}
+        empty="Nothing flagged as must-read right now."
+        archiveHref={`${archiveHref}&priority=high`}
+      />
+      <Section
+        title="Everything else"
+        stories={rest}
+        empty="No other articles match these filters."
+        archiveHref={archiveHref}
+      />
 
       {offTopicCount > 0 && (
         <label className="toggle">
           <input type="checkbox" checked={showOffTopic} onChange={(e) => setShowOffTopic(e.target.checked)} />
           Show {offTopicCount} article{offTopicCount === 1 ? "" : "s"} the AI marked as off-topic
         </label>
+      )}
+
+      <p className="more">
+        Looking for something older? <Link href={archiveHref}>Search the archive →</Link>
+      </p>
+    </>
+  );
+}
+
+function Section({ title, stories, empty, archiveHref }: { title: string; stories: Story[]; empty: string; archiveHref: string }) {
+  const visible = stories.slice(0, MAX_PER_SECTION);
+  return (
+    <>
+      <h2 className="section-title">
+        {title} <span className="count">{stories.length}</span>
+      </h2>
+      {visible.length > 0 ? (
+        <div className="cards">
+          {visible.map((s) => (
+            <ArticleCard key={s.lead.id} article={s.lead} alsoCovered={s.others} />
+          ))}
+        </div>
+      ) : (
+        <p className="empty">{empty}</p>
+      )}
+      {stories.length > visible.length && (
+        <p className="more">
+          Showing the {visible.length} newest of {stories.length}. <Link href={archiveHref}>See the rest in the archive →</Link>
+        </p>
       )}
     </>
   );

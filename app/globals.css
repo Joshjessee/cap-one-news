@@ -425,6 +425,60 @@ a {
   align-items: center;
 }
 
+.more {
+  font-size: 14px;
+  color: var(--muted);
+  margin: 12px 0 0;
+}
+
+/* ── Archive ────────────────────────────────────────────── */
+.archive-search {
+  margin-bottom: 8px;
+}
+
+.archive-search .filter-row:first-child {
+  margin-top: 0;
+}
+
+.date-field {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.filter-row .date-field input {
+  flex: 0 1 auto;
+}
+
+.button {
+  font: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 9px 20px;
+  border: 1px solid var(--selected);
+  border-radius: 10px;
+  background: var(--selected);
+  color: var(--selected-text);
+  cursor: pointer;
+}
+
+.section-title .clear {
+  margin-left: auto;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: var(--muted);
+}
+
 /* ── Article cards ──────────────────────────────────────── */
 .cards {
   display: grid;
