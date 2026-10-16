@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-16T14:53:16.408Z",
+  "updatedAt": "2026-10-16T19:34:34.648Z",
   "briefing": [
-    "White House 'Super Intelligence' Task Force is set to hold its first meeting; Politico's headline gives no detail on mandate or membership, so watch for readouts on scope and any financial sector role. (Politico)",
-    "Treasury is pressing global partners to adopt the term 'super intelligence' in place of 'AI', and the G7 plans exercises to guard against AI-enabled cyber attacks, which is particularly relevant to the financial sector. (Reuters)",
-    "Reuters examines the growing risks as Wall Street banks both finance the AI buildout and adopt AI internally, while WSJ reports the AI boom is boosting Wall Street profits through fees and financing. (Reuters, The Wall Street Journal)",
-    "DNI Jay Clayton warned companies to be wary of AI-enabled espionage, and Microsoft's president is warning the White House on an unspecified matter, so watch for more detail. (CNBC, Politico)",
-    "NIH is seeking public comment on a proposed reorganization that would create an Office of the NIH Chief Artificial Intelligence Officer, a sign of federal agencies formalizing AI leadership roles. (Federal Register)"
+    "The White House 'Super Intelligence' (AI) Task Force holds its first meeting Thursday; its mandate and membership have not been detailed in the reporting. (Politico, Bloomberg)",
+    "Treasury is urging global partners to adopt the term 'super intelligence' in place of 'AI', a notable signal of the Administration's framing in international financial forums. (Reuters)",
+    "The G7 plans to launch exercises to guard against AI-enabled cyber attacks, an issue particularly relevant to the financial sector. (Reuters)",
+    "Sen. Bernie Moreno is targeting data center incentives with a proposed 100% tax, a potential shift in AI infrastructure policy. (Politico)",
+    "DNI Jay Clayton warned that AI-enabled espionage is a real threat and that companies should be wary of it. (CNBC)"
   ],
-  "briefingUpdatedAt": "2026-10-16T14:53:16.408Z",
+  "briefingUpdatedAt": "2026-10-16T19:34:34.648Z",
   "articles": [
     {
       "id": "b04a1d3707809c97",
@@ -26,6 +26,23 @@
       "category": "Financial Regulators",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-16T11:46:53.353Z"
+    },
+    {
+      "id": "1be075d14d29bd3d",
+      "title": "Democrats eyeing the presidency can’t stop talking about this issue",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMTl4a3I1RTR4WjFYT1lZa3o3bWF6M1A0NXVqa1NIM1FJNlk5VGsyVnNuSEtiUmNVd1hSTXlHeVkwcEdoS0hYUk9yQ1ItaUFYcXZNa2hKa0pjUnZaQjdwb0Judm1sSWlXaXFaNTVHZUNTZE9aQ3lEX0pNZW9DczZUeUxUQUJwcEZ4ZkdMQjJxeXNDdTZhVlRJendDZ0ZjU1ZoSzZKSWpOdmhORkNGTERsc1c2dDVtRTdLci1KeVJVcw?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-16T19:34:34.648Z",
+      "relevant": false,
+      "summary": "Washington Post piece on an issue that Democratic presidential hopefuls keep raising; the headline does not say what the issue is, though it may be AI.",
+      "whyItMatters": "The topic is unclear from the headline, so it is not clearly about federal AI policy.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-16T19:34:34.648Z"
     },
     {
       "id": "c3d5ee4aa0c2da2a",
@@ -130,6 +147,23 @@
       "analyzedAt": "2026-10-15T19:54:20.154Z"
     },
     {
+      "id": "71d957aa4f8e160c",
+      "title": "Moreno targets data center incentives with 100% tax",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlI2YmxZVnBCbzVPc3FfUVhibHdLU1Z0cFFpX2VDUWd5OTFiU3dKZmF2QUFKdzVqaF9tQV9CT1lFUnNucVBnVzVWSEZ5VDRmaW5DTEJaR0pEZ1dnYnZ1QktaTmpQSzdjWnJURVFhc2UzMTJiWHR6RlMwTDBoYlBka3pFRWJMck1QQWhpN29JTDk?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-15T17:39:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-16T19:34:34.648Z",
+      "relevant": true,
+      "summary": "Sen. Bernie Moreno is targeting data center incentives with a proposed 100% tax, according to Politico.",
+      "whyItMatters": "A Senate proposal on data center incentives could affect AI infrastructure policy and costs.",
+      "priority": "high",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-16T19:34:34.648Z"
+    },
+    {
       "id": "d068c8924714786f",
       "title": "Republicans Mull Options to Pass Budget Priorities After the Election",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGZPMGVsU1NWdjZJOHI3cUR1R0VRUkRMcmxrQlpFUDl2LW5fc2J2N3k0RHQ1NjNBV3VxQmExeUF5aEdwc2JFWW9RZ2J2bjg5bmt3ZHhybExaSVduVUZ6YTNuYWppOHhRV2tNVDRmS082RVlLWlllVkYyOWRHa3d4ZmRpVTNHbVJLMzZoWXFPYnhUbk9jMGlHZG1Nd3NuYnBaMmNrYXhRbWxtSnFzTGc?oc=5",
@@ -215,6 +249,24 @@
       "analyzedAt": "2026-10-16T11:46:53.353Z"
     },
     {
+      "id": "586ad099656f62ee",
+      "title": "White House AI Task Force to Hold First Meeting on Thursday",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0FMVWN6cXFVZTJ4SS1yUjV5TGlNUm9pSFhvMDFkMDg5TDJlb2dYYnp2dmZqZG9XTkhNdWg1VUhCZ2l3bUxaY1FrZHZIYllfZHV6X2ZWbkw4Q1RZeVkzeVUzZHJoUkdWZ0lacGoxYzNmMWk1dFo0SVBNRGZUR3JfbXh1VldXLThjNC1ycllrdGtnZjU5S1BrOC1OZXY2RG9XYUcwb1NoZWdva1FPSWNxTEFaVWNoOUw3V21tOG01UU1FcW9VcnBkZTEydjNwQQ?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-15T00:42:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-16T19:34:34.648Z",
+      "relevant": true,
+      "summary": "Bloomberg reports the White House AI Task Force will hold its first meeting on Thursday.",
+      "whyItMatters": "The task force may shape Administration AI policy direction.",
+      "priority": "high",
+      "category": "Administration",
+      "storyId": "4804c2f4cf74939d",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-16T19:34:34.648Z"
+    },
+    {
       "id": "61e02e072d32a126",
       "title": "GlobalFoundries to open 2 new chip plants in New York with $21 billion in financing from Japan",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUW1hLURrWWJIdXQyR0hBRXIwZHRia3lqRkVCZU5mcnJPZzU1UTZuY0FjWFhVVmZ5bklId2MxbG5kWWs2NW1YOUdxZzc2WmJwM0NoN3ZKNTduMUZMeHJMV0stRTZNTnVxSjBIZGhhQzI1bU5jVkp5NThjdzUzRFJkNlNRZkFIdko4Q2xBUEhwekdEWGZtTVhRVDV3MmtEYWNERjlEUmRuZktoNmZBRml4ZnRtb09za0ZzQVlkN2NUVnlmdDVNMy1RNFlYNEN1MEJFQTdnXy0zOFVCRDdaaUE?oc=5",
@@ -247,6 +299,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-15T15:03:50.183Z"
+    },
+    {
+      "id": "871627f0635f10e6",
+      "title": "Slotkin, Coons, Colleagues Introduce Bill to Sanction Israeli Settlements in the West Bank",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHF4dG9XMWRzTXhkaG11MjBMZU5oU2E5N3pGSE1rRmp2YTRRSG5wU1pFT1EwdUtUU2s3V1Z0Z2NHanNybmxSX091TjdFMkstUWRydkF5UHRCNUZhcTlfWVNScWIyT2F1Z1NvZ3VNUGZWSVFKVzdjVC1tNElyQUs3Z2dhQm43clJjR0Q5Rks3UWo4bGVJd2xOd0JkSDRqT0tqQ3RQY1c3aG1XMWNXbjE1VHBnbFFGbHZLU3FDN3djX0ZTN3FFdzc1T3FXUQ?oc=5",
+      "source": "U.S. Senate",
+      "paywalled": false,
+      "publishedAt": "2026-10-14T18:09:25.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-16T19:34:34.648Z",
+      "relevant": false,
+      "summary": "Senators Slotkin, Coons and colleagues introduced a bill to sanction Israeli settlements in the West Bank.",
+      "whyItMatters": "This is a foreign policy bill with no AI policy angle.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-16T19:34:34.648Z"
     },
     {
       "id": "216f3aab93e3da9a",
@@ -332,6 +401,23 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-14T11:46:31.973Z"
+    },
+    {
+      "id": "a1e50bb95b39b5cf",
+      "title": "Ricketts Champions AI Innovation and Safety",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ1pEbmdvemp0MWM1clg4RGMyODQwMElNWjRRZkFQb0tVbHpHakJWVExLaGF6MU9ONG1ITmJyRGhId2lTRko3emRpMjA4U3FwY1ktLWd3ME0yYkpGRVlmcU1fSDJrcERZZVhRckxQSXNiUmhXWXJ3R2JHdmcwTXZIVE54QkU4b19aWlVMR0oyNThWVm9ENVdjSU9VQnA?oc=5",
+      "source": "U.S. Senate",
+      "paywalled": false,
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-16T19:34:34.648Z",
+      "relevant": true,
+      "summary": "A Senate release from Sen. Ricketts highlights his work on AI innovation and safety.",
+      "whyItMatters": "It is a statement by a senator on AI policy priorities, possibly signaling legislation.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-16T19:34:34.648Z"
     },
     {
       "id": "f37c83f145897db4",
@@ -2079,77 +2165,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-05T15:37:22.404Z"
-    },
-    {
-      "id": "662f321430f5c068",
-      "title": "Watch live: House convenes hearing on confronting terrorism threat post-9/11",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWnk2Tkluc284akpTTHh2clluQnFQS3V6X1JlR25iRjAzZVNrNjV6T0FtamozTVBEck9POExnandDQ1VFTXktelZWa01zLWV2dlpQUDZXQi1aMmlTMmxXdjhzV2V4ZGtENEZ0S3RMR3BPYTgwMDZvbEY3WlJIYkZ4X3ZUMnhCRlhCSjg5WENiU0cwQWtGelY1NDFkT3M5Q1IyRFlkVllqaUczWnVQbEQ4V2tmMUVHT0lnUXJ6M20ydFnSAcYBQVVfeXFMUHk2SFUtaXhtSmpDcVdKaWtjSGJ3SWR0QldibEFMVGhfZWp5TlVKaXhOMVpHbUVKcW1vX3B4WVAzYkNvSUx1OVJIeGNWMmpJc0F5c29GbUJxckV3SGtkSXVtcjVCRndISDlBdEpFSFBaMkxyeERxa0x6MHRCd1pjbjZSVnR3TjM3VUtUbzlfdXp1THN3X0NaaWtFZ0RUSWxkX1NmZVJMSWFvZDgyWXluLXZLQ3JDOHd5MmNCVEhOUENTLXM3WUZB?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-02T16:38:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-05T15:37:22.404Z",
-      "relevant": false,
-      "summary": "House hearing on terrorism threats post-9/11.",
-      "whyItMatters": "Not AI policy.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-05T15:37:22.404Z"
-    },
-    {
-      "id": "e9c4ef9d130ace33",
-      "title": "Sanders, Ocasio-Cortez debut bill to crack down on Flock cameras",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnJ5aGFnRkZMVFF1NThaaWlPY0J3MzF4X3ZrVGhrWGtOQTlaMFpLVW9Lc3JWZVpNazNFZllaUXpQM3o0V2JZcjI4V0ljdDZFVm05aXd4Vmd5WnlkSEo1MTFFV1ZqRkRkZHFqeTU2MXREbm1JOGNrbC1xQVM3eTBkMEN3QTJfU1hkMVV3OW16aEJzQUktTzV1V09qR0NEOVpaTi00ZlRmc1VPREZyd1E?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-02T16:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": true,
-      "summary": "Sanders and Ocasio-Cortez debut a bill cracking down on Flock cameras.",
-      "whyItMatters": "A bill touching AI-enabled surveillance.",
-      "priority": "medium",
-      "category": "Congress",
-      "analyzedAt": "2026-10-05T15:37:22.404Z",
-      "storyId": "43bb43c6a9e606c1",
-      "analysisVersion": 2
-    },
-    {
-      "id": "ad09a189b9514511",
-      "title": "Inaugurating the Era of Super Intelligence",
-      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20321/inaugurating-the-era-of-super-intelligence",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-02T16:00:00.000Z",
-      "snippet": "Presidential Document — Executive Office of the President",
-      "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": true,
-      "summary": "Federal Register publishes the presidential document 'Inaugurating the Era of Super Intelligence'.",
-      "whyItMatters": "Formal publication of the Administration's AI action.",
-      "priority": "high",
-      "category": "Administration",
-      "analyzedAt": "2026-10-05T15:37:22.404Z",
-      "storyId": "516d278d0d2bf100",
-      "analysisVersion": 2
-    },
-    {
-      "id": "8ebea7e1a7f1afb0",
-      "title": "Trump to Name Jay Clayton to Serve as A.I. Czar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjZqNkowM3k3WElwUVRaWjcxWGxPR2hBaTh0dzVtQ092LUM4NHFHWDU1X21zUEZYX3NobkhFSXJmS1FZWHBEOEFCNjZMaHgxUURwWXdwd0NOZF9LQnloaUFUaXh5VzhZOW5HSkpBMzUydEktbXFqZXNQSk83aWNlcDhWVQ?oc=5",
-      "source": "The New York Times",
-      "paywalled": true,
-      "publishedAt": "2026-10-02T15:57:04.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": true,
-      "summary": "Trump to name Clayton AI czar.",
-      "whyItMatters": "Key personnel decision for federal AI policy.",
-      "priority": "high",
-      "category": "Administration",
-      "analyzedAt": "2026-10-05T15:37:22.404Z",
-      "storyId": "32af91bb494f6740",
-      "analysisVersion": 2
     }
   ]
 }
