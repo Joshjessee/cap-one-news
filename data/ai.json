@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-17T16:24:29.756Z",
+  "updatedAt": "2026-10-17T23:07:38.590Z",
   "briefing": [
-    "Anthropic is quietly pitching lawmakers on its own AI safety bill, a sign that frontier developers are trying to shape federal legislation directly. (Politico)",
-    "A White House 'Super Intelligence' Task Force is set to hold its first meeting; its mandate and membership were not detailed, so watch for follow-up on scope and any role for financial regulators. (Politico)",
-    "Sen. Bernie Moreno is proposing a 100% tax targeting data center incentives, a notable congressional move on AI infrastructure policy. (Politico)",
-    "The G7 will launch exercises to guard against AI-enabled cyber attacks, an effort particularly relevant to the financial sector; separately, DNI Jay Clayton warned companies to be wary of AI-enabled espionage. (Reuters, CNBC)",
-    "A SpaceX AI policy leader was questioned by the NYC Council on Grok safety and sexualized images, showing continued local scrutiny of AI content risks. (CNBC)"
+    "Anthropic is quietly pitching lawmakers on its own AI safety bill, a sign that frontier labs are trying to shape federal legislation directly. (Politico)",
+    "US banks are blocking AI agents that try to move money on behalf of customers, restricting agentic AI access to accounts and payments. This is a direct signal for financial services policy on agentic AI, authentication and liability. (Bloomberg)",
+    "The G7 plans to launch exercises to prepare for AI-enabled cyber attacks, with particular relevance to the financial sector. (Reuters)",
+    "DNI Jay Clayton warned that AI-enabled espionage is a real threat and that companies should be wary of it. (CNBC)",
+    "A SpaceX AI policy leader was questioned by the NYC Council on Grok safety and sexualized images, another example of local-level scrutiny of AI. (CNBC)"
   ],
-  "briefingUpdatedAt": "2026-10-17T16:24:29.756Z",
+  "briefingUpdatedAt": "2026-10-17T23:07:38.590Z",
   "articles": [
     {
       "id": "892d10ed0e671e74",
@@ -145,6 +145,23 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-16T14:53:16.408Z"
+    },
+    {
+      "id": "48da86527da70e31",
+      "title": "US Banks Block AI Agents Attempting to Move Money for Customers",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3ZyaFBJVTUwMWlHREluOW9EdHZkcVpiNVE1Z3dSbV9TZVdiOGN3SEJLWFBBVGZrcERpWXF3YXlwZnZiNmdkX28wdlBSMmhvUUZlSFp1MTZ5Ulg0UkQ4Y0djSE5KWWpBSlN5Um1jZzhLSDQxY3hyUHdUenJ1YVNCa3lONW56bnB2UFd6UU9LXzlqYWpld1psOWtVb2p5aWVPdXRZdEFuaDV4X3lGek4xQVBQWjI?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-16T13:46:34.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-17T23:07:38.590Z",
+      "relevant": true,
+      "summary": "Bloomberg reports that US banks are blocking AI agents that try to move money on behalf of customers. The headline suggests banks are restricting agentic AI access to accounts and payments.",
+      "whyItMatters": "Agentic AI in payments touches banking regulation, liability, security and consumer-access questions that directly affect Capital One's policy positions.",
+      "priority": "high",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-17T23:07:38.590Z"
     },
     {
       "id": "7e8c21b7fb584793",
@@ -2126,58 +2143,6 @@
       "category": "Administration",
       "analyzedAt": "2026-10-05T15:37:22.404Z",
       "storyId": "32af91bb494f6740",
-      "analysisVersion": 2
-    },
-    {
-      "id": "2fe64f6139585ba1",
-      "title": "Trump names intelligence chief Clayton as AI czar, to head task force",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-03T22:46:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": true,
-      "summary": "Trump names Clayton AI czar and head of a task force.",
-      "whyItMatters": "Key personnel decision for federal AI policy.",
-      "priority": "high",
-      "category": "Administration",
-      "analyzedAt": "2026-10-05T15:37:22.404Z",
-      "storyId": "32af91bb494f6740",
-      "analysisVersion": 2
-    },
-    {
-      "id": "658555b0be7884a6",
-      "title": "Trump, Cotton tussle over daylight saving bill after cellphone number leak",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0txQjFiYnBZVlM1Y244QzR3cmQ2WGdyWHpCSWlPRTF4VHBWTTNKTWxLZ1VxTGtxWlh0REE2ckd6elpFbDVQZWxsRGJRMmR1aG1WMjJfQ2VFb0IxWE1IYTlRNjJhMFlGWDB6NUY1cUt6SWZ3b3JxNVZ3QXI4YUs3SjI4Sm9fNU9wWDhuV0w1MUdJWTdobXBFRtIBngFBVV95cUxPQzA3N2xacVFkWHp3ZVRZUzlYWWtIUFNFQ1hRQ0M2aHRfQ2Z3ajBLYmtleW85UDhOSUxuaGxTenZPTGJnQy0wZUcwdXBYNDNUZXcyWHVFbDJjU19qWmh2QWtjNklOZS00QXRhLVMwV0VIcU42cFZLNUpsSXJoM3YwUmZsSWx2NGRoME9XR0EyaGJrQ3pDb09qd3hWOWVKdw?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-03T19:53:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-05T15:37:22.404Z",
-      "relevant": false,
-      "summary": "Trump and Sen. Cotton clash over a daylight saving bill after a phone number leak.",
-      "whyItMatters": "Not AI policy.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-05T15:37:22.404Z"
-    },
-    {
-      "id": "2fa24860e9de8e3d",
-      "title": "Bessent Says AI Industry Must Own Its Risks and Find Solutions",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTRRaDlQc2IwSjNacDRnZXlDTHpfS1Y4dUpBcjRvNjBOSTExbjVlc2pDcG53a1Z1VnRyY2hrd1dRaHVCbm9HQUhkMzBqdDhaMS0zOVFtd3lXMExtX1o3YjRWbzVyMlhpWWgwbWJ2M1FjbG1WMDhrLTk0Vk1LV0UwYUtkalAwM01mOTJoRmwtaWU4T3RsNHQ0T1UxS0t6MFZzX0FnaWpiajc4QmlXblRISXhwbw?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-03T17:12:02.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": true,
-      "summary": "Treasury Secretary Bessent says the AI industry must own its risks and find solutions.",
-      "whyItMatters": "Statement from a key official, Treasury, on AI risk.",
-      "priority": "high",
-      "category": "Treasury",
-      "analyzedAt": "2026-10-05T15:37:22.404Z",
       "analysisVersion": 2
     }
   ]
