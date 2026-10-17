@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-16T22:52:38.303Z",
+  "updatedAt": "2026-10-17T16:24:25.874Z",
   "briefing": [
     "The OCC issued a report criticizing debanking by JPMorgan and other large banks, and a top regulator said big banks turned away customers over politics; the summaries do not confirm Capital One is named, so the team should check the report for any mention of the company. (Banking Dive, Axios)",
     "Capital One is set to report quarterly earnings next week, with CNBC previewing what to watch alongside Meta's results; this is the first look at results since the Discover acquisition for analysts. (CNBC)",
@@ -8,6 +8,23 @@
   ],
   "briefingUpdatedAt": "2026-10-16T19:34:26.781Z",
   "articles": [
+    {
+      "id": "b00301555761e3af",
+      "title": "Novavax shareholder Shah Capital to step back from activist role",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNVWE1RUEhhUnZ3YXNRbzhyUndqR3Jnc3dKRVBPdUhRNVF3Qm5yN1prTTBMSVdQd1dhVG1hSk1RcUVJNE53V0drT0Rpcl9YRFh1TmJJODFUX21TU28tT1hDVXlHZ1lsUWhWYTBJcHQzQ0N3aUhRYjFZLTZ2UlpTZk15anhnaWh4SkxyMDBsbEt2N1FuMG1xSThuVDc3UkpaLUdFa2lxTDFaN0dDRVMwLTQzVXJGRGN1cE1hZ3RJc3hqOEdBOGNr?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-16T21:28:22.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-17T16:24:25.874Z",
+      "relevant": false,
+      "summary": "Shah Capital, a Novavax shareholder, plans to step back from its activist role at the vaccine maker. The headline does not mention Capital One.",
+      "whyItMatters": "No evident connection to Capital One; 'Shah Capital' is an unrelated firm, so the policy team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-17T16:24:25.874Z"
+    },
     {
       "id": "5d64f52ac841f294",
       "title": "What we want to see when Capital One and Meta report earnings next week",
@@ -675,75 +692,6 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-07T23:07:22.197Z"
-    },
-    {
-      "id": "6a3f487c815f6ed6",
-      "title": "Zach Bryan dons ‘Free Palestine’ shirt at Gillette Stadium after Macklemore block",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVRsYThaNTRGM0NNYVE1ZVA2a0tpQkh4Z2tPNHBCcmxUUkxWWVM3TjZsUzhOODNoZXRGYThSa2t6UHFrendjT2M3WEhSQ3ZucWRjLU1RX1FYOHJRbGQzM1huLUIzNklUQlU1U2llaHh5M0FhTHc5T1RqYThQYVl1NmF6QjlmVkctUHVrTdIBkgFBVV95cUxObVNWYVBOdDRIVGY5c3dJSEJIeE5yLV81cWUydThwV2Z5TnNQcWFhWWZubTVXdGlRbVYxOVlxOGRMVGozZlZDQXNDLVBzMFNCMGVNX25TTUZsNnYwV2tsTDNVeHRvQ3VsemJ3WEdvME5USXU5NVp0Ym1UOENLRmNHYVZlTjNTMmJVb0E0Tmhhcy03UQ?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-03T14:11:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-04T22:40:13.133Z",
-      "relevant": false,
-      "summary": "Zach Bryan wore a 'Free Palestine' shirt at a Gillette Stadium show after Macklemore was blocked.",
-      "whyItMatters": "Not about Capital One.",
-      "priority": "low",
-      "category": "Other",
-      "analyzedAt": "2026-10-05T15:37:08.204Z",
-      "analysisVersion": 2
-    },
-    {
-      "id": "c860021adac1dddb",
-      "title": "Tracking Trump: G-7 opens oil reserves; military prepares for a Middle East surge; Trump diverts aid to Latin America; and more",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOHRoemE5Y3lUSTlReDVNdkJRT2RCVWZFejRXNmp6Um1wbXFTSnhJMWQwMmEwcFp3anMxSnA4ZUs0MDVXZE9UVWNUbTRhU1FDWVJkTFNMeEItcFRtM2lLR25HczdGMkVzaXBTalI2SnI0X2VMT2JPS3JRTzltUENsR3dxS09sMkkyT3VCZFQtNGs4dlhGNWdHMGhWaWlqU0QwazNQTi1xR2prX3NJckgwdTZJNmt5QkxKc2FtN3VRQUxnczVfWWVRZ1VNV3ZlSko0M3BKSkRQaTNOTzRqNk9Fb0I2cnZkMWd2MHkxY2Z2dmx4YU1aTnpBWnloOVpGZw?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-03T04:34:43.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-04T22:40:13.133Z",
-      "relevant": false,
-      "summary": "Roundup of Trump administration news on oil reserves, military and aid.",
-      "whyItMatters": "No evident Capital One connection.",
-      "priority": "low",
-      "category": "Other",
-      "analyzedAt": "2026-10-05T15:37:08.204Z",
-      "analysisVersion": 2
-    },
-    {
-      "id": "ef50a9a22b4cbe0d",
-      "title": "Kennedy Center Honors to be held at Capital One Arena amid fight over adding Trump's name",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVVsVlJIdG9IR2VvQVZod3FnYjBfZHFWOTJuYUZScHBFUkExbmxlLVZ4QU1zQnNDVUx0WEZRZHREcGtRTlc4d2FSZDJTU2hKZnlwREo0YVdoRlZlMmtPSXZnQU1vY2R2czNYTGlTelBPV1BmZzhQTlFBUE1SU2dsU0N3RGplM0VkcFFlYzNzRjhJd0o4ZXg5V21XbXNMNU55WUFGbmFOX3QyRk1CMGJoc0xfSU9CTG5nTXRFckZVdHF5VmxOVW1VaTk2aw?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-03T00:27:04.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-04T22:40:13.133Z",
-      "relevant": false,
-      "summary": "Kennedy Center Honors will be held at Capital One Arena amid a fight over adding Trump's name to the Kennedy Center.",
-      "whyItMatters": "Capital One appears only as the arena name; not about the company.",
-      "priority": "low",
-      "category": "Other",
-      "analyzedAt": "2026-10-05T15:37:08.204Z",
-      "analysisVersion": 2
-    },
-    {
-      "id": "f376141476a0eee6",
-      "title": "Kennedy Center Honors will move to Capital One Arena as closure drags on",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVNkWmc2SS1XZnhSNGJoNDc2T2daRmxJV21GNEpaT3VmYkdBa2F3ZjZ4eDlpOVdoMlNPTXhseGh2aklCSUtFRkgwS2htbjhCdDN0Y3E0emUxT1IxY19veXFnb0VlSmd6WEJ6bVgxTzJIUml3VWVpazR1VUhHdTJ0Zlp1QVNfUDZFeXlwak9BcjhZelBzT0kzSm9LRmktZ0lEX0I2ZFZxc3JTZ2FZNDZsVk1n?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-02T23:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-04T22:40:13.133Z",
-      "relevant": false,
-      "summary": "Kennedy Center Honors move to Capital One Arena as the Kennedy Center closure continues.",
-      "whyItMatters": "Venue name only; not about the company.",
-      "priority": "low",
-      "category": "Other",
-      "analyzedAt": "2026-10-05T15:37:08.204Z",
-      "storyId": "ef50a9a22b4cbe0d",
-      "analysisVersion": 2
     }
   ]
 }
