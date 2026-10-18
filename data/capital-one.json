@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-17T23:07:31.066Z",
+  "updatedAt": "2026-10-18T16:32:01.128Z",
   "briefing": [
     "The OCC issued a report criticizing debanking by JPMorgan and other large banks, and Capital One is presumably among those covered, though the headline names only JPMorgan; the policy team should check the report for any Capital One references. (Banking Dive)",
     "A top regulator says big banks turned away customers over politics, per Axios; the coverage doesn't name Capital One in the headline, so confirm whether the company is implicated. (Axios)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-10-17T23:07:31.066Z",
   "articles": [
+    {
+      "id": "52a77ab8c3d8f8b6",
+      "title": "Ryan Leonard sparks depleted Capitals to win over Devils",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2tjZzE2OS10S2FUazhzT2E3aF9ZMUFMTGJKMTM1VEsyb3hVbmdJRS05cHJlTC1VeVJyTl9aOHB1cWo3OUVUNkFSdVRoZmdIYmUzUDBROWt2OGlLOEdOYy1EYWw4V2hUUUNQV045OE1QNlNJTHB1Q0xnYTNfR3V3S05GampQZkdtTjBFNEFiV2RXdnQyZzdZWGQwZ25FTloxWS1abnh3?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-18T06:11:05.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-18T16:32:01.128Z",
+      "relevant": false,
+      "summary": "Sports recap of the Washington Capitals beating the New Jersey Devils, led by Ryan Leonard. It has nothing to do with Capital One the company.",
+      "whyItMatters": "Not related to Capital One or policy; no need to read.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-18T16:32:01.128Z"
+    },
     {
       "id": "c2120b251195a7ef",
       "title": "Capitals score 4 unanswered goals, double up Devils",
