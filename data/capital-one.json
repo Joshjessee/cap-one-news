@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-18T23:11:28.300Z",
+  "updatedAt": "2026-10-19T11:46:22.538Z",
   "briefing": [
     "The OCC issued a report criticizing debanking at JPMorgan and other large banks; the headline names only JPMorgan, so whether Capital One is among the banks cited is unconfirmed and worth checking against the report. (Banking Dive)",
     "A top regulator says big banks rejected customers over politics, covering the same debanking issue; the summary does not name Capital One, so its exposure is unclear and should be verified. (Axios)",
@@ -76,6 +76,23 @@
       "category": "Business & Earnings",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-16T19:34:26.781Z"
+    },
+    {
+      "id": "6194a0c1216734d7",
+      "title": "Articles sitemap of 2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtdEV3ZEdvNlVCZVFLWV9YTm9KSzVmQ1V6elk2N1lrc1U3MjF0R3JnbnF6c1RYRHZSMEdzQm1GbHAzTkJZLWRtN1cySG9CVGFyM0owM1J1Smg?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-16T14:13:11.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-19T11:46:22.538Z",
+      "relevant": false,
+      "summary": "This is a Reuters articles sitemap page for 2026-10-16, not a news story. Nothing in the headline or outlet refers to Capital One.",
+      "whyItMatters": "No identifiable Capital One content, so the team needn't read it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-19T11:46:22.538Z"
     },
     {
       "id": "1312a843441e01fd",
@@ -727,23 +744,6 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-05T15:37:08.204Z"
-    },
-    {
-      "id": "089835a9748359ef",
-      "title": "Discover’s 5% cash-back bonus categories for Q4 2026: October — December",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yUGEtZXM1S2ZaazBoRE05MXpVRUttUXdSOUlfaDM1NkJiWF8wSXJFcGtVdHRoa0pmSk0tV3ZyREJ6MTduU0czYU9OYUtndWNLWHZ0YjA3dkpKMUpId0RLWXV0MVRMeVXSAWxBVV95cUxPRWhNMDZmT09BTTFaMmhtaDVjUFZRTUlTWm9oUzRwaVVjVm13VDhYN1hnNGlPSGNfRlBDbTRLbmNjd09WNW40Q1I3dG5XNTVOa0NvRlZjUXp3VGY2VW1MSzRaR3gzVjlFbEhIMjM?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-05T07:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-07T23:07:22.197Z",
-      "relevant": true,
-      "summary": "CNBC outlines the Discover card's rotating 5% cash-back bonus categories for the fourth quarter of 2026, covering October through December.",
-      "whyItMatters": "It is routine product news about Discover, now part of Capital One, with no direct regulatory or legal angle.",
-      "priority": "medium",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-07T23:07:22.197Z"
     }
   ]
 }
