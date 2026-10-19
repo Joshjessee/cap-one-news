@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-19T16:59:58.148Z",
+  "updatedAt": "2026-10-19T22:22:55.160Z",
   "briefing": [
     "Congress is looking for outside AI and tech experts to educate lawmakers and staff as they weigh AI regulation, a sign of capacity-building ahead of possible legislation. (Politico)",
     "Punchbowl profiles a figure billed as Donald Trump's 'AI enforcer,' apparently an official driving the administration's AI policy agenda; only the headline was available, so details are unclear. (Punchbowl News)",
@@ -2196,74 +2196,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-06T01:19:08.178Z"
-    },
-    {
-      "id": "33f514311220bf35",
-      "title": "Stocks are hitting records despite surging yields. Cramer explains why",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybERrUC1CbG9kYXM2bzdJRElHVFZsQUJWcDIzNUdkQ25PTzh2YVd2anI1YUNSY1FIWXVlUDB0MHRickpIZ2UycXNWZGJ6cnJMRjZLYzA1eWxvLXJGV3ZLNl80UGZMNU52OTBFeHlrdFRiejNmTUhrMtIBfkFVX3lxTFBKaHdzZEprV0s2LTloMDlXbHNqZ3otUkN3MmpTOF9hSG1RY2Nsc1dWMEQwZmVHajdTbUVtRk1HcFl4a21HTGFtTWxQNkNPQk9aZ3ltdUx2OXpHUlpPcUpjbGJKUGZtNy1JLVJqazlIR1NJZk45NEk3dGxla3pzUQ?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-05T22:18:13.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-06T01:19:08.178Z",
-      "relevant": false,
-      "summary": "CNBC's Jim Cramer explains why stocks are hitting records even as bond yields surge.",
-      "whyItMatters": "Market commentary with no AI policy angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T01:19:08.178Z"
-    },
-    {
-      "id": "33a041f69689c11c",
-      "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEQ1Um5Da0s1emxRTkc3eGh2bVZRZUNCYTROaFVkbWpPVC1RMlhpMm9sVU1kM19ubHowSDlZTjJHWmxQc2ctOHpLemZuYnJjMFlPY045c05VbEpIdHVxeUVPZThFM0hSeEZHZm5aMFM2MHJoVmJOY3pmNGgxVFN0cy00NFJKa3ZaWERxdHRFSnJvWFdOSmMwdjM3elFuWkJ3SHQ3U2hwdw?oc=5",
-      "source": "Associated Press",
-      "paywalled": false,
-      "publishedAt": "2026-10-05T20:43:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-07T23:07:28.506Z",
-      "relevant": true,
-      "summary": "AI industry insiders raised safety alarms to the NYC council as local governments take up AI safety concerns.",
-      "whyItMatters": "Local and state AI safety activity can shape the broader regulatory landscape and the push for federal preemption.",
-      "priority": "medium",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-07T23:07:28.506Z"
-    },
-    {
-      "id": "d78f162cc3c686ae",
-      "title": "Permanent daylight saving time: Why this Republican senator disagrees with it, despite Trump’s support",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzVxbGRSeTRjdUVSd1ZSWUZQWmxRVnQxTFllYm11SnFlNjNiTkluSVAzdjRZeF80ZlF0U0d5RkM5VVR0a0d5LUd5Z0V0dU44ZDU4NWFCZm9rZWVOU3ZuMTZiWm1mRXAyRUVuS3VUTmRtU0tSZVQ3amJ0RVExZXZsZGZINzZFYUxfWWE1Y3FwaFpnZUJKWWpsUEs1eWVzRllvWFc5em9jVHdwbUJJclNfcnduUjF1VzVXTzNOWFpiZ3liR0RSYm11T2pWOGJZUllEVU1v0gHYAUFVX3lxTE5FZnZuZmhaNnVyb2ZKYTdLT0tncV9ZY2k1UnlKdWp0NVdaNnZ1LWZPMldvOFRhRnZ1TC1feEZBSGtEcHViVTM1b0ZzZTcxTWxFWTBrRXI2VTl1VUtlc1dLV1M4d09WSG04eWZHWEtFcXBCd3RyOEZPQm8tSzU0M2tvdTBISHg5NTVBMktwQ3dWUFNMb3FCY3hib21iRlRCMU1yZmFhYXhqM1F3U2dnbXpMNHp5al9FWHl2ZXRSS05HNFBZeWs4NTREdlpiaDlPZGExeXo3c0tWXw?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-05T20:40:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-06T22:40:45.417Z",
-      "relevant": false,
-      "summary": "A Republican senator explains his disagreement with permanent daylight saving time despite Trump's support.",
-      "whyItMatters": "Not about AI policy, so it is not relevant to this team.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T22:40:45.417Z"
-    },
-    {
-      "id": "1ca22a4968b13ff2",
-      "title": "Crypto industry PAC gives to 32 House incumbents, on both sides",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZaXNDM3ZBMVJCVzNucFB3Z2cycHV4X0pEUy05WHA2c29TakRLdDhRMTVuYnF4Y0xBaE5uMW1raDVJVW9fZFByVHQtdmx0VldkLWFZ?oc=5",
-      "source": "Roll Call",
-      "paywalled": false,
-      "publishedAt": "2026-10-05T19:33:02.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-07T17:26:48.341Z",
-      "relevant": false,
-      "summary": "A crypto industry PAC has donated to 32 House incumbents from both parties.",
-      "whyItMatters": "This is crypto campaign finance, not AI policy, so it is not relevant to this team's AI tracking.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-07T17:26:48.341Z"
     }
   ]
 }
