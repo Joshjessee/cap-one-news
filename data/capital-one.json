@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-19T11:46:22.538Z",
+  "updatedAt": "2026-10-19T16:59:53.352Z",
   "briefing": [
     "The OCC issued a report criticizing debanking at JPMorgan and other large banks; the headline names only JPMorgan, so whether Capital One is among the banks cited is unconfirmed and worth checking against the report. (Banking Dive)",
     "A top regulator says big banks rejected customers over politics, covering the same debanking issue; the summary does not name Capital One, so its exposure is unclear and should be verified. (Axios)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-10-18T23:11:28.300Z",
   "articles": [
+    {
+      "id": "d8a33a5f5d854518",
+      "title": "Capital One, General Motors are among the stocks reporting this week with momentum. Here are the others",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkQlZBNy02WEl0Tjk1R3ZobVhtMTc4eDk5dGNabDBNRUtycnAzZXlUOWowYXM0UWxGaGxPSENVc1ZXQlFIT2VsRXdvOFpDM09ELTBqWFlyRkpYTDRvV1Nqel9VeDRkanFmX0pqdHR5VXhBZw?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-19T16:01:30.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-19T16:59:53.352Z",
+      "relevant": true,
+      "summary": "A CNBC roundup of companies reporting earnings this week that have stock momentum, with Capital One and General Motors named among them. The headline gives no further detail on results or expectations.",
+      "whyItMatters": "Signals Capital One's upcoming earnings report is on the calendar, but Capital One is only one name in a list.",
+      "priority": "low",
+      "category": "Business & Earnings",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-19T16:59:53.352Z"
+    },
     {
       "id": "52a77ab8c3d8f8b6",
       "title": "Ryan Leonard sparks depleted Capitals to win over Devils",
@@ -710,40 +727,6 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-08T23:23:09.696Z"
-    },
-    {
-      "id": "5ed047e752d8dcf1",
-      "title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-05T13:49:17.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-05T15:37:08.204Z",
-      "relevant": false,
-      "summary": "Washington Post homepage with no specific story tied to Capital One.",
-      "whyItMatters": "No evident Capital One focus.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-05T15:37:08.204Z"
-    },
-    {
-      "id": "7dae3b019c8e6425",
-      "title": "Building beyond software with embedded financial products",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUFPUS1VT1UwNmIwRTAybm4tQUgzUWpKaDVUdTQwbllKb293dTBhLUdTVnZTRUh3dzBPb0hvNDRIZWZfMm9HMDJNWjZrSWVjTUpCQ3BRLU9iVVNCQ0NGWUR3QlJGR0hQVXBiZTJyZi1KYkZpZHpMb3JnUlpQbWdVaU1HVG5ZOEozaWd5MjJpV3RIVEpNb1ViMW9GQ1pvNmdxY1E?oc=5",
-      "source": "Payments Dive",
-      "paywalled": false,
-      "publishedAt": "2026-10-05T12:36:08.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-05T15:37:08.204Z",
-      "relevant": true,
-      "summary": "Payments Dive piece on embedded financial products offered beyond software platforms; Capital One may be mentioned but the teaser gives no detail.",
-      "whyItMatters": "Possible mention of Capital One in embedded finance trends, but likely minor.",
-      "priority": "low",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-05T15:37:08.204Z"
     }
   ]
 }

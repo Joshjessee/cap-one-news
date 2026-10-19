@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-19T11:46:26.245Z",
+  "updatedAt": "2026-10-19T16:59:58.148Z",
   "briefing": [
     "Congress is looking for outside AI and tech experts to educate lawmakers and staff as they weigh AI regulation, a sign of capacity-building ahead of possible legislation. (Politico)",
     "Punchbowl profiles a figure billed as Donald Trump's 'AI enforcer,' apparently an official driving the administration's AI policy agenda; only the headline was available, so details are unclear. (Punchbowl News)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-10-19T11:46:26.245Z",
   "articles": [
+    {
+      "id": "b1c818949ace2b9e",
+      "title": "Donald and Melania Trump unveil women’s health initiative ahead of midterms",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUJmVjJsenllTUcteTNHZVQyR3FvcEFQZmt2TDFERDFIemVrWlpmdmxyWGFNbFlscllWcU5BZkM1RVlZcVBoaGtXbWZWN0lvdGsxVm5wWHZFdlJwLWFNZmo5Wi1tQVM1WFlLellueFR5dlBmMEhIcDJvT2liTVJtTERaNjZIZVhTMDhSVVBtT0lZX1g3eDI3cl95dzFQSXNJXzU1Nk1fdjJUTTc5WHg0LUhiQng?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-19T16:20:47.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-19T16:59:58.148Z",
+      "relevant": false,
+      "summary": "President Trump and the first lady unveiled a women's health initiative ahead of the midterms. The headline gives no indication of an AI angle.",
+      "whyItMatters": "It is a health policy item with no evident AI or financial services policy connection.",
+      "priority": "low",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-19T16:59:58.148Z"
+    },
     {
       "id": "892d10ed0e671e74",
       "title": "Privacy Act of 1974; System of Records",
@@ -42,6 +59,42 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-17T16:24:29.756Z"
+    },
+    {
+      "id": "f691b450c8bd0792",
+      "title": "ADVANCING WOMEN’S HEALTH TO IMPROVE OUTCOMES IN ALL PHASES OF LIFE",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkladzllYmtwYksxemQwWnJwX08zYjE3OFVlYnJVSi1WUzljUFh2d3RfT0l4cDdDNnB5SXExY2FfbXhiNVdhc2dCTmg1ZHpHMnpGVGJRVFQ4V2JvNnVyQ3lJWHRaM3dKMlpKRDBFOERHOHVwS1V2eE1VTG9qTkRsSFQ5cnRONHkzcW9iSFQtT1FNZjJMcWhBR1ZCNGM3eDJQNS1nMzJCZHpsTVkxUE1lcW90YTJtanU2VzV5aVNWMA?oc=5",
+      "source": "The White House",
+      "paywalled": false,
+      "publishedAt": "2026-10-19T15:25:57.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-19T16:59:58.148Z",
+      "relevant": false,
+      "summary": "A White House release on advancing women's health outcomes across all life phases, apparently tied to the new initiative.",
+      "whyItMatters": "It is health policy with no evident AI policy angle, so the team needn't read it.",
+      "priority": "low",
+      "category": "Administration",
+      "storyId": "b1c818949ace2b9e",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-19T16:59:58.148Z"
+    },
+    {
+      "id": "acc4a2a9cccbc648",
+      "title": "Watch live: Trump, first lady unveil new women’s health initiative",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGZXR1ZYZ24xSVoyQkJzU3llTGlLRDYxbWRpXzhwYXNqc0s1SFJFQmlvdkVJaVRqb1RmSDZqM0xFOEo3QjEzaDVmWU1nWGtjS0tOYmtyTHhVeWVrSEZhbmFUSVZfZ3JJRGJFZVVmRjU5dXBqbUJMR01VaVU0MUh0MFZ2WExIS2R2R21Z0gGLAUFVX3lxTE1MZldHVlhnbjFJWjJCQnNTeWVMaUtENjFtZGlfOHBhc2pzSzVIUkVCaW92RUlpVGpvVGZINmozTEU4SjdCMTNoNWZZTWdYa2NLS05ia3JMeFV5ZWtIRmFuYVRJVl9ncklEYkVlVWZGNTl1cGptQkxHTVVpVTQxSHQwVnZYTEhLZHZHbVk?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-19T14:28:39.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-19T16:59:58.148Z",
+      "relevant": false,
+      "summary": "Live coverage of Trump and the first lady unveiling a new women's health initiative.",
+      "whyItMatters": "It has no evident AI or financial services policy relevance.",
+      "priority": "low",
+      "category": "Administration",
+      "storyId": "b1c818949ace2b9e",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-19T16:59:58.148Z"
     },
     {
       "id": "4b9f95a4884c0935",
@@ -2211,57 +2264,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-07T17:26:48.341Z"
-    },
-    {
-      "id": "7e3737813fbc0343",
-      "title": "Potential Designation of Chartered Financial Analyst Designation as Qualifying Natural Persons for Accredited Investor Status",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20311/potential-designation-of-chartered-financial-analyst-designation-as-qualifying-natural-persons-for",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-05T16:00:00.000Z",
-      "snippet": "Notice — Securities and Exchange Commission — Notice is given that the Securities and Exchange Commission (the \"Commission\") is considering whether to issue an order designating holding a charter as a Chartered Financial Analyst (\"CFA\") in good standing as qualifying natural persons for accredited investor status.",
-      "firstSeenAt": "2026-10-04T22:40:29.731Z",
-      "relevant": false,
-      "summary": "SEC is considering designating CFA charterholders as qualifying for accredited investor status.",
-      "whyItMatters": "Securities regulation but not AI policy.",
-      "priority": "low",
-      "category": "Financial Regulators",
-      "analyzedAt": "2026-10-05T15:37:22.404Z",
-      "analysisVersion": 2
-    },
-    {
-      "id": "8fdebf9627ecc395",
-      "title": "Wicker Touts Data Center Benefits",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOE43WkJ0ZUVtTFBNUjlIdVhqdFlOdG9iMXBFMWNUUUJ3dVJTSGpIRzlfcjhmOHE3Y1BIaE1ZVkV1alRPMHVKOXQzVS1qV2JUbXI0VklIei1YemFMRl9tZUIzanZmYV9wTUU4Vko5UmFieThhWWo1T1JNanlMYWhFaA?oc=5",
-      "source": "U.S. Senate",
-      "paywalled": false,
-      "publishedAt": "2026-10-05T15:19:29.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-05T15:37:22.404Z",
-      "relevant": true,
-      "summary": "Sen. Wicker promotes the benefits of data centers.",
-      "whyItMatters": "Data center policy is part of the AI infrastructure debate in Congress.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-05T15:37:22.404Z"
-    },
-    {
-      "id": "c8a3697bb5386fb4",
-      "title": "Citadel Securities Says Economic Strength Drives Higher Yields",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGNNRWhWTU8ta1E2Ykt1bXlOLV9idjg3VGxRaWpFVnIwWmRqelA3dmZQZzBhMHI2S2tRYWNkZktKTHJNS0Q4MnlKZW1wQjU5VkRwdGRFSk5ydlZ2S1dYNkJEbTdTR19CWHlzd2U4MUVXRnVKWVpUU0VmWUQ1SzY3ZFlQWDVKZmpVUVZMNU5YMVAycGIwQU5yLVF4dVJGSHVENUdQMWlxcV8tV3ktOUFtYXh3aw?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-05T15:06:46.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-05T19:12:27.210Z",
-      "relevant": false,
-      "summary": "Bloomberg reports Citadel Securities' view that economic strength, not other factors, is driving higher bond yields.",
-      "whyItMatters": "This is market commentary with no evident AI policy or government action angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-05T19:12:27.210Z"
     }
   ]
 }
