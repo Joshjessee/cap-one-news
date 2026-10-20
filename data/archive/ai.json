@@ -2,6 +2,23 @@
   "topic": "ai",
   "articles": [
     {
+      "id": "2ae64780517bbe3a",
+      "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakFtbFQyazJjZVY3S21qb193RWduTk1LZ3RZTlFoeEJ2b0tnSVVBclNQeW9EYjVKZHEzTGdPSVJ5eVdjOGxiXzJCVHJkUm5fXzNJODJaRGdpaFFqZ0RTRXRDTlVkMGtlVy1Rcjl1R1FHN3h1SEh0SUxjMHpqeUh2SWJFa2w?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-06T08:51:52.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-06T16:50:15.504Z",
+      "relevant": true,
+      "summary": "South Korean authorities are investigating whether artificial intelligence was used in hacking attacks on the country's banks.",
+      "whyItMatters": "AI-enabled cyberattacks on banks are a growing risk that could shape financial regulators' expectations for cybersecurity and AI.",
+      "priority": "medium",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-06T16:50:15.504Z"
+    },
+    {
       "id": "33a041f69689c11c",
       "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEQ1Um5Da0s1emxRTkc3eGh2bVZRZUNCYTROaFVkbWpPVC1RMlhpMm9sVU1kM19ubHowSDlZTjJHWmxQc2ctOHpLemZuYnJjMFlPY045c05VbEpIdHVxeUVPZThFM0hSeEZHZm5aMFM2MHJoVmJOY3pmNGgxVFN0cy00NFJKa3ZaWERxdHRFSnJvWFdOSmMwdjM3elFuWkJ3SHQ3U2hwdw?oc=5",

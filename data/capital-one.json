@@ -1,14 +1,30 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-19T16:59:53.352Z",
+  "updatedAt": "2026-10-20T11:46:40.279Z",
   "briefing": [
-    "The OCC issued a report criticizing debanking at JPMorgan and other large banks; the headline names only JPMorgan, so whether Capital One is among the banks cited is unconfirmed and worth checking against the report. (Banking Dive)",
-    "A top regulator says big banks rejected customers over politics, covering the same debanking issue; the summary does not name Capital One, so its exposure is unclear and should be verified. (Axios)",
-    "Capital One is set to report quarterly earnings next week, and CNBC previewed what to watch alongside Meta's results. (CNBC)",
-    "CNBC ran several consumer credit card roundups for October 2026 (sign-up bonuses, balance transfers, easy approval, low credit scores) that likely include Capital One products, but these are only passing mentions. (CNBC)"
+    "The OCC released a report criticizing debanking at JPMorgan and other large banks, and Capital One is presumably among those covered, though the headlines name only JPMorgan; a policy team should confirm how the report treats Capital One. (Banking Dive, Axios)",
+    "Capital One is set to report quarterly earnings this week, and CNBC previewed what investors want to see, noting the stock is among those reporting with momentum. (CNBC)",
+    "Capital One cards likely appear in CNBC consumer roundups of credit cards for low credit scores and easy approval, though the articles don't confirm this and the mentions are minor. (CNBC)"
   ],
-  "briefingUpdatedAt": "2026-10-18T23:11:28.300Z",
+  "briefingUpdatedAt": "2026-10-20T11:46:40.279Z",
   "articles": [
+    {
+      "id": "72763d120880871e",
+      "title": "Mobility matters: what vehicle access tells us about upward mobility",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUpYeTA0Q0VmUXl6d0czU25URkdvNGQ5SFBPZVB5YmdKbXYyaGVlVVo2RkVpWHdCWW9BdUhuaHluLWpVYllTSVAwZEZPaHF4SXVFR3RKQmR1WVJtb2xRVHBtaTVCM0xZaXlvZFNydGVsWWYtUThzdUVzYWx0NVgwMndHRDk0TXdneUFlellENDk0SWtTU0dzM1hVckwyd2Jf?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-10-19T19:08:37.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-20T11:46:40.279Z",
+      "relevant": false,
+      "summary": "Axios piece on how access to a vehicle relates to upward mobility; the headline gives no indication Capital One is a subject of the story.",
+      "whyItMatters": "No evident Capital One connection, so the policy team can likely skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T11:46:40.279Z"
+    },
     {
       "id": "d8a33a5f5d854518",
       "title": "Capital One, General Motors are among the stocks reporting this week with momentum. Here are the others",
@@ -710,23 +726,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-06T15:25:10.469Z"
-    },
-    {
-      "id": "1e59c0f4073cb448",
-      "title": "The best student checking accounts of October 2026",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iaXVVcEdMa0ZGamNCcUFWdnFFNloxRUpVcDJ3SHU2NG5kNmdkTHhVUkMxUl9WOEExQ0tya2FnMEt3S1pCTFR5M1J2WmlDS1Q4TEpJckxoZFNFcjEzc1ZZbGRDaEJ2QzFBSlM00gFwQVVfeXFMTlNZbHZkZVBGT1FlTkZ3b2JrajJvNHp0bFNGRjhxYVlVWFdWNHZzb2RERkphUXhxYWMwV0ZFOXpQR3RVQVZIeXBfOVZxalhnS3B2ZlpGelcwQ3p2eDFfV29taTBkNVZyeE9pYV9fUHVwRA?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-08T23:23:09.696Z",
-      "relevant": false,
-      "summary": "CNBC roundup of the best student checking accounts for October 2026. Capital One may appear as one of the listed banks, but the headline doesn't confirm it.",
-      "whyItMatters": "Consumer product roundup with at most a passing mention of Capital One; low value for policy work.",
-      "priority": "low",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-08T23:23:09.696Z"
     }
   ]
 }
