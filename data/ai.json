@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-20T15:07:53.859Z",
+  "updatedAt": "2026-10-20T20:00:47.368Z",
   "briefing": [
     "DHS published a Federal Register notice of the Secretary's order excluding DeepSeek and affiliate products from federal civilian agency procurements. It also requires removal from civilian agency IT systems, including third-party products built on DeepSeek, which may matter for vendor and third-party risk reviews. Reuters notes governments and regulators are stepping up scrutiny of DeepSeek more broadly. (Federal Register, Bloomberg, Reuters)",
     "American Banker urges bankers to engage as lawmakers weigh AI guardrails that could affect financial institutions. (American Banker)",
@@ -10,6 +10,40 @@
   ],
   "briefingUpdatedAt": "2026-10-20T15:07:53.859Z",
   "articles": [
+    {
+      "id": "8be0f2a3110a16ef",
+      "title": "Anthropic's public benefit fund and how it compares with other big philanthropic efforts",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUENOUVhPYnJhd21SbnpSWUM1YTl2SVZ4eFNIeFloTnBNQTE4eDMyY1lMUUZYbVFyZGY0bUUwWElYVk5ZVzZIbHU0c184amp4Rlhva21hZW5ITkd2a0pLRVNsdHFwNHp6X2lhcUdlNmYtSjZGOWIzd29FbDJQeDk3QXNsaFRha3NhU1hBOXFuWmFUS190aW83YmJzb3NhSklxaVprNzJHN2pJRndqOE5VSEtrUzhxdm9WMmtuTg?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-20T18:43:50.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-20T20:00:47.368Z",
+      "relevant": false,
+      "summary": "Reuters compares Anthropic's public benefit fund with other large philanthropic efforts. It is about corporate philanthropy rather than government action on AI.",
+      "whyItMatters": "No federal AI policy or regulatory angle, so little relevance for the policy team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T20:00:47.368Z"
+    },
+    {
+      "id": "8e2a7070bf1d8cef",
+      "title": "Joel Kaplan, Meta’s Global Policy Chief, to Leave After 15 Years",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU1YZ080N2VkSXRaSm1uZlNneDZNeWJxOHNIWVZPYXZ6N2NSbjJ1bTdwZmxtZV85eEVyeWlBQzM3QkJ5VG84ckl4M0ZieC0wTlVGYndndURSdG1rc2ZjcWpnaURqWXg5eDRRWDhab1FvRU11VjN5MGlCUXlUVkZEQmlzWUJlQlh0cUgtXzNNZUk?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-20T18:07:07.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-20T20:00:47.368Z",
+      "relevant": false,
+      "summary": "Joel Kaplan, Meta's global policy chief, is leaving the company after 15 years, according to the NYT headline.",
+      "whyItMatters": "It is a personnel change at a major tech company's policy shop; the headline gives no direct AI policy action, though it may affect Meta's Washington engagement.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T20:00:47.368Z"
+    },
     {
       "id": "fdde44cb77dc3421",
       "title": "Notice of Order Regarding Exclusion and Removal of DeepSeek Products From Federal Civilian Executive Branch Information Technology Systems and Procurements",
@@ -43,6 +77,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-20T11:46:51.295Z"
+    },
+    {
+      "id": "6211cc0abb7faba2",
+      "title": "‘Tough road’ seen for Waters’ rivals at Financial Services",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYldrV09xeV9QUmNWRG8xWnJheC1ocUZURUFBQTdrYUJhOVlxNzM4Z3BaNE8zLUJlQXg1TE84czNNZHg4dWhybk00dDFGN1RqRG1xNW4tVlhHaDZHZEJYaW14S2c2Njk5cHJqVndYRWhDMUY0ZTEya240UWx1ZENDeklNcHJEUUdaVlhzUWgyeTBYQQ?oc=5",
+      "source": "Roll Call",
+      "paywalled": false,
+      "publishedAt": "2026-10-20T14:40:38.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-20T20:00:47.368Z",
+      "relevant": false,
+      "summary": "Roll Call reports that Rep. Maxine Waters' rivals face a difficult path in the contest at the House Financial Services Committee.",
+      "whyItMatters": "It concerns committee leadership that oversees financial services, but the headline shows no AI-specific policy content.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T20:00:47.368Z"
     },
     {
       "id": "9f3522477f0690f3",
@@ -146,6 +197,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-20T11:46:51.295Z"
+    },
+    {
+      "id": "491211d3965c6f12",
+      "title": "Republicans Barely Mention Trump in Political Ads Ahead of the Midterms",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTktoMFAtdElBT2RIeF9vb25hTmVHd0tsSGpfM01HdlhtcnJiMEQtbkY1a3l5MU8zWmVuNkpyZWhwUHNsdmwzcUJzMTFnTU05M0xyMTlGVVhqS0J0ajVZa25UdHhkQWVJVW1uOFVidC1DeG1zNzFocWE2dnZIbGVuWXBlcWREc2xRcG42eHNlaUV6MzBFeGc?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-19T18:01:07.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-20T20:00:47.368Z",
+      "relevant": false,
+      "summary": "The NYT reports that Republicans are rarely mentioning Trump in their midterm political ads.",
+      "whyItMatters": "General campaign news with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T20:00:47.368Z"
     },
     {
       "id": "b1c818949ace2b9e",
@@ -2216,57 +2284,6 @@
       "storyId": "acb587d1bfd70301",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-08T17:25:12.606Z"
-    },
-    {
-      "id": "8b2b9e879faf16b9",
-      "title": "Northeast Democrats urge Trump administration action as heating oil costs surge",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjNTOThyMXhvc1UzM1A2TVVrak53cDQ2d2h5dElha3lIWVU1NXVVbjhpRHhCejJldi1IS04tOVpBNzR1eDFGeGthX0F3TUNmSXljbkhaWnR6X0xIRmtMNUZtbW5KeG9nQ0NTMXFsdE9rdmdlTjE5dlFOR3JfbFJiWGJUU1pBUTd3RE8wNHgtcVowX1NlWUxRM3VESDM3d1NYRFFJdUJEeGR0eGd3blZtZnhKRDZpTlR3bE1fMEtKS25NS0l0OFVvVw?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-06T17:52:48.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-07T17:26:48.341Z",
-      "relevant": false,
-      "summary": "Northeast Democrats are urging the Trump administration to act as heating oil costs rise.",
-      "whyItMatters": "This is an energy-cost story with no AI policy angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-07T17:26:48.341Z"
-    },
-    {
-      "id": "5074058cb66103fd",
-      "title": "Investment Adviser Performance-Based Compensation Modernization",
-      "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20474/investment-adviser-performance-based-compensation-modernization",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-06T16:00:00.000Z",
-      "snippet": "Proposed Rule — Securities and Exchange Commission — The Securities and Exchange Commission (the \"Commission\") is proposing to amend the rule under the Investment Advisers Act of 1940 that provides an exemption from the statutory prohibition on registered investment advisers receiving compensation on the basis of a share of capital gains in or capital appreciation of an advisory client's account. Specifically, the proposed amendments would expand the ability of investment advisers to receive this compensation from clients that are registered management investment companies and business develop",
-      "firstSeenAt": "2026-10-06T15:25:14.073Z",
-      "relevant": false,
-      "summary": "The SEC proposed amending the Investment Advisers Act rule on performance-based compensation, expanding which clients (such as registered funds and business development companies) can pay advisers a share of capital gains.",
-      "whyItMatters": "It is a financial regulation item with no AI policy angle, so it is outside this team's AI focus.",
-      "priority": "low",
-      "category": "Financial Regulators",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T15:25:14.073Z"
-    },
-    {
-      "id": "33c3cee138e1c2c1",
-      "title": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
-      "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20466/adviser-and-regulated-fund-custody-rules-crypto-custody-rules",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-06T16:00:00.000Z",
-      "snippet": "Proposed Rule — Securities and Exchange Commission — The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is proposing new custody rules under the Investment Company Act of 1940 (the \"Investment Company Act\") and amendments to related reporting and recordkeeping requirements to address how regulated investment companies may custody crypto securities and similar investments, and amendments to the custody rule and related reporting and recordkeeping rules under the Investment Advisers Act of 1940 (the \"Advisers Act\") to address how registered investment advisers may custody cli",
-      "firstSeenAt": "2026-10-06T15:25:14.073Z",
-      "relevant": false,
-      "summary": "The SEC proposed new custody rules for how regulated funds and registered investment advisers may hold crypto securities and similar assets, plus related reporting and recordkeeping changes.",
-      "whyItMatters": "It is a financial regulatory proposal on crypto custody, not AI policy, so it is not relevant to the AI tracking.",
-      "priority": "low",
-      "category": "Financial Regulators",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T15:25:14.073Z"
     }
   ]
 }

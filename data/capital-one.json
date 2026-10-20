@@ -1,13 +1,31 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-20T15:07:50.107Z",
+  "updatedAt": "2026-10-20T20:00:38.382Z",
   "briefing": [
-    "The OCC released a report criticizing debanking at JPMorgan and other large banks, and Capital One is presumably among those covered, though the headlines name only JPMorgan; a policy team should confirm how the report treats Capital One. (Banking Dive, Axios)",
-    "Capital One is set to report quarterly earnings this week, and CNBC previewed what investors want to see, noting the stock is among those reporting with momentum. (CNBC)",
-    "Capital One cards likely appear in CNBC consumer roundups of credit cards for low credit scores and easy approval, though the articles don't confirm this and the mentions are minor. (CNBC)"
+    "The OCC issued a report criticizing debanking by JPMorgan and other large banks, and a top regulator said big banks turned away customers over politics; the articles don't explicitly name Capital One, so the policy team should check the full report for any mention of the company. (Banking Dive, Axios)",
+    "Capital One is set to report quarterly earnings this week, and CNBC previewed what to watch and listed it among momentum stocks reporting alongside General Motors. (CNBC)",
+    "CNBC is promoting a Capital One Venture X Business card offer worth up to $4,300 in travel value. (CNBC)",
+    "Capital One cards are likely featured in CNBC consumer roundups on credit cards for scores of 580 or below and those easiest to get approved for in October 2026, though neither is confirmed from the headlines. (CNBC)"
   ],
-  "briefingUpdatedAt": "2026-10-20T11:46:40.279Z",
+  "briefingUpdatedAt": "2026-10-20T20:00:38.382Z",
   "articles": [
+    {
+      "id": "5c2b153d0a5adca5",
+      "title": "Earn up to $4,300 in travel with the latest Capital One Venture X Business card offer",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qdTI2TF91TWFsbC0ya01iWFVvdUdRd0NHc3o2VHljd3BKblpiT1ZKUVdTRG5LM3Q5V3FMY0xJOFFJODNIMk0zcW4wS2pUT013WlhmTHk2TzBXbFRCaXhCMDRaN2dIeVg5b2lEQ0hXa3YteXJXLWpoYlpNbHV1UdIBgwFBVV95cUxNQm9GN1h3OWppbUVvMndqN1ljY0lMMU4xUWxvcVVlOHFTUDAtcGp2ZDJUNW5KT3NoUlhRV0Z3MmpJT0FJcjZHcVhQRWUweXRnYjQyYzlQa1BEaHlscUFjN1hEdXdkOFVyN0ExdFJhTXI1UGdFY0RfTEtRZGlnOGc5c1g1UQ?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-20T19:19:52.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-20T20:00:38.382Z",
+      "relevant": true,
+      "summary": "CNBC highlights a current Capital One Venture X Business card promotion that offers up to $4,300 in travel value.",
+      "whyItMatters": "Routine product marketing news with little direct policy relevance, but it shows how Capital One is promoting its premium business card.",
+      "priority": "medium",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T20:00:38.382Z"
+    },
     {
       "id": "75f2bfcdd0de9084",
       "title": "Wizards fans have endured plenty of misery. They’re ready for a ‘new beginning.’",
@@ -675,40 +693,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-07T17:26:43.130Z"
-    },
-    {
-      "id": "a40b31ec7b9010f4",
-      "title": "Bought concessions at Capital One Arena? You may be owed money",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEtrWmVuSWJORGppLWE1Z054TFNJM0RabE5NSDlSOXhoc3hJMkdFdUNBSmlJRy1OUHhqNEM1NmZqQ0dveG9aYkxIM1RTeUVWbkxWbWhITlNsd01tWEoxZUhpd0FEdnFKOWhweVpBejBsWjhCMGZjRm85TU5OS1RBM3RjaGVpdjBFcndqb1NXRDNMelVBTFVnazFDT205Sk5IZDdnR3VR?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-10-06T18:59:42.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-06T22:40:38.777Z",
-      "relevant": false,
-      "summary": "Axios reports that people who bought concessions at Capital One Arena may be owed money, evidently via a settlement or refund. The arena name is only a venue sponsorship.",
-      "whyItMatters": "Capital One appears only as the arena's name, so this isn't about the company or its policy interests.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T22:40:38.777Z"
-    },
-    {
-      "id": "1080821b69eadf33",
-      "title": "American Airlines is bringing its largest Admirals Club to CLT",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2c2WWZpQlhEeTEyM240UnppSDE2WXY0dm5oOHhWVVE3RWZGNWZXTS03MkFOaXJwbW83VkVUWFFFUW5tSkljTy1ReFBnbmNjS2JFUGxfTm5RUkE4TXVSX21mdjhscU1OdUJCNjlmUzA4eEltQk1zOTVsbHFtWWQ5ZU8zRnI3ZUVqZThnQQ?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-10-06T17:02:29.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-06T22:40:38.777Z",
-      "relevant": false,
-      "summary": "American Airlines is opening its largest Admirals Club lounge at Charlotte airport (CLT). Nothing in the headline mentions Capital One.",
-      "whyItMatters": "No evident connection to Capital One's business or policy agenda.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T22:40:38.777Z"
     }
   ]
 }
