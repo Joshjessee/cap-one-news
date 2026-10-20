@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-20T11:46:51.295Z",
+  "updatedAt": "2026-10-20T15:07:53.859Z",
   "briefing": [
-    "DHS published a Federal Register notice of the Secretary's order excluding DeepSeek and affiliate products from federal civilian agency procurements and requiring their removal from civilian IT systems, including third-party products built on DeepSeek. Bloomberg had reported the move a day earlier. (Federal Register, Bloomberg)",
-    "Industry is engaging on federal frontier AI legislation: Punchbowl reports OpenAI is inching toward backing a 'Frontier' AI bill in Congress, and The Washington Post's AI & Tech Brief covers a leaked Anthropic bill that appears to be draft AI legislation. (Punchbowl News, The Washington Post)",
-    "Congress is seeking outside AI and tech expertise to educate lawmakers and staff as it weighs AI regulation. (Politico)",
-    "Data center concerns are surfacing in Senate campaign debates, a sign of growing political salience around AI infrastructure. (Roll Call)",
+    "DHS published a Federal Register notice of the Secretary's order excluding DeepSeek and affiliate products from federal civilian agency procurements. It also requires removal from civilian agency IT systems, including third-party products built on DeepSeek, which may matter for vendor and third-party risk reviews. Reuters notes governments and regulators are stepping up scrutiny of DeepSeek more broadly. (Federal Register, Bloomberg, Reuters)",
+    "American Banker urges bankers to engage as lawmakers weigh AI guardrails that could affect financial institutions. (American Banker)",
+    "Frontier AI legislation is taking shape on the Hill: Punchbowl reports OpenAI is inching toward backing a 'Frontier' bill, and the Washington Post's AI & Tech Brief covers a leaked Anthropic bill. Both signal industry positioning on federal AI legislation. (Punchbowl News, The Washington Post)",
+    "Congress is seeking outside AI and tech expertise to help staff and lawmakers as they consider AI regulation, while data center concerns are surfacing in Senate campaign debates. (Politico, Roll Call)",
     "Punchbowl profiles Donald Trump's 'AI enforcer,' an official apparently driving the administration's AI agenda, though details are limited. (Punchbowl News)"
   ],
-  "briefingUpdatedAt": "2026-10-20T11:46:51.295Z",
+  "briefingUpdatedAt": "2026-10-20T15:07:53.859Z",
   "articles": [
     {
       "id": "fdde44cb77dc3421",
@@ -43,6 +43,24 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-20T11:46:51.295Z"
+    },
+    {
+      "id": "9f3522477f0690f3",
+      "title": "Governments, regulators increase scrutiny of China's DeepSeek",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVhkM1J5N0IzOXhOUDREMjd2N3J4eHJaNUREaWhaSWhISlNxMnBmWDZRXzYtczB3ME1xT0N2Z0hxWEdHU1MtSDdjVXBTMlBYdmd4NmFNNk9GRl9McmE3c2lQaFFoSG9KbEtiUnp0MGlqbVlOekpva3BUalZZUDgxc21KeGhCaFNGckszZ2k1anR4d2NQNmhwaklreTh3cHpwM3B5VQ?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-20T11:44:56.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-20T15:07:53.859Z",
+      "relevant": true,
+      "summary": "Reuters reports that governments and regulators are stepping up scrutiny of China's DeepSeek AI. This fits with the U.S. move to exclude DeepSeek products from federal civilian agency systems.",
+      "whyItMatters": "Restrictions on Chinese AI vendors can affect third-party risk and vendor choices for regulated firms.",
+      "priority": "medium",
+      "category": "Administration",
+      "storyId": "fdde44cb77dc3421",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T15:07:53.859Z"
     },
     {
       "id": "fc8461f6e28fa9f2",
@@ -233,6 +251,23 @@
       "storyId": "fdde44cb77dc3421",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-20T11:46:51.295Z"
+    },
+    {
+      "id": "b789fc3bf55e5797",
+      "title": "Bankers need to engage as lawmakers consider AI guardrails",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeVFEc0dFTXEteWtoLUViNHNkTXYtLUxQSmhzMThueUhITllSODBsVE1IWDlOdnR6V0R1S0JCa0hXb3NxOFViYldkMjFHRHpOMDJIaE1XMjgwU2w4MXc4RTZ1OG9ZU0czNXQydjRrZEU5ZlhhWmVhdWdzSG51M0pJZnVrbHByRlJnWm9GWUhyLWlCR1BGc3k4VlhyNXBkZw?oc=5",
+      "source": "American Banker",
+      "paywalled": true,
+      "publishedAt": "2026-10-19T11:30:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-20T15:07:53.859Z",
+      "relevant": true,
+      "summary": "American Banker argues that bankers should engage with lawmakers who are weighing AI guardrails. The headline suggests congressional AI proposals could affect financial institutions.",
+      "whyItMatters": "It speaks directly to AI legislation affecting banking and to how the industry can shape it.",
+      "priority": "high",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T15:07:53.859Z"
     },
     {
       "id": "4b9f95a4884c0935",
@@ -2232,57 +2267,6 @@
       "category": "Financial Regulators",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-06T15:25:14.073Z"
-    },
-    {
-      "id": "87b38529405b3b17",
-      "title": "They told the world AI was dangerous. Now Trump’s allies are coming for them.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHJoZDRlT3loX2JwU1hjblNTNGI3U0o4d0ZST0djdXZZbmpBTVRZSXNYc1JyeFQyWjZWSWZjZWVrTVdLd1BxX080VEJuckNRSnFzZlhSb3BTdGwtRm9aTkNMU0FEeGxneGdFWlBnVTZsbWd0OE5COXo0QXBsX3VDMTdzamEwME9YbC13dXRSazFQQmtTTW1FdGhhb1d1MWpRcGMyVEl5WDYtT2VaUlJsdUIybTcwa0JWYzRBT3BWbWg?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-06T13:57:36.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-06T15:25:14.073Z",
-      "relevant": true,
-      "summary": "The Washington Post reports that people who warned the world about AI dangers are now being targeted by Trump's allies. Only the headline is available, so details are unclear.",
-      "whyItMatters": "It points to the political fight over AI safety and the Administration's stance toward critics, which may shape federal AI policy.",
-      "priority": "medium",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T15:25:14.073Z"
-    },
-    {
-      "id": "ea59c2938e23bd1f",
-      "title": "Thune: ‘No clear path forward’ on permanent daylight saving time legislation",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1oxdXVmcWRBaDZveFpsQW44cHZMWUE0ckQ4el9abDV4THBXMHVldWYwTWlwRW50QmFUSFA2cUducm4wbUh5ZDhULW1QejRuY254UExWdUprQThjZ044VVctbVo5WmI3ZHg3RWd5eE9JMmVYaVBkZnd0WVFhdDJHQVFtVkhOU0gwdmJfaWV4UXFxUVU2eUFGcXJTUkFvN1RIaDlaVDY1VDBncDdBNUxlOC02ZkNTbmdTa3NRbjVVOTbSAcYBQVVfeXFMTlhlZWpKekRUc3FHUmNwWTlnZkVic21STGJ6STI0NHJWcnhkb21ZSV9iZjcxa2FTT1UtOW1FYU1OZ0dkMmhtbXdSTzVCNno1WDVfZHdGcEp3alhvMzRCSWJGWG5kV2NOYUZDN25SUHN0M3NkNlFsVU9LLVA2UUFoZnlidmZjNWdaeHRiOU9CQjhDWjhObTllazBmbzN2Ui1FYTZWVk5rWFh6TzJHemZORHRMdTVEMVk4bzFrcDhZZGVZbmVIR01n?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-06T13:11:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-06T22:40:45.417Z",
-      "relevant": false,
-      "summary": "Senate Majority Leader Thune says there is no clear path forward for permanent daylight saving time legislation.",
-      "whyItMatters": "Not about AI policy, so it needs no attention from this team.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T22:40:45.417Z"
-    },
-    {
-      "id": "bf2027b382ddb3eb",
-      "title": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPek92bW43WU9RZ1dyajlJYWMzYkZvZzRPRW92d3NRaEhBMEQ2OUdQMlh2bUR4MW1EMzUxMUNxMHJHdjZFX05KcTRCb0E4Tk9yWjJwa2JSSUlsSFY4UE03NlpsUVRZTTNLVnN6eUdpSHNTQUpRNUxLZ1JFMjB6NlNJTkpIbXJtcHUtXzlQZXFJY28zd2xweWo2UA?oc=5",
-      "source": "The New York Times",
-      "paywalled": true,
-      "publishedAt": "2026-10-06T12:04:55.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-07T23:07:28.506Z",
-      "relevant": false,
-      "summary": "Reflection, a new open-weight AI model developer, has emerged as a challenger to Anthropic.",
-      "whyItMatters": "This is industry and product news with no evident policy angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-07T23:07:28.506Z"
     }
   ]
 }

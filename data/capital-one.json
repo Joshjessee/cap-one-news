@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-20T11:46:40.279Z",
+  "updatedAt": "2026-10-20T15:07:50.107Z",
   "briefing": [
     "The OCC released a report criticizing debanking at JPMorgan and other large banks, and Capital One is presumably among those covered, though the headlines name only JPMorgan; a policy team should confirm how the report treats Capital One. (Banking Dive, Axios)",
     "Capital One is set to report quarterly earnings this week, and CNBC previewed what investors want to see, noting the stock is among those reporting with momentum. (CNBC)",
@@ -8,6 +8,23 @@
   ],
   "briefingUpdatedAt": "2026-10-20T11:46:40.279Z",
   "articles": [
+    {
+      "id": "75f2bfcdd0de9084",
+      "title": "Wizards fans have endured plenty of misery. They’re ready for a ‘new beginning.’",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0lxY21sbk5GMi01OGlraUUwdjl1bzdJY2ZtT1JTYjdQaG9nSEhmSzdkMXhBMnVPSkp3MDU0VVAtU1I3bWpZT0N4d1Y3Q08zV21maHl3VEdhNWZaU1ptN3NMa1Z4aVhYaENEbmEyUEpwSVZyN2M1bmJENlQ2elp6YzVQLWdJaXBnODM0bkwyZ3pFMFJib200Yks1czFWSFNTcFNmUXhvZEJaYTQ?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-20T14:32:20.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-20T15:07:50.107Z",
+      "relevant": false,
+      "summary": "A Washington Post sports story about Wizards fans and hopes for a fresh start to the team's season. Capital One is not evidently a subject; any mention is likely just the arena name.",
+      "whyItMatters": "It has no apparent connection to Capital One's business or policy issues, so the team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T15:07:50.107Z"
+    },
     {
       "id": "72763d120880871e",
       "title": "Mobility matters: what vehicle access tells us about upward mobility",
@@ -692,40 +709,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-06T22:40:38.777Z"
-    },
-    {
-      "id": "1e0aaeaa41652541",
-      "title": "Breakingviews - COMMENTARY: Bankers are sitting on a $4 trln rotten nest egg",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1MxRWU4Wmg2ZlRoWmhqLTFOMDZHS2dKQVhhOFVfSWNCb2tCZnR4MGpkZ2FoSmtUQzFIOU9Mcy1SUWpsbld4OXpFRmFPUXU0WFh6VnVMczFFQXhYcmtRTjU0SnVoV0EyaUxzQzlnOGhtS0tiaHZlYUgxczlvTTZxV1psQ2xyWTE5N2FLVk53M2NWZmxQcS13cGYtMHNwMXhnRUNVRC1B?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-06T14:38:59.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-06T22:40:38.777Z",
-      "relevant": false,
-      "summary": "A Reuters Breakingviews commentary argues bankers are sitting on a roughly $4 trillion 'rotten nest egg'. The headline does not mention Capital One, and the piece appears to be a general banking commentary.",
-      "whyItMatters": "No evident Capital One focus; at most a general banking-sector read.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T22:40:38.777Z"
-    },
-    {
-      "id": "36166bdf021b0347",
-      "title": "Trump's sweeping makeover of the White House and Washington",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdYRlI5dkdEVm9XTXdsSzBFcmNSd0NrUHY2aUtYRVE3MkZqYWZqbWdWM0J2SlJrUWVpZWJ5d0pobERwQWNEbmo4MjdWci0wUEgxNWZJUEN3MkpRdjRKYk9GbnJiMVNjYy1NMGVFSzhSYzJyMThVQjgweGdFSVYwQUVYck5JV2tra1hrcGZXazZVUXRXQl9UOVlFS3VURVhEUm40MQ?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-06T14:07:49.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-06T15:25:10.469Z",
-      "relevant": false,
-      "summary": "Reuters piece on President Trump's broad renovation and redesign efforts at the White House and across Washington. The headline gives no indication that Capital One is involved.",
-      "whyItMatters": "No evident connection to Capital One, so the policy team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T15:25:10.469Z"
     }
   ]
 }
