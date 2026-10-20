@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-20T20:00:47.368Z",
+  "updatedAt": "2026-10-20T23:12:34.008Z",
   "briefing": [
     "DHS published a Federal Register notice of the Secretary's order excluding DeepSeek and affiliate products from federal civilian agency procurements. It also requires removal from civilian agency IT systems, including third-party products built on DeepSeek, which may matter for vendor and third-party risk reviews. Reuters notes governments and regulators are stepping up scrutiny of DeepSeek more broadly. (Federal Register, Bloomberg, Reuters)",
     "American Banker urges bankers to engage as lawmakers weigh AI guardrails that could affect financial institutions. (American Banker)",
@@ -2248,42 +2248,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-07T17:26:48.341Z"
-    },
-    {
-      "id": "a6198117fe355bb2",
-      "title": "AI & Tech Brief: Jay Clayton takes control",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXlmNTlmZ0g2eXJYZ2VGU0xMaDl5Z1Q3TTQyN25TTTdiX0hUbl8tdS1uUDVoZUxKSlBxZFd0bmlYM2xxTThqaGJSSUp1ZVZqZkdmQzhyN3VvUzJwTTIyb0NEMzBoaEpUY1NmYnROZk1ReFhIQXF1UWQ1VnJzTlVkYmdaX09WOHFTYWNpeGFNdzctY1lleWNrVURDU3VtQ3RodWZuVk1WcTlpalk4dG1Bd3JR?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-06T22:29:09.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-06T22:40:45.417Z",
-      "relevant": true,
-      "summary": "Washington Post tech newsletter covering Jay Clayton taking control of the administration's AI efforts, following his naming as AI czar.",
-      "whyItMatters": "Clayton's new role leading the AI task force shapes who drives federal AI policy and how the administration engages industry.",
-      "priority": "medium",
-      "category": "Administration",
-      "storyId": "32af91bb494f6740",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-06T22:40:45.417Z"
-    },
-    {
-      "id": "c6c09af5c7b02af1",
-      "title": "Read the charter for the White House’s ‘Super Intelligence Force’",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTBwQ0VQN2V3SjJzTHRQLVhNTmlaMmt1TmtqcjNCanpmZEl2RnoxZTVmRVkxc1dCU1RwT196b0pIVnNjVWtIT1pXUmRaVDUwVHBfRzRkd1Z3Z2ZTZllkeE9DN1pwbEJyQW9FTW9sZmhNR0RGRDBPZ3RMY1BGY3pTWWd0RHdnQ3JfN1oyRXhiZEFoQmY2OUE?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-06T21:30:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-08T17:25:12.606Z",
-      "relevant": true,
-      "summary": "Politico published the charter for the White House's 'Super Intelligence Force' on AI, which sets out its structure and mandate.",
-      "whyItMatters": "The charter shows how the Administration plans to organize and direct federal AI policy.",
-      "priority": "high",
-      "category": "Administration",
-      "storyId": "acb587d1bfd70301",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-08T17:25:12.606Z"
     }
   ]
 }
