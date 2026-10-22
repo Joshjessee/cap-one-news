@@ -1,13 +1,14 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-22T11:46:51.244Z",
+  "updatedAt": "2026-10-22T15:18:50.196Z",
   "briefing": [
-    "Capital One reported higher quarterly profit that beat expectations, with revenue up more than 6%, as the Discover integration continues. (Bloomberg, The Wall Street Journal)",
-    "Investors rewarded the strong quarter and progress on the Discover integration. (CNBC)",
-    "Capital One is weighing how best to use the Discover payment network after the acquisition, a key strategic question for the combined company. (American Banker)",
-    "Capital One was named in a CNBC roundup of stocks with momentum reporting earnings this week, and CNBC ran promotional pieces on Venture X Business and Discover card offers. (CNBC)"
+    "Capital One reported higher quarterly profit and revenue, with revenue up more than 6% and results beating expectations, as the Discover integration continues. (Bloomberg, The Wall Street Journal)",
+    "Wall Street rewarded the strong quarter and progress on the Discover integration. (CNBC)",
+    "Capital One is weighing how best to use the Discover payment network following the acquisition, a key post-merger strategic question. (American Banker)",
+    "Consumer card promotions continue, including a Venture X Business offer worth up to $4,300 in travel and Discover bonus cash-back offers. (CNBC)",
+    "Market wraps noted a Wall Street rally on strong corporate profits, with Capital One's earnings possibly mentioned only in passing. (The Washington Post)"
   ],
-  "briefingUpdatedAt": "2026-10-21T15:18:06.098Z",
+  "briefingUpdatedAt": "2026-10-22T15:18:50.196Z",
   "articles": [
     {
       "id": "92301dbf9ff87f0d",
@@ -1818,23 +1819,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-08T23:23:09.696Z"
-    },
-    {
-      "id": "1de3d25930bb5d2b",
-      "title": "0HT4.L - | Stock Price & Latest News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ra01naHl6cTJFRk50am9Ldmw3ejk0Y25ybUNkeWxIbEhLWmxTcVZQTExESkhLcmRwTWFjd0ltMWxoeE5HYkxVU3doa0RjWVdtdVE0YU1BMHNpeGNtaTUyYnYtR3B0LUJneWdwTw?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-08T14:45:23.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-09T11:46:43.095Z",
-      "relevant": false,
-      "summary": "This is a Reuters stock quote page for the ticker 0HT4.L, with no visible story or mention of Capital One in the headline. There is not enough information to tie it to the company.",
-      "whyItMatters": "No evident link to Capital One, its Discover acquisition, or any policy matter, so the team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-09T11:46:43.095Z"
     }
   ]
 }
