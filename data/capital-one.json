@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-22T15:18:50.196Z",
+  "updatedAt": "2026-10-22T20:09:23.344Z",
   "briefing": [
     "Capital One reported higher quarterly profit and revenue, with revenue up more than 6% and results beating expectations, as the Discover integration continues. (Bloomberg, The Wall Street Journal)",
     "Wall Street rewarded the strong quarter and progress on the Discover integration. (CNBC)",
@@ -10,6 +10,40 @@
   ],
   "briefingUpdatedAt": "2026-10-22T15:18:50.196Z",
   "articles": [
+    {
+      "id": "c1711b3f4c2cdd65",
+      "title": "Wizards' AJ Dybantsa, top overall pick, out vs. Raptors",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzJDMVFGRG5lZTVrLTNZX2FyeHk2Qk00YXFMOTFTZ3otc1dIcEZJYnR3NUN1NGFPRnRyZ1dEbGwtWkVOck5DeXZMWDBZaUFMblZjSGdpU2dDenpySDNHeEJOakxnMDlrcF9iaHhaYnpXSl9TRXZnQWkwekpfVjZ6M1JUa1Rjdy1XQmVielE0Mm1DSV9xZl9oOFJMTWQ2LUNP?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-22T17:11:47.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-22T20:09:23.344Z",
+      "relevant": false,
+      "summary": "Sports story about Wizards rookie AJ Dybantsa sitting out a game against the Raptors. Capital One is likely mentioned only as the arena name, if at all.",
+      "whyItMatters": "Not about the company; no policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-22T20:09:23.344Z"
+    },
+    {
+      "id": "0ebb9573207e6d34",
+      "title": "Your D.C. weekend: Halloween spookiness, plus Katseye",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFJxRHExNG9hQ2dtekY2elRBaVlrYk1iODk0YWpvMktFZ2NfdnZNQ1lFTXBmc1F1cVBaQWNHTDE5X081V01GTU9HendWdm1CallRUTNaYlc2NFVndENtLUFBQkd1RVJoVWZxcnlwS0MtLUU3eUU0MGlaWmo5X1R2cllVTzBfU1l0Mlo2V2duaEZlTFRJTV9zSHVIYmM?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-10-22T15:18:29.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-22T20:09:23.344Z",
+      "relevant": false,
+      "summary": "Axios D.C. weekend events guide covering Halloween activities and a Katseye performance. Any Capital One mention is likely just a venue name.",
+      "whyItMatters": "Not about the company; no policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-22T20:09:23.344Z"
+    },
     {
       "id": "92301dbf9ff87f0d",
       "title": "Asian shares retreat after strong profits lead a rally on Wall Street",
@@ -1785,40 +1819,6 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-12T00:31:52.213Z"
-    },
-    {
-      "id": "f9da1df6437a6cb7",
-      "title": "Venture Global breached LNG supply deal with Galp, tribunal rules",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEgxQzJIWjlpem9jZUZxcnpLRTZWRkdNeFR4cmJLZkJvZ2VsV01FSWNYTW1LNHZmMHVxMlFqdUg2VW5qeHBxNkdPTW1LQ1VLd2hUVGZkbk9wU1A2eXYzTXVNWXo4RFhNRVZCalBUdlhKTVM3LS1wN1hJbmxXaXpJaXpVZkZHdXViLVpsLW1sQTFNTjdPQlJkbnRSMEVrcFh1VVlub0VZRjZTZWZ3Qnc?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-08T19:46:06.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-08T23:23:09.696Z",
-      "relevant": false,
-      "summary": "A tribunal ruled that Venture Global breached an LNG supply agreement with Galp. The headline gives no indication of any Capital One connection.",
-      "whyItMatters": "No evident Capital One connection; not relevant to the policy team.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-08T23:23:09.696Z"
-    },
-    {
-      "id": "bf2896668c87c7d6",
-      "title": "0HT4.L",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aa05ILTcwQUZqRmFPbVpVc0tCeHlzUVdVSmVoRGdROVQyOW5Rb0hxWUdHWEp3V1ZOUmplX3lpVWFyVVQ2eElNYkxUR2p5MVVmMlJxMzhvZ2JYVF81eEJvLVpDd0hRNnlGb0NLZlhrVQ?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-08T18:46:01.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-08T23:23:09.696Z",
-      "relevant": false,
-      "summary": "The headline is only a ticker-style code (0HT4.L) with no descriptive content, so the story's subject cannot be determined.",
-      "whyItMatters": "Nothing indicates a Capital One connection, so it needn't be read.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-08T23:23:09.696Z"
     }
   ]
 }
