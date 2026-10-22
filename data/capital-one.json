@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-22T20:09:23.344Z",
+  "updatedAt": "2026-10-22T23:25:00.277Z",
   "briefing": [
     "Capital One reported higher quarterly profit and revenue, with revenue up more than 6% and results beating expectations, as the Discover integration continues. (Bloomberg, The Wall Street Journal)",
     "Wall Street rewarded the strong quarter and progress on the Discover integration. (CNBC)",
@@ -10,6 +10,23 @@
   ],
   "briefingUpdatedAt": "2026-10-22T15:18:50.196Z",
   "articles": [
+    {
+      "id": "ad391258cac17a54",
+      "title": "Cooking chat: Why do my cookies always spread while baking?",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWJuZkdIdy1LOENoTGl6QkxkLWlHMzNKbU9GWTBoVHhKSk9tUlJfZ1c1MEtNM29IT00zRWctbkRxVWlJaWFLZ05ZcHF4Y01oQTlTbldCNnhCYTE3SGFBMmEwbUp4cDY2VmZ0UXF2M01VYmJnMGl3dFc0SjRpNzg2WUpONnptbWg0QWlXWFN2dWVLbGhUR0lMdS1MVl9TZ1dlLVNEUFZadDBTVGdHaVdv?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-22T21:29:11.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-22T23:25:00.277Z",
+      "relevant": false,
+      "summary": "A Washington Post cooking chat about why cookies spread while baking. Nothing in the headline connects it to Capital One.",
+      "whyItMatters": "It has no bearing on Capital One or policy issues.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-22T23:25:00.277Z"
+    },
     {
       "id": "c1711b3f4c2cdd65",
       "title": "Wizards' AJ Dybantsa, top overall pick, out vs. Raptors",

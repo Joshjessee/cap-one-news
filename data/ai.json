@@ -1,15 +1,32 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-22T20:09:28.356Z",
+  "updatedAt": "2026-10-22T23:25:04.148Z",
   "briefing": [
-    "A House member introduced legislation requiring labels on AI-generated content in political campaigns, a concrete congressional step on AI disclosure. (U.S. House)",
-    "Anthropic's draft federal AI bill would set a $1 billion threshold for covered AI risk, a notable industry-authored proposal on how to scope frontier AI regulation. (Politico)",
-    "An Intelligence Council report finds AI-related risks haven't stopped financial services firms from adopting AI, relevant to the banking regulatory debate. (The Washington Post)",
-    "Treasury Secretary Scott Bessent reportedly downplayed 'systemic' AI risks at a closed-door investor conference, signaling the department's current stance on AI and financial stability, even as AI fears drove a safe-haven bid that pushed long-end Treasury yields to a one-month low. (Financial Times, Bloomberg)",
-    "The administration is betting existing laws can police AI, with analysts questioning whether that suffices, while a poll shows most Americans view AI and Trump's handling of it negatively and local data center backlash grows in Northern Virginia. (The Hill, The Washington Post, Bloomberg)"
+    "Treasury issued a proposed rule implementing the Comprehensive Outbound Investment National Security Act, which governs U.S. investment in certain foreign technology sectors; the summary doesn't specify the sectors, though AI has been a focus of outbound investment rules, so the team should check scope and the comment period. (U.S. Treasury)",
+    "Treasury Secretary Scott Bessent reportedly downplayed 'systemic' AI risks at a closed-door investor conference, a signal of the Administration's posture on AI and financial stability; separately, Bloomberg reports long-end Treasury yields hit a one-month low as AI fears fueled a safe-haven bid. (Financial Times, Bloomberg)",
+    "Anthropic's draft AI bill sets a $1 billion threshold for covered AI risk, and Politico explains the rationale, an item to watch as federal frontier-model legislative proposals take shape. (Politico)",
+    "A House member introduced legislation requiring labels on AI-generated content in political campaigns. (U.S. House)",
+    "A Washington Post poll finds most Americans view AI negatively and disapprove of President Trump's handling of it, while Bloomberg reports local backlash to data center buildout in Northern Virginia's 'Data Center Alley'; both point to rising political pressure on AI policy. (The Washington Post, Bloomberg)"
   ],
-  "briefingUpdatedAt": "2026-10-22T20:09:28.356Z",
+  "briefingUpdatedAt": "2026-10-22T23:25:04.148Z",
   "articles": [
+    {
+      "id": "16f69aac22fbe74f",
+      "title": "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zRm1KN1U5MVB2bHVOWk02QVBJZFpoMU1CUEJPZWFPckxlb0RHcFhkbkhVa3pOOUY1YVlIS1RkQ0tab2RVcWJINU9oX2dzRFlUVzZ3bmdvZ05reUVPMW93dmk2Zw?oc=5",
+      "source": "U.S. Treasury",
+      "paywalled": false,
+      "publishedAt": "2026-10-22T21:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-22T23:25:04.148Z",
+      "relevant": true,
+      "summary": "Treasury issued a proposed rule to implement the Comprehensive Outbound Investment National Security Act, which governs U.S. investment in certain foreign technology sectors. The headline does not say which sectors the rule covers, though AI has been a focus of outbound investment rules.",
+      "whyItMatters": "A Treasury proposed rule on outbound investment may restrict AI-related investments and invites comment, so it could affect compliance for financial institutions.",
+      "priority": "high",
+      "category": "Treasury",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-22T23:25:04.148Z"
+    },
     {
       "id": "311ba45f309d8aa3",
       "title": "Judge restricts DHS investigations into noncitizen voting, citing flawed data",
@@ -266,6 +283,23 @@
       "analyzedAt": "2026-10-22T11:47:02.403Z"
     },
     {
+      "id": "4596488131e468fd",
+      "title": "Meta ordered to pay $25B in New Mexico for misleading users on privacy",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTNCRjVTalpySlZUVFprZTdhMUJ4bENQLVFKSEwzbTdQMU96ekxveEQybDA5bno3UEdSc0xMd3NMeEVQNEJBcmVRSFM0Qktsc0V0LUZBbUNpV0NqUVhqSXFMem53YnVrMVVHWVZBV0V1ZkluYzF0eEcyazQxemR1T0RLTWZDdS1NVUtQaDRvNV9nTXN3dldBWVR6b2VmRE9DN2pXUzZoRGp1NXJycGFr?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-22T02:58:10.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-22T23:25:04.148Z",
+      "relevant": false,
+      "summary": "A court ordered Meta to pay $25B in New Mexico for misleading users about privacy. The headline gives no AI angle.",
+      "whyItMatters": "It is a privacy enforcement story with no evident federal AI policy link, so it needs little attention from this team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-22T23:25:04.148Z"
+    },
+    {
       "id": "a6f778e6f91f731c",
       "title": "DOJ drops fight to put Trump’s restrictions on public service loan forgiveness",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWklTOWdBSGxPWFI3akxBZVJzVDAxZG40aWNPWWt4cUdEQzMyNHdyY3h1bDNSNjFSUHRqcTBiTjdjdTJVR3N5cm9wX3NReHBfN204M0VnZHRVSF9hWDNYODE3dlcxOVVPN1g0eFhuVzU4UDV4dkFkaHltRWt2X1NrZXRWdFRNbWRpaUdiM3ZrYnBMQl81UzBfeVhwNEZ1UzdVaFY1QW1nWVRsVm5hSnpOUGNtR24xazJTMHdxcVJHSEpJdw?oc=5",
@@ -315,6 +349,23 @@
       "category": "Treasury",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-22T11:47:02.403Z"
+    },
+    {
+      "id": "b852dead45923f1f",
+      "title": "NSA warns organizations to patch security flaws identified by AI",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOFdJY1BkSHZtaW9rTDVfRmdQV3FzT1VZb2VsR0xScWw1dF82dWF2ZzVIblF3WnJ1dF9DVC14MnI1Znh6Q2NOcktGUjBocHBFd2tTS0NYYVpmM1FUSzI1QzRtelk1WmlhSlRfZFdaOE1PUE5rZF9iR2V1bHFnOWJnWNIBhgFBVV95cUxNc09iS0dicy1Dd2ViUlRzTlNlc2h3dzU3Tnl6YlhMRy1sUHFWTkVob1dldFF4ZVdfN1pya1F1QXFfbWo4VFEzQlVLWmViaXNTZ25meHNLcXN2eGFuVmNpZjJPVk83ZkUwWEhxUEl0ZWE3TzM5N3Q1bEdrUXdPV1ZXcGU4NnpNUQ?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-21T18:45:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-22T23:25:04.148Z",
+      "relevant": true,
+      "summary": "The NSA is warning organizations to patch security flaws that AI tools have identified. The headline suggests AI is speeding up vulnerability discovery.",
+      "whyItMatters": "It shows federal security agencies responding to AI-driven cyber risk, which is relevant to financial sector cybersecurity.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-22T23:25:04.148Z"
     },
     {
       "id": "1d429f4562721c47",
@@ -2345,75 +2396,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-09T17:00:44.540Z"
-    },
-    {
-      "id": "4bc98a0a35dcc9b0",
-      "title": "AI safety framework floated by Democratic duo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVRlWFhpTHRBcUVxcDMwVE9sNUhCdGNvSjd5eFdYOWZCNjJIS0NCdUtWM2VYbksxdmtEQl9tVDluVEJzcGVvNkpVeExUdHdaX2FFdlhwSXNJbC1zMHlZQ2NNWnc4M0RQb1FHZGs1b2N6TjBnaWc5MWpaX3lCdFZTeGw1QUNWQmRGcHZBdWVuRWtjdDFjQ3l3ejhIQQ?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-08T22:55:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-11T18:04:31.641Z",
-      "relevant": true,
-      "summary": "Two Democratic lawmakers have floated an AI safety framework, according to Politico.",
-      "whyItMatters": "It shows where Democratic AI legislation may be heading, which could shape future federal AI rules.",
-      "priority": "medium",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-11T18:04:31.641Z"
-    },
-    {
-      "id": "e9bf9cf41670ae82",
-      "title": "Global Banks Bolster Japan Debt Teams as Bond Issuance Booms",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0djT1NraTAwZVo0SXJHNkxPcGFpYWs3czhKVUdkVzdLTG5HT2JieXhVWTFLQURiWUgwMXJuSVFsR2M3WGJpMWxWM2YwbEVGRmE5NEdLVHJEaGJSR2s0Uk5fRVp1OGRNMjk0MDUyc0FUUUIxbmkzNzFnSmd4RWtJRUlRZWV5X2VsdHE0c1ZpbFN2QnQ0WEJyaGt5bWF0VUlyMXotME9Va3pHdGRDSE50Tg?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-08T21:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-10T17:51:58.041Z",
-      "relevant": false,
-      "summary": "Global banks are expanding their Japan debt teams as bond issuance booms.",
-      "whyItMatters": "Market news with no AI policy angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-10T17:51:58.041Z"
-    },
-    {
-      "id": "584e4e117de479ac",
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-10-08T20:58:57.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-08T23:23:17.189Z",
-      "relevant": true,
-      "summary": "Trump reportedly said that people calling AI \"the enemy\" are wrong, noting the White House itself uses AI. The remark comes amid a broader fight over AI policy.",
-      "whyItMatters": "A statement from the president signals the administration's pro-AI stance, which shapes federal policy direction.",
-      "priority": "medium",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-08T23:23:17.189Z"
-    },
-    {
-      "id": "234c45af5427b001",
-      "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-08T20:18:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-09T22:40:58.267Z",
-      "relevant": true,
-      "summary": "Trump said that anyone who does not call AI 'super intelligence' is 'THE ENEMY,' reported by Politico. This is the same remark covered earlier by Axios.",
-      "whyItMatters": "It shows the president's framing of AI, which may shape Administration messaging and policy direction.",
-      "priority": "medium",
-      "category": "Administration",
-      "storyId": "584e4e117de479ac",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-09T22:40:58.267Z"
     }
   ]
 }
