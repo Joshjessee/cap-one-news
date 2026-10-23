@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-23T11:46:12.274Z",
+  "updatedAt": "2026-10-23T15:07:10.215Z",
   "briefing": [
-    "Treasury issued a proposed rule (NPRM) implementing the Comprehensive Outbound Investment National Security Act, which governs U.S. investment in certain foreign technology sectors, and published a public fact sheet and FAQs; the summaries don't specify covered sectors, though AI has been a focus of outbound investment rules, so the team should check the text and comment deadlines. (U.S. Treasury)",
+    "Treasury issued a proposed rule (NPRM) implementing the Comprehensive Outbound Investment National Security Act, with a public fact sheet and FAQs; the summaries don't say which sectors are covered, though AI has been a focus of outbound investment rules, so the team should check the text and comment deadline. (U.S. Treasury)",
     "Treasury Secretary Scott Bessent reportedly downplayed 'systemic' AI risks at a closed-door investor conference, a signal of the Administration's posture on AI and financial stability. (Financial Times)",
-    "A House member introduced legislation to require labels on AI-generated content in political campaigns, adding to the federal election-related AI bills in Congress. (U.S. House)",
-    "Worried about mass AI-driven layoffs, some members of Congress are exploring ways to aid affected workers, pointing to possible workforce-focused AI legislation. (The New York Times)",
-    "The NSA is warning organizations to patch security flaws identified by AI tools, which suggests AI is speeding up vulnerability discovery and raises cybersecurity stakes for financial institutions. (The Hill)"
+    "Some members of Congress, worried about mass AI-driven layoffs, are exploring ways to help affected workers, pointing to possible workforce-focused AI legislation. (The New York Times)",
+    "Bloomberg analysis argues AI agents could erode banks' easy profits, and separately reports long-end Treasury yields at a one-month low as AI fears fuel a haven bid; both are market and industry context with no government action. (Bloomberg)",
+    "The NSA is urging organizations to patch security flaws identified by AI tools, reflecting AI-accelerated vulnerability discovery that is relevant to bank cyber risk. (The Hill)"
   ],
-  "briefingUpdatedAt": "2026-10-23T11:46:12.274Z",
+  "briefingUpdatedAt": "2026-10-23T15:07:10.215Z",
   "articles": [
     {
       "id": "39a37b2ea9cf18c9",
@@ -111,6 +111,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-23T11:46:12.274Z"
+    },
+    {
+      "id": "d345c63817cd75cf",
+      "title": "AI Agents Are Coming for Your Bank’s Easy Money",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0lOMWRiTV9kTzQ1ZUlDNFl1NTJWRkZHNDRhSTZxLTNkelBha0Y2bUp6cURjQ1BHaFdlaEM0QmJWRXowTXFyNDZnN3hXT1pnY0g0Nm9lNmFibkxnQVN5ZHBfRllta3VIekIySGNKQjk3WVBDa014Wm04Z0hrbjE4ZFUtZldZUER6UElDd0dSUFhhMFNlZHpEclhkVHdMWXFpSXc4N2QycEU5Ykh4VGlLaDBsWlRwTHdm?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-23T03:22:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-23T15:07:10.215Z",
+      "relevant": true,
+      "summary": "Bloomberg piece on how AI agents could threaten banks' easy profits, likely by helping customers move money to higher-yield options or cut fees. Based on the headline, it appears to be industry analysis rather than a government action.",
+      "whyItMatters": "It touches AI in banking and could shape the competitive and regulatory questions Capital One faces on agentic AI in consumer finance.",
+      "priority": "medium",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-23T15:07:10.215Z"
     },
     {
       "id": "dc1108e6f9173274",
@@ -418,6 +435,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-22T23:25:04.148Z"
+    },
+    {
+      "id": "2dbfc71395adc811",
+      "title": "Farmers, Health Care and Highways: 5 Takeaways from the Kansas Senate Debate",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRC1PU2hiNmFCYU43bUFmdnEtUWM0M1dZMEtwNWliQUtRTDFGOEJOTE9DeGdOQzhBLWw5eHJUcXJ6ajB6ZGtCU3ZXUjlMa0M0Rl9qSkhreVhOUmk4OWd1WVpFYkowQXRaY0NmRFRyRlNjNjBYck5KblBYWkpWN3cwZHRIUko2aktCS2lYbG9KbHJNMVdaT0E?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-22T02:54:56.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-23T15:07:10.215Z",
+      "relevant": false,
+      "summary": "Takeaways from a Kansas Senate race debate covering farmers, health care and highways. Nothing in the headline suggests an AI policy angle.",
+      "whyItMatters": "Not about AI policy, so the team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-23T15:07:10.215Z"
     },
     {
       "id": "a6f778e6f91f731c",
@@ -2414,40 +2448,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-09T22:40:58.267Z"
-    },
-    {
-      "id": "cfb76a15689197fb",
-      "title": "Bessent taps former Trump Fed pick Shelton to advise on China",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzd4N0dfWGpHSDkzWXZnNUIzbUJrdU8zM29sT3h2RHJLRmZ1NkE0MERobHdjd19henloNXlzUVNHRWxZZThpXzBsX3hycVlucmtlRFctZ2Q1WGFJd01Oam1YQlVmU1Uza1N5ZHNRRHIwSVBHazlGTnBDV0JSVUFvRG5HNA?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-09T13:51:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-10T17:51:58.041Z",
-      "relevant": false,
-      "summary": "Treasury Secretary Bessent named former Fed nominee Shelton to advise on China.",
-      "whyItMatters": "The headline shows no AI policy angle, so it is likely not relevant to this team's work.",
-      "priority": "low",
-      "category": "Treasury",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-10T17:51:58.041Z"
-    },
-    {
-      "id": "31cc5b4f82f70fe5",
-      "title": "Inside Congress Live, Oct 09, 2026 - Live Updates",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KamZfUTJ6ZktlcmFiWGVZdmhqME1sOWhRd0tfYTNIVVpIc1NXS3JKMDV3U1c3dUoxR0d3aUdqLVgtSzVxMzU4U1pqN0JUU0RwUFo4bHdxVXdMUQ?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-09T12:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-11T18:04:31.641Z",
-      "relevant": false,
-      "summary": "Politico's live updates cover the day in Congress, and the headline gives no indication of AI content.",
-      "whyItMatters": "Nothing in the headline points to AI policy; low value for this team.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-11T18:04:31.641Z"
     }
   ]
 }
