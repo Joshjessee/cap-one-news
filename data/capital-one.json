@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-23T19:58:04.200Z",
+  "updatedAt": "2026-10-23T23:10:23.186Z",
   "briefing": [
     "Capital One reported higher quarterly profit and revenue, with revenue up more than 6% and profit beating expectations, as the Discover integration continues. (Bloomberg, The Wall Street Journal)",
     "Investors rewarded the strong quarter and progress on the Discover integration. (CNBC)",
@@ -10,6 +10,23 @@
   ],
   "briefingUpdatedAt": "2026-10-23T19:58:04.200Z",
   "articles": [
+    {
+      "id": "282a97bb19d567ac",
+      "title": "D.C. United's $300M Audi Field pitch faces skepticism",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlJEdWJMT3lNNVd6ZVpaNm1IbUtxMUJPZnZkRU9YY2IzNE9GSkFCdHpZUEY5a2tkdjMzMlJQNDFVNE1pVHItaFpqeTNXTUpYU1JreVBfbDRMTEZ6Nks3dXYtWWFJcGFfWGVpRTNXTVM1amM5NE1wLWN4bW1OalB6VW4zOWR3M3ljam9BcGFSUEZHaWM?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-10-23T20:43:03.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-23T23:10:23.186Z",
+      "relevant": false,
+      "summary": "Axios reports on skepticism surrounding a $300M proposal tied to D.C. United's Audi Field. Nothing in the headline indicates Capital One is involved.",
+      "whyItMatters": "It appears unrelated to Capital One or its business, so the policy team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-23T23:10:23.186Z"
+    },
     {
       "id": "102a0e208be2fc5e",
       "title": "American Express profits rise; company cuts workforce by 5%, or about 4,000 employees",

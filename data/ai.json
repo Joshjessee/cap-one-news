@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-23T19:58:12.985Z",
+  "updatedAt": "2026-10-23T23:10:27.546Z",
   "briefing": [
     "Treasury issued a proposed rule and public fact sheet/FAQs implementing the COINS Act (Comprehensive Outbound Investment National Security Act), governing U.S. investment in certain foreign technology sectors; the summaries don't confirm which sectors are covered, though AI has been a focus of outbound investment rules. (U.S. Treasury)",
     "Congress is turning to AI-driven job loss: Sen. Ron Wyden is pushing bills to tax data centers and to aid workers displaced by AI and automation, while other members are exploring worker-aid options amid fears of mass AI layoffs. (Roll Call, The New York Times)",
@@ -10,6 +10,23 @@
   ],
   "briefingUpdatedAt": "2026-10-23T19:58:12.985Z",
   "articles": [
+    {
+      "id": "a7a2cd8f5bbc3d55",
+      "title": "Midterm polls that caught our eye this week show Democratic gains among voters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPelRtZEk4NFY2MmhId2hTTzRmQ24wdFRGME85U0VndGlvRGJmLWNOVXZwTVNnTUVlYjc1ZkpHdWcwcDduVFpYV1ByWC1selZDYjhwYWs1Q2pHOWRUZS1rczRvcnFCcUUtVnVCMVRIYVNVbkxXSmJITmV5YkgwSVctQ3dNNlFrRGdCaHVra0NJSms5amxKeElnc0R6Ulc2a2YxcndLNE5UM3VENThpOFM4ZlpscnVQSjV4VTB5QkRHVzhxNml2aGJWekpn?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-23T22:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-23T23:10:27.546Z",
+      "relevant": false,
+      "summary": "A Washington Post roundup of notable midterm election polls from the week, showing Democratic gains among voters. Nothing in the headline points to AI policy.",
+      "whyItMatters": "General election polling with no evident AI or financial-services policy angle, so the team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-23T23:10:27.546Z"
+    },
     {
       "id": "15b002697cf1f1dc",
       "title": "Wyden pushes bills to tax data centers, aid displaced workers",
@@ -2329,74 +2346,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-10T17:51:58.041Z"
-    },
-    {
-      "id": "807a4816fda4f4ac",
-      "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWpxNGFmUUppOTFNODljMXFLMlUxdnpvcUlqQU9zdVNBZU5qc3ctaUpNelBXdkQwSlFDYTRrRW9Nek85ejUzZlpZcGJLNF9KclJ4b3FWSzA1dlU4WXVBaVRtMW8xVTFsZXRGU2lKbEN3TlJWUlVkZTBNcE1EZHhDQ0RDN1hOYXB20gGOAUFVX3lxTE5WN0FzTkZ5akI2eEpiMHY4dkZqSHAzMHdIM3hZT09GdzROV1lNSXM3Wi1hanBwXzJzNUIwQmZBdTZicGpUTkFCcGFVeVF3d2Ytc2hDblNVS2lieGhhZXR4Y2hMZ2NTMTUtZGRSNFNJVjdtaENwcUwybmExRHhvRU9WY2o4dlo4UURzaFZKUlE?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-09T22:22:35.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-11T00:14:30.120Z",
-      "relevant": false,
-      "summary": "CNBC's Jim Cramer previews the coming week, focusing on bank and chipmaker earnings reports.",
-      "whyItMatters": "This is market and earnings commentary with no federal AI policy angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-11T00:14:30.120Z"
-    },
-    {
-      "id": "595ace3fff3663e3",
-      "title": "Kentucky U.S. Senate Election 2026: Latest Polls",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckdfSE1VUG5vQjA1S0RkeExWUU5IU2xzMEsxcWNBNzRvYVdqMWlOODVvRno0Sk9pNW9tUHFFS3A4b0ZtSDZhaFhZbG9YQ0pEc2F2ZzFoZEo3VThlNW8zczM0QWFsaDlpSmRuU1lPRFM5YkF0RmlKLVJsVnZVTGcwY3Izc3J0UFFGQWk1a0JB?oc=5",
-      "source": "The New York Times",
-      "paywalled": true,
-      "publishedAt": "2026-10-09T22:12:13.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-12T11:46:43.178Z",
-      "relevant": false,
-      "summary": "A polling roundup for the 2026 Kentucky U.S. Senate election.",
-      "whyItMatters": "It has no AI policy angle, so the team needn't read it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-12T11:46:43.178Z"
-    },
-    {
-      "id": "0835f624425be719",
-      "title": "In our current system, Congress’s crazy behavior is actually rational",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkNiVG1ncGIxM0E2TG1xQVl0RmlNeHh0aGpRckxNaE1MMXY5NmpQb0V5WVFHLWNSemJORFh0X2NWQml3dDA4SFBGQllwcmtIUThVWjBzb3BtdEVUTTItMmxoTzRVekpOUlpvbVp6N2R5THBkUFRtcmJSb3dscmx6cmFsMVZDaUk?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-09T20:49:17.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-11T18:04:31.641Z",
-      "relevant": false,
-      "summary": "An opinion piece argues that Congress's seemingly irrational behavior is rational under the current system.",
-      "whyItMatters": "General congressional commentary with no AI policy focus.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-11T18:04:31.641Z"
-    },
-    {
-      "id": "a01939760a5caa66",
-      "title": "Decoded by POLITICO",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qU1pWZUo2VmlvNnVub2pPVTJVN1VRbVh5alcyNzZNd2R5ZERZWDJzMVkyUXlkcFpEYXJWYzJxSUUyT1NYS3NUb3EzTUJMOEhxMVhXNjJ1ZWNKQkg1NlFnenl1eGl0MTQ?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-09T20:01:39.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-09T22:40:58.267Z",
-      "relevant": false,
-      "summary": "A Politico newsletter-style item titled 'Decoded by POLITICO' with no headline detail indicating a specific AI policy topic.",
-      "whyItMatters": "Nothing in the headline points to a specific policy development, so there is nothing to act on.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-09T22:40:58.267Z"
     }
   ]
 }
