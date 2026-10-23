@@ -1,15 +1,49 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-23T11:46:11.279Z",
+  "updatedAt": "2026-10-23T19:58:04.200Z",
   "briefing": [
-    "Capital One reported higher quarterly profit and revenue, with revenue up more than 6% and results beating expectations, as the Discover integration continues. (Bloomberg, The Wall Street Journal)",
-    "Wall Street rewarded the strong quarter and progress on the Discover integration. (CNBC)",
-    "Capital One is weighing how best to use the Discover payment network following the acquisition, a key post-merger strategic question. (American Banker)",
-    "Consumer card promotions continue, including a Venture X Business offer worth up to $4,300 in travel and Discover bonus cash-back offers. (CNBC)",
-    "Market wraps noted a Wall Street rally on strong corporate profits, with Capital One's earnings possibly mentioned only in passing. (The Washington Post)"
+    "Capital One reported higher quarterly profit and revenue, with revenue up more than 6% and profit beating expectations, as the Discover integration continues. (Bloomberg, The Wall Street Journal)",
+    "Investors rewarded the strong quarter and progress on the Discover integration. (CNBC)",
+    "Capital One is weighing how best to use the Discover payment network following the acquisition, a key strategic question as integration proceeds. (American Banker)",
+    "Capital One and Discover consumer offers are drawing promotional coverage, including a Venture X Business card travel offer worth up to $4,300 and a Discover $200 cash bonus deal. (CNBC)",
+    "Capital One earnings were among those cited in broader market coverage of a Wall Street rally driven by strong corporate profits. (The Washington Post, CNBC)"
   ],
-  "briefingUpdatedAt": "2026-10-22T15:18:50.196Z",
+  "briefingUpdatedAt": "2026-10-23T19:58:04.200Z",
   "articles": [
+    {
+      "id": "102a0e208be2fc5e",
+      "title": "American Express profits rise; company cuts workforce by 5%, or about 4,000 employees",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3RlQ2V0R1R6R2FZbEJIZVhZVVF1UFB1RzFtU2dzUXNqdUNvODROT1dxZEJPWmhNUE9CNTBvdUxac2VINHo5UEZTT0NZSGctTlBhZnVRX1hCSl82OVNadmVqUGVNT2dTSEp6M0JON0tYMFFvekduWFRqVXRhZjdBOHFuM0NNeF93VGI2VW9XNXYtRExQampZZ3VuRDRsMnlkVGhWZXVLSzhIUjFxc0x4NVA4ZVVPWVYycExqalFiLW5aZEktczVtdE5nUEJrazVFa3FF?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-23T17:33:36.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-23T19:58:04.200Z",
+      "relevant": false,
+      "summary": "American Express reported higher profits and said it is cutting its workforce by about 5%, or roughly 4,000 employees. The headline gives no indication that Capital One is part of the story.",
+      "whyItMatters": "Only tangentially useful as a peer-company data point; Capital One is not evidently a subject.",
+      "priority": "low",
+      "category": "Business & Earnings",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-23T19:58:04.200Z"
+    },
+    {
+      "id": "999f2ec05c512eef",
+      "title": "Trouble in the kitchen? Ask us your cooking questions.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3FtUXBnWTBoTVVOTzg3VmtUNEFCWDdFazZTM3FZWFM4OVhQdTdwLWltaVNfSk41cmFkaVBnU1RoMUNud0Z2MWxqRVpZQ0VnUFZ0ZE5VZDJCNnBzN3IzR204QjRZVGREU1dqVjJ1Y0VsMzZBd0IyWWdDUDNxWHMzcmRqZUlFZkYwbFdVQy1OOWZ4MXlkSE4wdmFlWUpfT2RhVFI1OF9lUHlrZXR4dmZB?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-23T13:53:53.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-23T19:58:04.200Z",
+      "relevant": false,
+      "summary": "A Washington Post food feature inviting readers to submit cooking questions.",
+      "whyItMatters": "Unrelated to Capital One or policy matters.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-23T19:58:04.200Z"
+    },
     {
       "id": "ad391258cac17a54",
       "title": "Cooking chat: Why do my cookies always spread while baking?",
