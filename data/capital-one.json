@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-22T23:25:00.277Z",
+  "updatedAt": "2026-10-23T11:46:11.279Z",
   "briefing": [
     "Capital One reported higher quarterly profit and revenue, with revenue up more than 6% and results beating expectations, as the Discover integration continues. (Bloomberg, The Wall Street Journal)",
     "Wall Street rewarded the strong quarter and progress on the Discover integration. (CNBC)",
@@ -1819,23 +1819,6 @@
       "storyId": "fbea4b6e9197251a",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-10T17:51:49.609Z"
-    },
-    {
-      "id": "2d7661e4cfc5d110",
-      "title": "Best travel credit cards for beginners in 2026",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUxWWkVnMS02NzBaSjhTcnI5YW5wQ0doMEJsd1NpTGJ4QXZDOEJQRzFzRzFvdmIxM1RROXNMTkc3UXVWR2Zxd0xySXJCdi1rc2U5aXNDYTBod29yaUg3MlVOdXNzaHNCcll1djJwSnRZREtvdnNBcWRmdl9vNmxnVNIBhgFBVV95cUxOX1Q5anQzN1lzRVRHRnlVYWpSX0g3MXdjWllCRkFIS2lHUGhSckNTdmhudjhFV0p6SS15dkxZU1hjdDNjLTN3MHo3eTBqQU9sTHRaa083QngzS0NrMnVOT3lYT1dXZGV3N25TT2g1V0Z5WW5Hb0lpbi01WDNCWWlNenlZQ1pldw?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-12T00:31:52.213Z",
-      "relevant": true,
-      "summary": "CNBC roundup of the best travel credit cards for beginners in 2026. Capital One is likely among the issuers featured, though the headline does not say so.",
-      "whyItMatters": "Consumer card coverage may mention Capital One products, but it is a general roundup with limited policy significance.",
-      "priority": "low",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-12T00:31:52.213Z"
     }
   ]
 }
