@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-24T16:35:21.930Z",
+  "updatedAt": "2026-10-24T23:12:56.186Z",
   "briefing": [
     "Treasury issued a proposed rule implementing the Comprehensive Outbound Investment National Security Act (COINS Act), which would require notification of and prohibit certain U.S.-person transactions with foreign entities in notifiable technologies; Treasury also released a fact sheet and FAQs, and the rule was published in the Federal Register. (U.S. Treasury, Federal Register)",
     "Sen. Ron Wyden is pushing bills to tax data centers and to aid workers displaced by AI and automation, while some in Congress worried about mass AI layoffs are exploring ways to help affected workers. (Roll Call, The New York Times)",
@@ -60,6 +60,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-24T16:35:21.930Z"
+    },
+    {
+      "id": "efd2ab068d3d5288",
+      "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2F6T3p0ZGRIQ3hKcVJ0dk5mb0NXUUU4cWZfYzZ0ZVR4RmZzcnN5QzBnVTA0c2FjX2hJTnVMTFFOVFp5S0hGalhnQjZ5bEtXeTNDRzVuazNMWmRybE81bXNpLTduVXM3UmVRVTlTbVRlSEk4YndSYnpIX0JaZFcwQzR4dzloYnJ40gGOAUFVX3lxTE1rNVZldHJwd3lsUTdsYVV6cExWc1JUMHhZd3JaQTlGdldyS3QxZi0ySFBMRzh3MFg2M3pYSHhQeUl0Tm81Zl9PcjF5S05xVFdiZTVtMHBRdFFFamlfR0pHcFNKV3IxbjJPNXYtLVB3SWtmSUpjODlrUTdfV2hPOUpOMUt5UV8zLWEydUlZclE?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-24T13:00:35.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-24T23:12:56.186Z",
+      "relevant": false,
+      "summary": "CNBC reports SpaceX restored high-speed Starlink service and Elon Musk claimed Ukraine violated its Starlink agreement.",
+      "whyItMatters": "This is a satellite service and corporate dispute with no evident federal AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-24T23:12:56.186Z"
     },
     {
       "id": "cc2b1c8f4d20e61c",
@@ -163,6 +180,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-23T11:46:12.274Z"
+    },
+    {
+      "id": "eea870a5e43e9f05",
+      "title": "CNBC Daily Open: Tech falls to earth, Musk's fortunes diverge",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3lOZ2N3M1JRWXJSN0RMQzZVUGFhUHpSTjBrM0JjYmxYcXdfeTk3Sy1oT3Z3YlZYTGNHME9XVGNmTjVUdFBqanFfS3psdGZTeXBlYkYyYTJjbGdDY3p4WjE4Ulp4b2draEd5NlFaWUEtWXl1QlhXSjhZcjhxME42MjlZWURJMXhyc1ZhVdIBjAFBVV95cUxOT3lOZ2N3M1JRWXJSN0RMQzZVUGFhUHpSTjBrM0JjYmxYcXdfeTk3Sy1oT3Z3YlZYTGNHME9XVGNmTjVUdFBqanFfS3psdGZTeXBlYkYyYTJjbGdDY3p4WjE4Ulp4b2draEd5NlFaWUEtWXl1QlhXSjhZcjhxME42MjlZWURJMXhyc1ZhVQ?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-23T09:58:56.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-24T23:12:56.186Z",
+      "relevant": false,
+      "summary": "CNBC's daily markets roundup covers a tech stock decline and diverging fortunes for Elon Musk's companies.",
+      "whyItMatters": "It is general market news with no apparent AI policy or regulatory content.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-24T23:12:56.186Z"
     },
     {
       "id": "4903e25572327072",

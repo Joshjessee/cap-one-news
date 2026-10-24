@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-24T16:35:10.201Z",
+  "updatedAt": "2026-10-24T23:12:55.703Z",
   "briefing": [
     "Light news day for Capital One: no regulatory, legal, or Congressional developments appear in the articles provided, and the mentions are all peripheral.",
     "The Washington Post feature on the contest for the best airport lounge in D.C. likely touches on Capital One's lounge presence at Reagan National or Dulles, a brand-visibility item rather than a policy matter. (The Washington Post)",
@@ -1885,23 +1885,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-12T00:31:52.213Z"
-    },
-    {
-      "id": "629a607b1b29e08f",
-      "title": "Rangers G Igor Shesterkin out for season with lower-body injury",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFF1UjhDSWVXTGxRVE5nc1BfU0FLOWN1a3lyaW5mVm5KRWNqajh5TU1GVlVmOEk5VzVKWF9PR19UTWtDMldKNkZRa040R1hpblluSDRJRzNVZ1VMZE50aGVEQm1lX0V5YlVjRV96V1RsY2FYeTZXVHRGZ2E3VUdRTjVkMHhxSTVQcGxQaXVOM0c4RHhXaFNYUGlCcUE0SHJFblhVdzBXUHV1bk0?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-10T17:39:43.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-11T00:14:26.270Z",
-      "relevant": false,
-      "summary": "Reuters reports that New York Rangers goaltender Igor Shesterkin is out for the season with a lower-body injury. The headline does not mention Capital One.",
-      "whyItMatters": "This is a sports story with no evident connection to Capital One or its policy interests.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-11T00:14:26.270Z"
     }
   ]
 }
