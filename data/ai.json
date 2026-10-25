@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-25T17:03:44.845Z",
+  "updatedAt": "2026-10-25T23:16:23.591Z",
   "briefing": [
-    "Treasury issued a proposed rule implementing the Comprehensive Outbound Investment National Security Act (COINS Act), publishing a fact sheet and FAQs and a Federal Register notice; the rule would require notification of and bar certain U.S.-person transactions with foreign entities in notifiable technologies. (U.S. Treasury, Federal Register)",
-    "DHS ordered DeepSeek and affiliate products excluded from federal civilian agency procurements and removed from civilian IT systems, including third-party products built on DeepSeek, as regulators abroad also step up scrutiny. (Federal Register, Bloomberg, Reuters)",
-    "Frontier AI legislation is taking shape in Congress: Anthropic's leaked draft bill sets a $1 billion threshold for covered AI risk, OpenAI is inching toward a 'Frontier' bill, and Punchbowl reports growing momentum for an AI kill switch. (Politico, The Washington Post, Punchbowl News)",
-    "Financial services angle: an Intelligence Council report finds AI risks haven't stopped financial firms' adoption, American Banker urges bankers to engage as lawmakers weigh AI guardrails, and the FT reports Treasury Secretary Bessent downplayed 'systemic' AI risks at a closed-door investor conference. (The Washington Post, American Banker, Financial Times)",
-    "Workforce and data center bills are advancing: Sen. Wyden is pushing bills to tax data centers and aid AI-displaced workers, while other lawmakers eye worker aid amid layoff fears; a House member also introduced a bill requiring labels on AI-generated campaign content. (Roll Call, The New York Times, U.S. House)"
+    "Treasury issued a proposed rule implementing the Comprehensive Outbound Investment National Security Act (COINS Act), publishing a fact sheet and FAQs and a Federal Register notice; it would require notification of and prohibit certain U.S.-person transactions with foreign entities in notifiable technologies. (U.S. Treasury, Federal Register)",
+    "Congressional AI activity is picking up: Punchbowl reports growing momentum for an AI kill switch and OpenAI inching toward a 'Frontier' bill, Politico and the Washington Post cover Anthropic's draft bill with its $1 billion risk threshold, and a House member introduced a bill requiring labels on AI-generated campaign content. (Punchbowl News, Politico, The Washington Post, U.S. House)",
+    "Sen. Wyden is pushing bills to tax data centers and aid workers displaced by AI, while others in Congress weigh help for workers fearing mass AI layoffs. (Roll Call, The New York Times)",
+    "DHS ordered DeepSeek and affiliate products excluded from federal civilian procurements and removed from civilian agency IT systems, including third-party products built on DeepSeek, as regulators elsewhere also increase scrutiny. (Federal Register, Bloomberg, Reuters)",
+    "For financial services: an Intelligence Council report finds AI risks haven't crippled financial firms' adoption, American Banker urges bankers to engage as lawmakers consider AI guardrails, and the FT reports Treasury Secretary Bessent downplayed 'systemic' AI risks at a closed-door conference. (The Washington Post, American Banker, Financial Times)"
   ],
-  "briefingUpdatedAt": "2026-10-25T17:03:44.845Z",
+  "briefingUpdatedAt": "2026-10-25T23:16:23.591Z",
   "articles": [
     {
       "id": "0c20d6ec3b25600b",
@@ -44,6 +44,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-24T16:35:21.930Z"
+    },
+    {
+      "id": "2b615bb8e6f65e77",
+      "title": "From Affordability to AI, The Issues Driving the US Midterms",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ21EZWpHYUFma2NBbnNydGc0RWpCYlB4NXFxOUo4WURHc3dXSi1URmJPQ2kzMGhDSWR6Ykw2MmpSLXR5Y2pEaFhwZk5YSVhXMEEzOGd6UGhRNlZHRmp6dHFxNURLM2tVN0Q2SmtuTnFPaDA3cVdYQWtXZTdaa2tIUUFJN20zNDVWLS1pcENZMTk0TUFMWkkxN1E0Y3dMWHB6TVowbEpVMmREU3RIU0JObEF3?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-25T22:13:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-25T23:16:23.591Z",
+      "relevant": true,
+      "summary": "Bloomberg rounds up the issues shaping the 2026 US midterms, with AI named alongside affordability as a campaign theme.",
+      "whyItMatters": "AI's role as a midterm issue could shape the post-election congressional agenda on AI legislation and regulation.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-25T23:16:23.591Z"
     },
     {
       "id": "43ecd49606774a98",
@@ -147,6 +164,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-23T19:58:12.985Z"
+    },
+    {
+      "id": "501f0a7a807f1e3d",
+      "title": "Morning Money",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3czNvUXFTeEZ4SlNLb0k3Y000TTBsNEMtX1Q0R20yODJNQy1QSlF5ZHFBN3UyemUtUXhXX0ZfMS0yNmtYQ1AxZlE3LWxObEhoYmFoSW5hY1hSZlp5NDFn?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-23T17:18:16.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-25T23:16:23.591Z",
+      "relevant": false,
+      "summary": "Politico's Morning Money is a daily newsletter on finance and economic policy; the headline gives no detail on its contents.",
+      "whyItMatters": "Nothing in the headline points to AI policy, so it can't be judged relevant without more information.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-25T23:16:23.591Z"
     },
     {
       "id": "a3d4e6b74fed3067",
