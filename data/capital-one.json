@@ -1,14 +1,50 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-24T23:12:55.703Z",
+  "updatedAt": "2026-10-25T17:03:36.099Z",
   "briefing": [
-    "Light news day for Capital One: no regulatory, legal, or Congressional developments appear in the articles provided, and the mentions are all peripheral.",
-    "The Washington Post feature on the contest for the best airport lounge in D.C. likely touches on Capital One's lounge presence at Reagan National or Dulles, a brand-visibility item rather than a policy matter. (The Washington Post)",
-    "Reuters' stock quote page for Capital One Financial preferred shares (COF_pn) carries price data and links to the latest news, with no new company-specific development. (Reuters)",
-    "In competitor news, American Express plans to shrink its workforce, a possible signal on cost pressures across card issuers. (Payments Dive)"
+    "Capital One posted a strong quarter, with profit beating expectations and revenue rising more than 6%, and Wall Street rewarded the results and progress on the Discover integration. (Bloomberg, The Wall Street Journal, CNBC)",
+    "CNBC analysis cautions against declaring victory yet despite the strong quarter, pointing to remaining risks as the Discover integration continues. (CNBC)",
+    "Capital One is weighing how best to use Discover's payment network after the acquisition, a key strategic question for the combined company. (American Banker)",
+    "Consumer-facing promotions continue, including a Venture X Business card offer worth up to $4,300 in travel and new Discover card cash-back offers. (CNBC)",
+    "Capital One also appeared in market coverage and roundups, including earnings-week stock previews and a feature on D.C. airport lounges, while Payments Dive reported American Express plans to shrink its workforce. (CNBC, The Washington Post, Payments Dive)"
   ],
-  "briefingUpdatedAt": "2026-10-24T16:35:10.201Z",
+  "briefingUpdatedAt": "2026-10-25T17:03:36.099Z",
   "articles": [
+    {
+      "id": "795443bbf9baf41f",
+      "title": "Alex Tuch scores game-winner in overtime to push Capitals past Sabres",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnF1Q3VuWlNYelg3S3hGQjh0SWtqckdnWl9VNHZhMXJOQkRHVFFHaUNIUVhnVEJCbmF5QjNCMVBHMTZybGZMR3pJdjRKUkhDX1A5Ukp0VHJHZzQ0VFp5T1R2ZjNfTDJGX19aZlBTSHlsNkNSOEVaWXVNaUxqcndfczc4LThESDNsVVU1a1VvS1U2Tm5LWU11WWNsUFBTTjBJbXBDMG5sRVBCaVd1QkxBOHVkMWY2dVdjbEdiT1ZWQ2JYUFVIdEhLeg?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-25T11:52:48.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-25T17:03:36.099Z",
+      "relevant": false,
+      "summary": "Alex Tuch scored the overtime game-winner as the Capitals beat the Sabres. This is a sports recap with no evident connection to Capital One beyond a possible arena name.",
+      "whyItMatters": "Not about the company; no policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-25T17:03:36.099Z"
+    },
+    {
+      "id": "78fdcdc6c900be0a",
+      "title": "Alex Tuch scores twice, lifts Capitals past former team Sabres in OT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUG1RNmdfSHI4NVU3WHZ1WmRTOWRIcDhiNlZ5Wm10UUZBRTFROXNVM04zZHExS0hYWEc2Z0VkdnZoZGNIVWlpSk5aZE5COC1jRGw3c1RsVGEtb1NvQUpnYzlnY0l0Wl9WVVc0RG1kU3habHlxeUh6VE5JS2hybjY3bF9CUmNZUWRpNlBLZnY5M1NCeThGWG41Z0ZwT2pGNVlSOWFSNDdlS2V5cHRrY05ic0k5TzA0SXc?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-25T02:02:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-25T17:03:36.099Z",
+      "relevant": false,
+      "summary": "Alex Tuch scored twice, including the overtime winner, as the Capitals beat his former team, the Sabres. Sports recap with no evident Capital One angle.",
+      "whyItMatters": "Not about the company; no policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "795443bbf9baf41f",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-25T17:03:36.099Z"
+    },
     {
       "id": "0406843353b145a0",
       "title": "Inside the battle for the best airport lounge in D.C.",
