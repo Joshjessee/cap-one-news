@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-26T11:46:25.125Z",
+  "updatedAt": "2026-10-26T16:48:35.598Z",
   "briefing": [
     "Capital One posted a strong quarter, with profit beating expectations and revenue rising more than 6%, and Wall Street rewarded the results and progress on the Discover integration. (Bloomberg, The Wall Street Journal, CNBC)",
     "CNBC analysis cautions against declaring victory yet despite the strong quarter, pointing to remaining risks as the Discover integration continues. (CNBC)",
@@ -10,6 +10,57 @@
   ],
   "briefingUpdatedAt": "2026-10-25T17:03:36.099Z",
   "articles": [
+    {
+      "id": "2d930c8a2735df9c",
+      "title": "Rafael Nadal to play in Las Vegas exhibition in February for 1st US action since retirement",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYW1nX19GLUJPRG1UaklfQ2tZaDZLVFA4VXBlN0lRdy1reEVUY3FrbXRDeEc5TlIyYnhKblFxMXF6TjZ1cFhVX2trRG53bTRYMFVEMjJvVE9NZWcyVFdjVDFmN3E3d0hFcVQtREFjSDA0REpIQzM2YW84RnJXUk5RUzI4TTdmMDc0M1hmeEdhNVVLZTdpcDMyNTk5VFJ3Uk1vcHo2aFItMUFVSGxRMkZsUkdDX1JxbFktSWxuM2FQTTJFLUNuSUp2VjMwck9uMl9sMlhn?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-26T16:35:31.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T16:48:35.598Z",
+      "relevant": false,
+      "summary": "Rafael Nadal will play in a Las Vegas exhibition in February, his first US appearance since retiring. No Capital One connection is evident from the headline.",
+      "whyItMatters": "Sports news with no evident policy relevance to Capital One.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T16:48:35.598Z"
+    },
+    {
+      "id": "aa1f9e0b3451216d",
+      "title": "Billy Crystal: Trump’s Kennedy Center moves ‘so selfish and so petty’",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOODV0VnNDRzBXS2tYS3NSY2liTm5TTmlzZmxSSG5iVXZMV1EwSllFbThDVndpM2hldHdIcjhUeWNQRU43U1l4bTFLeGp3bGNJZjVobGdtUllEc1N3VmFTWDkydnN5NWxjQUgyNlZ0T3ZJYWFkVW05TUN2UG5uVks5M2UtRjN6MjZnQVHSAY8BQVVfeXFMTkV2U0p6TG1hRFBmZzlWbWtuUHNaY3M5ZFI5Y0Z4ZzlYZ3YyNWhydm56UUVxN0wteWdyVGp5blppSkZGdGxHbVBYQTlOdThrSW9hQ1EwWjREc2hzVGYzUlhianFsbTV1TjBpeG9RZmszVmZwNDhtanVfMlBtcmJKNHk2clF4bGxCVElRYkQ5Y1k?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-26T16:09:31.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T16:48:35.598Z",
+      "relevant": false,
+      "summary": "Billy Crystal criticizes Trump's moves regarding the Kennedy Center, calling them selfish and petty.",
+      "whyItMatters": "No evident Capital One connection; any mention would be incidental.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T16:48:35.598Z"
+    },
+    {
+      "id": "b7d51fb50f00987c",
+      "title": "Mets' Francisco Lindor wins 2026 Roberto Clemente Award",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVptc1ZoSlNxUFNhX2NHc2lGdUxwN2FhdmhVMnZQM1ZBcUVjdDBYaU83SzhWZ29fQ0VueHdpbFhsMWVzLWUzbjJtV2VyS09FaDZJRW02eVlQX0hqd2cyendkVHV0X3Z1ZDRfUEFjQW9fZ1NONWN0OFp3ZDZvT05jWDhzb1pvNzdDemRvbkk3cUpNNlZELTQ1UnhuajdwR2NPNWE0RA?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-26T14:43:55.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T16:48:35.598Z",
+      "relevant": false,
+      "summary": "Mets shortstop Francisco Lindor won the 2026 Roberto Clemente Award.",
+      "whyItMatters": "Sports award story with no evident Capital One focus.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T16:48:35.598Z"
+    },
     {
       "id": "aa6c501be4fbaff4",
       "title": "Prince George’s County leaders to take final vote on proposed Sphere venue",
@@ -78,6 +129,23 @@
       "storyId": "795443bbf9baf41f",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-25T17:03:36.099Z"
+    },
+    {
+      "id": "d99dc66cd039fc5a",
+      "title": "9 homemade alternatives to ultra-processed foods",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjVLOVhmRC11QTAyUFJ2TlN4RzY4ZjhMTTVOQ2wxWGg0bXFyYWhhRUJOaHE3QklmMnd6WTZrQkFFS0VSLWZDdDdfRC0waXJ3NEJTTlFtQnJKTzBwaDQxYm1WTE5LaEZvYmhwSjNMRmh0ZlJ0VnlsUjYzeEhYS2c0Mm04MTZZalpBeDFadXdVNHFkTW1oSjVGNw?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-24T21:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T16:48:35.598Z",
+      "relevant": false,
+      "summary": "A lifestyle piece offering nine homemade alternatives to ultra-processed foods.",
+      "whyItMatters": "No evident Capital One connection or policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T16:48:35.598Z"
     },
     {
       "id": "0406843353b145a0",
@@ -1887,23 +1955,6 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-15T11:46:19.713Z"
-    },
-    {
-      "id": "8439668f5de59217",
-      "title": "Where platforms are losing (and winning) merchants: Inside switching triggers",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVhjUVhnd01uMlJ0N1dPdlRGR2x4dUNLcFZ1X3NlRnV5YnRZZzluRkhLMm1uRXhQdURnNllPVi1kMFExVklZUzc1UU9RSmhuQWxaOVJXUnZwa3QwQWZtMHZaSmUzazNaN093aVdRV0xpbWtjdHJRWlFrTW5sLXlsTFNyRDZTcTdjaXozbWpYQmtxaVZhTWh5bXdUaC11eXRHekdGT1VjLXFjandFT1lKbDJpX0x0Zw?oc=5",
-      "source": "Payments Dive",
-      "paywalled": false,
-      "publishedAt": "2026-10-12T12:59:11.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-12T19:49:22.511Z",
-      "relevant": false,
-      "summary": "A Payments Dive piece on why merchants switch payment platforms and what triggers those moves. The headline does not mention Capital One, and no teaser is available.",
-      "whyItMatters": "Nothing visible ties this to Capital One, so it is likely not relevant unless the full text covers the company or Discover.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-12T19:49:22.511Z"
     }
   ]
 }

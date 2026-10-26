@@ -1,12 +1,13 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-26T11:46:29.864Z",
+  "updatedAt": "2026-10-26T16:48:40.539Z",
   "briefing": [
-    "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register. It would require notification of, and prohibit, certain US-person transactions with foreign entities in notifiable technologies, which could matter for AI-related investments and compliance programs. (Federal Register)",
-    "The New York Times examines efforts by AI companies to shape or write the rules that govern them, and asks whether industry can be trusted to do so. The piece bears on how federal AI standards and guidance may be influenced. (The New York Times)",
-    "AI is emerging alongside affordability as a campaign theme in the 2026 midterms, which could shape the congressional AI agenda after the election. (Bloomberg)"
+    "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register. It would require notification of, and prohibit, certain US-person transactions with foreign entities in notifiable technologies, which is a comment and decision point for teams tracking AI-related investment restrictions. (Federal Register)",
+    "Anthropic is warning prospective investors about political and regulatory risks as it prepares for an IPO, a sign of how federal and state AI policy is being priced into frontier-lab disclosures. (Politico)",
+    "AI companies are working to shape or write the rules that govern them, and the NYT asks whether they can be trusted to do so. The piece bears on how industry input will influence federal AI standards and oversight. (The New York Times)",
+    "AI is emerging as a campaign theme alongside affordability in the 2026 midterms, which could shape the congressional AI agenda after the election. (Bloomberg)"
   ],
-  "briefingUpdatedAt": "2026-10-26T11:46:29.864Z",
+  "briefingUpdatedAt": "2026-10-26T16:48:40.539Z",
   "articles": [
     {
       "id": "0c20d6ec3b25600b",
@@ -44,6 +45,40 @@
       "analyzedAt": "2026-10-24T16:35:21.930Z"
     },
     {
+      "id": "c176db13cf3a983d",
+      "title": "Anthropic warns investors of political risks as it prepares to go public",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmdVZ21uMHVfcm5sbTlKRi12aVE5bk1SMG5ieGdla0lBT2xuMUxUZDBFd2JfNlR3cXRfYnd4SE9xdURUc2RMUXVWY3duMkxaZHZzQU9Cc01CeW9WTW5EVWxKeVVVMEdMZXZ4UFJDaDVVblJ2WXdXdEhmYUduVU1xaTdldXp4N3BTMUJnVmdzY0NVX0V2MkhXOExB?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-26T14:43:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T16:48:40.539Z",
+      "relevant": true,
+      "summary": "Anthropic is warning prospective investors about political and regulatory risks as it prepares for an IPO.",
+      "whyItMatters": "Shows how a leading AI developer views federal and state AI policy exposure, which may signal where regulation is heading.",
+      "priority": "medium",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T16:48:40.539Z"
+    },
+    {
+      "id": "2a014d29c2c3799e",
+      "title": "DraftKings Faces Growing Pressure Over How It Targets Customers",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOckUtQnVRLWNOVXRSNjR5OWFBV0Y4VURIaUhTQUs3UW8xUWNxYUdZVXNQbDg2SG5HaTMtNTJXenoybFExam10d3BwcWNiNGJsR1RfYVZxWDhtQTQ2S3JieWNJeEh1bmpSZUFfNFdUMlhISlZEN2hDbHVPUzZSTnhZS3g1bVJhRVEtT245MGtBWDk0WEE?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-26T14:26:21.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T16:48:40.539Z",
+      "relevant": false,
+      "summary": "DraftKings is facing mounting pressure over how it targets customers with marketing and promotions.",
+      "whyItMatters": "Sports betting marketing practices, not AI policy; little relevance to this team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T16:48:40.539Z"
+    },
+    {
       "id": "91af58387c2a18a4",
       "title": "Powerful executives cozied up to Trump. Now they fear a reckoning.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFRsRjIzMXI1XzBuaHB0NVVTX3ItU2tETmh6NWdjYUN0cVhFdV9iaTRaX0ZvQ3pMYTE1SDhPRzRVUXdSMHExQTdBcWZDemhTTDlEUENzZE1JZ29kb1pmeDE3OFZ3NnB6UWJ4X0VNSkhfYklNOURBdEh2LU9pWjFYbW5YSTVyaGJnRDIzZ1ZYMU51XzZFMU9wRkEzdXNteXk1RUZVd1ZuXzIzNG1OSWk5UU5lbE9QamZNOVE?oc=5",
@@ -76,6 +111,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-26T11:46:29.864Z"
+    },
+    {
+      "id": "abb2fd14d6ede67c",
+      "title": "Operation Economic Outcast: U.S. Treasury Bears Down on Iran and Its Enablers",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1ZRdzJkOEthV1V3bkJUdlE0Yy1vbjE3ZEk2VEJlbGRHaWV5dkEzT3lselV4ZU4tSnN3bVFVVXpwOWt3YzFPRTQydi02LVlXRUFIa2xtclhHR2VTZnRCR3hHSzFLMWFjdExxQW55eF9EbnZtQW9LY0dKSnhaRUpQbXJUQU1hVnZiNGJvdWM3SldFT3pQVThURHhPNEtGa3BPSnBISWNzcTlURXVMOExxRFhn?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-10-26T08:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T16:48:40.539Z",
+      "relevant": false,
+      "summary": "The WSJ reports on Treasury's sanctions campaign against Iran and the networks that support it.",
+      "whyItMatters": "Sanctions enforcement, not AI policy, so it doesn't bear directly on this team's AI work.",
+      "priority": "low",
+      "category": "Treasury",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T16:48:40.539Z"
     },
     {
       "id": "2b615bb8e6f65e77",
@@ -147,6 +199,23 @@
       "analyzedAt": "2026-10-24T16:35:21.930Z"
     },
     {
+      "id": "10579e0885d7993e",
+      "title": "Cook Political moves Ohio governor’s race after Ramaswamy attack ad",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQazlnbmRtMzdIN0gtdnVMZ0g5QlIxTFJZMU9zMk50UlV3QVp2eVFBLWJUUGhIQnQ1T21CWEZVV2dyN09BOF8yREt3RThUTjZzV0xObEtaMDJVZXNmV0ZRTGlKRmk4SldyNnNLaTAtS3VmY3c4TGhEcUQxVEZ5bGxPMmFDZw?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-24T04:48:08.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T16:48:40.539Z",
+      "relevant": false,
+      "summary": "Cook Political Report shifted its rating of the Ohio governor's race after an attack ad against Ramaswamy.",
+      "whyItMatters": "Campaign horse-race news with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T16:48:40.539Z"
+    },
+    {
       "id": "e15acf6442c52e28",
       "title": "UK's Healey to give two state-backed lenders £20 billion capital boost in budget",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlkwNlhJbDZMSlFaZnpESjFQMnk5aS0zaE1ZWm43RnVTbFhENWR5bUk4b0tldXZzU1BHbF9EbXBHaWtGSDZKZ2dMN2syS2p3bVdTallROTZhNFJ1MVpzSmdtZ3JtWC1oNnRBYzN2blp6cU9rR2xiYm1fdUdXWnRzZUZyUm9TQjQzWWp6VXhSV29mZld5WURwV0J2TlJMeG9zTkFaWTJ1VUJaOE4za090Qk1QYlRHa2ZUdnBZemgzU2tVRWs?oc=5",
@@ -196,6 +265,24 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-25T17:03:44.845Z"
+    },
+    {
+      "id": "b4bc117569ac3d47",
+      "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZTgyRm5ESl91bFhZYVV5S1JXZnB6NTk0WnJKOGNHWUxRQm9XLVlFaE1EYXpGY1NkT2Y4cXR1T0FwTUdvTDB5WHFIaXV5UXRVNUtEZ1R4TGc3M0VTeFMzRGNqMDFoUFh6U1VNYkpLVU1OblYySEJQX1lKbmZoeXZqZU1SbEwxY21XZWpJMVFaNktpVnBmbFVXWFhqWXFSaXRTTjRTM3lCZW1aOU0?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-23T19:48:08.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T16:48:40.539Z",
+      "relevant": true,
+      "summary": "The US has proposed restrictions on investment in Chinese biotech firms, extending outbound investment curbs.",
+      "whyItMatters": "It is tied to the outbound investment regime that covers AI, so it is a useful signal of Treasury's direction, though the story itself concerns biotech.",
+      "priority": "low",
+      "category": "Treasury",
+      "storyId": "16f69aac22fbe74f",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T16:48:40.539Z"
     },
     {
       "id": "15b002697cf1f1dc",
