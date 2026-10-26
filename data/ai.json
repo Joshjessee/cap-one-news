@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-26T16:48:40.539Z",
+  "updatedAt": "2026-10-26T22:42:32.731Z",
   "briefing": [
     "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register. It would require notification of, and prohibit, certain US-person transactions with foreign entities in notifiable technologies, which is a comment and decision point for teams tracking AI-related investment restrictions. (Federal Register)",
     "Anthropic is warning prospective investors about political and regulatory risks as it prepares for an IPO, a sign of how federal and state AI policy is being priced into frontier-lab disclosures. (Politico)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-10-26T16:48:40.539Z",
   "articles": [
+    {
+      "id": "479f4cfca76b42ae",
+      "title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVdSNm1IZjFYTGtZVDZuYnEtb0JwZkpaTjFkbVBRR09WQ18teW9GdkVfZUVab1dSWmV3a3VnbERxdTJGQXg3eGRJVWZKblNtZFg5bEZJaHdza2dpbDMtUHFqNU41a2dBZVBORk1mT0o3VWJsVTRYekJFWnQ4UENrdmFEZlc4Z3FsUU5sTU93NlNFMC1zSE1COHh5eXhqOFM3cmhXS2xpTlhPcXln?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-10-26T21:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T22:42:32.731Z",
+      "relevant": false,
+      "summary": "Banks and Blackstone have reportedly formed a roughly $63 billion financing vehicle to fund Broadcom AI technology. The headline points to a private-market financing deal, with no mention of government action.",
+      "whyItMatters": "It is a market and financing story with no evident federal AI policy angle, though it shows how much bank capital is going into AI infrastructure.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T22:42:32.731Z"
+    },
     {
       "id": "0c20d6ec3b25600b",
       "title": "Outbound Investment Security Program Regulations",
@@ -2535,57 +2552,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-13T02:02:29.080Z"
-    },
-    {
-      "id": "2df5a5c34e66f3fc",
-      "title": "Failed Firmus IPO Reverberates Across Asia’s Listings Market",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNalhjWG9kWU9ESUJSVEtOUm10anlnb0F0NVN5QUVvTW8xS2ZSRzM0SU9pZEg1T3BFalF0T3Q4cjhMckdlYXd4Z1dncmVPMy0xV2o2ZzBxRU9TdS1nbnRyZHNqZUczRElqaEozTzhlTm9JSzdJVjZDWmNoNE9WcnZkUC1xbkFsa05GWWZhYUdfTExvTXJiaTktLXFla1BRdU1BVVBNVTZXYVlsMmlTZVo0dk1McUlwODU3cDdsNDVsZlZ4MlM2RVI0eGJnWQ?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-12T21:39:04.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-13T02:02:29.080Z",
-      "relevant": false,
-      "summary": "A failed IPO of Firmus is affecting sentiment in Asia's listings market.",
-      "whyItMatters": "This is market news with no evident U.S. federal AI policy angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-13T02:02:29.080Z"
-    },
-    {
-      "id": "b592b5ff570f867a",
-      "title": "US AI testing agency officials to move to White House, The Information reports",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3NjZGpMYnpWV3ZoWUNuOEFsWnROQzNvT3Y0dnRzdWhMLWZKS2NqY09USExBZWZlRFZmWndkM0sxRDlFOTBZQW1yNk5ZSk9jVURtbldzUFU2SFoydGRLaUp5cEZodnFBZHYyRmxsOTJoRnBHUnNQekdEQ1JmRUFlUk9HTy1QTmVWYkZ0ZlF5R2VYYTZhUU1VaEM0cGgxM1p1R3JTd255NDZEQ3Y1b29IQ1RfTW5RU0U?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-12T20:09:55.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-13T02:02:29.080Z",
-      "relevant": true,
-      "summary": "Reuters, citing The Information, reports that officials from the US government's AI testing agency are moving to the White House.",
-      "whyItMatters": "It signals a shift in where federal AI evaluation and oversight is housed, which could affect how AI standards and model testing are set.",
-      "priority": "medium",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-13T02:02:29.080Z"
-    },
-    {
-      "id": "014c0923f4029acd",
-      "title": "JPMorgan, Goldman Curb Exposure on $5 Billion Volta AI Loan Sale",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHFrOWdqWWJiZEFqSDUyNnBmR0NIRG1VeXdlNUo1QTF2dERDZEoxdHdXUVQ1SjhWTXdGM0NoZjhnZHFQSWRGa3JPcnVDTHJINUZRTnlHMzh5ckVZYzRMdkExbzlmMHZ0TDEyNEZYQ2J1QmxacWFORUVtMjdrWC1yejRfSm5oNi05UTdUZ0JKdk1MSV9nQWFnZUM5MG5MbDJ6Q1VVaUtTWFZmUUhKbUFpamN0bw?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-12T18:30:06.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-12T19:49:30.178Z",
-      "relevant": false,
-      "summary": "Bloomberg reports that JPMorgan and Goldman Sachs are reducing their exposure on a $5 billion loan sale tied to Volta, an AI company. The headline points to a financing and credit-risk story, not government action.",
-      "whyItMatters": "It is a market and lending story with no evident federal AI policy or regulatory angle, though it may be loosely useful as context on bank AI-sector exposure.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-12T19:49:30.178Z"
     }
   ]
 }
