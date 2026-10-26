@@ -2,6 +2,23 @@
   "topic": "ai",
   "articles": [
     {
+      "id": "9b40905bc9b0f1d9",
+      "title": "UK Reverses Trump Plans to Keep Back OpenAI, Anthropic Models",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFNDcUJ6c1JhdEw2SjZ3TmNoZ1FSMzRXcWNrUjlxeFk2N3dHbEk2N01YN0UwSlBxVm9YQnA3TWVwU3lud1lldHQ0SV9NbWxLd2tadmRDWTM4NXIzWF9mV0d0c0tLOUk1eGRNd0QwZ21HSnlCbjJiS0dvUVh4SGljWWxxU1J2T2dIR18yaExLQWktV0pjMUFzUXZJZXhaU2xJclc1WVBMLXdRM0hvazhqdw?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-12T11:05:05.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-12T11:46:43.178Z",
+      "relevant": true,
+      "summary": "Bloomberg reports the UK has reversed course on plans, tied to Trump administration positions, to keep back access to OpenAI and Anthropic models. Details are limited to the headline.",
+      "whyItMatters": "It signals how US-UK coordination on frontier AI model access and export-style controls is shifting, which could affect the wider federal AI policy landscape.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-12T11:46:43.178Z"
+    },
+    {
       "id": "2c3db1f673037cf3",
       "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkNDdnRWWFBiR3hyNnh2OTBuRV95allJVUM5SktPQTVpZEI3R19oa2d1NmRiVkxtcFpxdGtxX3NQNzF5Tm1fTk91N3BnbUpYaDRqOWQzcGFFMlU4UElwZkcxWUtodmFKeHRWaFRRZUNQWW1BdHZIUUNPOFkyaktpMUZKRFlaRktYSm5DSmExaHR0TE42V2RJNmVDY1Bjd9IBowFBVV95cUxPdVUyM0VuR2k4VE83c2dCVDlHM0h3ZUNvaUpEQjN5ZUJoZE5aVWJMNHlHNnc5WVZaaXhVV2g3dHROMU56Qm1rNEIta0lHVUpQTnViODBwUDlqZVVZTWdQeVd0UzNRU1dJQ1hSUGx5dzhhRW5uamowc2t2M1BVQ2dOU01nb3E0QkRTajRzbHdRUU5kVS10bHJrVURaOHBnZ0otaUxF?oc=5",

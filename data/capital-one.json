@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-25T17:03:36.099Z",
+  "updatedAt": "2026-10-26T11:46:25.125Z",
   "briefing": [
     "Capital One posted a strong quarter, with profit beating expectations and revenue rising more than 6%, and Wall Street rewarded the results and progress on the Discover integration. (Bloomberg, The Wall Street Journal, CNBC)",
     "CNBC analysis cautions against declaring victory yet despite the strong quarter, pointing to remaining risks as the Discover integration continues. (CNBC)",
@@ -10,6 +10,40 @@
   ],
   "briefingUpdatedAt": "2026-10-25T17:03:36.099Z",
   "articles": [
+    {
+      "id": "aa6c501be4fbaff4",
+      "title": "Prince George’s County leaders to take final vote on proposed Sphere venue",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2JRUjZNMlpuWFF6RGFOelVMV2tDTjFEcGhVZS14NTY0NnJ1cU5ybHl1eE5vS180MXdyUjJFYUdKSHk3T241ZzZqa3gzSnV3alVJQUQ3clFZTWEwXzRZZ3FsX0xSYkYyZFpMZmxkbWJraEIzZmN4RU9mY0QwUFROU3p3a0tLcFFuTVdBY2N6Y09VQTRDYVpGbWRCYUZZWVE5OXFYU3Z4aTVPdzJmRzBSSUptU1M5aFBOeU1J?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-26T11:32:52.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T11:46:25.125Z",
+      "relevant": false,
+      "summary": "Prince George's County leaders are set to hold a final vote on a proposed Sphere entertainment venue. No Capital One connection is evident from the headline.",
+      "whyItMatters": "No evident connection to Capital One, so the policy team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T11:46:25.125Z"
+    },
+    {
+      "id": "e9b2a11cd117e763",
+      "title": "Raptors F Kawhi Leonard (knee) out vs. Timbwerwolves",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEE5cmw1V0l3UHA0YVM1SUdLRXFXNzgwcHAtU1FoY0dudzl4eUVFbTlNR0NNcTE3cUVoOFN1c1N3V3YtRHRUZGN3UUZ3QnhKa194ZGV5cVd2Z0ZJV09DeHJIcG94bTBsZ3hWRWhZeWo5Nk5NdjR1OGJiMWpQZmRQaE1lemhFRXZVOUFYczRsWHFvaHo5b0stcmxJQUFxZw?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-25T23:15:43.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T11:46:25.125Z",
+      "relevant": false,
+      "summary": "Sports injury report saying Raptors forward Kawhi Leonard is out with a knee issue against the Timberwolves.",
+      "whyItMatters": "Sports news with no relevance to Capital One or its policy issues.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T11:46:25.125Z"
+    },
     {
       "id": "795443bbf9baf41f",
       "title": "Alex Tuch scores game-winner in overtime to push Capitals past Sabres",
@@ -1870,57 +1904,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-12T19:49:22.511Z"
-    },
-    {
-      "id": "d21dc0fd97bdadcf",
-      "title": "Ovechkin finds the net for first goal, but Capitals fall to Kraken",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemRTOTY1YTZXdFFTcHdTUk5ucmFKN1RUeFJZeWNhV3p6UkJRYTljTnVxZVRkQkpWY3JEd2gtdjBmSEFiRUhzYjRadDc4RG0zRVZaVl84NTZGVzJHYzItbGVRRHJ5elNuUUJ5RkdfSjdEbFVyV0txcmx6V003MldXUmsyeDBaeUxmTFE5U0VvYVg5OUtQZENsSkNFcGd6bXdYZ1E?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-12T04:05:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-12T11:46:38.435Z",
-      "relevant": false,
-      "summary": "Washington Post game report: Alex Ovechkin scored his first goal of the season, but the Capitals lost to the Kraken.",
-      "whyItMatters": "Sports story with no evident connection to Capital One as a company; any link would only be the arena name.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-12T11:46:38.435Z"
-    },
-    {
-      "id": "914d7b09f18f3feb",
-      "title": "NHL roundup: With fifth straight victory, Canes keep Flyers winless",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xCU2RsWHpaOXRqMzh1ZTI1aXhUQmxpY2FnUmdIZ05QTzRUc25NQ0dUOTJsbkZHX1czN1FEN2l6N0I0bW5UaHQtbWFzeEVkSVYyMF9JYW03QzAxRk96T0FsdWRoS0ZfWmxucVJ6SFNkYThnaEhQOXJmakdaRC1USHRLdmFfR1ppQWQ2Q3ZRU3d2RDJwd1BIT2tJOEh0UGl4RWhTVjlvaXJONkg0d3BEWDZuaw?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-12T02:44:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-12T11:46:38.435Z",
-      "relevant": false,
-      "summary": "Reuters NHL roundup: the Hurricanes won their fifth straight game and kept the Flyers winless.",
-      "whyItMatters": "Sports results with no apparent connection to Capital One; the team needn't read it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-12T11:46:38.435Z"
-    },
-    {
-      "id": "3f0d46281322b6ba",
-      "title": "Kraken continue explosive offensive start, outlast Capitals",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX1psSWtUb2Q5V0FIdlNCYXNRbXEtTWxvbWpoLUFQbE4wNmt4QXUzSDY4MU1RMFlfRExrN0U3Q3FUOGluQmlIX3l6QktUZ1A0dkx2WHJMbGRHNm9ud2hIMDlmLU5RTmJOWWpIbzRrVXROcUk2MG52VGNza2FjTGpUYzdhT21ESVUzZ1RINlYtcVVibmFTNjgyRFVOOUt3d1ZqQzJHdGJOSzRjdDhyalpV?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-11T23:59:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-12T00:31:52.213Z",
-      "relevant": false,
-      "summary": "Sports recap of a Kraken vs. Capitals hockey game. Nothing indicates Capital One is the subject; any link is likely just the Capital One Arena venue name.",
-      "whyItMatters": "Not about the company, so no policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-12T00:31:52.213Z"
     }
   ]
 }

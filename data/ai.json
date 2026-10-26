@@ -1,14 +1,12 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-25T23:16:23.591Z",
+  "updatedAt": "2026-10-26T11:46:29.864Z",
   "briefing": [
-    "Treasury issued a proposed rule implementing the Comprehensive Outbound Investment National Security Act (COINS Act), publishing a fact sheet and FAQs and a Federal Register notice; it would require notification of and prohibit certain U.S.-person transactions with foreign entities in notifiable technologies. (U.S. Treasury, Federal Register)",
-    "Congressional AI activity is picking up: Punchbowl reports growing momentum for an AI kill switch and OpenAI inching toward a 'Frontier' bill, Politico and the Washington Post cover Anthropic's draft bill with its $1 billion risk threshold, and a House member introduced a bill requiring labels on AI-generated campaign content. (Punchbowl News, Politico, The Washington Post, U.S. House)",
-    "Sen. Wyden is pushing bills to tax data centers and aid workers displaced by AI, while others in Congress weigh help for workers fearing mass AI layoffs. (Roll Call, The New York Times)",
-    "DHS ordered DeepSeek and affiliate products excluded from federal civilian procurements and removed from civilian agency IT systems, including third-party products built on DeepSeek, as regulators elsewhere also increase scrutiny. (Federal Register, Bloomberg, Reuters)",
-    "For financial services: an Intelligence Council report finds AI risks haven't crippled financial firms' adoption, American Banker urges bankers to engage as lawmakers consider AI guardrails, and the FT reports Treasury Secretary Bessent downplayed 'systemic' AI risks at a closed-door conference. (The Washington Post, American Banker, Financial Times)"
+    "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register. It would require notification of, and prohibit, certain US-person transactions with foreign entities in notifiable technologies, which could matter for AI-related investments and compliance programs. (Federal Register)",
+    "The New York Times examines efforts by AI companies to shape or write the rules that govern them, and asks whether industry can be trusted to do so. The piece bears on how federal AI standards and guidance may be influenced. (The New York Times)",
+    "AI is emerging alongside affordability as a campaign theme in the 2026 midterms, which could shape the congressional AI agenda after the election. (Bloomberg)"
   ],
-  "briefingUpdatedAt": "2026-10-25T23:16:23.591Z",
+  "briefingUpdatedAt": "2026-10-26T11:46:29.864Z",
   "articles": [
     {
       "id": "0c20d6ec3b25600b",
@@ -44,6 +42,40 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-24T16:35:21.930Z"
+    },
+    {
+      "id": "91af58387c2a18a4",
+      "title": "Powerful executives cozied up to Trump. Now they fear a reckoning.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFRsRjIzMXI1XzBuaHB0NVVTX3ItU2tETmh6NWdjYUN0cVhFdV9iaTRaX0ZvQ3pMYTE1SDhPRzRVUXdSMHExQTdBcWZDemhTTDlEUENzZE1JZ29kb1pmeDE3OFZ3NnB6UWJ4X0VNSkhfYklNOURBdEh2LU9pWjFYbW5YSTVyaGJnRDIzZ1ZYMU51XzZFMU9wRkEzdXNteXk1RUZVd1ZuXzIzNG1OSWk5UU5lbE9QamZNOVE?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-26T10:32:58.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T11:46:29.864Z",
+      "relevant": false,
+      "summary": "The Washington Post reports on powerful executives who aligned themselves with Trump and now worry about a reckoning. The headline gives no indication of an AI policy focus.",
+      "whyItMatters": "General political coverage with no evident AI policy or financial services angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T11:46:29.864Z"
+    },
+    {
+      "id": "e26d81ba4f4bbd2b",
+      "title": "A.I. Companies Want to Write the Rules Governing Themselves. Can They Be Trusted?",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOenNBLVpMZlhpa3NSeG03QXlQY0VEaVhkTllnTGwxVG9TS3l5MXBtTGt4dW9oQ3NVTVFsbGgyNTI2eDJGSG1iSmpvWGJ6U3FoY3doQnVBSS01LTVqNTZtQng4SHNFMDIxQmxHRTZOUEZzNFBjTEQwQVhQd2FEa2ZsNC1XQQ?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-26T09:01:36.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T11:46:29.864Z",
+      "relevant": true,
+      "summary": "The New York Times examines efforts by AI companies to shape or write the rules that govern them, and asks whether they can be trusted to do so.",
+      "whyItMatters": "Industry influence over AI rulemaking and self-regulation bears on federal AI policy and the standards the team tracks.",
+      "priority": "medium",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T11:46:29.864Z"
     },
     {
       "id": "2b615bb8e6f65e77",
@@ -113,6 +145,23 @@
       "storyId": "16f69aac22fbe74f",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-24T16:35:21.930Z"
+    },
+    {
+      "id": "e15acf6442c52e28",
+      "title": "UK's Healey to give two state-backed lenders £20 billion capital boost in budget",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlkwNlhJbDZMSlFaZnpESjFQMnk5aS0zaE1ZWm43RnVTbFhENWR5bUk4b0tldXZzU1BHbF9EbXBHaWtGSDZKZ2dMN2syS2p3bVdTallROTZhNFJ1MVpzSmdtZ3JtWC1oNnRBYzN2blp6cU9rR2xiYm1fdUdXWnRzZUZyUm9TQjQzWWp6VXhSV29mZld5WURwV0J2TlJMeG9zTkFaWTJ1VUJaOE4za090Qk1QYlRHa2ZUdnBZemgzU2tVRWs?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-24T00:54:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-26T11:46:29.864Z",
+      "relevant": false,
+      "summary": "Reuters reports that UK Chancellor Healey plans to give two state-backed lenders a £20 billion capital boost in the budget.",
+      "whyItMatters": "UK banking and budget news with no U.S. federal AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-26T11:46:29.864Z"
     },
     {
       "id": "a7a2cd8f5bbc3d55",
@@ -2450,23 +2499,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-12T19:49:30.178Z"
-    },
-    {
-      "id": "9b40905bc9b0f1d9",
-      "title": "UK Reverses Trump Plans to Keep Back OpenAI, Anthropic Models",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFNDcUJ6c1JhdEw2SjZ3TmNoZ1FSMzRXcWNrUjlxeFk2N3dHbEk2N01YN0UwSlBxVm9YQnA3TWVwU3lud1lldHQ0SV9NbWxLd2tadmRDWTM4NXIzWF9mV0d0c0tLOUk1eGRNd0QwZ21HSnlCbjJiS0dvUVh4SGljWWxxU1J2T2dIR18yaExLQWktV0pjMUFzUXZJZXhaU2xJclc1WVBMLXdRM0hvazhqdw?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-12T11:05:05.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-12T11:46:43.178Z",
-      "relevant": true,
-      "summary": "Bloomberg reports the UK has reversed course on plans, tied to Trump administration positions, to keep back access to OpenAI and Anthropic models. Details are limited to the headline.",
-      "whyItMatters": "It signals how US-UK coordination on frontier AI model access and export-style controls is shifting, which could affect the wider federal AI policy landscape.",
-      "priority": "medium",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-12T11:46:43.178Z"
     }
   ]
 }
