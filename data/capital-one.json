@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-27T11:47:08.612Z",
+  "updatedAt": "2026-10-27T20:43:20.614Z",
   "briefing": [
     "Capital One reported a strong quarter, with profit beating expectations and revenue up more than 6% as the Discover integration continues; investors rewarded the results. (Bloomberg, The Wall Street Journal, CNBC)",
     "CNBC analysis cautions against declaring victory yet, suggesting reasons for restraint tied to credit and the Discover integration. (CNBC)",
@@ -10,6 +10,40 @@
   ],
   "briefingUpdatedAt": "2026-10-26T22:42:28.158Z",
   "articles": [
+    {
+      "id": "c715b293d6b6e513",
+      "title": "Down-ballot digest",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1ktakJzc1U5b2hfTVQ5Qm1WV05FS2ZOZ1I2bmF4TThiUVZGSjczMzdmZUNYSmx4LTAzdzdmbHpCTDR1NTd3ZG9NckhnWXVLUmdFWEtWMnU1RW1tMkFOX0FrYWhjSkxTeXlrd3lRRFRSWExuYzNabXVoV2xCOWZHemhXZnc4MkczX1hleTlNUkU?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-27T18:07:24.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-27T20:43:20.614Z",
+      "relevant": false,
+      "summary": "A Politico 'Down-ballot digest' roundup of state and local election news; the headline gives no indication of Capital One being a subject.",
+      "whyItMatters": "No evident Capital One connection, so the policy team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-27T20:43:20.614Z"
+    },
+    {
+      "id": "f70d6263eff64e90",
+      "title": "Raptors F Kawhi Leonard (knee) out at least a week",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1FxSWR6TUVaSXhZMC01aFY0Y1hIZVNvVGVjVDltTDBDMDItcWpycGpSUThvSGxjN0Jlbl9sV2ZrSEhBblZWellvN2hkRGZpZlhWdVFqTVZ6Q1NwTmhUa29JV0d0X29mUC1sVk1ZLWsxMFJuVW5Kc1JOaURjY1doUTMzWnhSTE5uQmVPSEY4elJSTmtsTFE?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-27T16:15:43.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-27T20:43:20.614Z",
+      "relevant": false,
+      "summary": "Reuters reports that Toronto Raptors forward Kawhi Leonard will miss at least a week with a knee injury.",
+      "whyItMatters": "Sports news with no relevance to Capital One or its policy interests.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-27T20:43:20.614Z"
+    },
     {
       "id": "e68a05dc2aa44f5f",
       "title": "At risk of ‘stadium fatigue,’ D.C. Council weighs $300 million plus for Audi Field",
