@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-27T11:47:12.332Z",
+  "updatedAt": "2026-10-27T15:53:52.691Z",
   "briefing": [
     "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register. It would require notification of, and prohibit, certain U.S.-person transactions with foreign entities in notifiable technologies, which is a decision point for comment and compliance planning. (Federal Register)",
     "Anthropic's IPO filing warns prospective investors about political and regulatory risks, including unusual warnings such as the risk that AI becomes sentient. The filing is drawing coverage as a window into how a leading AI developer sees federal policy exposure. (Politico, CNBC, The Washington Post)",
@@ -26,6 +26,40 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-27T11:47:12.332Z"
+    },
+    {
+      "id": "db0e1827bd9d9695",
+      "title": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-27T13:35:09.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-27T15:53:52.691Z",
+      "relevant": false,
+      "summary": "Markets wrap noting US stock futures rising and oil falling on comments about Iran.",
+      "whyItMatters": "General market news with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-27T15:53:52.691Z"
+    },
+    {
+      "id": "f66a17b73daed9d2",
+      "title": "Who Stands to Gain From an Anthropic I.P.O.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTJqNWFTVDd0dGZUZEZKRDdFMm9ZTzhhODBZMXQzbGUwRHVjMkJjNlJ1ejcxMjlOMUNDcFNJNDVJYWZMOTVZNXR0M1UyS0V5U0cyOUNfUjFNZ0VTUFprd3BuSXZCM1ZYMnMyMTQ5T21iVkplaFBaMUZkWTJLWHktcEFGRnlFWWh5MTg2UXNZRVNiQlk?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-27T12:10:36.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-27T15:53:52.691Z",
+      "relevant": false,
+      "summary": "The NYT looks at which investors and stakeholders would benefit financially from an Anthropic IPO.",
+      "whyItMatters": "Mostly about IPO economics rather than government action on AI, though it is loosely tied to the IPO coverage.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-27T15:53:52.691Z"
     },
     {
       "id": "87721d9ae34887b4",
@@ -233,6 +267,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-27T11:47:12.332Z"
+    },
+    {
+      "id": "32df3289fd4749b0",
+      "title": "How an AI start-up founded by ex-DOGE staffers broke into Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGRfa29NR1l4a19INEZWSXZWakhia2ZKTnRpQTVYeFNTUXRhdURvSTltbV9RRVJkbzVndVhsMUg0Y3N1MkZVNm11QVB5ZWtFVlhGY2NSSkp1MU84Qm0taWMtcURQcm9EbjZFTjV4Sk9NMTFwLV9Xc1BqM3RqWFhlLWpQZl8tOHJwdktBT2kxTUV6d2ZnWXg1cWwyVWtNSVl2UVA2LU1mWkNlcFZKd1BhNlpRbXZMeGZ0SEdR?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-26T12:00:16.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-27T15:53:52.691Z",
+      "relevant": false,
+      "summary": "The Washington Post reports on an AI start-up founded by former DOGE staffers that gained access to or broke into Anthropic.",
+      "whyItMatters": "Has a tenuous government link via ex-DOGE staff but the headline shows no specific federal AI policy action.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-27T15:53:52.691Z"
     },
     {
       "id": "91af58387c2a18a4",
