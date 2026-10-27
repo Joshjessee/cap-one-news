@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-26T22:42:28.158Z",
+  "updatedAt": "2026-10-27T11:47:08.612Z",
   "briefing": [
     "Capital One reported a strong quarter, with profit beating expectations and revenue up more than 6% as the Discover integration continues; investors rewarded the results. (Bloomberg, The Wall Street Journal, CNBC)",
     "CNBC analysis cautions against declaring victory yet, suggesting reasons for restraint tied to credit and the Discover integration. (CNBC)",
@@ -10,6 +10,23 @@
   ],
   "briefingUpdatedAt": "2026-10-26T22:42:28.158Z",
   "articles": [
+    {
+      "id": "e68a05dc2aa44f5f",
+      "title": "At risk of ‘stadium fatigue,’ D.C. Council weighs $300 million plus for Audi Field",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHRWSFU0UFg1dG81bVQ4T1NrM3d0NkFQREc2WDFxNV9SUTFCQUZsRzJ6a0ZrY2FlS1ZBdGtfQjdzTndCMjhqcExhWUhodzFwYnlJdWJNbkNtLW16RFphQUdSSE9NODFrZ21TaGZ5SmlJdWtrYWxTbUhmeXByZXZZaWFMWHBWbVNvUy1xSjBlX2hUUHdsemw1R3BVSkRIajZueWZrWnZlLXU0ZVFnWlZHVlJySQ?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-27T11:32:21.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-27T11:47:08.612Z",
+      "relevant": false,
+      "summary": "The D.C. Council is weighing more than $300 million in public funding for Audi Field, the city's soccer stadium, amid concerns about 'stadium fatigue.' The headline does not mention Capital One.",
+      "whyItMatters": "Capital One is not evidently a subject of this story, so the policy team needn't read it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-27T11:47:08.612Z"
+    },
     {
       "id": "2d930c8a2735df9c",
       "title": "Rafael Nadal to play in Las Vegas exhibition in February for 1st US action since retirement",
@@ -1921,40 +1938,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-14T11:46:27.025Z"
-    },
-    {
-      "id": "b1f73e65bcd26556",
-      "title": "Best balance transfer cards of October 2026",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VS25DaVY1ZDlLbDVneXdpc2ExTGpBQ2hTNHhiZ2NzaGNTTk9vY1kzbmhfdHBQOG9BbUpJclItVllLT2EwY2dwUGd6LTdjY0kwbzVqYmJobE5LcHEyVF9sU2hwOHNsOE1lZ2RDQk5VVm_SAXZBVV95cUxPdkw4ZGVNSVR0Qmh4YlRFdjYzdjduVHBGaWRTWl9ya2VUQzRwMGtZenc0cUJlUlk4SmVzMW9VcVY3TVo3RVBVU3cyOG9ldTFRa09kNE55a01VVldtdmstSGJiVlo3VWxMdm51TnVRSzVXeF9Td0Fn?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-13T07:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-15T11:46:19.713Z",
-      "relevant": true,
-      "summary": "CNBC roundup of the best balance transfer cards for October 2026, likely including Capital One products.",
-      "whyItMatters": "Consumer product roundup; only a passing mention of Capital One is likely.",
-      "priority": "low",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-15T11:46:19.713Z"
-    },
-    {
-      "id": "1a89e97f0b71c6ff",
-      "title": "The 11 best credit card sign-up bonuses of October 2026",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zTHJqZVFRbXIwZ3phLUM5NmZWTnlsamlEWGZBa2hiM0hYLUI2VzZwRjczUENodWlJSldwUjRiVWs5VzUyeWw3bGE5T3hvQzdHLVFpWEoxaHI5VndiT3FwV0E2Zy1zaTFkaWI5VWFB0gFzQVVfeXFMUFJYdVRMOFlaSE1SR0w5M25XYnV3WjlrWVdFU0U5d2JLOHoxQVMxOTJGak82S3ZwYllXZHlmTnVBbmpXNk5hNkxtRGNQcTF6bUE4Sy04NE0zdUk0NERMVi1JTnB5TmhwVDNjSV9naGJrOEh4SQ?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-13T07:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-15T11:46:19.713Z",
-      "relevant": true,
-      "summary": "CNBC roundup of the 11 best credit card sign-up bonuses for October 2026, likely including Capital One cards.",
-      "whyItMatters": "Consumer card roundup; low policy relevance beyond a possible mention of Capital One.",
-      "priority": "low",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-15T11:46:19.713Z"
     }
   ]
 }
