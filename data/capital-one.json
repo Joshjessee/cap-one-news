@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-28T16:39:35.662Z",
+  "updatedAt": "2026-10-28T22:37:47.764Z",
   "briefing": [
     "Capital One posted a strong quarter, but CNBC's analysis urges caution before declaring victory, with credit quality and the Discover integration the likely concerns. (CNBC)",
     "Capital One is still working out how best to use the Discover payment network after the acquisition, a key strategic question for the combined company. (American Banker)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-10-28T01:25:08.401Z",
   "articles": [
+    {
+      "id": "f30a457ff530345d",
+      "title": "Wizards F Justin Champagnie undergoes foot surgery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSS15WF9iTWZjQzVfWTdxR3Jpak91OWFZZVVwd2lUV2toajQ4V3dZY2pVWlphY2JsT2thQ3NCRGxQZUU2amlJVkxtMXdoY1VWMHNoemRDMGdyOC1aeFZ4WTJ1OTR4dmhCN1NreWxfN1RXX0dtSEtNNHh5b0x6eHYteE5samZXdzlvcEFpdWdZa3VPN3BnQVVBU3RsdjhQQUU?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-10-28T19:33:43.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-28T22:37:47.764Z",
+      "relevant": false,
+      "summary": "Reuters reports that Washington Wizards forward Justin Champagnie underwent foot surgery. The headline gives no indication of any connection to Capital One.",
+      "whyItMatters": "This is a sports injury story with no evident link to Capital One or policy, so the team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-28T22:37:47.764Z"
+    },
     {
       "id": "c715b293d6b6e513",
       "title": "Down-ballot digest",
