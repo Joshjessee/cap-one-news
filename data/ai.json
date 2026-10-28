@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-28T11:46:32.437Z",
+  "updatedAt": "2026-10-28T16:39:40.688Z",
   "briefing": [
     "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register. It would require notification of, and prohibit, certain US-person transactions with foreign entities in notifiable technologies, which is relevant to AI. (Federal Register)",
     "Anthropic's IPO filing is drawing coverage for its warnings to investors about political and regulatory risks, along with unusual items such as the risk of AI sentience. (Politico, CNBC, The Washington Post)",
@@ -94,6 +94,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-28T11:46:32.437Z"
+    },
+    {
+      "id": "fe8d382557524075",
+      "title": "Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53WVhRaENMU05TcVFQUHRRTHd5U2E5T251WjhXTHRBdVFDZmxoaXh6bWxaU29qc2FKWU9vZEZkeG00N2NlSHlnZ2dGRXNaX2h6X0hwTHZ6eEkwMFh3TkNYbm9R?oc=5",
+      "source": "U.S. Treasury",
+      "paywalled": false,
+      "publishedAt": "2026-10-28T14:30:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-28T16:39:40.688Z",
+      "relevant": false,
+      "summary": "Treasury announced sanctions on facilitators of a North Korean IT worker fraud scheme targeting U.S. businesses.",
+      "whyItMatters": "This is a sanctions and fraud enforcement action with no evident AI policy angle, so it likely isn't needed for AI policy tracking.",
+      "priority": "low",
+      "category": "Treasury",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-28T16:39:40.688Z"
     },
     {
       "id": "ea1ffb6a1d77240e",
@@ -2657,57 +2674,6 @@
       "category": "Financial Regulators",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-14T20:13:18.877Z"
-    },
-    {
-      "id": "ab1ff50327c7ad68",
-      "title": "The AI Boom Is Supercharging Wall Street’s Profits",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczhNMzlTTmktNGRxeGE2UllvR3o2T1BZb1d2aGVleUhFZkdzY0JudU0xazBOaTJCY0V2Y0RlSjhDemRBYmtnMHF2Y2Y2ZzRYTmxHZUdCLUZlLVQyaGNHR3JRdTNqRFNRNkxMVnFBMklIWXdFLUlmWDdjbFZQelk1YjllempsT2F5QWc2SEozWllySFhUeWFkOEdn?oc=5",
-      "source": "The Wall Street Journal",
-      "paywalled": true,
-      "publishedAt": "2026-10-14T16:14:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-16T11:46:53.353Z",
-      "relevant": true,
-      "summary": "WSJ reports the AI boom is boosting Wall Street's profits through fees and financing activity.",
-      "whyItMatters": "It shows how deeply banks are tied to AI, which relates to financial regulators' scrutiny of AI risk, though it is not a policy action.",
-      "priority": "low",
-      "category": "Financial Regulators",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-16T11:46:53.353Z"
-    },
-    {
-      "id": "77adf1f7c26b5ab0",
-      "title": "Certain Vertical Power Delivery Systems, Components Thereof, and Computing Systems Containing the Same; Notice of Institution of Investigation",
-      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20993/certain-vertical-power-delivery-systems-components-thereof-and-computing-systems-containing-the-same",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-14T16:00:00.000Z",
-      "snippet": "Notice — International Trade Commission — Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on September 9, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of Vicor Corporation of Andover, Massachusetts. A supplement to the complaint was filed on September 10, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation into the United States, the sale for importation, and the sale within the United States after importation of certain vertical power delivery systems, components thereof, ",
-      "firstSeenAt": "2026-10-14T11:46:31.973Z",
-      "relevant": false,
-      "summary": "The ITC instituted a Section 337 investigation based on a Vicor complaint alleging unfair imports of vertical power delivery systems and computing systems containing them.",
-      "whyItMatters": "This is a trade/patent dispute over hardware with no direct AI policy action, so it is of little relevance to the team.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-14T11:46:31.973Z"
-    },
-    {
-      "id": "7127edfaedaa2be8",
-      "title": "Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director Notice of Proposed Reorganization",
-      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20891/division-of-program-coordination-planning-and-strategic-initiatives-office-of-the-director-notice-of",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-14T16:00:00.000Z",
-      "snippet": "Notice — Health and Human Services Department, National Institutes of Health — The Division of Program Coordination, Planning, and Strategic Initiatives (DPCPSI) in the Office of the Director (OD), National Institutes of Health (NIH) is seeking public comment regarding its proposal to establish the Office of the NIH Chief Artificial Intelligence Officer (OCAIO) within DPCPSI and move the Office of Dietary Supplements (ODS) under the Office of Nutrition Research (ONR) within DPCPSI in OD, NIH.",
-      "firstSeenAt": "2026-10-14T11:46:31.973Z",
-      "relevant": true,
-      "summary": "NIH's Division of Program Coordination, Planning, and Strategic Initiatives is seeking public comment on a proposal to create an Office of the NIH Chief Artificial Intelligence Officer and to move the Office of Dietary Supplements under the Office of Nutrition Research.",
-      "whyItMatters": "It shows how federal agencies are institutionalizing AI leadership roles, though it is health-focused and has limited bearing on financial services.",
-      "priority": "medium",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-14T11:46:31.973Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-28T11:46:31.957Z",
+  "updatedAt": "2026-10-28T16:39:35.662Z",
   "briefing": [
     "Capital One posted a strong quarter, but CNBC's analysis urges caution before declaring victory, with credit quality and the Discover integration the likely concerns. (CNBC)",
     "Capital One is still working out how best to use the Discover payment network after the acquisition, a key strategic question for the combined company. (American Banker)",
@@ -127,6 +127,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-26T11:46:25.125Z"
+    },
+    {
+      "id": "a4075694a2f7eec6",
+      "title": "The 5 best savings accounts for kids in 2026",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iSzdjUWoxRjFZTEJJYUl4V2owR2Y5MDBvRW1JNE9vNUtCTmVZOXZIS0RYam5VWGJEV1J0NHJoMkpGNE1DaXJMTUhpSllKZ0J4Zm1pUjFaYkxYRnQ5eHZwak9KblVVT2xQSUp30gFwQVVfeXFMT194UmhiS1ZjcEtON3VRdEFFcEJua0RxRGE4Mzl4UG91QnVzbGN2RFRWdEhiOG5IZGdjYzNBdWh0S3VIYjdEOG1UVEpBVnJfSTZNSVd3WUt5dUtUXzgzUXEyZm5VelRIb3FTSjV5RkZsSw?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-28T16:39:35.662Z",
+      "relevant": false,
+      "summary": "A CNBC consumer-finance roundup ranking the best savings accounts for kids in 2026. The headline gives no indication that Capital One is the subject, though it may appear in a list of providers.",
+      "whyItMatters": "Nothing here suggests a policy-relevant story about Capital One; at most it is a passing mention in a product roundup.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-28T16:39:35.662Z"
     },
     {
       "id": "e9b2a11cd117e763",
@@ -1885,41 +1902,6 @@
       "storyId": "973355e1e1749a21",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-15T11:46:19.713Z"
-    },
-    {
-      "id": "6963dfd91fa89a01",
-      "title": "OCC blasts debanking instances by JPMorgan, others in report",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3hBS2prLVJlS09CLW1oWmUtay1pNjlFNUVNYmpHQW1KSWhLUHJUTVkzZ2JfVThRbWhzbkxSaC00cUZTV1JhY1N4QWpqanRVQ2IxcUJ0T0lCVlUzc2hXUUphUUwzcnpsZGtwdG43QXBudkkyWnU3blQydzZnSjBiWEZVZ19yeVNpczlDdkphdlpWOUc4M1h1c2syMlN6WEJ2bFdiYzJNMklvMEk?oc=5",
-      "source": "Banking Dive",
-      "paywalled": false,
-      "publishedAt": "2026-10-14T16:32:54.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-15T11:46:19.713Z",
-      "relevant": true,
-      "summary": "The OCC issued a report criticizing debanking instances at JPMorgan and other large banks. Capital One is presumably among the banks named, though the headline only mentions JPMorgan.",
-      "whyItMatters": "A regulator's findings on debanking could lead to supervisory or policy action affecting large banks, possibly including Capital One.",
-      "priority": "high",
-      "category": "Regulation & Policy",
-      "storyId": "23ba58073e27baf1",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-15T11:46:19.713Z"
-    },
-    {
-      "id": "23ba58073e27baf1",
-      "title": "Top regulator says big banks rejected customers over politics",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5UHI1enhSa1JlT2ZTSEdVbWFaUFR5RTRQZWlhdzdXYkQ5RURVT1FRVEdnUG5uUVdmbmtmSHJnS21iMXVHeHhzSVFweEthMXhBd1hhS0htd3FvTFhpUWtiMU5uV3VvQXgybzB0aXln?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-10-14T11:56:51.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-14T15:11:23.384Z",
-      "relevant": true,
-      "summary": "Axios reports that a top regulator says big banks turned away customers for political reasons. The headline doesn't name Capital One, but it is presumably among the large banks implicated or covered by the claim.",
-      "whyItMatters": "A regulator's 'debanking' allegations against big banks could lead to scrutiny, enforcement, or policy changes that affect Capital One, though its role isn't confirmed from the headline.",
-      "priority": "medium",
-      "category": "Regulation & Policy",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-14T15:11:23.384Z"
     }
   ]
 }
