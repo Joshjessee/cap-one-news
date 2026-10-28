@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-27T20:43:25.121Z",
+  "updatedAt": "2026-10-28T01:25:12.981Z",
   "briefing": [
     "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register. It would require notification of, and prohibit, certain US-person transactions with foreign entities in notifiable technologies, which is relevant to AI. (Federal Register)",
     "Anthropic's IPO filing is drawing coverage for its warnings to investors about political and regulatory risks, along with unusual items such as the risk of AI sentience. (Politico, CNBC, The Washington Post)",
@@ -10,6 +10,23 @@
   ],
   "briefingUpdatedAt": "2026-10-27T20:43:25.121Z",
   "articles": [
+    {
+      "id": "9f36015d71c71e96",
+      "title": "Banks Eye $21 Billion of Bonds for Broadcom Chip-Financing Deal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObENDd2ZaNmE1VUlBR0d6Q1YydGNyX1dNZUV1YVVoTlpfb1hJckdOV1VKTDJqLXZhbzNWdnpUOWNwc2huLVBXWUF5ZFZzUU1meXhPTzlGMmc4cUt5VzBCeEJwb0NLQ3p3d2xhc0NVb0tuOFRHS3JmbjRHMXp4UDd5WEZiUUJKbHBrTFNJLVVMSnFLZmU1ZHRhMzVVZnBFS2xjY05LQzdDSTFPSGMxVzVQNkFocw?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-27T21:17:50.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-28T01:25:12.981Z",
+      "relevant": false,
+      "summary": "Bloomberg reports that banks are looking at roughly $21 billion of bond sales tied to financing for a Broadcom chip deal. The headline points to a capital markets transaction, with no policy or regulatory angle evident.",
+      "whyItMatters": "This is deal financing news with no evident federal AI policy or regulatory action, so the team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-28T01:25:12.981Z"
+    },
     {
       "id": "7d6349805316d37f",
       "title": "Spy Chief Tries to Restore Order After Upheaval at Intelligence Office",
