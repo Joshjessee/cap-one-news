@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-28T01:25:08.401Z",
+  "updatedAt": "2026-10-28T11:46:31.957Z",
   "briefing": [
     "Capital One posted a strong quarter, but CNBC's analysis urges caution before declaring victory, with credit quality and the Discover integration the likely concerns. (CNBC)",
     "Capital One is still working out how best to use the Discover payment network after the acquisition, a key strategic question for the combined company. (American Banker)",
@@ -1920,57 +1920,6 @@
       "category": "Regulation & Policy",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-14T15:11:23.384Z"
-    },
-    {
-      "id": "6d85b00b0aa88405",
-      "title": "Kennedy Center names artistic director with deep ties to Trump-era overhaul",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2VVMkcwZEFHdDVURnY2ZjAtVzNOUHM1ZC1xSXdnV2JpbHRrNC1lY0NFRHRyR2lnbnpJOV8tbGFKU2RfRVhfQ0dhTUpWNEJ1TUtIdF80ekZiclNfUUZZazE1a0N1c1RaSFM0cHRkdjkzYWM0Y2tKTFU1RFprbmgtdjFwc09pbm5oSTN6RzZnb1hYSWRHVHo1aVhRZFhHQnZHcDRManRLbUlQejAyY0dtaDFEVlRsdnVEaXRuMnl3?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-14T10:32:07.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-14T11:46:27.025Z",
-      "relevant": false,
-      "summary": "The Washington Post reports that the Kennedy Center has named an artistic director with deep ties to the Trump-era overhaul of the institution. The headline does not mention Capital One.",
-      "whyItMatters": "Nothing in the headline connects this story to Capital One, so the policy team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-14T11:46:27.025Z"
-    },
-    {
-      "id": "8310a7d55ea98db2",
-      "title": "9 easiest credit cards to get approved for in October 2026",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSHctOFBmRDQzNWUwQkllLTctNjZuVzZpa2lfZjU0X2tPT1RzblpXOWJJYjBtcks5V1pKN1l4V3AyVkhoTVhBbVFwMFBmdEZyZDQyZ0JwR2JXNnF5eUoyZXBDSnJGcW_SAWxBVV95cUxNM3BXYU41NF9rdllKU0VkcDRFRENLbGVQTUVkWEVTb2lQSGN6YUtBdGFBS0lqakdUaU56VVpTQVZTN0duekktT0d6NVY2RkdRQlh4UDVsN2JRbmktTm1NOGhqcTFnMGVscTJSVnY?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-16T19:34:26.781Z",
-      "relevant": true,
-      "summary": "CNBC consumer guide listing nine credit cards that are easiest to get approved for in October 2026; Capital One cards are likely among those included.",
-      "whyItMatters": "Low-stakes consumer product roundup; Capital One is likely only one of several issuers listed.",
-      "priority": "low",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-16T19:34:26.781Z"
-    },
-    {
-      "id": "95f0ccd4bcaec94d",
-      "title": "Svechnikov scores 2 goals to lead the Hurricanes to a 4-2 win over the Capitals",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWpnZ3pVWk1rbFBJQWt1X0NNT05SbTdYc0cweGdaaWlCYTJSZGhzTkxxVHpRb1dYb2F2UlZVQkxIbVJYMkh4eHVkcHB2c1Y4NkE4c1U5OTZzV3lreDUycE9sSlhxR1VveTBEREstZzBBZTRFMGQ2V3RSMTZlcGs3U0tfNzJBVlhWbWNvLXdSLTh2d3hUTmc4UDBBeWdmTTh3QnlPUFBDQWItcGFCSElvT0ctb0pEaGVvZDN4SFgtdDEyQlZH?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-14T04:39:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-14T11:46:27.025Z",
-      "relevant": false,
-      "summary": "Svechnikov scored two goals to lead the Hurricanes to a 4-2 win over the Capitals. This is a sports game recap, and any Capital One tie is presumably just the arena name.",
-      "whyItMatters": "It is a sports result with no bearing on Capital One's business or policy matters.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-14T11:46:27.025Z"
     }
   ]
 }
