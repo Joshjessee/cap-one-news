@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-29T16:56:31.472Z",
+  "updatedAt": "2026-10-29T22:46:50.741Z",
   "briefing": [
     "No major Capital One regulatory, legal, or Discover-related developments appear in today's articles; coverage is limited to passing mentions and roundups.",
     "Reuters posted a stock quote and news page for Capital One Financial preferred shares (COF_pn), with price data and links but no new company announcement. (Reuters)",
@@ -214,6 +214,40 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-29T16:56:31.472Z"
+    },
+    {
+      "id": "7e97b58f47c03860",
+      "title": "Best auto loan rates and financing of November 2026",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kcXd0VXhoZmJYLS05VHg1ZlA5Y1kxZm9LaTFlOGxaaElSMkpmUXdHZUxNZHZ5VzFMMVVJN0tRWkstLXZvcTltdG9yaG9yaW9XLWJlVnN30gFbQVVfeXFMTURBaXoteFdkQTRyZ294NmFzWTdCSG02bm9pUVNZenJTUzRnQlo2UHFjMFlaTnJzY0hBcEQxcXdnX1hBYl80WG9YNk9hd1paNzBBVVNlNTVZMTZwNA?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-29T22:46:50.741Z",
+      "relevant": false,
+      "summary": "CNBC roundup ranking auto loan lenders and rates for November 2026. The headline does not indicate Capital One is a main subject.",
+      "whyItMatters": "Consumer shopping guide; little policy relevance and Capital One is at most listed.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-29T22:46:50.741Z"
+    },
+    {
+      "id": "3f6cc8e458f736a4",
+      "title": "Best virtual credit cards of November 2026",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vMkNQaGdBSE9tSEtmeU91OHJKclZNZ3V2NDM3OW1wdDBabk9pdjF5RlcyQlZPTGZKcVVRdXE0bFQ5OFQteDR6T1FnQThuWjk1VzZ3NTlwREN1SF92MHlZVHppYlXSAWpBVV95cUxPa3RrMnhZaW10bFFLR2dOdzQ0SldvbDZiN0lkdVMtUG5XSzdFcFJSMXNmNTc0RWVxNlBqOU9rb1NOY1p4UG80YnU3cmdwYkpZS0IyS1dWU25Ea2U3TFZMdWN1UWJfXzhfbm5R?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-29T22:46:50.741Z",
+      "relevant": false,
+      "summary": "CNBC roundup of the best virtual credit cards for November 2026. Capital One may be listed among issuers, but the headline doesn't say so.",
+      "whyItMatters": "Consumer product guide with no clear policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-29T22:46:50.741Z"
     },
     {
       "id": "2d930c8a2735df9c",
