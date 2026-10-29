@@ -1,15 +1,31 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-29T11:46:59.155Z",
+  "updatedAt": "2026-10-29T16:56:38.207Z",
   "briefing": [
-    "Bloomberg reports the AI industry's bet on the Trump administration is colliding with a changed political environment, a sign that federal AI policy may be harder to shape going forward. (Bloomberg)",
-    "Top House Democrats are demanding the Trump administration preserve its conversations with xAI's Grok chatbot, raising oversight questions about federal use of AI tools. (Politico)",
-    "Treasury Secretary Bessent downplayed concerns about financing the AI buildout and also commented on Fed rate policy, a notable signal from Treasury on AI-related financial risk. (Bloomberg)",
-    "President Trump said he will ban the term 'artificial intelligence'; reporting does not make clear how or whether this would be formalized, so treat it as a statement to watch rather than a policy action. (The Hill)",
-    "Separately, the Temenos CEO said European sovereign AI and cloud offerings are not yet ready for major banks, and a Washington Post newsletter featured Ben Goertzel's views on AI regulation. (Reuters, The Washington Post)"
+    "Top House Democrats are demanding that the Trump administration preserve its conversations with xAI's Grok chatbot, adding oversight pressure on federal use of AI tools. (Politico)",
+    "New York enacted a ban on unsafe chatbot behavior toward children, part of a broader state push on AI rules that could shape the national debate and compliance expectations. Bloomberg separately reports the AI industry's bet on the Trump administration is colliding with a changed political environment. (The Washington Post, Bloomberg)",
+    "Treasury Secretary Bessent played down concerns about financing the AI buildout and commented on Fed rate policy. Separately, Canada's biggest banks are moving to limit AI agents over risk concerns, a signal for financial-sector AI governance. (Bloomberg)",
+    "The White House published a U.S.-Finland memorandum of understanding under the Technology Prosperity Deal, a bilateral tech cooperation framework. The Hill reports President Trump says he will ban the term 'artificial intelligence,' with no detail yet on whether it would be formalized. (The White House, The Hill)"
   ],
-  "briefingUpdatedAt": "2026-10-29T11:46:59.155Z",
+  "briefingUpdatedAt": "2026-10-29T16:56:38.207Z",
   "articles": [
+    {
+      "id": "fb1f4da0f4cf9fd1",
+      "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWdUYmtvR0VLVGprZTRnbHJVU0lUZUFMckgwWUxBV2E0b212anNMTjFFS2UxdnhLUHBTc1o3N2xJQWVJRVE3ak1vV2ZTN3ljMGdGZV8yMXZvRlQ4algtQjg3cEhsUnpLdEJLTzBZV09Fbl81ejA0VFRnVXpHMWd4R2UtbFpndmdSa3NOVFRXdVNxM3dqaDNhNGpWRVZPeGo0eXVrMVdZUGNJTllzUExV?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-10-29T16:26:52.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-29T16:56:38.207Z",
+      "relevant": false,
+      "summary": "WSJ reports that AI-related demand is lifting bank lending, though bankers remain cautious about the outlook.",
+      "whyItMatters": "Useful industry context on AI and banking, but no government policy action is described.",
+      "priority": "low",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-29T16:56:38.207Z"
+    },
     {
       "id": "24e13de1d3c0e9e9",
       "title": "Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting",
@@ -45,6 +61,23 @@
       "analyzedAt": "2026-10-29T11:46:59.155Z"
     },
     {
+      "id": "b969f62f7340ad01",
+      "title": "Memorandum of Understanding Between The Government of the United States of America and the Government of Finland Regarding the Technology Prosperity Deal",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOblJ3dXY3OThYRW1oa2pMNGpQajZuRW9OOF9SV3FicXR1OTJCczB4T0JnXzRsN0pPV3dGYUFHVG9QeVRsdmt2VE02NWdQcTFabTlrWHh4NDllTW03Vjl2a0FqR09nNVFXdzdHRlk4RS1QSjEwc3N5aDl4Y0NLWmpWcGNPQ0RUTEpRR0xaNWE1Qy1vT2lYTjR4Y1NvTS1wMzRoa0w2UWpERG56UHpUdlNvV3JfTWZhZmppRGdRVGpOb0RWbUdSR1lFcTQtUWlWOFRMVjF6MkVRc1NWR3doY01OZTVRamliRzNWWDlrNGJxWUF2dFZEMmVwZ3VzREtRWkNza0VROHMyY28wZk9UQWxQY2VFOHlPYmg4Q2kzTEh3RW9fbVJC?oc=5",
+      "source": "The White House",
+      "paywalled": false,
+      "publishedAt": "2026-10-29T14:28:02.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-29T16:56:38.207Z",
+      "relevant": true,
+      "summary": "The White House published a memorandum of understanding between the U.S. and Finland on the Technology Prosperity Deal, a bilateral technology cooperation framework.",
+      "whyItMatters": "It shows how the Administration is pursuing international AI and technology partnerships and standards alignment.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-29T16:56:38.207Z"
+    },
+    {
       "id": "c9599d9a46aa1967",
       "title": "AI Industry’s Gamble on Trump Crashes Into New Political Reality",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWp2X0RPTDJxNnRXY2RIVWhYUGxEXzZqeXl2bXh2OHRhbjB4R2Zma2V5VFprU05Ick43ZnNITDdubC12MUtydU02bXNLcXYtRXdsVUhibklXclc3MUxnSnNtaEtqdzBINkx0ak9hUHUxckJHRDdYSmhnVkp4ZWtRZk9Dd3IxUkVoWjBfMWM5NnlGa25sN09MU3dlUkF0Z2tkNF9SdlU2YnNReF9hY2JmZkNCSXBLd0gtQndPV3Ntdzh5QQ?oc=5",
@@ -60,6 +93,23 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-29T11:46:59.155Z"
+    },
+    {
+      "id": "c50e76e855f565c1",
+      "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-29T09:01:52.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-29T16:56:38.207Z",
+      "relevant": false,
+      "summary": "The NYT reports that Nvidia CEO Jensen Huang is seen as a target of a Chinese spy plot.",
+      "whyItMatters": "It is a security story about a company executive and has no direct federal AI policy action in the headline.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-29T16:56:38.207Z"
     },
     {
       "id": "1902b302d1682154",
@@ -79,6 +129,23 @@
       "analyzedAt": "2026-10-29T11:46:59.155Z"
     },
     {
+      "id": "7983957ce38a7d18",
+      "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnlRV1dKTk9uT3J1UUdaQ2xlcF9CNE41cGJNckQwMHRuaWRmRjRQLXJtWERvUzBWTnpQVVVXNzF4aEc2dnF3RzRMSDEwUW5SaXZqNVAxNjB3d2YwQzlHSThzRmlrVzlQcUN6VlZSQUxFT05PQTNvaVhDLWZOSzl2Yl9tNDdWN01nZFg0ZWNrUkVJbWJYMWhGenBjcTM5b01RanBLVmJwbHpzLUx1NVVJUHg5aEpwQ0JyNWlpVEJCZnBTckh4Q1FhalpuQ2habENCNEUtVDNsMGpRMzJDN0E?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-29T05:00:53.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-29T16:56:38.207Z",
+      "relevant": true,
+      "summary": "New York enacted a ban on unsafe chatbot behavior toward children, part of a wider push by states to regulate AI.",
+      "whyItMatters": "State AI laws can influence federal debate and preemption fights and may create compliance expectations for consumer-facing AI.",
+      "priority": "medium",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-29T16:56:38.207Z"
+    },
+    {
       "id": "8a717b9d17a76192",
       "title": "AI & Tech Brief: Ben Goertzel on AI regulation",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWVpYzhsV25TZ3FVNUJONVNQbkt0T2l2WV85YUVNalZJZUlBZURlNG4tSDBfR2JpUkdBUnpVY1lKRGIxd04tNkJUVldha0RMeWNJLWdqelU3RGZnbXJrQlRUR1dUenNBUU9SRjdsLU5UYnB0ODUyanlvSkwwU0h1dVZmOUZsQnNIRFpCbnJQX052YkEycld4d0JNZlFnV1pCUGZ0UXpjRDRiVjZLZDFCNVg5cw?oc=5",
@@ -94,6 +161,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-28T22:37:51.320Z"
+    },
+    {
+      "id": "0e8770a05b82af8e",
+      "title": "Canada’s Biggest Banks Move to Limit AI Agents, Citing Risk",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFhmMDEtV2dqellwNWNSVm1DRC1uNXBPR1Z2Q1d5cFMxUmxCX0dpVkIxYkFoWlN5aVdPXzNqME9RVFFRc0k4bjdpU2pKc3ZGMUF2dVJCcGNGQ2tTdXYteTBQYWJSaG44SlNWUkZtSHJBNHRmNklleEdhOVNWMi1ZdjJrSk5nR0dINkl3XzEyMVp0RFQ2VDhMdEljQ01fWThFaUM0UFRNaWMzZlJHUEx3?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-28T21:40:05.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-29T16:56:38.207Z",
+      "relevant": true,
+      "summary": "Canada's biggest banks are moving to limit the use of AI agents, citing risk concerns.",
+      "whyItMatters": "It signals how large peer banks are approaching AI agent risk, which is relevant to financial services AI governance.",
+      "priority": "medium",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-29T16:56:38.207Z"
     },
     {
       "id": "5e5df72dc382f198",
@@ -247,6 +331,23 @@
       "category": "Treasury",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-28T16:39:40.688Z"
+    },
+    {
+      "id": "c77023ad40f5479a",
+      "title": "Bullish Treasury Bets Face Reversal Risk From Hawkish Fed",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVdDN1Q0dWNoV3p6Z1JKbXlQM0tsU3lGVFVKMzNkZW5qR2FVYUFicy05NURWOXJmUEd3TTR0ZHlRVUY1V3hxU3dWdXA3ODdaZFltdXJ2WnI5NmN0TGNseXFKYXhoUjg4dndnaGlUVXdRQ0YyN2VPaS1IUnd5d2lOaU5RTU0wa05yS1h4b1NmaDlYdmNrQVpxRHpEaTJxQU96UmVPdHhuNEZ5S3k3?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-28T10:17:42.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-29T16:56:38.207Z",
+      "relevant": false,
+      "summary": "Bloomberg reports that bullish bets on Treasuries face reversal risk if the Fed stays hawkish.",
+      "whyItMatters": "It covers rates markets and has no AI policy angle.",
+      "priority": "low",
+      "category": "Treasury",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-29T16:56:38.207Z"
     },
     {
       "id": "ea1ffb6a1d77240e",
@@ -2640,57 +2741,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-16T19:34:34.648Z"
-    },
-    {
-      "id": "d068c8924714786f",
-      "title": "Republicans Mull Options to Pass Budget Priorities After the Election",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGZPMGVsU1NWdjZJOHI3cUR1R0VRUkRMcmxrQlpFUDl2LW5fc2J2N3k0RHQ1NjNBV3VxQmExeUF5aEdwc2JFWW9RZ2J2bjg5bmt3ZHhybExaSVduVUZ6YTNuYWppOHhRV2tNVDRmS082RVlLWlllVkYyOWRHa3d4ZmRpVTNHbVJLMzZoWXFPYnhUbk9jMGlHZG1Nd3NuYnBaMmNrYXhRbWxtSnFzTGc?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-15T16:05:32.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-15T19:54:20.154Z",
-      "relevant": false,
-      "summary": "Bloomberg reports Republicans are weighing options for passing budget priorities after the election.",
-      "whyItMatters": "It is a general budget story with no evident AI policy angle.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-15T19:54:20.154Z"
-    },
-    {
-      "id": "a73ddcc32366deda",
-      "title": "US Treasury pushes global partners to rename AI as 'super intelligence'",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-15T12:35:43.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-15T15:03:50.183Z",
-      "relevant": true,
-      "summary": "Reuters reports the US Treasury is urging global partners to adopt the term 'super intelligence' in place of 'AI'. Details beyond the headline are not available.",
-      "whyItMatters": "Treasury's stance on AI terminology and international coordination could shape how AI is framed in financial-sector policy.",
-      "priority": "medium",
-      "category": "Treasury",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-15T15:03:50.183Z"
-    },
-    {
-      "id": "2234af1319e5d92c",
-      "title": "The Fallout From the ‘Neocloud’ Wipeout",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzZLalRKb2N6NGZSbWVpMTdZS2VFRjlMYXdfN1JwVXoxV3g4aDRQWk1JUzFnSDVrYjhRMEFZblpQaXE1RTNkaUs4WXd3c21zcnRhaWU5ckpkNG9tS2gtcVZ2YlVFbXM4MGNjMHZQeS0tSWNzWWRGZmNXWGxubjl4a0UyaWVrQUhId2FGc2kyMGo?oc=5",
-      "source": "The New York Times",
-      "paywalled": true,
-      "publishedAt": "2026-10-15T12:30:05.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-17T16:24:29.756Z",
-      "relevant": false,
-      "summary": "The NYT examines the fallout from a collapse among 'neocloud' AI computing providers.",
-      "whyItMatters": "Market and business story with no evident government policy angle, though it may bear on AI financing risk.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-17T16:24:29.756Z"
     }
   ]
 }
