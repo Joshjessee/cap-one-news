@@ -1,14 +1,13 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-30T11:45:59.398Z",
+  "updatedAt": "2026-10-30T16:42:38.297Z",
   "briefing": [
-    "No major Capital One regulatory, legal, or Discover-related developments appear in today's articles; coverage is limited to passing mentions and roundups.",
-    "Reuters posted a stock quote and news page for Capital One Financial preferred shares (COF_pn), with price data and links but no new company announcement. (Reuters)",
-    "CNBC's November 2026 roundups of travel credit cards and 0% APR cards may include Capital One products, though neither summary confirms it. (CNBC)",
-    "The Washington Post featured the competition among D.C. airport lounges, which likely touches Capital One's lounge presence at Reagan National or Dulles. (The Washington Post)",
-    "Separately, American Express plans to shrink its workforce, a competitor move worth noting for industry context. (Payments Dive)"
+    "No major regulatory, legal, or policy developments involving Capital One appear in today's articles; coverage is limited to low-priority consumer finance and lifestyle items.",
+    "CNBC published a series of November 2026 product roundups (travel cards, 0% APR cards, rewards cards, no-annual-fee travel cards, student checking) in which Capital One is likely listed among issuers, though the summaries do not confirm specific placements. (CNBC)",
+    "The Washington Post ran a feature on the competition among D.C.-area airport lounges that likely touches on Capital One's lounge presence at Reagan National or Dulles, a brand visibility item in the team's home market. (The Washington Post)",
+    "Reuters' Capital One Financial preferred shares (COF_pn) quote page was updated with price data and links to the latest news, with no specific new story identified. (Reuters)"
   ],
-  "briefingUpdatedAt": "2026-10-29T11:46:48.323Z",
+  "briefingUpdatedAt": "2026-10-30T16:42:38.297Z",
   "articles": [
     {
       "id": "5111e7a6f5f1e485",
@@ -1954,40 +1953,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-17T16:24:25.874Z"
-    },
-    {
-      "id": "5d64f52ac841f294",
-      "title": "What we want to see when Capital One and Meta report earnings next week",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWRCXzlmcnhyMkhOc3BTSFhvSmw1VlAxNzlfV1YyS0JMNFJMTjF2Y29GNFJvdmZJT294Ui15UjJFSWxKUVlpeFpJNGtpSGJTSFVTWTNYd3BSZERkdnljMi1iSmtrX2Z4eklIeGc2V3ppc3RYb0xqbWtvVUFfNHJQR2dnQzkyZ2RRYkRRZ2xOMTF0ak90dTdLNkxxX1JBaklfeXZXNmpoMzJPOTRUSUdfZTFxRXljM1JSNTRiR2tHVGs?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-16T16:06:29.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-16T19:34:26.781Z",
-      "relevant": true,
-      "summary": "CNBC previews what to watch when Capital One and Meta report quarterly earnings the following week.",
-      "whyItMatters": "Earnings will show Capital One's performance, credit trends, and Discover integration progress, useful context for the policy team.",
-      "priority": "medium",
-      "category": "Business & Earnings",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-16T19:34:26.781Z"
-    },
-    {
-      "id": "6194a0c1216734d7",
-      "title": "Articles sitemap of 2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtdEV3ZEdvNlVCZVFLWV9YTm9KSzVmQ1V6elk2N1lrc1U3MjF0R3JnbnF6c1RYRHZSMEdzQm1GbHAzTkJZLWRtN1cySG9CVGFyM0owM1J1Smg?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-16T14:13:11.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-19T11:46:22.538Z",
-      "relevant": false,
-      "summary": "This is a Reuters articles sitemap page for 2026-10-16, not a news story. Nothing in the headline or outlet refers to Capital One.",
-      "whyItMatters": "No identifiable Capital One content, so the team needn't read it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-19T11:46:22.538Z"
     }
   ]
 }

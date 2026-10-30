@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-30T11:45:59.771Z",
+  "updatedAt": "2026-10-30T16:42:42.219Z",
   "briefing": [
-    "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of an AI bubble for Big Tech, a marker of the growing financial-stability debate over AI buildout. (U.S. House)",
-    "Treasury Secretary Bessent played down concerns about financing of the AI buildout while also commenting on Fed rate policy. (Bloomberg)",
-    "Bloomberg reports the AI industry's bet on the Trump administration is colliding with a changed political environment, while top House Democrats are demanding the administration preserve its conversations with xAI's Grok chatbot. (Bloomberg, Politico)",
-    "New York enacted a ban on 'unsafe' chatbot behavior toward children, part of a broader state push to test the boundaries of AI regulation. (The Washington Post, The Hill)",
-    "Banking angle abroad: Canada's biggest banks are moving to limit AI agents citing risk, and Temenos's CEO says European sovereign AI and cloud are not yet ready for major banks. (Bloomberg, Reuters)"
+    "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of an AI bubble for Big Tech, putting AI financial-stability concerns on the congressional agenda. (U.S. House)",
+    "Treasury Secretary Bessent downplayed worries about financing of the AI buildout and commented on Fed rate policy, while traders fear AI policy shifts with the midterms days away and the AI industry's bet on Trump faces a changed political climate. (Bloomberg)",
+    "Top House Democrats are demanding the Trump administration preserve its conversations with xAI's Grok chatbot, and four California Democrats announced a bill to stop data center construction at the Navy's NAVWAR command. (Politico, U.S. House)",
+    "New York enacted a ban on unsafe chatbot behavior toward children, the latest in a wider state push to regulate AI that could shape national policy debates. (The Washington Post, The Hill)",
+    "Canada's biggest banks are moving to limit AI agents citing risk, a signal for financial-sector AI governance, while the U.S. and Finland published an MOU under the Technology Prosperity Deal. (Bloomberg, The White House)"
   ],
-  "briefingUpdatedAt": "2026-10-29T22:46:55.597Z",
+  "briefingUpdatedAt": "2026-10-30T16:42:42.219Z",
   "articles": [
     {
       "id": "b7a59793882f523d",
@@ -26,6 +26,23 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-30T11:45:59.771Z"
+    },
+    {
+      "id": "873ceb6039e8db22",
+      "title": "AI Policy Fears Grip Stock, Bond Traders With Midterms Days Away",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUxSTTRqdWlyN1Z1RVpic1NTbk5mN0M4Z1R2dG41QWY1Sm44ZGZfVVhhREdQelRic051VnFrMVdJNkV1NFkyTFY1WjNrN3RuWm1YVzFKV2hMYlFqN0RZX2lCOURtV0xuamlNNmFiNkdsRHQ3ZDh5bVpDelRueVVUT1d4MEdxYkVuekF6c0pVbTU2dG9fVlJ3SUtuVXh5LUt6WG8xN25HMWktWGd2RTlxeVFJXzU?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-30T11:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-30T16:42:42.219Z",
+      "relevant": true,
+      "summary": "Bloomberg reports that stock and bond traders are worried about how AI policy could shift in the days before the midterm elections. The headline suggests markets are pricing in political risk around AI.",
+      "whyItMatters": "Market anxiety over election-driven AI policy changes could shape the debate in Congress and the Administration and affect financial-sector exposure to AI.",
+      "priority": "medium",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-30T16:42:42.219Z"
     },
     {
       "id": "3f29f83ad8c107ea",
@@ -435,6 +452,23 @@
       "category": "Treasury",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-28T16:39:40.688Z"
+    },
+    {
+      "id": "8ce63ddd70cad8d1",
+      "title": "Barclays Turns to Insurers to Hedge Billions of Data Center Debt",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDd5cW9oRGViV1dyRFVyd3NPdVp4RnlKek1CcUZSNTNpQWxaOFlZdWd5dVV2NGd6dkpfYXNfREZLTHJSVnItR1hYX2tWQUx1MjdMbTZUczdvNGZsMlVmS1FYdVRNdXZaanY5VDZBX1diZGVTYVIwX21zbG84ODZnamN3ZmtLN2xUenJ2c0tpcUNBaXYwYTV0d0hLbVdXM0xUeWlocTBFYW5HM2E0RWtmOURZNWtoZw?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-28T14:00:28.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-30T16:42:42.219Z",
+      "relevant": false,
+      "summary": "Barclays is turning to insurers to hedge billions of dollars of data center debt. This is a bank risk-management story with no evident government or policy action.",
+      "whyItMatters": "It shows how banks manage AI infrastructure credit exposure, but it has no direct federal policy angle.",
+      "priority": "low",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-30T16:42:42.219Z"
     },
     {
       "id": "c77023ad40f5479a",
@@ -2573,91 +2607,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-17T16:24:29.756Z"
-    },
-    {
-      "id": "b04a1d3707809c97",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
-      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "snippet": "Notice — Securities and Exchange Commission",
-      "firstSeenAt": "2026-10-16T11:46:53.353Z",
-      "relevant": false,
-      "summary": "The SEC approved a Cboe rule change allowing listing of binary options tied to key performance indicators reported by certain stock issuers.",
-      "whyItMatters": "This is a securities market structure item with no AI policy angle.",
-      "priority": "low",
-      "category": "Financial Regulators",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-16T11:46:53.353Z"
-    },
-    {
-      "id": "1be075d14d29bd3d",
-      "title": "Democrats eyeing the presidency can’t stop talking about this issue",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMTl4a3I1RTR4WjFYT1lZa3o3bWF6M1A0NXVqa1NIM1FJNlk5VGsyVnNuSEtiUmNVd1hSTXlHeVkwcEdoS0hYUk9yQ1ItaUFYcXZNa2hKa0pjUnZaQjdwb0Judm1sSWlXaXFaNTVHZUNTZE9aQ3lEX0pNZW9DczZUeUxUQUJwcEZ4ZkdMQjJxeXNDdTZhVlRJendDZ0ZjU1ZoSzZKSWpOdmhORkNGTERsc1c2dDVtRTdLci1KeVJVcw?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-16T19:34:34.648Z",
-      "relevant": false,
-      "summary": "Washington Post piece on an issue that Democratic presidential hopefuls keep raising; the headline does not say what the issue is, though it may be AI.",
-      "whyItMatters": "The topic is unclear from the headline, so it is not clearly about federal AI policy.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-16T19:34:34.648Z"
-    },
-    {
-      "id": "6ba4240337433f1f",
-      "title": "Power struggle erupts in Trump’s White House as midterm losses loom",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVVVTURrb1VQcVNwWEFMX2xYUnlQSV95TFV6MVJ4ZTBKSENmcmtHM29HeGVsYkZKMUI0RC1DbHpJdDM2dXNmcDFEanlFUnd6QmtNeEtQNzR0c1FhanlnbW9scU02cXpLdkRmWU9XTTRfZG9YWFd3UDJYbHVuR0dhTHpsV2FmRk9JbElGVDBWRFAycHJuT0E0NDh5ZG1sYnRtUXNOVU5SUUdoVkJhMnc?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-17T16:24:29.756Z",
-      "relevant": false,
-      "summary": "Reports of a power struggle inside the Trump White House as midterm losses loom.",
-      "whyItMatters": "General political news with no stated AI policy angle.",
-      "priority": "low",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-17T16:24:29.756Z"
-    },
-    {
-      "id": "c3d5ee4aa0c2da2a",
-      "title": "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton says",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2aURfdGotR0JvZTg1YzFqNTAwd0tzdDYxZ2d3UmJfaVhCaFJ6dGYzOG5feDFobnJlQzdYSVJWQ1g2YUh5TmxnOUh0UnlYMGlOWnNtUi1ReEVTbHE1eTBMbGh1TUVRNm5pVzhHamdpWjItY2ROR0tZ0gF8QVVfeXFMTVBocE1ZYl9QUFZZQ0ZCb3dZOFFoRzRZQ2dMOE9SQXMxYlFDaXRaWjhKZFRYTVZXNHJ6MElxd3U5S0NtTjBIVDU4UFYzZDc4bkVqVzZ2Z29IYnZDd2dMdDJJamlkVjlfTm10dW5meUs4QTY0NnhkWDNKekN0Nw?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-16T13:55:56.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-16T14:53:16.408Z",
-      "relevant": true,
-      "summary": "CNBC reports that a senior national intelligence official, identified as DNI Jay Clayton, warned that AI-enabled espionage is a real threat and that companies should be wary of it.",
-      "whyItMatters": "Statements by senior officials on AI-enabled espionage signal federal security concerns that could shape AI and cybersecurity expectations for financial firms.",
-      "priority": "medium",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-16T14:53:16.408Z"
-    },
-    {
-      "id": "48da86527da70e31",
-      "title": "US Banks Block AI Agents Attempting to Move Money for Customers",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3ZyaFBJVTUwMWlHREluOW9EdHZkcVpiNVE1Z3dSbV9TZVdiOGN3SEJLWFBBVGZrcERpWXF3YXlwZnZiNmdkX28wdlBSMmhvUUZlSFp1MTZ5Ulg0UkQ4Y0djSE5KWWpBSlN5Um1jZzhLSDQxY3hyUHdUenJ1YVNCa3lONW56bnB2UFd6UU9LXzlqYWpld1psOWtVb2p5aWVPdXRZdEFuaDV4X3lGek4xQVBQWjI?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-16T13:46:34.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-17T23:07:38.590Z",
-      "relevant": true,
-      "summary": "Bloomberg reports that US banks are blocking AI agents that try to move money on behalf of customers. The headline suggests banks are restricting agentic AI access to accounts and payments.",
-      "whyItMatters": "Agentic AI in payments touches banking regulation, liability, security and consumer-access questions that directly affect Capital One's policy positions.",
-      "priority": "high",
-      "category": "Financial Regulators",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-17T23:07:38.590Z"
     }
   ]
 }
