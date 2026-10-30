@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-29T22:46:50.741Z",
+  "updatedAt": "2026-10-30T11:45:59.398Z",
   "briefing": [
     "No major Capital One regulatory, legal, or Discover-related developments appear in today's articles; coverage is limited to passing mentions and roundups.",
     "Reuters posted a stock quote and news page for Capital One Financial preferred shares (COF_pn), with price data and links but no new company announcement. (Reuters)",
@@ -1988,40 +1988,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-19T11:46:22.538Z"
-    },
-    {
-      "id": "1312a843441e01fd",
-      "title": "Senate money race heats up",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWNEaXlzNDQzWXlidHRoU0YteDFvUWpZR0VSajlkZzAzcl84VHZqSHVrOWZhbFdoekh6SFRMWW9qVllBbkJVdk02UHhyYmp1SEY0cEViQU5tdFA0NVBqem1Vdmk1bXN0UzVQZzhEdl9uVzUzUmx6VlRuNUNFQmVxRTU5emE4VzRmZUJyY0RDZzduUWd1YTRKUWY0QkZaS0ZnRFE?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-16T11:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-16T11:46:44.008Z",
-      "relevant": false,
-      "summary": "Politico piece on fundraising in Senate races; the headline gives no sign that Capital One is a subject.",
-      "whyItMatters": "Nothing indicates it concerns Capital One, so it likely needs no attention from the team.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-16T11:46:44.008Z"
-    },
-    {
-      "id": "fef1f283c09c2d01",
-      "title": "El-Sayed’s missing piece",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMC1ydUlDVXU3c0dVSlZ6enl5YmpkWEpDOHIyZmRka0h3YjE2TVJSSDNLVGVmWkg5bkkzSzhrRVFzbGpsMFR3b0tmaHJGaGJyOFFSWXZPc3RQQmpfWElhaXZ4cVZPTTlGQkRMOTFNS090RXVNWUxCQ0Q4bEdaR1YtTE5CbDVpay13aHRQaEROaVZmUTg?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-16T10:21:14.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-16T11:46:44.008Z",
-      "relevant": false,
-      "summary": "Politico item about Abdul El-Sayed's campaign, apparently a missing element in his Senate bid; the headline does not mention Capital One.",
-      "whyItMatters": "No evident link to Capital One or its policy issues.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-16T11:46:44.008Z"
     }
   ]
 }
