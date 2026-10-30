@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-10-30T16:42:38.297Z",
+  "updatedAt": "2026-10-30T22:23:52.203Z",
   "briefing": [
     "No major regulatory, legal, or policy developments involving Capital One appear in today's articles; coverage is limited to low-priority consumer finance and lifestyle items.",
     "CNBC published a series of November 2026 product roundups (travel cards, 0% APR cards, rewards cards, no-annual-fee travel cards, student checking) in which Capital One is likely listed among issuers, though the summaries do not confirm specific placements. (CNBC)",
@@ -1936,23 +1936,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-17T23:07:31.066Z"
-    },
-    {
-      "id": "b00301555761e3af",
-      "title": "Novavax shareholder Shah Capital to step back from activist role",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNVWE1RUEhhUnZ3YXNRbzhyUndqR3Jnc3dKRVBPdUhRNVF3Qm5yN1prTTBMSVdQd1dhVG1hSk1RcUVJNE53V0drT0Rpcl9YRFh1TmJJODFUX21TU28tT1hDVXlHZ1lsUWhWYTBJcHQzQ0N3aUhRYjFZLTZ2UlpTZk15anhnaWh4SkxyMDBsbEt2N1FuMG1xSThuVDc3UkpaLUdFa2lxTDFaN0dDRVMwLTQzVXJGRGN1cE1hZ3RJc3hqOEdBOGNr?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-16T21:28:22.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-17T16:24:25.874Z",
-      "relevant": false,
-      "summary": "Shah Capital, a Novavax shareholder, plans to step back from its activist role at the vaccine maker. The headline does not mention Capital One.",
-      "whyItMatters": "No evident connection to Capital One; 'Shah Capital' is an unrelated firm, so the policy team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-17T16:24:25.874Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-30T16:42:42.219Z",
+  "updatedAt": "2026-10-30T22:23:52.651Z",
   "briefing": [
     "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of an AI bubble for Big Tech, putting AI financial-stability concerns on the congressional agenda. (U.S. House)",
     "Treasury Secretary Bessent downplayed worries about financing of the AI buildout and commented on Fed rate policy, while traders fear AI policy shifts with the midterms days away and the AI industry's bet on Trump faces a changed political climate. (Bloomberg)",
@@ -10,6 +10,40 @@
   ],
   "briefingUpdatedAt": "2026-10-30T16:42:42.219Z",
   "articles": [
+    {
+      "id": "0e26cf21a426ab26",
+      "title": "Why Gridlock Won’t End Economic Risks After the Midterms",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakFybmxJdTFvcTZIUGFPNTF4RjZJRjBiTGQzeXBjTHpRbzV1V3VlWW1VWjhiX2EyM3d4aTh5VzlDT3dmRHBmTEMxaW5WS1pUNDBDa2Q0UWJnM3pKNnJuSzIxYkIxZm5UelJ0RFdFVVVHb3ZCMkNwVDRkMGw5ZjhkaEtDekxNNXJKT3dzSkdkMXpKeWNzdGJEc0VXaFpXYlRfMXFuM3RGRU1jdkZxemx3?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-10-30T20:30:32.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-30T22:23:52.651Z",
+      "relevant": false,
+      "summary": "Bloomberg analysis of why economic risks will persist after the midterms even if Congress ends up divided. The headline gives no sign of an AI policy angle.",
+      "whyItMatters": "General macro and political commentary with no evident AI policy content.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-30T22:23:52.651Z"
+    },
+    {
+      "id": "dec3ca06e515fd0b",
+      "title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-10-30T19:35:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-30T22:23:52.651Z",
+      "relevant": false,
+      "summary": "WSJ reports that global bond yields fell sharply in October as investors moved to safe assets.",
+      "whyItMatters": "Market news with no AI policy or government action angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-30T22:23:52.651Z"
+    },
     {
       "id": "b7a59793882f523d",
       "title": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies; Institutional Eligibility Under the Higher Education Act of 1965, as Amended; Student Assistance General Provisions",
@@ -60,6 +94,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-29T22:46:55.597Z"
+    },
+    {
+      "id": "5eb9e0be15865636",
+      "title": "PHOTO RELEASE: Gottheimer Tours Amazon Facility in Passaic County, Discusses AI and the Future of Innovation",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVBCZTI3dnFuTWNiLUdTdmhxOHFoMk9vS1FhN2t6YVlPUWQzNVQtcjFxa2JsZHMwc1lCSE5rQ3JlUUczV1A4Q2ZwbVBlN0d5b1Z1QUJxaDVESnJ5blNXMFBTTzU5WHZiQTZWOUVXMVpYSDdDX21lTllnV2VCOE1UNVN5YlZlVFVKOC03LW5zX0hNMWZxRGpLT2Q4ekZ5cG1lZU96a2FyQklUbFlOWFl0MFp5a1IzbWNRQmU2OUU0V2FWYXhnUFZrR1ZabGVjdzNkUjQtTTFOaEs?oc=5",
+      "source": "U.S. House",
+      "paywalled": false,
+      "publishedAt": "2026-10-29T20:44:38.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-10-30T22:23:52.651Z",
+      "relevant": true,
+      "summary": "Rep. Josh Gottheimer toured an Amazon facility in Passaic County, NJ, and discussed AI and the future of innovation. This is a photo release, so it is likely light on policy specifics.",
+      "whyItMatters": "It shows a member of Congress engaging on AI, but there is no concrete legislative or regulatory action.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-30T22:23:52.651Z"
     },
     {
       "id": "f57d905c4eeda406",
@@ -2588,23 +2639,6 @@
       "whyItMatters": "Not about AI policy.",
       "priority": "low",
       "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-17T16:24:29.756Z"
-    },
-    {
-      "id": "ca5e43b179e12f1a",
-      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-16T21:45:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-17T16:24:29.756Z",
-      "relevant": true,
-      "summary": "Anthropic is quietly pitching lawmakers on its own AI safety bill, according to Politico.",
-      "whyItMatters": "Industry-drafted AI safety legislation could shape the congressional debate and future compliance obligations.",
-      "priority": "high",
-      "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-17T16:24:29.756Z"
     }
