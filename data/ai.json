@@ -1,14 +1,13 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-30T22:23:52.651Z",
+  "updatedAt": "2026-10-31T17:43:55.415Z",
   "briefing": [
-    "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of an AI bubble for Big Tech, putting AI financial-stability concerns on the congressional agenda. (U.S. House)",
-    "Treasury Secretary Bessent downplayed worries about financing of the AI buildout and commented on Fed rate policy, while traders fear AI policy shifts with the midterms days away and the AI industry's bet on Trump faces a changed political climate. (Bloomberg)",
-    "Top House Democrats are demanding the Trump administration preserve its conversations with xAI's Grok chatbot, and four California Democrats announced a bill to stop data center construction at the Navy's NAVWAR command. (Politico, U.S. House)",
-    "New York enacted a ban on unsafe chatbot behavior toward children, the latest in a wider state push to regulate AI that could shape national policy debates. (The Washington Post, The Hill)",
-    "Canada's biggest banks are moving to limit AI agents citing risk, a signal for financial-sector AI governance, while the U.S. and Finland published an MOU under the Technology Prosperity Deal. (Bloomberg, The White House)"
+    "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of an AI bubble for Big Tech, putting AI-driven financial stability risk on the congressional agenda. (U.S. House)",
+    "Stock and bond traders are worried about how AI policy could shift with the midterm elections days away, a sign markets are pricing in political risk around AI. (Bloomberg)",
+    "Reps. Sara Jacobs, Scott Peters, Mike Levin and Juan Vargas announced a bill to stop data center construction at NAVWAR, the Navy's information warfare command, adding to congressional scrutiny of data center siting. (U.S. House)",
+    "Allies are pushing back on an FCC ban, according to an exclusive in the Post's AI & Tech Brief; the summary gives no detail on what the ban covers. (The Washington Post)"
   ],
-  "briefingUpdatedAt": "2026-10-30T16:42:42.219Z",
+  "briefingUpdatedAt": "2026-10-31T17:43:55.415Z",
   "articles": [
     {
       "id": "0e26cf21a426ab26",
@@ -2624,23 +2623,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-18T16:32:04.945Z"
-    },
-    {
-      "id": "771bdcf1fb455dd6",
-      "title": "Appeals Court Questions Justice Dept. Claim That Trump Owns White House Records",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2ZrNi1zYklUTXNyMFlEaWdZQ2wwR3A2eU93VnNybXBaRGJyanBGSUNlQk5mNkxzbDdYZkZIeV9KbU9OQ0VKbWRVemdONUhuWWx3azY2ZTZkR0gwY05sMDZYVzB3akpEbW52eUJ2Zkp6SnZpZ0k0aXNHeTA3SDFFX056MVZVN3ZHRE5ZWDEyYThkYVlFclZJ?oc=5",
-      "source": "The New York Times",
-      "paywalled": true,
-      "publishedAt": "2026-10-17T01:42:34.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-17T16:24:29.756Z",
-      "relevant": false,
-      "summary": "An appeals court questioned the Justice Department's claim that Trump personally owns White House records.",
-      "whyItMatters": "Not about AI policy.",
-      "priority": "low",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-17T16:24:29.756Z"
     }
   ]
 }
