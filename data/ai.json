@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-10-31T17:43:55.415Z",
+  "updatedAt": "2026-11-01T00:07:52.164Z",
   "briefing": [
     "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of an AI bubble for Big Tech, putting AI-driven financial stability risk on the congressional agenda. (U.S. House)",
     "Stock and bond traders are worried about how AI policy could shift with the midterm elections days away, a sign markets are pricing in political risk around AI. (Bloomberg)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-10-31T17:43:55.415Z",
   "articles": [
+    {
+      "id": "11382e544618fbfd",
+      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObU9qNk5RRXRXdTJ6a21aUkY0Y2NjaFVFLWtpMW9FcVRkOVhTdDNEcWJBRlJHelRjWjdQRGJQcG85WnFaeEZ0OWVpaU1MN2k5R1MzN0tSY0xBdnVQUjJ4UHBZdHYyNHlwTnpFaWZGQW1Hc0laOGR0Q2pyajRnTkx4QUJnYkxfa2VBa1BtZDBDWjNOZzk1eWpUZl8xUDd0TWxSZllXUTFEUkF5Q0xHbkE?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-31T09:00:38.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-01T00:07:52.164Z",
+      "relevant": false,
+      "summary": "NYT piece on how Trump administration actions are affecting federal scientific research funding and institutions. The headline does not indicate a specific AI policy focus.",
+      "whyItMatters": "Only loosely related to AI policy; may touch on research funding but is not evidently about AI governance.",
+      "priority": "low",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-01T00:07:52.164Z"
+    },
     {
       "id": "0e26cf21a426ab26",
       "title": "Why Gridlock Won’t End Economic Risks After the Midterms",
@@ -212,6 +229,23 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-29T16:56:38.207Z"
+    },
+    {
+      "id": "9cbed967b80c6af8",
+      "title": "Regulate AI, but don’t hand the 21st century to China",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObDdFMnA5b1BEWldrOVNqVlh5Q3htWWpXUEdLMGtyblRiakItTTFad3E4aVp1UHhWNW90RzZHeW9ZaDgxdTNQQWJLNXNaekpkVTVwX3Q4RzRXbjJ4ZjZGTEZfTTdTU2M1MHNwRzRmb21paTlwTHFUSFJOQXZFa0p4OHZXSzNEQVRCS3JpSGdCV1fSAZABQVVfeXFMTmw3RTJwOW9QRFpXazlTalZYeUN4bVlqV1BHSzBrcm5UYmpCLU0xWndxOGladVB4VjVvdEc2R3lvWWg4MXUzUEFiSzVzWnpKZFU1cF90OEc0V24yeGY2RkxGX003U1NjNTBzcEc0Zm9taWk5cExxVEhSTkF2RWtKeDh2V0szREFUQktyaUhnQldX?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-29T13:30:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-01T00:07:52.164Z",
+      "relevant": true,
+      "summary": "Opinion piece arguing that AI should be regulated but without ceding technological leadership to China.",
+      "whyItMatters": "Reflects the ongoing federal debate over AI regulation versus competitiveness, but it is commentary rather than concrete action.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-01T00:07:52.164Z"
     },
     {
       "id": "c9599d9a46aa1967",
@@ -2604,23 +2638,6 @@
       "whyItMatters": "This is about sanctions policy, not AI, so it has no bearing on the team's AI policy work.",
       "priority": "low",
       "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-18T16:32:04.945Z"
-    },
-    {
-      "id": "53e803636a8c08ce",
-      "title": "Blackburn on AI Kendrick Lamar clip backlash: It wasn’t ‘intended to offend’",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU29rUzlNeDduN1M3WWhEaXJUcTROb2xMbVlQN0lDQ3oxNGtxSUxHUktvaU1nZHVBLVVTSkYxNXhkSFRLUmxvZU92U21PaDBscllQUnZ4VVFWWlpSaWRIc21YMUZNNTJkeVJsd05BQzBNSmFBSld3d3B4OUN5R3dfdTA5Smo5MWhnSG5ndkY2MGR6b3JmZUdVaEJwaTjSAaIBQVVfeXFMTlh5U3IzcXNocWxXSzNsNm9kcmdIS0hZdkw1VGd0RnJvSVJ2VEFFQnN1NlhNRjVVQTBRdGdlQkRlYmhKZXhVT3dha3dQa2RUekpFdW1GeVpqMUVOVUFyazdUcTYyb1NRYVRTRDJQNXhQUjZKOTJtOHhYY0VhMDlaMmhJd3U4dE1Xd0QyMGVLU2UtT0lXZFdxb1d0WXlaUkJKbWV3?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-17T20:50:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-18T16:32:04.945Z",
-      "relevant": false,
-      "summary": "Sen. Marsha Blackburn responds to backlash over an AI-generated Kendrick Lamar clip, saying it wasn't 'intended to offend.'",
-      "whyItMatters": "It touches on AI-generated content, but the headline suggests a political controversy rather than policy action, so it is only loosely relevant.",
-      "priority": "low",
-      "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-18T16:32:04.945Z"
     }
