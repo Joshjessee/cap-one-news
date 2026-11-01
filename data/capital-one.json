@@ -1,12 +1,13 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-01T00:07:51.669Z",
+  "updatedAt": "2026-11-01T18:26:24.869Z",
   "briefing": [
-    "No major policy, regulatory, legal, or Discover-related developments involving Capital One appear in today's articles; coverage is limited to consumer-finance roundups in which Capital One is likely mentioned only in passing.",
-    "CNBC published a series of November 2026 credit card roundups (cash back, rewards, travel, no-annual-fee travel, 0% APR, instant access, groceries, Amazon shopping) that likely list Capital One cards among many issuers. (CNBC)",
-    "CNBC's November 2026 best student checking accounts roundup likely includes Capital One among the banks listed, a low-priority competitive-positioning mention. (CNBC)"
+    "No major regulatory, legal, or corporate developments involving Capital One appeared in today's coverage; all items are consumer-finance roundups where the company is mentioned in passing, at most.",
+    "CNBC published a cluster of November 2026 product roundups (rewards, travel, 0% APR, no-annual-fee travel, grocery, Amazon shopping, instant access, and secured cards) that likely list Capital One cards among many issuers; the headlines do not confirm placement. (CNBC)",
+    "CNBC also ran a Points Pro cash-back comparison and a student checking accounts roundup that may include Capital One products, with no company-specific news indicated. (CNBC)",
+    "The Wall Street Journal's October 2026 high-yield savings roundup (rates up to 5.00%) was flagged as mentioning Capital One, though the summary does not confirm how it features; it is useful only as a read on competitive deposit-rate positioning. (The Wall Street Journal)"
   ],
-  "briefingUpdatedAt": "2026-10-31T17:43:44.845Z",
+  "briefingUpdatedAt": "2026-11-01T18:26:24.869Z",
   "articles": [
     {
       "id": "8b084bed5c401753",
@@ -42,6 +43,40 @@
       "storyId": "8b084bed5c401753",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-31T17:43:44.845Z"
+    },
+    {
+      "id": "1115639c3e5ae799",
+      "title": "Best High-Yield Savings Accounts of October 2026: Up to 5.00%",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTmNKb25IZHBMZXhRajhqZWgtaldPTEF0bkJ1VjY1SHZ6bDNwVDlkMl9PeDlTWmlPdmFvNUc3ZlhZdkp2U0NBYkhTRE83VFBpZWpKLVhCRFljS3U0a0k5YUFxVzd3aE15ekUxT0RfMzBFT0g2dGhGbzBKVzZ1MFBlc0tqS1pLaWJkdjlMMw?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-01T18:26:24.869Z",
+      "relevant": true,
+      "summary": "A WSJ roundup ranks the best high-yield savings accounts for October 2026, with rates up to 5.00%. The headline does not say whether Capital One is featured, but the article was flagged as mentioning the company.",
+      "whyItMatters": "Consumer deposit rate roundups may list Capital One's savings products, but this is routine comparison content with little policy significance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-01T18:26:24.869Z"
+    },
+    {
+      "id": "27fdac8f5bfb56ca",
+      "title": "Best secured credit cards of November 2026",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nbXdZaThqa19BVFdQcDA4QnBLSGRhREh1ckVVU2lRNWtaeHR0WWxCREk4VEpXRFo5LXRkYjZiMW9OTHRBaGV2VGZlUXpIN0F4OUZpOEM3UHlJZDjSAWBBVV95cUxQM1R6Z2hUeS02dklYWWFGQVZzdkVaY2NOOHFRRVJMeUFabVd2ODZlTW1sa0xXblBLRVUzbkUtODFjcEZNaUw5bjFWNVZDUzdwX0d3bWZNYUNqWi01b2xoQ2s?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-01T18:26:24.869Z",
+      "relevant": true,
+      "summary": "CNBC publishes a roundup of the best secured credit cards for November 2026. Capital One likely appears as one of the issuers listed, though the headline does not confirm it.",
+      "whyItMatters": "Product roundups that include Capital One are passing mentions with little policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-01T18:26:24.869Z"
     },
     {
       "id": "5111e7a6f5f1e485",
@@ -2021,23 +2056,6 @@
       "category": "Business & Earnings",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-19T16:59:53.352Z"
-    },
-    {
-      "id": "52a77ab8c3d8f8b6",
-      "title": "Ryan Leonard sparks depleted Capitals to win over Devils",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2tjZzE2OS10S2FUazhzT2E3aF9ZMUFMTGJKMTM1VEsyb3hVbmdJRS05cHJlTC1VeVJyTl9aOHB1cWo3OUVUNkFSdVRoZmdIYmUzUDBROWt2OGlLOEdOYy1EYWw4V2hUUUNQV045OE1QNlNJTHB1Q0xnYTNfR3V3S05GampQZkdtTjBFNEFiV2RXdnQyZzdZWGQwZ25FTloxWS1abnh3?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-18T06:11:05.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-18T16:32:01.128Z",
-      "relevant": false,
-      "summary": "Sports recap of the Washington Capitals beating the New Jersey Devils, led by Ryan Leonard. It has nothing to do with Capital One the company.",
-      "whyItMatters": "Not related to Capital One or policy; no need to read.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-18T16:32:01.128Z"
     }
   ]
 }

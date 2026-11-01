@@ -1,14 +1,49 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-01T00:07:52.164Z",
+  "updatedAt": "2026-11-01T18:26:33.181Z",
   "briefing": [
-    "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of an AI bubble for Big Tech, putting AI-driven financial stability risk on the congressional agenda. (U.S. House)",
-    "Stock and bond traders are worried about how AI policy could shift with the midterm elections days away, a sign markets are pricing in political risk around AI. (Bloomberg)",
-    "Reps. Sara Jacobs, Scott Peters, Mike Levin and Juan Vargas announced a bill to stop data center construction at NAVWAR, the Navy's information warfare command, adding to congressional scrutiny of data center siting. (U.S. House)",
-    "Allies are pushing back on an FCC ban, according to an exclusive in the Post's AI & Tech Brief; the summary gives no detail on what the ban covers. (The Washington Post)"
+    "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of an AI bubble for Big Tech, a direct financial-stability and AI marker for the policy debate. (U.S. House)",
+    "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register, requiring notification of and prohibiting certain US-person transactions with foreign entities in notifiable technologies. (Federal Register)",
+    "With midterms days away, AI policy is weighing on stock and bond traders, and Bloomberg reports the AI industry's bet on the Trump administration is colliding with a changed political environment. Treasury Secretary Bessent also played down concerns over AI financing. (Bloomberg)",
+    "New York enacted a ban on 'unsafe' chatbot behavior toward children, underscoring states pushing AI regulation boundaries; separately, top House Democrats demanded the administration preserve its conversations with xAI's Grok. (The Washington Post, The Hill, Politico)",
+    "Canada's biggest banks are moving to limit AI agents citing risk, while the White House published a US-Finland Technology Prosperity Deal memorandum of understanding. (Bloomberg, The White House)"
   ],
-  "briefingUpdatedAt": "2026-10-31T17:43:55.415Z",
+  "briefingUpdatedAt": "2026-11-01T18:26:33.181Z",
   "articles": [
+    {
+      "id": "5d4405ee2c0afad8",
+      "title": "New hacking threat has election officials scrambling weeks before the midterms",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmFuOFFWakYtSkotbHp0bDBTQTdOY1FVWktwcGVpcjZzblJKenZPZmRxTWdVTS05UnNES1h1VXVUVFVGcjNIQ3hRWlBwMG0zQ2JFUmw1dllOX0hEMm1nZUc4YktkVUpWdkpxaGVsTHdHazBpRjZRazd1Nk9PaG42d2VnVWJsTTNKemlqR2VyOHdFQTdZX0NNMlZxOWEtSWZSUkxqRWFBUDVySHB2MS1GY0xzc2FxQXc?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-10-31T16:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-01T18:26:33.181Z",
+      "relevant": false,
+      "summary": "The Washington Post reports on a new hacking threat that has election officials scrambling in the weeks before the midterms. The headline does not say whether AI is involved.",
+      "whyItMatters": "It is election security news with no evident AI policy or financial services angle, so it is of limited use to this team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-01T18:26:33.181Z"
+    },
+    {
+      "id": "7b34527cab799a31",
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-31T11:00:01.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-01T18:26:33.181Z",
+      "relevant": false,
+      "summary": "CNBC reports that Anthropic's route to a Nasdaq listing has become more difficult. The headline gives no detail on the cause.",
+      "whyItMatters": "This looks like a business and IPO story, with no evident government action on AI.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-01T18:26:33.181Z"
+    },
     {
       "id": "11382e544618fbfd",
       "title": "How Trump Is Dismantling America’s Scientific Research Machine",
@@ -112,6 +147,23 @@
       "analyzedAt": "2026-10-29T22:46:55.597Z"
     },
     {
+      "id": "693c65fe3a37983e",
+      "title": "Finnish police launch criminal probe over forest cleared for Google data center",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdlJDM0dmYWNfUUhOS2xTNjRZMlFHbzlOVnRsWXluVVFuMXFqSE51ZnFjckFhdXZNTzZsLUtqbnVTeWRLVFhuaHhnOEJBWDljLUNJYXFHdnJubDhjT0tTWWdaR3lJQ2M4VXlud0tvT1g5ZE1ZOC1yRGc2Rll6bkE2QlJWaE9xWWVXRUF2N2dZMi3SAZYBQVVfeXFMTUw1RHhNSlNRcEtFZTJlZEVaSGlSTWZLU2ZZWG1iaVhWRFU5R0E1SEpIRExTNXl3U2ZjSnJyWVVqN1U4djI3TXdSZEFzY1drc2xnMmdHYW1qaTA5cFNLM0hGdXJ6ZFZaSkZIQlpqdzJQVWpGTmpETTBsU2ZIZDVJQlg3S2xVNHYzWkh1dTN5RXdwY09TWUpn?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-10-29T21:25:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-01T18:26:33.181Z",
+      "relevant": false,
+      "summary": "Finnish police have opened a criminal investigation over forest that was cleared for a Google data center.",
+      "whyItMatters": "This is a foreign environmental and legal matter with no U.S. federal AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-01T18:26:33.181Z"
+    },
+    {
       "id": "5eb9e0be15865636",
       "title": "PHOTO RELEASE: Gottheimer Tours Amazon Facility in Passaic County, Discusses AI and the Future of Innovation",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVBCZTI3dnFuTWNiLUdTdmhxOHFoMk9vS1FhN2t6YVlPUWQzNVQtcjFxa2JsZHMwc1lCSE5rQ3JlUUczV1A4Q2ZwbVBlN0d5b1Z1QUJxaDVESnJ5blNXMFBTTzU5WHZiQTZWOUVXMVpYSDdDX21lTllnV2VCOE1UNVN5YlZlVFVKOC03LW5zX0hNMWZxRGpLT2Q4ekZ5cG1lZU96a2FyQklUbFlOWFl0MFp5a1IzbWNRQmU2OUU0V2FWYXhnUFZrR1ZabGVjdzNkUjQtTTFOaEs?oc=5",
@@ -161,6 +213,24 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-29T22:46:55.597Z"
+    },
+    {
+      "id": "00461fdc0f898bd7",
+      "title": "Reps. Casar, Waters Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech, Commit to Protecting American People Instead",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbUxZTHRJbTVoc3NlWmZiMXdURXhicjVLRkdtZjJBYk9IM3YxdXpWbWdjcXpyY0JxQ1RtRldIOUhTeGs2TDZ2b0dHWnhvQ085TGhzRFYxbzdSeW5LZVpuQnJMNGl2ZkpSUVVtQklNaFl2MDRLeWZXemlhRlVtMGdvdw?oc=5",
+      "source": "U.S. House",
+      "paywalled": false,
+      "publishedAt": "2026-10-29T17:50:13.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-01T18:26:33.181Z",
+      "relevant": true,
+      "summary": "Reps. Casar and Waters lead a Democratic resolution opposing a bailout of Big Tech in the event of an AI bubble. The release comes from the House.",
+      "whyItMatters": "It signals Democratic positioning on AI industry risk and federal financial backstops, which touches financial services and market stability.",
+      "priority": "medium",
+      "category": "Congress",
+      "storyId": "f57d905c4eeda406",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-01T18:26:33.181Z"
     },
     {
       "id": "fb1f4da0f4cf9fd1",
@@ -2606,40 +2676,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-18T23:11:32.193Z"
-    },
-    {
-      "id": "b6d9e09a1daedaa2",
-      "title": "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHh4WEpvaFZhS190WUx0UXpRMU0xRC0xYklsYW8wLTZuTnZMdE56TDkwWjF1S1VFYWN3Q0V6SFI3dlRreEYzMzEzZDNCc1FqbVlrcVMwcVFoeEs1WkYxQkRFdXRrbDBPb2lzMWp0a1ZhVTFIOU10MHFnbG5vcHZIZlZTaktNRzFB0gGIAUFVX3lxTE44eHhYSm9oVmFLX3RZTHRRelExTTFELTFiSWxhbzAtNm5Odkx0TnpMOTBaMXVLVUVhY3dDRXpIUjd2VGt4RjMzMTNkM0JzUWptWWtxUzBxUWh4SzVaRjFCREV1dGtsME9vaXMxanRrVmFVMUg5TXQwcWdsbm9wdkhmVlNqS01HMUE?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-18T10:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-18T23:11:32.193Z",
-      "relevant": false,
-      "summary": "Republicans warn that Pentagon funding will depend on Trump taking a tougher line on Russia.",
-      "whyItMatters": "It is about defense and foreign policy, not AI policy, so it needs no attention from this team.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-18T23:11:32.193Z"
-    },
-    {
-      "id": "7d48dd74e0a6592b",
-      "title": "Sen. Graham on Trump waiving Russia sanctions: ‘I look forward to talking to him’",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYnA5ejQwSUVIWkVtS0JEaThKQ2hZbnVDWlV2TDR2b0NMSjlFclNDdnh4dnBKdUQwcmg5WUFNWXM3UDlCYzdKQTVLRncySndEQmJVWkMtWjVYVlljd0RtS2dVcmg4QmFNRjZBMnBvbHZhdkZoXzAxMDg3SHdPMEt4Q1B5di1xd1doV0xiYXZZQXPSAZYBQVVfeXFMT1gxMWgzN3Q5RVZ1MDFwSlBJenJUR3R1X2hjbDlNWWVfcHBmZnNwcDk1RXVZdUpScjgyZG5yTGVGTDVSRG5ReXMzUWppdG1mdmhMb21Kd0R2MlVDU19KQzlkMGRKdHdmeWpqV2N4WUVyNGJsTlVzbWd6aEFTUGxIb1ZJb3hmYTRCejh0Zmt0SjBrb19GMURR?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-18T00:18:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-18T16:32:04.945Z",
-      "relevant": false,
-      "summary": "Sen. Lindsey Graham comments on President Trump waiving Russia sanctions and says he looks forward to talking to him.",
-      "whyItMatters": "This is about sanctions policy, not AI, so it has no bearing on the team's AI policy work.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-18T16:32:04.945Z"
     }
   ]
 }
