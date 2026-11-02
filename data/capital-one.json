@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-01T18:26:24.869Z",
+  "updatedAt": "2026-11-02T00:45:05.863Z",
   "briefing": [
     "No major regulatory, legal, or corporate developments involving Capital One appeared in today's coverage; all items are consumer-finance roundups where the company is mentioned in passing, at most.",
     "CNBC published a cluster of November 2026 product roundups (rewards, travel, 0% APR, no-annual-fee travel, grocery, Amazon shopping, instant access, and secured cards) that likely list Capital One cards among many issuers; the headlines do not confirm placement. (CNBC)",
@@ -9,6 +9,41 @@
   ],
   "briefingUpdatedAt": "2026-11-01T18:26:24.869Z",
   "articles": [
+    {
+      "id": "d6f77c36e6f95e45",
+      "title": "In Capitals’ 5-1 loss to Wild, early deficit and late penalties prove too much",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXlrOGpiVkhuQjd0Z000V21EdFN1aTkwSWxGMWtwdERZS0Z6VVR2d3owbzBkdUo5ZW1kc3o1NTJHc2lFVS1SZmM5T2l3Mm9yeU5xRHZMaEUtTEFEUzVtWGJrYmNOLTlLcERGMGhYNUU2R1pvbkJ2MGR4aGx5dE4wanY3NnIzbmw5b2pZa19oWTFlLThrcmxDQ3diZGxjMm4tLUFGT2VVaUZQOFhYUnZtVGMtTk5DUjg?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-02T00:39:15.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-02T00:45:05.863Z",
+      "relevant": false,
+      "summary": "Game recap of the Washington Capitals' 5-1 loss to the Minnesota Wild, driven by an early deficit and late penalties.",
+      "whyItMatters": "Sports story with no evident connection to Capital One as a company; not relevant to the policy team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-02T00:45:05.863Z"
+    },
+    {
+      "id": "3e0ec530ff0561f7",
+      "title": "Wild's fast start snaps Capitals' streak",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTR6a3lERFB3NmhlR1BmT2Q0eUswOTRiN3Vfek5MeUczZ2lRNkZvLXM3RGxqbDNPZU5PSUVEZWktOFRFbUNDYmxqcWZhd3k4WWdCaklNbHRLOGVRX0tkbDI5Z1dXMFJCeDVpV0NYSDlBOGo3cnZqbWlvN2dtSE5NckRjYS11R01nOXdvdWRIcnd3VEta?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-01T23:36:52.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-02T00:45:05.863Z",
+      "relevant": false,
+      "summary": "Reuters recap of the Minnesota Wild's fast start ending the Washington Capitals' winning streak.",
+      "whyItMatters": "Sports story with no evident connection to Capital One as a company; not relevant to the policy team.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "d6f77c36e6f95e45",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-02T00:45:05.863Z"
+    },
     {
       "id": "8b084bed5c401753",
       "title": "Second-half outburst fuels Wizards’ win over Hornets in AJ Dybantsa’s home debut",

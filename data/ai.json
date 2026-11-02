@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-01T18:26:33.181Z",
+  "updatedAt": "2026-11-02T00:45:09.769Z",
   "briefing": [
-    "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of an AI bubble for Big Tech, a direct financial-stability and AI marker for the policy debate. (U.S. House)",
-    "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register, requiring notification of and prohibiting certain US-person transactions with foreign entities in notifiable technologies. (Federal Register)",
-    "With midterms days away, AI policy is weighing on stock and bond traders, and Bloomberg reports the AI industry's bet on the Trump administration is colliding with a changed political environment. Treasury Secretary Bessent also played down concerns over AI financing. (Bloomberg)",
-    "New York enacted a ban on 'unsafe' chatbot behavior toward children, underscoring states pushing AI regulation boundaries; separately, top House Democrats demanded the administration preserve its conversations with xAI's Grok. (The Washington Post, The Hill, Politico)",
-    "Canada's biggest banks are moving to limit AI agents citing risk, while the White House published a US-Finland Technology Prosperity Deal memorandum of understanding. (Bloomberg, The White House)"
+    "House Financial Services Ranking Member Maxine Waters and CPC Chair Greg Casar are leading a Democratic resolution opposing a federal bailout of Big Tech in the event of an AI bubble. (U.S. House)",
+    "Treasury's proposed rule implementing the Comprehensive Outbound Investment National Security Act was published in the Federal Register; it would require notification of, and prohibit, certain U.S.-person transactions with foreign entities in notifiable technologies. (Federal Register)",
+    "With the midterms days away, stock and bond traders are worried about AI policy shifts, and the AI industry's bet on the Trump administration is colliding with a changed political climate. Treasury Secretary Bessent played down concerns over AI financing and Fed rate policy. (Bloomberg)",
+    "New York enacted a ban on 'unsafe' chatbot behavior toward children, part of a broader state push on AI regulation. Separately, top House Democrats demanded the administration preserve its conversations with xAI's Grok. (The Washington Post, The Hill, Politico)",
+    "Canada's biggest banks are moving to limit AI agents, citing risk, a signal for financial-sector AI governance. Meanwhile, Anthropic is warning investors of political and regulatory risks ahead of its IPO. (Bloomberg, Politico)"
   ],
-  "briefingUpdatedAt": "2026-11-01T18:26:33.181Z",
+  "briefingUpdatedAt": "2026-11-02T00:45:09.769Z",
   "articles": [
     {
       "id": "5d4405ee2c0afad8",
@@ -79,6 +79,23 @@
       "analyzedAt": "2026-10-30T22:23:52.651Z"
     },
     {
+      "id": "dfee853b64ec50e5",
+      "title": "National Security Daily",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0waEJWaVFjWFpkUGVsVU1BYlpaYU5WdXBaZERDS3hQSjJNTy1GX0paQlVDTl9rY0tBNzNoX2lFb3BQbW5FMGhLcnVNcnZQMlM5V29KVjVsS2hIZFR5VUlUTldsNGhkakJxeExkQw?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-10-30T20:13:58.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-02T00:45:09.769Z",
+      "relevant": false,
+      "summary": "A Politico National Security Daily newsletter; the headline gives no indication of a specific AI policy topic.",
+      "whyItMatters": "Nothing in the headline points to AI policy, so it likely isn't worth the team's time.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-02T00:45:09.769Z"
+    },
+    {
       "id": "dec3ca06e515fd0b",
       "title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
@@ -113,6 +130,23 @@
       "analyzedAt": "2026-10-30T11:45:59.771Z"
     },
     {
+      "id": "058acc118e9703ed",
+      "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXZlRGxMZ3BzTFB6M2kxdWMtZDNTQUZqRmRSRTVUTnN5OUxycXdjSFNveEEwR3ZNVnFqZzlsVWhQbVB6emVRT29mUEhyd0g1am1zb1VGTTFGeXItRklfUVphc19JcTlsVFNWWmxhaHQzcUQxMkRXUFNNMW9ObFhFbER3VUg5UmxZSWthbUo4MVF2akIxcUQwZWNXUEoxU1IxSnVkNm5B0gGrAUFVX3lxTE1OR0kySFBiZEQ4eTZPTDR2MEpmMXlVbmVqVVFGbWpBTXBWM252d2wtWFRBYUE3M3dvWHloWHF5bU9penBtQkVkYXVFaTRSb0dtaTdQSTEzT2dtcUJyaktfYk55VU5aT0VSVFRSYlZVWF9oLU5yUDFfb1ZoUW0yVXk1elpWQnU2NTR0Y2E2MnBQWTFjYlN1cERNOUdiQU9Gc0thdkpMYWFMOWlRYw?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-10-30T11:30:01.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-02T00:45:09.769Z",
+      "relevant": true,
+      "summary": "On earnings calls, Musk and Zuckerberg echoed Trump's push to rebrand AI as 'super intelligence', while other executives did not.",
+      "whyItMatters": "It shows how Administration messaging on AI is shaping industry framing, which is useful context for policy positioning.",
+      "priority": "low",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-02T00:45:09.769Z"
+    },
+    {
       "id": "873ceb6039e8db22",
       "title": "AI Policy Fears Grip Stock, Bond Traders With Midterms Days Away",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUxSTTRqdWlyN1Z1RVpic1NTbk5mN0M4Z1R2dG41QWY1Sm44ZGZfVVhhREdQelRic051VnFrMVdJNkV1NFkyTFY1WjNrN3RuWm1YVzFKV2hMYlFqN0RZX2lCOURtV0xuamlNNmFiNkdsRHQ3ZDh5bVpDelRueVVUT1d4MEdxYkVuekF6c0pVbTU2dG9fVlJ3SUtuVXh5LUt6WG8xN25HMWktWGd2RTlxeVFJXzU?oc=5",
@@ -128,6 +162,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-30T16:42:42.219Z"
+    },
+    {
+      "id": "a448e67e732cd246",
+      "title": "Trump’s Vision for A.I. Dominance Comes With Major Air Pollution",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQem5tczhQSXlXWkQyRU1XaTYyUmRaUElYZzlCbmtXRGI4WVgySklmZ2ctQ0s1UWJ2N1MzTU1xX1phbVdlTDIxM2NmcDVvdWpCT0EwcXFvZDlJMjJhdDBZaUpBODg4RnlnMWc3NWZaYXJYWi10VmhiNlU4MXVadlNXZmVZcHFXY3FQb1FHdjl0QQ?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-02T00:45:09.769Z",
+      "relevant": true,
+      "summary": "The NYT reports that Trump's drive for AI dominance, including data center and power buildout, comes with significant air pollution.",
+      "whyItMatters": "Environmental and energy impacts of AI infrastructure could prompt regulatory and political pushback affecting federal AI policy.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-02T00:45:09.769Z"
     },
     {
       "id": "3f29f83ad8c107ea",
@@ -2625,57 +2676,6 @@
       "storyId": "82068230885fce6d",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-19T11:46:26.245Z"
-    },
-    {
-      "id": "afb56022ad078d12",
-      "title": "Donald Trump’s AI enforcer",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcmJMRTdlSUE4TjJ2R2NpV2YxZnZUNjg0YlFYVTZNM290YWR6ZUd5bzR0alV1eUVIV2txSHBHMml2SXBWNXZsYnVyNlN6UXpUUDk5UEtvdllyVDRtQmtEcXdSSW4?oc=5",
-      "source": "Punchbowl News",
-      "paywalled": true,
-      "publishedAt": "2026-10-18T22:11:49.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-18T23:11:32.193Z",
-      "relevant": true,
-      "summary": "Punchbowl profiles a figure described as Donald Trump's 'AI enforcer,' evidently an official driving the administration's AI policy agenda. Only the headline is available, so details are unclear.",
-      "whyItMatters": "Key Administration personnel shape how federal AI policy is carried out and enforced, which affects regulated industries including financial services.",
-      "priority": "medium",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-18T23:11:32.193Z"
-    },
-    {
-      "id": "59f1c7e30572921d",
-      "title": "How to fight the AI machine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcjJxOU1JdnExUlZSMXRxY0pxWENrMXNtemNCeV9QQUtDM2xOQjN4WXc2S0pmdXh0Q2VDVzRHYWRoYzlpa3k4VFV2MGVRdThES3lnRnltWkVjWEpxdG1USUhzcHNESzZFczhrMDdNQTFVRnpvUnAzYlM3VXQwRnpUSGJxN1pwTjZWTndEd2ZKZUNTclZ1TnB3Ng?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-18T21:15:15.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-18T23:11:32.193Z",
-      "relevant": true,
-      "summary": "Politico piece on how to push back against the AI industry, evidently covering political or policy strategies for confronting AI companies' influence. Only the headline is available.",
-      "whyItMatters": "It may signal where political pressure on AI regulation is building, though it appears to be commentary.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-18T23:11:32.193Z"
-    },
-    {
-      "id": "267c17df24d52693",
-      "title": "Obama Defends Rep. Ilhan Omar Amid Trump Administration Inquiry",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXhrNXpuZVVkekMzclNVR0tYbk1QcGVhWnB0cmNyckZmMldybDR6TFFKLXBsSGFmWk8xN0k3Ml95SlhuaHZSRlJoWGFNRUJiYk9lUnRJbGhHeVNwdlZrbm15bzNhaEx5V25TbEhHOVVjeWpoQ285OFRWZjNlME5Pam5LRkNuUW1IV3l1QlBJbm1ybFJsaU5qZnk3azRsNkpVd1E?oc=5",
-      "source": "The New York Times",
-      "paywalled": true,
-      "publishedAt": "2026-10-18T18:34:21.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-18T23:11:32.193Z",
-      "relevant": false,
-      "summary": "Obama defends Rep. Ilhan Omar amid a Trump administration inquiry.",
-      "whyItMatters": "It has no apparent connection to AI policy or financial services.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-18T23:11:32.193Z"
     }
   ]
 }
