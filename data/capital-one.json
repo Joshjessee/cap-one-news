@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-02T00:45:05.863Z",
+  "updatedAt": "2026-11-02T12:53:25.289Z",
   "briefing": [
     "No major regulatory, legal, or corporate developments involving Capital One appeared in today's coverage; all items are consumer-finance roundups where the company is mentioned in passing, at most.",
     "CNBC published a cluster of November 2026 product roundups (rewards, travel, 0% APR, no-annual-fee travel, grocery, Amazon shopping, instant access, and secured cards) that likely list Capital One cards among many issuers; the headlines do not confirm placement. (CNBC)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-11-01T18:26:24.869Z",
   "articles": [
+    {
+      "id": "dc074309fa041fe1",
+      "title": "NHL roundup: Connor McDavid's historic night leads Oilers past Rangers",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTl9ZdGplSTI2RmVZMGVCdDBkUm5lTGJIZEZWaWlOUlpwdnBEQ2JtV2Z6SzRGNXExTkxSdTBNYlBCMTkzTjg1cEVITV9WZzFMaHQtbDRzWC1laWNwSXZpR3JPTF8zWTBBSTFqSV9NbUdzLUtLcWtLQjEzUnpNdTNRUWFiOXRzZ09mS3lBb1VENFRaTHF5TlRYVXc3UmpOTFVZNkRwSnJ6QjgwTjA2ZXZ3dHB4NTlfXzA?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-02T06:14:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-02T12:53:25.289Z",
+      "relevant": false,
+      "summary": "A Reuters sports roundup about Connor McDavid's standout performance leading the Oilers over the Rangers. The headline gives no indication that Capital One is involved.",
+      "whyItMatters": "This is a sports story with no evident connection to Capital One or policy, so the team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-02T12:53:25.289Z"
+    },
     {
       "id": "d6f77c36e6f95e45",
       "title": "In Capitals’ 5-1 loss to Wild, early deficit and late penalties prove too much",
