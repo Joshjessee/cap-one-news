@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-03T03:29:36.187Z",
+  "updatedAt": "2026-11-03T12:47:15.039Z",
   "briefing": [
     "White House NEC Director Kevin Hassett dismissed concerns about how the AI buildout is being financed, a notable official statement on AI investment risk that could shape the Administration's economic framing. (Bloomberg)",
     "CNBC examines how the midterm election outcome could affect sectors including AI, defense, healthcare and crypto, which is relevant for gauging the future congressional direction on AI and financial policy. (CNBC)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-11-03T03:29:36.187Z",
   "articles": [
+    {
+      "id": "e565f49ced58bb3c",
+      "title": "Streamlining Contested Adjudications in Licensing Proceedings",
+      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
+      "source": "Federal Register",
+      "paywalled": false,
+      "publishedAt": "2026-11-03T16:00:00.000Z",
+      "snippet": "Rule — Nuclear Regulatory Commission — The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of the Nuclear Regulatory Commission.",
+      "firstSeenAt": "2026-11-03T12:47:15.039Z",
+      "relevant": false,
+      "summary": "The Nuclear Regulatory Commission is revising its rules of practice to streamline contested adjudications in licensing proceedings, implementing the ADVANCE Act and Executive Order 14300 on NRC reform.",
+      "whyItMatters": "This is nuclear licensing procedure with no stated AI policy or financial services angle, so the team needn't prioritize it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-03T12:47:15.039Z"
+    },
     {
       "id": "479863395657a8ea",
       "title": "Judge dismisses Trump administration lawsuit against Harvard on admissions",
@@ -2551,58 +2568,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-20T20:00:47.368Z"
-    },
-    {
-      "id": "9f3522477f0690f3",
-      "title": "Governments, regulators increase scrutiny of China's DeepSeek",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVhkM1J5N0IzOXhOUDREMjd2N3J4eHJaNUREaWhaSWhISlNxMnBmWDZRXzYtczB3ME1xT0N2Z0hxWEdHU1MtSDdjVXBTMlBYdmd4NmFNNk9GRl9McmE3c2lQaFFoSG9KbEtiUnp0MGlqbVlOekpva3BUalZZUDgxc21KeGhCaFNGckszZ2k1anR4d2NQNmhwaklreTh3cHpwM3B5VQ?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-20T11:44:56.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-20T15:07:53.859Z",
-      "relevant": true,
-      "summary": "Reuters reports that governments and regulators are stepping up scrutiny of China's DeepSeek AI. This fits with the U.S. move to exclude DeepSeek products from federal civilian agency systems.",
-      "whyItMatters": "Restrictions on Chinese AI vendors can affect third-party risk and vendor choices for regulated firms.",
-      "priority": "medium",
-      "category": "Administration",
-      "storyId": "fdde44cb77dc3421",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-20T15:07:53.859Z"
-    },
-    {
-      "id": "fc8461f6e28fa9f2",
-      "title": "A key climate report was scrapped under Trump. Scientists plowed ahead with the research.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY09MNVJJU1VPM1cyY1hGdERMRDd6V2o5dWtCUkgyQmJNQU5YRG5WY3ZGSEozcWVjRTdWUTV5ZGVOdndvWHJGTkhJUUlKeWxNa0Q3Vnlacm04bjViR05ZYk1KWVJ4LUtWendHMHF0SkFrRmpyMzJzWGYtYXJFSlNUZ1lXeUNKTXkwNmRoRkdzVFplVF9JNW1CQTk5RUgxb2NVWVNDRzhQYnBDVWRrZzl5U3FET2FxMTE0NVcwRzFKU3Q2V0gxSjBmQ0VZVGNNN2RIeGdWMnlLZ0Nrc2tleGVNSVJSczc?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-20T10:33:04.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-20T11:46:51.295Z",
-      "relevant": false,
-      "summary": "Scientists continued climate report research after the Trump administration scrapped the report.",
-      "whyItMatters": "It is not about AI policy.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-20T11:46:51.295Z"
-    },
-    {
-      "id": "bbac2f10112f1bfa",
-      "title": "AI & Tech Brief: Anthropic’s leaked bill",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3ZSeFlQcXJNaWYwT0RBeGN4WVhTWjRma2FRdHhzSlFRNmFZRnNOYzBSbDd3eE95ZFNqTkx1OEV0dkFXTXJCWFZsSEV4NHlLTjE4eU5rVDdzN0pfMnNWcFNmWk5jb0xnWHFyRUFZc1lsUFVUa2x6LVFjb214Ul9zU0dvQkh5emJZRWozVVFqNXU5SWN4dzBuZWc5Rm9JYURtMEV2ZE5qTzhDQ1Jlemc?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-20T05:48:47.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-20T11:46:51.295Z",
-      "relevant": true,
-      "summary": "The Washington Post's AI & Tech Brief covers a leaked Anthropic bill, evidently draft AI legislation tied to the company.",
-      "whyItMatters": "It suggests industry-drafted federal AI legislation is circulating in Congress, which is worth monitoring.",
-      "priority": "medium",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-20T11:46:51.295Z"
     }
   ]
 }
