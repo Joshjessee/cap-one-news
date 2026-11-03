@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-03T12:47:05.339Z",
+  "updatedAt": "2026-11-03T17:52:29.826Z",
   "briefing": [
     "No major regulatory, legal, or corporate developments involving Capital One appeared in today's coverage; all articles are low-priority consumer-finance roundups that appear to mention the company only in passing.",
     "CNBC ran a cluster of November 2026 credit card roundups (rewards, travel, no-annual-fee travel, 0% APR, instant access, groceries, Amazon shopping, and cash back via CNBC Points Pro) in which Capital One cards are likely among the issuers listed, though none of the summaries confirm it. (CNBC)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-11-02T20:23:57.571Z",
   "articles": [
+    {
+      "id": "023301e66b5f3bf9",
+      "title": "Nadal opens up on fatherhood, playing Vegas and possible exhibition with Federer in AP interview",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUxEMFZBN2pkTVd3VWswbUZWcm5NUGhwUm5tVWEzNlVTY3AtVGN1M3RYM2ZhQ2ZXeGtCN3NvNW1VTGxSNE9HYmhlZ2ZsczczQ25GaG9tVThkQTA2cFFuV2RhQmFaT0czOUdLWTctblRDUkhpaGFhX2s1NjU2ZXgtMUFWSlJ2NGw0dDlyWUtJVE5peHF4WXZkV3ctLTQ2TEM1OEpmVHdZS01KejBUMlhkR0FTS3cwR1RRMzgwdm1JSXVXY0d5MlN4a2phWHoyazByamtZ?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-03T14:58:10.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-03T17:52:29.826Z",
+      "relevant": false,
+      "summary": "An AP interview in which Rafael Nadal discusses fatherhood, playing in Las Vegas and a possible exhibition match with Roger Federer. The headline gives no sign that Capital One is involved.",
+      "whyItMatters": "It is a sports story with no evident connection to Capital One, so the policy team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-03T17:52:29.826Z"
+    },
     {
       "id": "80f2e806c4916071",
       "title": "Trump's sweeping makeover of the White House and Washington",
@@ -1973,57 +1990,6 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-20T20:00:38.382Z"
-    },
-    {
-      "id": "42705fe31bb0ed7f",
-      "title": "Catch up quickly: Election meddling; Ann Hornaday; Elizabeth Holmes",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNei1waGRodHJHcWtEbjRfRVdxbS0xTFZYTlZzZ002Q2EtTjd2WXhvYWx5NTlhb1J1SXVvM2Z0cE5ITDA2R0JHMXJMS1RJeEZkQXliRWVJdnhDSXVEZldYMGo1UVJtOTVka0lUc0hfd3o0d0FocnFjODdzM2pBb251Y1EwNDkzTkc5M1lndmln?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-20T17:15:01.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-21T20:11:42.753Z",
-      "relevant": false,
-      "summary": "News digest on election meddling and other topics.",
-      "whyItMatters": "No evident Capital One connection.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-21T20:11:42.753Z"
-    },
-    {
-      "id": "f08bdb677e171a6d",
-      "title": "Old-school fullback position gets modern makeover for the few NFL teams that use it",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONUFFX2JJTXlIczFwV1JvVUtRd2docXZ2cnR1LTFrYU1GTERXUjBNamRabzcxMDNDZVQza3gwQnRkVFNHYXZtTWw5dlBwTmhkUE02V2NRWGFtX2tUMW9EMnV6ZDIwWjluLXQ0MkxWNFhaODl4Vld6bXRZVmpMSGlRdUU0VWxDYzZ2OE9tSExCd0NiVWxIT3lFaUNTbFZSWU11U1RHZElSWUVXdHhTVmNybWhCaFZoelk2cWhJVmJKVVN2YlRoeFFuRW5FMno?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-20T17:02:54.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-21T23:22:47.211Z",
-      "relevant": false,
-      "summary": "Feature on the modern NFL fullback position.",
-      "whyItMatters": "Sports news with no evident Capital One link.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-21T23:22:47.211Z"
-    },
-    {
-      "id": "75f2bfcdd0de9084",
-      "title": "Wizards fans have endured plenty of misery. They’re ready for a ‘new beginning.’",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0lxY21sbk5GMi01OGlraUUwdjl1bzdJY2ZtT1JTYjdQaG9nSEhmSzdkMXhBMnVPSkp3MDU0VVAtU1I3bWpZT0N4d1Y3Q08zV21maHl3VEdhNWZaU1ptN3NMa1Z4aVhYaENEbmEyUEpwSVZyN2M1bmJENlQ2elp6YzVQLWdJaXBnODM0bkwyZ3pFMFJib200Yks1czFWSFNTcFNmUXhvZEJaYTQ?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-20T14:32:20.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-20T15:07:50.107Z",
-      "relevant": false,
-      "summary": "A Washington Post sports story about Wizards fans and hopes for a fresh start to the team's season. Capital One is not evidently a subject; any mention is likely just the arena name.",
-      "whyItMatters": "It has no apparent connection to Capital One's business or policy issues, so the team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-20T15:07:50.107Z"
     }
   ]
 }

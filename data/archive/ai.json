@@ -2,6 +2,23 @@
   "topic": "ai",
   "articles": [
     {
+      "id": "fdde44cb77dc3421",
+      "title": "Notice of Order Regarding Exclusion and Removal of DeepSeek Products From Federal Civilian Executive Branch Information Technology Systems and Procurements",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive",
+      "source": "Federal Register",
+      "paywalled": false,
+      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "snippet": "Notice — Homeland Security Department — The Department of Homeland Security is publishing notice of the Secretary of Homeland Security's issuance of an order (1) excluding information technology products and services developed by Hangzhou DeepSeek Artificial Intelligence Co., Ltd (DeepSeek), to include affiliated entities as defined in applicable regulations, from federal civilian agency procurements; and, (2) removing all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations, from civilian agency information technology.",
+      "firstSeenAt": "2026-10-20T11:46:51.295Z",
+      "relevant": true,
+      "summary": "DHS published notice of the Secretary's order excluding DeepSeek and affiliate products from federal civilian agency procurements and requiring their removal from civilian agency IT systems, including third-party products built using DeepSeek.",
+      "whyItMatters": "It is a concrete federal action on foreign AI vendors and supply chain risk that could affect vendor and third-party due diligence.",
+      "priority": "high",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-10-20T11:46:51.295Z"
+    },
+    {
       "id": "9f3522477f0690f3",
       "title": "Governments, regulators increase scrutiny of China's DeepSeek",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVhkM1J5N0IzOXhOUDREMjd2N3J4eHJaNUREaWhaSWhISlNxMnBmWDZRXzYtczB3ME1xT0N2Z0hxWEdHU1MtSDdjVXBTMlBYdmd4NmFNNk9GRl9McmE3c2lQaFFoSG9KbEtiUnp0MGlqbVlOekpva3BUalZZUDgxc21KeGhCaFNGckszZ2k1anR4d2NQNmhwaklreTh3cHpwM3B5VQ?oc=5",
