@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-02T20:23:57.571Z",
+  "updatedAt": "2026-11-03T03:29:35.735Z",
   "briefing": [
     "No major regulatory, legal, or corporate developments involving Capital One appeared in today's coverage; all articles are low-priority consumer-finance roundups that appear to mention the company only in passing.",
     "CNBC ran a cluster of November 2026 credit card roundups (rewards, travel, no-annual-fee travel, 0% APR, instant access, groceries, Amazon shopping, and cash back via CNBC Points Pro) in which Capital One cards are likely among the issuers listed, though none of the summaries confirm it. (CNBC)",
@@ -2143,23 +2143,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-21T20:11:42.753Z"
-    },
-    {
-      "id": "a2b89f3c767205f9",
-      "title": "Christiane Amanpour is leaving CNN after 43 years",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEsxbVZTa1FCdXJleHVIUXFfRS0zQ29mVVBfUWw0LVhxSnVoTTdObzFza0JpQVJlR25MSXNoVVQwYmt0eHdYazZsNVkzOUp5WHQycGR5dHdMNWNjbHZJempCdUF1MExwaVg1VWRuRUtVRFJmN2JRWEhzQlZfbjJMNFJvWHZyQVI1OXVZQzVuN3dOTnNvbzktUm12THdzUjJDeklv?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-19T23:14:09.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-21T23:22:47.211Z",
-      "relevant": false,
-      "summary": "Christiane Amanpour is leaving CNN after 43 years.",
-      "whyItMatters": "No evident Capital One link.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-21T23:22:47.211Z"
     }
   ]
 }
