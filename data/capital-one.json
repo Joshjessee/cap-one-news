@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-05T12:46:44.877Z",
+  "updatedAt": "2026-11-05T18:03:12.205Z",
   "briefing": [
     "No major regulatory, legal, or corporate developments involving Capital One appear in today's articles; coverage is limited to consumer-finance roundups where the company is mentioned in passing, and the summaries do not confirm its inclusion in most of them. (CNBC, The Wall Street Journal)",
     "CNBC published several November 2026 credit card roundups covering secured cards, instant access cards, Amazon shopping cards, grocery cards, and a cash back ranking, and Capital One products may appear among the issuers listed. (CNBC)",
@@ -967,40 +967,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-22T23:25:00.277Z"
-    },
-    {
-      "id": "c1711b3f4c2cdd65",
-      "title": "Wizards' AJ Dybantsa, top overall pick, out vs. Raptors",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzJDMVFGRG5lZTVrLTNZX2FyeHk2Qk00YXFMOTFTZ3otc1dIcEZJYnR3NUN1NGFPRnRyZ1dEbGwtWkVOck5DeXZMWDBZaUFMblZjSGdpU2dDenpySDNHeEJOakxnMDlrcF9iaHhaYnpXSl9TRXZnQWkwekpfVjZ6M1JUa1Rjdy1XQmVielE0Mm1DSV9xZl9oOFJMTWQ2LUNP?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-22T17:11:47.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-22T20:09:23.344Z",
-      "relevant": false,
-      "summary": "Sports story about Wizards rookie AJ Dybantsa sitting out a game against the Raptors. Capital One is likely mentioned only as the arena name, if at all.",
-      "whyItMatters": "Not about the company; no policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-22T20:09:23.344Z"
-    },
-    {
-      "id": "0ebb9573207e6d34",
-      "title": "Your D.C. weekend: Halloween spookiness, plus Katseye",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFJxRHExNG9hQ2dtekY2elRBaVlrYk1iODk0YWpvMktFZ2NfdnZNQ1lFTXBmc1F1cVBaQWNHTDE5X081V01GTU9HendWdm1CallRUTNaYlc2NFVndENtLUFBQkd1RVJoVWZxcnlwS0MtLUU3eUU0MGlaWmo5X1R2cllVTzBfU1l0Mlo2V2duaEZlTFRJTV9zSHVIYmM?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-10-22T15:18:29.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-22T20:09:23.344Z",
-      "relevant": false,
-      "summary": "Axios D.C. weekend events guide covering Halloween activities and a Katseye performance. Any Capital One mention is likely just a venue name.",
-      "whyItMatters": "Not about the company; no policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-22T20:09:23.344Z"
     }
   ]
 }

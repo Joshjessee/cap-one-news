@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-05T12:46:50.849Z",
+  "updatedAt": "2026-11-05T18:03:12.693Z",
   "briefing": [
-    "A US bank regulator issued its first-ever guidance for examiners on AI, likely shaping how supervisors assess AI use at banks. Details on scope and the issuing agency should be confirmed. (Reuters)",
-    "Democrats' midterm gains put AI policy and Silicon Valley in the crosshairs, with Democrats weighing aggressive scrutiny of the tech industry and a shift in the AI policy landscape in Congress. (Politico, The Washington Post, CNBC)",
-    "Bloomberg says Democratic control of Congress means a reckoning for Wall Street, which points to more oversight of financial firms. The teaser gave no AI-specific detail, and Politico also looks at how Democrats may use their new power. (Bloomberg, Politico)",
-    "The White House is declining to disclose how it vets AI security threats, a transparency issue that could draw congressional oversight. (The Washington Post)",
-    "American Banker examines how AI is threatening banks' business and how the industry can respond. (American Banker)"
+    "A U.S. bank regulator issued its first-ever AI guidance for examiners, which appears to set out how supervisors should assess AI use at banks; details are limited so far, and this is the most directly relevant item for financial services. (Reuters)",
+    "Democrats' midterm wins put Big Tech and AI oversight on the agenda for the new congressional majority, with members signaling more scrutiny and possible legislation on Silicon Valley. (Politico, The Hill, The Washington Post)",
+    "Bloomberg says the Democratic takeover of Congress also points to tougher oversight of Wall Street, though its summary gives no AI-specific detail. Politico separately asks how Democrats will use their new power on Capitol Hill. (Bloomberg, Politico)",
+    "American Banker looks at how AI threatens banks' business models and how the industry can respond. (American Banker)",
+    "The FDA issued a rule classifying a digital cervical cytology slide imaging system with an AI algorithm as class II (special controls); this is a narrow medical-device action with limited relevance to financial services. (Federal Register)"
   ],
-  "briefingUpdatedAt": "2026-11-04T23:42:34.209Z",
+  "briefingUpdatedAt": "2026-11-05T18:03:12.693Z",
   "articles": [
     {
       "id": "40721d5532da79a0",
@@ -77,6 +77,24 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-04T23:42:34.209Z"
+    },
+    {
+      "id": "1b8ec07526473ed7",
+      "title": "Democrats eye Big Tech after midterm wins",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ0poQ0NhdkRFT1A1WDhUcmVScDkzNi1fQ2llTEtXSWVFMEhERzh1OEFQd2xQc00tU0J2UjZYQ2dUa1pLSmd0OVNkaGZ4dG5DWi1peGo5dkJqelc5dlVwYTRIOHVqNjZrVTBjaUZvUUhMT1E3bWhkc2E1a3RiVS1XTkt6QlNhd1JjMTA3ZHN0WG5tcGtSSlJyeVBuSUhFQ09uSDJyZNIBpAFBVV95cUxQZ0poQ0NhdkRFT1A1WDhUcmVScDkzNi1fQ2llTEtXSWVFMEhERzh1OEFQd2xQc00tU0J2UjZYQ2dUa1pLSmd0OVNkaGZ4dG5DWi1peGo5dkJqelc5dlVwYTRIOHVqNjZrVTBjaUZvUUhMT1E3bWhkc2E1a3RiVS1XTkt6QlNhd1JjMTA3ZHN0WG5tcGtSSlJyeVBuSUhFQ09uSDJyZA?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-11-04T16:24:40.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-05T18:03:12.693Z",
+      "relevant": true,
+      "summary": "After Democratic midterm wins, party members are signaling they will focus oversight and legislation on Big Tech. The article appears to cover the new congressional majority's likely tech agenda.",
+      "whyItMatters": "A Democratic-led Congress could reshape AI and tech oversight, hearings, and legislation affecting financial services.",
+      "priority": "medium",
+      "category": "Congress",
+      "storyId": "0160486d9d89039d",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-05T18:03:12.693Z"
     },
     {
       "id": "980b63792af72136",
@@ -2263,23 +2281,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-22T20:09:28.356Z"
-    },
-    {
-      "id": "81480d0c321697c2",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Fraud.gov Tip Intake and Referral Form",
-      "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21578/agency-information-collection-activities-proposed-collection-comment-request-fraudgov-tip-intake-and",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "snippet": "Notice — Treasury Department — The Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other federal agencies to comment on the proposed information collection listed below, in accordance with the Paperwork Reduction Act of 1995.",
-      "firstSeenAt": "2026-10-22T11:47:02.403Z",
-      "relevant": false,
-      "summary": "Treasury published a Paperwork Reduction Act notice seeking comment on the Fraud.gov tip intake and referral form.",
-      "whyItMatters": "Routine paperwork notice with no evident AI policy angle.",
-      "priority": "low",
-      "category": "Treasury",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-22T11:47:02.403Z"
     }
   ]
 }
