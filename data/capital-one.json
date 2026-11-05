@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-05T18:03:12.205Z",
+  "updatedAt": "2026-11-05T23:40:26.731Z",
   "briefing": [
     "No major regulatory, legal, or corporate developments involving Capital One appear in today's articles; coverage is limited to consumer-finance roundups where the company is mentioned in passing, and the summaries do not confirm its inclusion in most of them. (CNBC, The Wall Street Journal)",
     "CNBC published several November 2026 credit card roundups covering secured cards, instant access cards, Amazon shopping cards, grocery cards, and a cash back ranking, and Capital One products may appear among the issuers listed. (CNBC)",
@@ -950,23 +950,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-23T19:58:04.200Z"
-    },
-    {
-      "id": "ad391258cac17a54",
-      "title": "Cooking chat: Why do my cookies always spread while baking?",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWJuZkdIdy1LOENoTGl6QkxkLWlHMzNKbU9GWTBoVHhKSk9tUlJfZ1c1MEtNM29IT00zRWctbkRxVWlJaWFLZ05ZcHF4Y01oQTlTbldCNnhCYTE3SGFBMmEwbUp4cDY2VmZ0UXF2M01VYmJnMGl3dFc0SjRpNzg2WUpONnptbWg0QWlXWFN2dWVLbGhUR0lMdS1MVl9TZ1dlLVNEUFZadDBTVGdHaVdv?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-22T21:29:11.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-22T23:25:00.277Z",
-      "relevant": false,
-      "summary": "A Washington Post cooking chat about why cookies spread while baking. Nothing in the headline connects it to Capital One.",
-      "whyItMatters": "It has no bearing on Capital One or policy issues.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-22T23:25:00.277Z"
     }
   ]
 }
