@@ -1,15 +1,32 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-06T17:31:24.448Z",
+  "updatedAt": "2026-11-06T23:12:26.571Z",
   "briefing": [
-    "Bank regulators are setting AI supervisory expectations: a US bank regulator issued its first-ever AI guidance for examiners, and the OCC says banks need strong controls when delegating tasks to AI agents. (Reuters, American Banker)",
-    "Rep. Foster introduced a bill that would bolster use of technology to monitor AI-related financial risks, a direct financial-services AI item to track. (Roll Call)",
-    "Democrats are planning a flood of AI bills once they take control of Congress, with the new majority expected to focus oversight on Big Tech, Silicon Valley and AI. (Reuters, The Hill, Politico, The Washington Post)",
-    "Top Democrats are calling for a national data center moratorium to rein in AI buildout after the midterm sweep, while Bloomberg flags broader Wall Street oversight ahead. (CNBC, Bloomberg)",
-    "Treasury's borrowing advisory committee (TBAC) said AI company debt issuance to fund buildout isn't crowding out Treasuries. (Reuters)"
+    "Democrats, having swept the midterms, plan to introduce a flood of AI bills once they take control of Congress, and top Democrats are already calling for a national data center moratorium to rein in the AI buildout. (Reuters, CNBC, The Washington Post)",
+    "Banks are bracing for tougher congressional oversight after the Democratic sweep, which matters for how AI in financial services will be scrutinized. (Reuters)",
+    "Rep. Foster introduced a bill that would bolster the use of technology to monitor AI-related financial risks. (Roll Call)",
+    "The OCC says banks need strong controls when delegating tasks to AI agents, which appears to signal supervisory expectations for agentic AI use. (American Banker)",
+    "The Trump administration scrapped a meeting of a high-profile tech advisory panel, with no details yet on the reason, while Politico looks at how AI safety-focused 'doomers' gained political influence in 2026. (Reuters, Politico)"
   ],
-  "briefingUpdatedAt": "2026-11-06T12:47:45.186Z",
+  "briefingUpdatedAt": "2026-11-06T23:12:26.571Z",
   "articles": [
+    {
+      "id": "82fc2966bccd53d1",
+      "title": "Trump administration scraps meeting of high-profile tech panel",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODU5elZ2RThqaExmd0I1RzUxVUZ5cF9SaE9LdEdxU3UwLWhYZkZtU2J2QWt1ejJpZXlGZ21rWXdmMU1HSWg2RUlEeWs4NTFORU5SWXNLeDBkekVlNC1fRXBqdDRmd3FYVVNLOGJHYXBjNkVyQWNLVU84b2IxenhxeWpMRzNURjhUSVdpN2wzOE9WaGxXYTkzZ2pHbWFpVHpFNXZSVDBLbmtoNDV0MjMyei0xYlYtcG5hc09hY3JaZ1h6TVk?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-06T16:25:31.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-06T23:12:26.571Z",
+      "relevant": true,
+      "summary": "The Trump administration canceled a scheduled meeting of a high-profile technology advisory panel, per Reuters. The headline gives no detail on the panel or the reason.",
+      "whyItMatters": "A canceled tech advisory meeting could signal shifts in how the administration gets outside input on AI and tech policy.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-06T23:12:26.571Z"
+    },
     {
       "id": "e73c12ace7721b7c",
       "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
@@ -43,6 +60,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-06T12:47:45.186Z"
+    },
+    {
+      "id": "46a0f4f5107f10bc",
+      "title": "White House counters Jeffries on permitting",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LUDZ0ME8tUzh2b0VUNnltT195VHF5NjhyMVFHUjB0akF0eGNFSHRPY3Y1RWp6U1J1TjlDZTNtS3F1VEpha1FUN2tCS3QwTTAyc3I3cS1qS0JJTTJiMUdXekRKcm4tRXRsWjh5RzJVeHJiMkJzMDlJYmpaQldURVE?oc=5",
+      "source": "Punchbowl News",
+      "paywalled": true,
+      "publishedAt": "2026-11-06T12:12:38.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-06T23:12:26.571Z",
+      "relevant": false,
+      "summary": "The White House responded to House Democratic leader Jeffries on permitting reform. The headline does not tie it to AI, though permitting can affect data center buildout.",
+      "whyItMatters": "Only loosely related to AI policy unless it covers data center or energy permitting.",
+      "priority": "low",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-06T23:12:26.571Z"
     },
     {
       "id": "06e77849a2ac6a83",
@@ -180,6 +214,23 @@
       "storyId": "980b63792af72136",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-05T23:40:27.197Z"
+    },
+    {
+      "id": "4bc5bd18afff2f3d",
+      "title": "Focus: Banks brace for tighter oversight from US Congress after Democrats sweep",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlFoZ24wX3JPZXBNam5vSTZmdEpLX2JMZkw4U0JuTWJEek1pS3RmRnl5TGpqTUEwejdBTnk4RFpiU2JHSVBxaXp1UzlXZ0d2eEt0cmgzZkNhVXlPbEpfTU1lai10QUN0SHFubnRyb3FCc3cxUjc0Zi1sb0ZKOVdici1nUDZqTlRucFQ5UEtDdVM3SmxrR0ZfSGtBWnVLLVBnNllONkhxMjN4Rl9ROXJxVXVGZGlLb2ZCd1U4?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-05T17:19:15.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-06T23:12:26.571Z",
+      "relevant": true,
+      "summary": "Reuters reports that banks expect tougher congressional oversight now that Democrats have swept the midterms.",
+      "whyItMatters": "Stronger oversight of banks could extend to AI use in financial services, which directly affects Capital One.",
+      "priority": "high",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-06T23:12:26.571Z"
     },
     {
       "id": "40721d5532da79a0",
@@ -2145,75 +2196,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-26T11:46:29.864Z"
-    },
-    {
-      "id": "a7a2cd8f5bbc3d55",
-      "title": "Midterm polls that caught our eye this week show Democratic gains among voters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPelRtZEk4NFY2MmhId2hTTzRmQ24wdFRGME85U0VndGlvRGJmLWNOVXZwTVNnTUVlYjc1ZkpHdWcwcDduVFpYV1ByWC1selZDYjhwYWs1Q2pHOWRUZS1rczRvcnFCcUUtVnVCMVRIYVNVbkxXSmJITmV5YkgwSVctQ3dNNlFrRGdCaHVra0NJSms5amxKeElnc0R6Ulc2a2YxcndLNE5UM3VENThpOFM4ZlpscnVQSjV4VTB5QkRHVzhxNml2aGJWekpn?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-23T22:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-23T23:10:27.546Z",
-      "relevant": false,
-      "summary": "A Washington Post roundup of notable midterm election polls from the week, showing Democratic gains among voters. Nothing in the headline points to AI policy.",
-      "whyItMatters": "General election polling with no evident AI or financial-services policy angle, so the team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-23T23:10:27.546Z"
-    },
-    {
-      "id": "14e61ff4b97e9da1",
-      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1NPZWhQZW05ODAxWnE1dTNYbDJaVVNzbGxjcERRMkRGUnk3OE9jdUE2VGJWRXpTY0VqVnhSeWtYdXhTNGlSM1V3NkVXbFI0RmMweFJqcXZlc0FYdWt5QmtHaWpHQWN5Vzc4aW55cnlqYjdwblM0R04tUUFlRU1ESGk0VnprWjNPRFpWaXJEVkJGMTdab0RtTTlNVWFwN2ZOcF9iVTdDSDhKQnVzNlNqWDdEZw?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-23T20:32:42.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-25T17:03:44.845Z",
-      "relevant": false,
-      "summary": "Market story on AI-linked stocks falling as investors move into Treasuries.",
-      "whyItMatters": "Market movement with no policy or government action angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-25T17:03:44.845Z"
-    },
-    {
-      "id": "b4bc117569ac3d47",
-      "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZTgyRm5ESl91bFhZYVV5S1JXZnB6NTk0WnJKOGNHWUxRQm9XLVlFaE1EYXpGY1NkT2Y4cXR1T0FwTUdvTDB5WHFIaXV5UXRVNUtEZ1R4TGc3M0VTeFMzRGNqMDFoUFh6U1VNYkpLVU1OblYySEJQX1lKbmZoeXZqZU1SbEwxY21XZWpJMVFaNktpVnBmbFVXWFhqWXFSaXRTTjRTM3lCZW1aOU0?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-23T19:48:08.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-26T16:48:40.539Z",
-      "relevant": true,
-      "summary": "The US has proposed restrictions on investment in Chinese biotech firms, extending outbound investment curbs.",
-      "whyItMatters": "It is tied to the outbound investment regime that covers AI, so it is a useful signal of Treasury's direction, though the story itself concerns biotech.",
-      "priority": "low",
-      "category": "Treasury",
-      "storyId": "16f69aac22fbe74f",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-26T16:48:40.539Z"
-    },
-    {
-      "id": "15b002697cf1f1dc",
-      "title": "Wyden pushes bills to tax data centers, aid displaced workers",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDlxOElLbEdqZy11aVgwMnhLcDJEVUZhM3FGOVpMQzJtclhpbjk2OVBpdm1URUZTSGZKQWpDNUVPZkdZdDU0ZldrbnF3dnhEdWZ1WDUyd1BnZWhOc1hNOTFZUENRTkF4S0JaVDFBNzYzTXhpU1BWVTduVlVZREJlc0ZybFNlUUVqNGtCZ1kzT3U0VFYzNmJ0LQ?oc=5",
-      "source": "Roll Call",
-      "paywalled": false,
-      "publishedAt": "2026-10-23T19:38:21.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-23T19:58:12.985Z",
-      "relevant": true,
-      "summary": "Sen. Ron Wyden is pushing bills to tax data centers and to aid workers displaced by AI and automation, according to the headline.",
-      "whyItMatters": "Proposed taxes on data centers and worker-aid measures could shape the AI legislative debate and affect AI infrastructure costs.",
-      "priority": "high",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-23T19:58:12.985Z"
     }
   ]
 }

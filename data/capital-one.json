@@ -1,13 +1,10 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-06T17:31:20.295Z",
+  "updatedAt": "2026-11-06T23:12:21.265Z",
   "briefing": [
-    "No major regulatory, legal, or corporate developments involving Capital One appear in today's articles; coverage is limited to consumer-finance roundups where the company is mentioned in passing, and the summaries do not confirm its inclusion in most of them. (CNBC, The Wall Street Journal)",
-    "CNBC published several November 2026 credit card roundups covering secured cards, instant access cards, Amazon shopping cards, grocery cards, and a cash back ranking, and Capital One products may appear among the issuers listed. (CNBC)",
-    "The WSJ's October 2026 high-yield savings roundup lists rates up to 5.00% and was flagged as mentioning Capital One, though its placement or role is unclear. (The Wall Street Journal)",
-    "Policy team takeaway: none of these items needs action today, but they show how Capital One's card and savings products are positioned in consumer comparison coverage. (CNBC, The Wall Street Journal)"
+    "CNBC's November 2026 roundup of the nine best free checking accounts may include Capital One, but the summary doesn't name the banks listed, so its inclusion is unconfirmed; this is low-priority consumer-product coverage with no regulatory, legal, or policy angle (CNBC)."
   ],
-  "briefingUpdatedAt": "2026-11-04T23:42:26.321Z",
+  "briefingUpdatedAt": "2026-11-06T23:12:21.265Z",
   "articles": [
     {
       "id": "00619462db20db70",
@@ -94,6 +91,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-04T12:46:29.524Z"
+    },
+    {
+      "id": "2b2cc68e82d9d787",
+      "title": "9 Best Free Checking Accounts of November 2026",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbGd5bVUtRlE3MmcyQWNRN0cydkdXWTJ4Z0pvQ1hfSFFxeG9GVER1V0YySXQ0TkhIWlh4akh5clVSejJXMlQ3SHM1V2VnbGQ1RHByMV9qSGEydWVvQ01qTHlqY3ZpUUdYSlE?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-06T23:12:21.265Z",
+      "relevant": true,
+      "summary": "CNBC published a roundup ranking the best free checking accounts for November 2026. The headline doesn't say which banks are listed, so Capital One's inclusion can't be confirmed.",
+      "whyItMatters": "It's a consumer-product roundup and likely only a passing mention of Capital One, so it's low priority for the policy team.",
+      "priority": "low",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-06T23:12:21.265Z"
     },
     {
       "id": "c13dbcca0fa0e993",
@@ -899,40 +913,6 @@
       "storyId": "c9552607eaba8deb",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-24T16:35:10.201Z"
-    },
-    {
-      "id": "282a97bb19d567ac",
-      "title": "D.C. United's $300M Audi Field pitch faces skepticism",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlJEdWJMT3lNNVd6ZVpaNm1IbUtxMUJPZnZkRU9YY2IzNE9GSkFCdHpZUEY5a2tkdjMzMlJQNDFVNE1pVHItaFpqeTNXTUpYU1JreVBfbDRMTEZ6Nks3dXYtWWFJcGFfWGVpRTNXTVM1amM5NE1wLWN4bW1OalB6VW4zOWR3M3ljam9BcGFSUEZHaWM?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-10-23T20:43:03.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-23T23:10:23.186Z",
-      "relevant": false,
-      "summary": "Axios reports on skepticism surrounding a $300M proposal tied to D.C. United's Audi Field. Nothing in the headline indicates Capital One is involved.",
-      "whyItMatters": "It appears unrelated to Capital One or its business, so the policy team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-23T23:10:23.186Z"
-    },
-    {
-      "id": "102a0e208be2fc5e",
-      "title": "American Express profits rise; company cuts workforce by 5%, or about 4,000 employees",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3RlQ2V0R1R6R2FZbEJIZVhZVVF1UFB1RzFtU2dzUXNqdUNvODROT1dxZEJPWmhNUE9CNTBvdUxac2VINHo5UEZTT0NZSGctTlBhZnVRX1hCSl82OVNadmVqUGVNT2dTSEp6M0JON0tYMFFvekduWFRqVXRhZjdBOHFuM0NNeF93VGI2VW9XNXYtRExQampZZ3VuRDRsMnlkVGhWZXVLSzhIUjFxc0x4NVA4ZVVPWVYycExqalFiLW5aZEktczVtdE5nUEJrazVFa3FF?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-23T17:33:36.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-23T19:58:04.200Z",
-      "relevant": false,
-      "summary": "American Express reported higher profits and said it is cutting its workforce by about 5%, or roughly 4,000 employees. The headline gives no indication that Capital One is part of the story.",
-      "whyItMatters": "Only tangentially useful as a peer-company data point; Capital One is not evidently a subject.",
-      "priority": "low",
-      "category": "Business & Earnings",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-23T19:58:04.200Z"
     }
   ]
 }
