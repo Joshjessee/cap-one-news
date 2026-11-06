@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-05T23:40:26.731Z",
+  "updatedAt": "2026-11-06T17:31:20.295Z",
   "briefing": [
     "No major regulatory, legal, or corporate developments involving Capital One appear in today's articles; coverage is limited to consumer-finance roundups where the company is mentioned in passing, and the summaries do not confirm its inclusion in most of them. (CNBC, The Wall Street Journal)",
     "CNBC published several November 2026 credit card roundups covering secured cards, instant access cards, Amazon shopping cards, grocery cards, and a cash back ranking, and Capital One products may appear among the issuers listed. (CNBC)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-11-04T23:42:26.321Z",
   "articles": [
+    {
+      "id": "00619462db20db70",
+      "title": "New research reveals what actually drives rural entrepreneurship",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEtOZmliNGdCeTVvcmNyNU5EdzhpdUZsSk9MUTJaU09NamN0U3FUN3h1enFlSVFCQmJoeUw4MWt2bkZtVVA5NG5wRTJ2Mko0TDVTMUhGWlB3eUtvWnQ5eDF6NlZfalF1d1ZtWnA2Q3FnaDhxWGNzTjluZ3J2dEhBc2UtTk13d1c0Rzc2c0ZTNUVXR1BOT2ItcnlnMkw?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-11-06T16:25:41.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-06T17:31:20.295Z",
+      "relevant": false,
+      "summary": "Axios reports on new research about what drives rural entrepreneurship. The headline and outlet provided do not mention Capital One or its Discover acquisition.",
+      "whyItMatters": "Nothing in the provided information ties this story to Capital One, so the policy team can likely skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-06T17:31:20.295Z"
+    },
     {
       "id": "4472d65f0274a4aa",
       "title": "Wizards can’t stop Hawks’ three-point barrage in a home loss",
@@ -914,40 +931,6 @@
       "whyItMatters": "Only tangentially useful as a peer-company data point; Capital One is not evidently a subject.",
       "priority": "low",
       "category": "Business & Earnings",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-23T19:58:04.200Z"
-    },
-    {
-      "id": "fbcfd70d8ab507d9",
-      "title": "Amex to shrink workforce",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWYwN1huMGV5c1pmMFBxMnlzVEV2S2JCdFJRRnFGNGFTUzFyN0U5bDJqY2VCWmNvcU1JYlFWMlJYSEJNV3YweGJhdWw0eDRkNTBvWW9scW1oTTl4WlZZZ0lRNXo3YjVDeG9SMkdTQTJnMmY1TmVLM2sxUzFCVmlVN0pFbDM1NmlNMnRuLWhVZG1oOUkx?oc=5",
-      "source": "Payments Dive",
-      "paywalled": false,
-      "publishedAt": "2026-10-23T16:17:08.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-24T16:35:10.201Z",
-      "relevant": true,
-      "summary": "Payments Dive reports that American Express plans to shrink its workforce.",
-      "whyItMatters": "Capital One is a card-industry competitor, so peer cost-cutting is useful context, but it is not about Capital One.",
-      "priority": "low",
-      "category": "Business & Earnings",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-24T16:35:10.201Z"
-    },
-    {
-      "id": "999f2ec05c512eef",
-      "title": "Trouble in the kitchen? Ask us your cooking questions.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3FtUXBnWTBoTVVOTzg3VmtUNEFCWDdFazZTM3FZWFM4OVhQdTdwLWltaVNfSk41cmFkaVBnU1RoMUNud0Z2MWxqRVpZQ0VnUFZ0ZE5VZDJCNnBzN3IzR204QjRZVGREU1dqVjJ1Y0VsMzZBd0IyWWdDUDNxWHMzcmRqZUlFZkYwbFdVQy1OOWZ4MXlkSE4wdmFlWUpfT2RhVFI1OF9lUHlrZXR4dmZB?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-23T13:53:53.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-23T19:58:04.200Z",
-      "relevant": false,
-      "summary": "A Washington Post food feature inviting readers to submit cooking questions.",
-      "whyItMatters": "Unrelated to Capital One or policy matters.",
-      "priority": "low",
-      "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-23T19:58:04.200Z"
     }

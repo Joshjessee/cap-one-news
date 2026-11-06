@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-06T12:47:45.186Z",
+  "updatedAt": "2026-11-06T17:31:24.448Z",
   "briefing": [
     "Bank regulators are setting AI supervisory expectations: a US bank regulator issued its first-ever AI guidance for examiners, and the OCC says banks need strong controls when delegating tasks to AI agents. (Reuters, American Banker)",
     "Rep. Foster introduced a bill that would bolster use of technology to monitor AI-related financial risks, a direct financial-services AI item to track. (Roll Call)",
@@ -128,6 +128,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-06T12:47:45.186Z"
+    },
+    {
+      "id": "0c6596ebd6d4e1df",
+      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVlBX0FCZGw4ZnNTUlRoSU5wSjJRWllFQ2JTZjBHNy1CQ0VXNWZWb1Y1V2dDWXhLQWIxZC1hNG00U0xXUjZIdHV6U0FaWS1hN1BURXBNd2g4Q0RoT0lFX21qMlNrQTkwelZndmExbGpSdlhlQ24taDl4QXpTQkNmVlJZc3FaajZl0gGOAUFVX3lxTE9peU5XOFhISzIwSnNNaGtiR0Iya1JqWVNFcXgyQXVPVXNubjAyMXVYMUR2aHd1MWRnZEhmLXI1MnRONmk3SHIzUGtOZnQ1U3JFdjBkSnYxNHdsQTVSQnBGWmVwUGxSZWJIYW1JZURVYUxsa2prV1VXeUs1VW5CU0pISHRtYVUzLV9LSTNyTEE?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-05T21:42:17.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-06T17:31:24.448Z",
+      "relevant": false,
+      "summary": "CNBC reports that Tesla and SpaceX lost over $420 billion in combined market value after the midterm elections. The headline frames it as a market reaction to the political outcome, with no evident AI policy action.",
+      "whyItMatters": "It is mainly a stock-move story with no clear federal AI policy or financial regulation angle, so the team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-06T17:31:24.448Z"
     },
     {
       "id": "ce7e2cc7aaa7c187",
@@ -2197,74 +2214,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-23T19:58:12.985Z"
-    },
-    {
-      "id": "501f0a7a807f1e3d",
-      "title": "Morning Money",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3czNvUXFTeEZ4SlNLb0k3Y000TTBsNEMtX1Q0R20yODJNQy1QSlF5ZHFBN3UyemUtUXhXX0ZfMS0yNmtYQ1AxZlE3LWxObEhoYmFoSW5hY1hSZlp5NDFn?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-23T17:18:16.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-25T23:16:23.591Z",
-      "relevant": false,
-      "summary": "Politico's Morning Money is a daily newsletter on finance and economic policy; the headline gives no detail on its contents.",
-      "whyItMatters": "Nothing in the headline points to AI policy, so it can't be judged relevant without more information.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-25T23:16:23.591Z"
-    },
-    {
-      "id": "a3d4e6b74fed3067",
-      "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkE4OU54VTUzRnNRcXhtWlRXR0RVOUY2LUpuYU91QmZCeTNVckoxVWZ4RHUzckVGb0VzaU9OMGZGajRscmxHckZBWEdaNmlUbzBzdWVJaEZWMmVBOFVrTVlvazZYLWZkNVB1bmJMVVhBMzRqYWNEQjYzWFV0MU9mYXM3UzFMT1haRVc3SERQcw?oc=5",
-      "source": "The New York Times",
-      "paywalled": true,
-      "publishedAt": "2026-10-23T16:43:54.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-25T17:03:44.845Z",
-      "relevant": false,
-      "summary": "Overview of Democratic legislative priorities if the party wins back Congress. The headline and outlet give no indication that AI is a focus.",
-      "whyItMatters": "Possibly useful context on the congressional agenda, but there is no evident AI policy content.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-25T17:03:44.845Z"
-    },
-    {
-      "id": "39a37b2ea9cf18c9",
-      "title": "Notice of Public Meetings of the Michigan Advisory Committee to the U.S. Commission on Civil Rights",
-      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21710/notice-of-public-meetings-of-the-michigan-advisory-committee-to-the-us-commission-on-civil-rights",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-23T16:00:00.000Z",
-      "snippet": "Notice — Civil Rights Commission — Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Michigan Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold public meetings via Zoom. The purpose of the first meeting is to continue to hear from experts on the committee's study topic of Artificial Intelligence and Civil Rights in Michigan, and continue briefing discussion and planning at the second meeting.",
-      "firstSeenAt": "2026-10-23T11:46:12.274Z",
-      "relevant": true,
-      "summary": "The Michigan Advisory Committee to the U.S. Commission on Civil Rights will hold public Zoom meetings to hear from experts for its study on Artificial Intelligence and Civil Rights in Michigan.",
-      "whyItMatters": "A state-level federal advisory body studying AI and civil rights could feed into broader discussion of AI bias and discrimination, though its direct impact is limited.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-23T11:46:12.274Z"
-    },
-    {
-      "id": "6c0ae95b7f83c158",
-      "title": "Supplemental Nutrition Assistance Program: Electronic Benefits Transfer Card Security Measures",
-      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21658/supplemental-nutrition-assistance-program-electronic-benefits-transfer-card-security-measures",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-23T16:00:00.000Z",
-      "snippet": "Proposed Rule — Agriculture Department, Food and Nutrition Administration — The Food and Nutrition Administration (FNA or the Agency), an agency of the U.S. Department of Agriculture (USDA or the Department), is issuing a rule proposing changes to Supplemental Nutrition Assistance Program (SNAP, the Program) regulations to modernize Electronic Benefit Transfer (EBT) technology and align EBT with consumer payment processing industry standards, improving both Program integrity and convenience for SNAP clients. These proposed changes will protect SNAP benefits from thieves and ensure benefits are",
-      "firstSeenAt": "2026-10-23T11:46:12.274Z",
-      "relevant": false,
-      "summary": "USDA's Food and Nutrition Administration proposes SNAP EBT card security changes, aligning with consumer payment industry standards to protect benefits from theft.",
-      "whyItMatters": "It is a payments security rule with no AI policy angle, so it is not relevant to the AI policy team.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-23T11:46:12.274Z"
     }
   ]
 }
