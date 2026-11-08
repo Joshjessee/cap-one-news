@@ -1,15 +1,31 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-07T18:02:43.667Z",
+  "updatedAt": "2026-11-08T00:35:25.347Z",
   "briefing": [
-    "Democrats, having swept the midterms, plan to introduce a flood of AI bills once they take control of Congress, and top Democrats are already calling for a national data center moratorium to rein in the AI buildout. (Reuters, CNBC, The Washington Post)",
-    "Banks are bracing for tougher congressional oversight after the Democratic sweep, which matters for how AI in financial services will be scrutinized. (Reuters)",
-    "Rep. Foster introduced a bill that would bolster the use of technology to monitor AI-related financial risks. (Roll Call)",
-    "The OCC says banks need strong controls when delegating tasks to AI agents, which appears to signal supervisory expectations for agentic AI use. (American Banker)",
-    "The Trump administration scrapped a meeting of a high-profile tech advisory panel, with no details yet on the reason, while Politico looks at how AI safety-focused 'doomers' gained political influence in 2026. (Reuters, Politico)"
+    "Democrats plan to introduce a flood of AI bills once they take control of Congress, signaling a much busier AI legislative agenda ahead. (Reuters)",
+    "Rep. Bill Foster introduced a bill that would bolster the use of technology to monitor AI-related financial risks, a direct item for financial services regulation. (Roll Call)",
+    "The Trump administration canceled a scheduled meeting of a high-profile technology advisory panel; the reporting gives no detail on the panel or the reason. (Reuters)",
+    "Politico analysis argues AI safety-focused 'doomers' gained significant political influence in 2026, which may shape the coming congressional debate. (Politico)"
   ],
-  "briefingUpdatedAt": "2026-11-06T23:12:26.571Z",
+  "briefingUpdatedAt": "2026-11-08T00:35:25.347Z",
   "articles": [
+    {
+      "id": "d9b087c526dcbb5e",
+      "title": "Trump says he offered White House press secretary role to UFC’s Dana White",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDk3dmNRMjFNZWFHWWtoOWFCeDVLXzB1WnlKVEljUk01NXhRX20zcllRMjJETzMzZElwYVE5ZXN5QVpfTWJELXlkMFk3SktkX1NmNjFqYkgxbFhNM2xzVVQtODAyaUstRGlGamNqbmtJOG42bU5WVFpVTC1Kd3FQV3VrVGRmQWlKVWR6UnJ4Y2ZCTDJTYzVpRDJLbElpVEVuQzlPUm9ndkp6RGxZNWlaTjlweTcyVm5odHc?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-07T23:55:59.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T00:35:25.347Z",
+      "relevant": false,
+      "summary": "Trump says he offered the White House press secretary job to UFC's Dana White. The headline shows no AI policy angle.",
+      "whyItMatters": "Personnel news with no connection to federal AI policy or financial services regulation.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T00:35:25.347Z"
+    },
     {
       "id": "868cae47e0bee356",
       "title": "Senate Plan to Fast-Track Energy Projects Headed for a Showdown",
@@ -179,6 +195,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-06T12:47:45.186Z"
+    },
+    {
+      "id": "01ab6dcc436dee2f",
+      "title": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-11-05T22:17:59.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T00:35:25.347Z",
+      "relevant": false,
+      "summary": "Bloomberg's markets wrap says the US stock rout paused as dip buyers stepped in. The headline gives no sign of a policy action.",
+      "whyItMatters": "General market news with no evident AI policy or regulatory angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T00:35:25.347Z"
     },
     {
       "id": "0c6596ebd6d4e1df",

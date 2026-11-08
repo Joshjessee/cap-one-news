@@ -1,11 +1,47 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-07T18:02:38.129Z",
+  "updatedAt": "2026-11-08T00:35:18.968Z",
   "briefing": [
-    "CNBC's November 2026 roundup of the nine best free checking accounts may include Capital One, but the summary doesn't name the banks listed, so its inclusion is unconfirmed; this is low-priority consumer-product coverage with no regulatory, legal, or policy angle (CNBC)."
+    "Capital One shows up only in passing in CNBC consumer-finance roundups: the best online personal loans of 2026 may list it among lenders, and the 9 best free checking accounts for November 2026 may include it, though neither is confirmed. (CNBC)",
+    "No regulatory, congressional, court, enforcement, merger (including Discover), executive, or security developments involving Capital One appear in the articles provided, so there is nothing requiring policy-team action today."
   ],
-  "briefingUpdatedAt": "2026-11-06T23:12:21.265Z",
+  "briefingUpdatedAt": "2026-11-08T00:35:18.968Z",
   "articles": [
+    {
+      "id": "28cd735ad8c8a6ad",
+      "title": "Capitals secure much-needed home win over Panthers after Tom Wilson gets tossed",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSl90dEdBVmlhbEJpNWZTZ2ZOQi1FSEZrSjJDZzdEc3pBMjMxTGExNGg5Skk2c3lFSGhSM2t1QXBkY0dXaS1TQWxWbVg5RzNJTk1MLWw5Y19oUDJIaHNobkdZSmFGY1FOMkhDY3c0QXVUMF9WbHFjVVpTUFpLYV9GVGlSZ0t4UksyZmFWcXdkZlBXbWRBSEdTcGVsbkE3cmF0VmFuT3dncFlmYVVWamZ1WGhSUXlxM00ycGhicTJXLVZLN1U?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-07T23:44:02.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T00:35:18.968Z",
+      "relevant": false,
+      "summary": "The Washington Capitals won a home game against the Florida Panthers after Tom Wilson was ejected. The headline does not mention Capital One.",
+      "whyItMatters": "Sports story with no evident connection to Capital One as a company, so no policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T00:35:18.968Z"
+    },
+    {
+      "id": "edee3c9ec069bb8c",
+      "title": "Capitals end two-game skid, hold off Panthers 4-3",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzM4UzFiMUk2bTg1dXZ0Mkd1SExjRnl5SEl6Y0dkVnltOUpNQ2wzRENheFJRTmhrWHExMnUwelRRV0hNQWhMX2lnbFk1dmI1RDJlcl9PRnloSkFtNzVENlFwTjRscFhkVjg3RUJaR2dWdHlFRDVtbHFjLWx6Tk5hRktMNV9fdmM2a3QwbF9vSS1NQjdYS01YemVqU3RwblU2cEE?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-07T21:06:28.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T00:35:18.968Z",
+      "relevant": false,
+      "summary": "The Capitals ended a two-game losing streak by beating the Panthers 4-3. The headline has no reference to Capital One.",
+      "whyItMatters": "Sports recap unrelated to Capital One or its policy interests.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "28cd735ad8c8a6ad",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T00:35:18.968Z"
+    },
     {
       "id": "57183476c8f83ea2",
       "title": "Fal raises at $16B valuation, Crowdstrike strikes for two deals",
@@ -895,23 +931,6 @@
       "storyId": "795443bbf9baf41f",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-25T17:03:36.099Z"
-    },
-    {
-      "id": "d99dc66cd039fc5a",
-      "title": "9 homemade alternatives to ultra-processed foods",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjVLOVhmRC11QTAyUFJ2TlN4RzY4ZjhMTTVOQ2wxWGg0bXFyYWhhRUJOaHE3QklmMnd6WTZrQkFFS0VSLWZDdDdfRC0waXJ3NEJTTlFtQnJKTzBwaDQxYm1WTE5LaEZvYmhwSjNMRmh0ZlJ0VnlsUjYzeEhYS2c0Mm04MTZZalpBeDFadXdVNHFkTW1oSjVGNw?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-24T21:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-26T16:48:35.598Z",
-      "relevant": false,
-      "summary": "A lifestyle piece offering nine homemade alternatives to ultra-processed foods.",
-      "whyItMatters": "No evident Capital One connection or policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-26T16:48:35.598Z"
     }
   ]
 }
