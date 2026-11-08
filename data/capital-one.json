@@ -1,12 +1,47 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-08T00:35:18.968Z",
+  "updatedAt": "2026-11-08T18:21:32.264Z",
   "briefing": [
     "Capital One shows up only in passing in CNBC consumer-finance roundups: the best online personal loans of 2026 may list it among lenders, and the 9 best free checking accounts for November 2026 may include it, though neither is confirmed. (CNBC)",
     "No regulatory, congressional, court, enforcement, merger (including Discover), executive, or security developments involving Capital One appear in the articles provided, so there is nothing requiring policy-team action today."
   ],
   "briefingUpdatedAt": "2026-11-08T00:35:18.968Z",
   "articles": [
+    {
+      "id": "9e5bd0d4a79d76a8",
+      "title": "Georgetown thumps Maryland to retain local bragging rights",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3NxYzlFOW5DbE9ZWEh5WXhfSFY5bm5wdVdablZNOVJZSlNQVi16bG4zMXVaWmVIWTdITFBuOFRiZVBOaEJrbkdjOFY5MXlWeVVpb3FjWVVZMFJMZ1ktWTh2WjZFZmsxdmtabXEyeTM5elhSQkM5dU8ydE56REJaNjdmcVNia1dvSGVMZW1XTHh0OW1uV0FiN2VDTUpUdTVoTHFvNFNhbkM?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-08T06:30:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T18:21:32.264Z",
+      "relevant": false,
+      "summary": "Georgetown beat Maryland in a college basketball game, retaining local bragging rights.",
+      "whyItMatters": "No evident connection to Capital One beyond a possible venue name; not relevant to the policy team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T18:21:32.264Z"
+    },
+    {
+      "id": "164350bc06068d8a",
+      "title": "Georgetown powers past Maryland for second consecutive season",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2tSY25vc3NLMHVaaDdQenJmNUNibUdsTEdxQlBnelRxQnNHbl85WDRqS0VESHQ3Q1VhZDVONnpKYXk3cWpLcG1sS0E2Nm10MTczMUZBOWJDUGR0ems0Sko3UVB4dUlucnZKRC1IUHFGbkxDUW1VbS1wSWxJNDNoOFZnLVd0NXNVT2tFVW91TkJlSXJLazhTYlJROWl2ZGc2QmczMG5hOGNFM3NwT3kzVk9CaURoVlE?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-08T03:06:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T18:21:32.264Z",
+      "relevant": false,
+      "summary": "Reuters reports Georgetown beat Maryland for the second consecutive season.",
+      "whyItMatters": "Sports result with no evident Capital One policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "9e5bd0d4a79d76a8",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T18:21:32.264Z"
+    },
     {
       "id": "28cd735ad8c8a6ad",
       "title": "Capitals secure much-needed home win over Panthers after Tom Wilson gets tossed",
@@ -109,6 +144,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-07T18:02:38.129Z"
+    },
+    {
+      "id": "cc921c15ad3b2080",
+      "title": "10 valuable credit card welcome bonuses ending soon: Earn $1,000+ in travel with the top offers",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95dWtKTHNHMzhDNXo1NkdXLThfWlZfVjJJWTdpMms5MjZVN1hHZ2dydGhIMEdmYnV6TnZmOElXZTc1VjNUSE9xclZpNndtTlFfdndzQ0ktNHJFQ29PUVM0RmZEel95R1I5Tk9JeGMyRWZwTWxrbl9N0gF8QVVfeXFMT09ZaklCTmlNUDlkTHZqcmpyRFZqM21CaHdoR1FnenBrUGx2aVlMdnQxcExkNEFvVkxHRjA2dTVsc3JTMlk1VVpDa2Z5QnNMZHBNNjVVcjNpbHlHRDlQWFJvQUNGV2M1eXdIdDlpbXlFTk90TjFYN1FjcEpmRw?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T18:21:32.264Z",
+      "relevant": false,
+      "summary": "CNBC roundup of credit card welcome bonuses that are ending soon, with offers worth $1,000+ in travel.",
+      "whyItMatters": "Consumer card-offers roundup; Capital One is not evidently a main subject and there is no policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T18:21:32.264Z"
     },
     {
       "id": "05495b03cb5ebddb",
@@ -896,41 +948,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-26T11:46:25.125Z"
-    },
-    {
-      "id": "795443bbf9baf41f",
-      "title": "Alex Tuch scores game-winner in overtime to push Capitals past Sabres",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnF1Q3VuWlNYelg3S3hGQjh0SWtqckdnWl9VNHZhMXJOQkRHVFFHaUNIUVhnVEJCbmF5QjNCMVBHMTZybGZMR3pJdjRKUkhDX1A5Ukp0VHJHZzQ0VFp5T1R2ZjNfTDJGX19aZlBTSHlsNkNSOEVaWXVNaUxqcndfczc4LThESDNsVVU1a1VvS1U2Tm5LWU11WWNsUFBTTjBJbXBDMG5sRVBCaVd1QkxBOHVkMWY2dVdjbEdiT1ZWQ2JYUFVIdEhLeg?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-25T11:52:48.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-25T17:03:36.099Z",
-      "relevant": false,
-      "summary": "Alex Tuch scored the overtime game-winner as the Capitals beat the Sabres. This is a sports recap with no evident connection to Capital One beyond a possible arena name.",
-      "whyItMatters": "Not about the company; no policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-25T17:03:36.099Z"
-    },
-    {
-      "id": "78fdcdc6c900be0a",
-      "title": "Alex Tuch scores twice, lifts Capitals past former team Sabres in OT",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUG1RNmdfSHI4NVU3WHZ1WmRTOWRIcDhiNlZ5Wm10UUZBRTFROXNVM04zZHExS0hYWEc2Z0VkdnZoZGNIVWlpSk5aZE5COC1jRGw3c1RsVGEtb1NvQUpnYzlnY0l0Wl9WVVc0RG1kU3habHlxeUh6VE5JS2hybjY3bF9CUmNZUWRpNlBLZnY5M1NCeThGWG41Z0ZwT2pGNVlSOWFSNDdlS2V5cHRrY05ic0k5TzA0SXc?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-25T02:02:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-25T17:03:36.099Z",
-      "relevant": false,
-      "summary": "Alex Tuch scored twice, including the overtime winner, as the Capitals beat his former team, the Sabres. Sports recap with no evident Capital One angle.",
-      "whyItMatters": "Not about the company; no policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "storyId": "795443bbf9baf41f",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-25T17:03:36.099Z"
     }
   ]
 }

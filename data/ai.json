@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-08T00:35:25.347Z",
+  "updatedAt": "2026-11-08T18:21:37.121Z",
   "briefing": [
     "Democrats plan to introduce a flood of AI bills once they take control of Congress, signaling a much busier AI legislative agenda ahead. (Reuters)",
     "Rep. Bill Foster introduced a bill that would bolster the use of technology to monitor AI-related financial risks, a direct item for financial services regulation. (Roll Call)",
@@ -9,6 +9,40 @@
   ],
   "briefingUpdatedAt": "2026-11-08T00:35:25.347Z",
   "articles": [
+    {
+      "id": "0fe2ccd7b11029a2",
+      "title": "Notice of Public Meetings of the Maryland Advisory Committee to the U.S. Commission on Civil Rights",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22799/notice-of-public-meetings-of-the-maryland-advisory-committee-to-the-us-commission-on-civil-rights",
+      "source": "Federal Register",
+      "paywalled": false,
+      "publishedAt": "2026-11-09T16:00:00.000Z",
+      "snippet": "Notice — Civil Rights Commission — Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Maryland Advisory Committee (Committee) to the Commission will hold public meetings via Zoom. The purpose is for the committee to begin hearing expert testimony and continue briefing planning on the committee's chosen topic of artificial intelligence and its application in voting administration.",
+      "firstSeenAt": "2026-11-08T18:21:37.121Z",
+      "relevant": true,
+      "summary": "The Maryland Advisory Committee to the U.S. Commission on Civil Rights will hold public Zoom meetings to hear expert testimony and plan its briefing on AI in voting administration.",
+      "whyItMatters": "It is a minor, state-level federal advisory process on AI and civil rights with little direct bearing on financial services.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T18:21:37.121Z"
+    },
+    {
+      "id": "dbc7a8a0acf3b176",
+      "title": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
+      "source": "Federal Register",
+      "paywalled": false,
+      "publishedAt": "2026-11-09T16:00:00.000Z",
+      "snippet": "Rule — Health and Human Services Department, Centers for Medicare & Medicaid Services — This final rule addresses: changes to the physician fee schedule (PFS); other changes to Medicare Part B payment policies to ensure that payment systems are updated to reflect changes in medical practice, relative value of services, and changes in the statute; codification of establishment of new policies for: the Medicare Prescription Drug Inflation Rebate Program under the Inflation Reduction Act of 2022; limiting Medicare coverage of certain individuals; the Ambulatory Specialty Model; updates to drugs a",
+      "firstSeenAt": "2026-11-08T18:21:37.121Z",
+      "relevant": false,
+      "summary": "CMS issued the final CY 2027 Medicare Physician Fee Schedule rule covering Part B payment policies, the Shared Savings Program and the drug inflation rebate program.",
+      "whyItMatters": "It is a health payment rule with no evident AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T18:21:37.121Z"
+    },
     {
       "id": "d9b087c526dcbb5e",
       "title": "Trump says he offered White House press secretary role to UFC’s Dana White",
@@ -42,6 +76,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-07T18:02:43.667Z"
+    },
+    {
+      "id": "a3f273358c5ae22e",
+      "title": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-11-06T20:36:10.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T18:21:37.121Z",
+      "relevant": false,
+      "summary": "Treasury bond prices fell as a strong labor market raised bets on a Fed rate hike.",
+      "whyItMatters": "It is about bond markets and rates, not AI policy.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T18:21:37.121Z"
     },
     {
       "id": "82fc2966bccd53d1",
@@ -112,6 +163,23 @@
       "analyzedAt": "2026-11-06T23:12:26.571Z"
     },
     {
+      "id": "982380488f86f016",
+      "title": "What AI agents can do for banks' customer relationships",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc1Y2Q1BzNzUtVlZWcWRzeGR3U0RtaDZ6MnRDNk1CVGJhSmxkTE5hUUJkaklMSzJjSXZQNFo3clJaS3c3R1hOM2E1NE9JTkV3dk5PNWZhLWZjaFRUb2pIaW1IQTltTUYzbVRpN05FOFVfVHRDRTJ4UG5DREVxaUFNN2J2Y3Z5bmNxczEtRkpyMmlNb0FB?oc=5",
+      "source": "American Banker",
+      "paywalled": true,
+      "publishedAt": "2026-11-06T12:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T18:21:37.121Z",
+      "relevant": true,
+      "summary": "American Banker discusses how AI agents could improve banks' customer relationships.",
+      "whyItMatters": "It touches AI in banking, but it appears to be an industry use-case piece with no stated policy action.",
+      "priority": "low",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T18:21:37.121Z"
+    },
+    {
       "id": "06e77849a2ac6a83",
       "title": "Treasury Yields Turn Higher, Eurozone Bond Yields Drop",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5",
@@ -178,6 +246,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-06T12:47:45.186Z"
+    },
+    {
+      "id": "16987d208cf2eafc",
+      "title": "The Argument for Buying Treasury Bonds Is Still Strong",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhYVjNQODJTZ1VjYmVpYTQwdTNSWVBSVEZvdXpWS3JwN3JjV084TnZqVk41MTFUcWliTTlGTEJ2TU1oSDNoeUtfMjBwT2pFRGstQjROUHJualZBbW1keWs2UHZWalJDYjF2Sm5PN2ZRbjVKb2h5b3dXZWtWVmpWTUM2U05BanF4WFZteWVwVFJia2pQTldXYWcxaU4yNmlZTHZ3?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-11-06T10:30:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-08T18:21:37.121Z",
+      "relevant": false,
+      "summary": "A WSJ piece argues that buying Treasury bonds remains a strong investment.",
+      "whyItMatters": "It is an investment commentary with no AI policy content.",
+      "priority": "low",
+      "category": "Treasury",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-08T18:21:37.121Z"
     },
     {
       "id": "b1a857a6abc8eed9",
