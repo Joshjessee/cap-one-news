@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-09T00:54:33.122Z",
+  "updatedAt": "2026-11-09T12:48:02.706Z",
   "briefing": [
-    "A US bank regulator issued its first-ever AI guidance for examiners, and the OCC says banks need strong controls when delegating tasks to AI agents. Together they signal supervisory expectations for AI use at banks. (Reuters, American Banker)",
-    "Democrats plan a flood of AI bills once they take control of Congress after the midterm sweep. Top Democrats are also calling for a national data center moratorium, and Politico and The Hill report a focus on Big Tech and Silicon Valley oversight. (Reuters, CNBC, Politico, The Hill, The Washington Post)",
-    "Rep. Foster introduced a bill that would bolster the use of technology to monitor AI-related financial risks. Banks are bracing for tougher congressional oversight under the new Democratic majority. (Roll Call, Reuters, Bloomberg)",
-    "The Trump administration canceled a meeting of a high-profile tech advisory panel, and the White House is declining to disclose how it vets AI security threats. NEC Director Hassett also dismissed concerns about financing of the AI buildout. (Reuters, The Washington Post, Bloomberg)",
-    "The Treasury Borrowing Advisory Committee said borrowing by AI companies to fund buildout isn't crowding out Treasury debt issuance. (Reuters)"
+    "A US bank regulator issued its first-ever AI guidance for examiners, and the OCC says banks need strong controls when delegating tasks to AI agents. Together they signal supervisory expectations for agentic AI at banks. (Reuters, American Banker)",
+    "Rep. Foster introduced a bill that would bolster the use of technology to monitor AI-related financial risks. It is a concrete financial-services AI measure to track. (Roll Call)",
+    "Democrats plan to introduce a flood of AI bills once they take control of Congress, and banks are bracing for tougher congressional oversight after the midterm sweep. (Reuters)",
+    "Newly empowered Democrats are eyeing Big Tech and AI scrutiny, and top Democrats are calling for a national data center moratorium. (Politico, The Hill, CNBC, The Washington Post)",
+    "The administration is facing questions on AI oversight: the White House declined to disclose how it vets AI security threats, and it scrapped a meeting of a high-profile tech panel. NEC Director Hassett dismissed concerns over AI financing, and TBAC said AI borrowing isn't crowding out Treasuries. (The Washington Post, Reuters, Bloomberg)"
   ],
-  "briefingUpdatedAt": "2026-11-09T00:54:33.122Z",
+  "briefingUpdatedAt": "2026-11-09T12:48:02.706Z",
   "articles": [
     {
       "id": "0fe2ccd7b11029a2",
@@ -43,6 +43,40 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-08T18:21:37.121Z"
+    },
+    {
+      "id": "6cf320aa6be58c5c",
+      "title": "U.S. Treasury Yields Edge Lower as Oil Prices Decline",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-11-09T07:38:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-09T12:48:02.706Z",
+      "relevant": false,
+      "summary": "Report on movements in U.S. Treasury bond yields as oil prices fell.",
+      "whyItMatters": "Market news with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-09T12:48:02.706Z"
+    },
+    {
+      "id": "73aaf159931a1faa",
+      "title": "Trump Says He Backs Energy Permitting Bill on Eve of Senate Vote",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNnZHdXNLSV93WUJjVmgydlp0YkhSNWFuNkZsZjFkYi00aDV0bzBsYXJpZ3kzQlloYW5ka3lnTm1DUGFnWUNDYVNHTHdRRGE4dVlTUXJ4R0lvY3pGY2p2UjZ1Z0c1dE9nMXRsVm5LenR3VmsyT0c1azlvX2MwWlpXdlVwNm44bjVNSDhkYmFPVURGNkxhNU1LRTZ6YTU2WkJRWHg1QVRhN0sxUmpaaHEwc3NiMlBZdw?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-11-09T01:16:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-09T12:48:02.706Z",
+      "relevant": false,
+      "summary": "President Trump says he supports an energy permitting bill ahead of a Senate vote.",
+      "whyItMatters": "Energy permitting is not AI policy based on the headline, though it could indirectly touch data center buildout.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-09T12:48:02.706Z"
     },
     {
       "id": "9f68093d77968b12",
@@ -94,6 +128,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-07T18:02:43.667Z"
+    },
+    {
+      "id": "ca4789148a39a7aa",
+      "title": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVpUdVhKa3ZpUXBuSDdMV0tXM3JyVDFhWmpjOU95Mld1cWlMeGhPSmJ3Ym5WeHVQSkpLLW5iQngzVUVyeHg5Y19ucWF0SUpVNkxUOU5DNTFYN0dBN2hGWi1DVDNUQU9xMEtIVFlQSG1FSlU1NEUxeV9FeUNyV05CMXRVU3V3MmdSVFBEc2pjbE9WMFN3ZU1PS252VXVHemM5YkpmeFd4OVpFZ3pIZnN4TlpILWZfckU3R3VqTGs4RE84dw?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-06T23:53:47.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-09T12:48:02.706Z",
+      "relevant": true,
+      "summary": "IMF Managing Director Georgieva said a slowdown in AI-driven growth would be a factor for central banks' decisions.",
+      "whyItMatters": "Signals how AI-driven growth expectations are shaping monetary policy and financial stability thinking, which is relevant context for financial services.",
+      "priority": "medium",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-09T12:48:02.706Z"
     },
     {
       "id": "a3f273358c5ae22e",
@@ -2178,74 +2229,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-27T11:47:12.332Z"
-    },
-    {
-      "id": "32df3289fd4749b0",
-      "title": "How an AI start-up founded by ex-DOGE staffers broke into Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGRfa29NR1l4a19INEZWSXZWakhia2ZKTnRpQTVYeFNTUXRhdURvSTltbV9RRVJkbzVndVhsMUg0Y3N1MkZVNm11QVB5ZWtFVlhGY2NSSkp1MU84Qm0taWMtcURQcm9EbjZFTjV4Sk9NMTFwLV9Xc1BqM3RqWFhlLWpQZl8tOHJwdktBT2kxTUV6d2ZnWXg1cWwyVWtNSVl2UVA2LU1mWkNlcFZKd1BhNlpRbXZMeGZ0SEdR?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-26T12:00:16.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-27T15:53:52.691Z",
-      "relevant": false,
-      "summary": "The Washington Post reports on an AI start-up founded by former DOGE staffers that gained access to or broke into Anthropic.",
-      "whyItMatters": "Has a tenuous government link via ex-DOGE staff but the headline shows no specific federal AI policy action.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-27T15:53:52.691Z"
-    },
-    {
-      "id": "91af58387c2a18a4",
-      "title": "Powerful executives cozied up to Trump. Now they fear a reckoning.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFRsRjIzMXI1XzBuaHB0NVVTX3ItU2tETmh6NWdjYUN0cVhFdV9iaTRaX0ZvQ3pMYTE1SDhPRzRVUXdSMHExQTdBcWZDemhTTDlEUENzZE1JZ29kb1pmeDE3OFZ3NnB6UWJ4X0VNSkhfYklNOURBdEh2LU9pWjFYbW5YSTVyaGJnRDIzZ1ZYMU51XzZFMU9wRkEzdXNteXk1RUZVd1ZuXzIzNG1OSWk5UU5lbE9QamZNOVE?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-26T10:32:58.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-26T11:46:29.864Z",
-      "relevant": false,
-      "summary": "The Washington Post reports on powerful executives who aligned themselves with Trump and now worry about a reckoning. The headline gives no indication of an AI policy focus.",
-      "whyItMatters": "General political coverage with no evident AI policy or financial services angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-26T11:46:29.864Z"
-    },
-    {
-      "id": "e26d81ba4f4bbd2b",
-      "title": "A.I. Companies Want to Write the Rules Governing Themselves. Can They Be Trusted?",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOenNBLVpMZlhpa3NSeG03QXlQY0VEaVhkTllnTGwxVG9TS3l5MXBtTGt4dW9oQ3NVTVFsbGgyNTI2eDJGSG1iSmpvWGJ6U3FoY3doQnVBSS01LTVqNTZtQng4SHNFMDIxQmxHRTZOUEZzNFBjTEQwQVhQd2FEa2ZsNC1XQQ?oc=5",
-      "source": "The New York Times",
-      "paywalled": true,
-      "publishedAt": "2026-10-26T09:01:36.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-26T11:46:29.864Z",
-      "relevant": true,
-      "summary": "The New York Times examines efforts by AI companies to shape or write the rules that govern them, and asks whether they can be trusted to do so.",
-      "whyItMatters": "Industry influence over AI rulemaking and self-regulation bears on federal AI policy and the standards the team tracks.",
-      "priority": "medium",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-26T11:46:29.864Z"
-    },
-    {
-      "id": "abb2fd14d6ede67c",
-      "title": "Operation Economic Outcast: U.S. Treasury Bears Down on Iran and Its Enablers",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1ZRdzJkOEthV1V3bkJUdlE0Yy1vbjE3ZEk2VEJlbGRHaWV5dkEzT3lselV4ZU4tSnN3bVFVVXpwOWt3YzFPRTQydi02LVlXRUFIa2xtclhHR2VTZnRCR3hHSzFLMWFjdExxQW55eF9EbnZtQW9LY0dKSnhaRUpQbXJUQU1hVnZiNGJvdWM3SldFT3pQVThURHhPNEtGa3BPSnBISWNzcTlURXVMOExxRFhn?oc=5",
-      "source": "The Wall Street Journal",
-      "paywalled": true,
-      "publishedAt": "2026-10-26T08:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-26T16:48:40.539Z",
-      "relevant": false,
-      "summary": "The WSJ reports on Treasury's sanctions campaign against Iran and the networks that support it.",
-      "whyItMatters": "Sanctions enforcement, not AI policy, so it doesn't bear directly on this team's AI work.",
-      "priority": "low",
-      "category": "Treasury",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-26T16:48:40.539Z"
     }
   ]
 }
