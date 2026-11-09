@@ -1,13 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-08T18:21:37.121Z",
+  "updatedAt": "2026-11-09T00:54:33.122Z",
   "briefing": [
-    "Democrats plan to introduce a flood of AI bills once they take control of Congress, signaling a much busier AI legislative agenda ahead. (Reuters)",
-    "Rep. Bill Foster introduced a bill that would bolster the use of technology to monitor AI-related financial risks, a direct item for financial services regulation. (Roll Call)",
-    "The Trump administration canceled a scheduled meeting of a high-profile technology advisory panel; the reporting gives no detail on the panel or the reason. (Reuters)",
-    "Politico analysis argues AI safety-focused 'doomers' gained significant political influence in 2026, which may shape the coming congressional debate. (Politico)"
+    "A US bank regulator issued its first-ever AI guidance for examiners, and the OCC says banks need strong controls when delegating tasks to AI agents. Together they signal supervisory expectations for AI use at banks. (Reuters, American Banker)",
+    "Democrats plan a flood of AI bills once they take control of Congress after the midterm sweep. Top Democrats are also calling for a national data center moratorium, and Politico and The Hill report a focus on Big Tech and Silicon Valley oversight. (Reuters, CNBC, Politico, The Hill, The Washington Post)",
+    "Rep. Foster introduced a bill that would bolster the use of technology to monitor AI-related financial risks. Banks are bracing for tougher congressional oversight under the new Democratic majority. (Roll Call, Reuters, Bloomberg)",
+    "The Trump administration canceled a meeting of a high-profile tech advisory panel, and the White House is declining to disclose how it vets AI security threats. NEC Director Hassett also dismissed concerns about financing of the AI buildout. (Reuters, The Washington Post, Bloomberg)",
+    "The Treasury Borrowing Advisory Committee said borrowing by AI companies to fund buildout isn't crowding out Treasury debt issuance. (Reuters)"
   ],
-  "briefingUpdatedAt": "2026-11-08T00:35:25.347Z",
+  "briefingUpdatedAt": "2026-11-09T00:54:33.122Z",
   "articles": [
     {
       "id": "0fe2ccd7b11029a2",
@@ -42,6 +43,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-08T18:21:37.121Z"
+    },
+    {
+      "id": "9f68093d77968b12",
+      "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelZPY0tQazFGWWxNRjFac00xRWFpVE1vdVpHenVSMDNVS3c0WFpZMXk4Rkk5d2xFYU9wUVdtcGZIYWlvVU41eFZaV1RGdDU4bGE3Z1ppeVlMdTZleU13RVRRbDNVS0pDQzdQbjB5TkFjOWF0NDRxNXA3azY0UGRtM2M5SFU2cDFkUHhZMVVpSVpRM2JjeldzMzU1QnMxZDNCd1ZVcnV1eE5ROWtwZjF2Y1E1UQ?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-11-08T20:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-09T00:54:33.122Z",
+      "relevant": false,
+      "summary": "Bloomberg reports that Treasury bonds rallied further after the election, as AI-related stocks sold off. The piece is about market moves, not a government action on AI.",
+      "whyItMatters": "This is a market story about bond yields and AI stocks, with no federal AI policy or Treasury AI action, so it needs little attention.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-09T00:54:33.122Z"
     },
     {
       "id": "d9b087c526dcbb5e",
@@ -2228,23 +2246,6 @@
       "category": "Treasury",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-26T16:48:40.539Z"
-    },
-    {
-      "id": "2b615bb8e6f65e77",
-      "title": "From Affordability to AI, The Issues Driving the US Midterms",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ21EZWpHYUFma2NBbnNydGc0RWpCYlB4NXFxOUo4WURHc3dXSi1URmJPQ2kzMGhDSWR6Ykw2MmpSLXR5Y2pEaFhwZk5YSVhXMEEzOGd6UGhRNlZHRmp6dHFxNURLM2tVN0Q2SmtuTnFPaDA3cVdYQWtXZTdaa2tIUUFJN20zNDVWLS1pcENZMTk0TUFMWkkxN1E0Y3dMWHB6TVowbEpVMmREU3RIU0JObEF3?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-25T22:13:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-25T23:16:23.591Z",
-      "relevant": true,
-      "summary": "Bloomberg rounds up the issues shaping the 2026 US midterms, with AI named alongside affordability as a campaign theme.",
-      "whyItMatters": "AI's role as a midterm issue could shape the post-election congressional agenda on AI legislation and regulation.",
-      "priority": "medium",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-25T23:16:23.591Z"
     }
   ]
 }

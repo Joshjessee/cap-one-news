@@ -1,11 +1,12 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-08T18:21:32.264Z",
+  "updatedAt": "2026-11-09T00:54:30.005Z",
   "briefing": [
-    "Capital One shows up only in passing in CNBC consumer-finance roundups: the best online personal loans of 2026 may list it among lenders, and the 9 best free checking accounts for November 2026 may include it, though neither is confirmed. (CNBC)",
-    "No regulatory, congressional, court, enforcement, merger (including Discover), executive, or security developments involving Capital One appear in the articles provided, so there is nothing requiring policy-team action today."
+    "Capital One appears only peripherally in this batch: CNBC's roundup of the best online personal loans of 2026 may list the company among lenders, but it is not a main subject and no policy, regulatory or legal developments are involved. (CNBC)",
+    "CNBC's November 2026 ranking of the best free checking accounts does not confirm whether Capital One is included, so it is low priority for the policy team. (CNBC)",
+    "No news today on regulators, Congress, courts, enforcement, the Discover integration, or data/security incidents involving Capital One in the articles provided."
   ],
-  "briefingUpdatedAt": "2026-11-08T00:35:18.968Z",
+  "briefingUpdatedAt": "2026-11-09T00:54:30.005Z",
   "articles": [
     {
       "id": "9e5bd0d4a79d76a8",
@@ -931,23 +932,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-28T16:39:35.662Z"
-    },
-    {
-      "id": "e9b2a11cd117e763",
-      "title": "Raptors F Kawhi Leonard (knee) out vs. Timbwerwolves",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEE5cmw1V0l3UHA0YVM1SUdLRXFXNzgwcHAtU1FoY0dudzl4eUVFbTlNR0NNcTE3cUVoOFN1c1N3V3YtRHRUZGN3UUZ3QnhKa194ZGV5cVd2Z0ZJV09DeHJIcG94bTBsZ3hWRWhZeWo5Nk5NdjR1OGJiMWpQZmRQaE1lemhFRXZVOUFYczRsWHFvaHo5b0stcmxJQUFxZw?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-25T23:15:43.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-26T11:46:25.125Z",
-      "relevant": false,
-      "summary": "Sports injury report saying Raptors forward Kawhi Leonard is out with a knee issue against the Timberwolves.",
-      "whyItMatters": "Sports news with no relevance to Capital One or its policy issues.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-26T11:46:25.125Z"
     }
   ]
 }
