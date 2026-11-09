@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-09T12:48:02.345Z",
+  "updatedAt": "2026-11-09T20:46:36.808Z",
   "briefing": [
     "Capital One appears only peripherally in this batch: CNBC's roundup of the best online personal loans of 2026 may list the company among lenders, but it is not a main subject and no policy, regulatory or legal developments are involved. (CNBC)",
     "CNBC's November 2026 ranking of the best free checking accounts does not confirm whether Capital One is included, so it is low priority for the policy team. (CNBC)",
@@ -847,57 +847,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-29T22:46:50.741Z"
-    },
-    {
-      "id": "2d930c8a2735df9c",
-      "title": "Rafael Nadal to play in Las Vegas exhibition in February for 1st US action since retirement",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYW1nX19GLUJPRG1UaklfQ2tZaDZLVFA4VXBlN0lRdy1reEVUY3FrbXRDeEc5TlIyYnhKblFxMXF6TjZ1cFhVX2trRG53bTRYMFVEMjJvVE9NZWcyVFdjVDFmN3E3d0hFcVQtREFjSDA0REpIQzM2YW84RnJXUk5RUzI4TTdmMDc0M1hmeEdhNVVLZTdpcDMyNTk5VFJ3Uk1vcHo2aFItMUFVSGxRMkZsUkdDX1JxbFktSWxuM2FQTTJFLUNuSUp2VjMwck9uMl9sMlhn?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-26T16:35:31.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-26T16:48:35.598Z",
-      "relevant": false,
-      "summary": "Rafael Nadal will play in a Las Vegas exhibition in February, his first US appearance since retiring. No Capital One connection is evident from the headline.",
-      "whyItMatters": "Sports news with no evident policy relevance to Capital One.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-26T16:48:35.598Z"
-    },
-    {
-      "id": "aa1f9e0b3451216d",
-      "title": "Billy Crystal: Trump’s Kennedy Center moves ‘so selfish and so petty’",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOODV0VnNDRzBXS2tYS3NSY2liTm5TTmlzZmxSSG5iVXZMV1EwSllFbThDVndpM2hldHdIcjhUeWNQRU43U1l4bTFLeGp3bGNJZjVobGdtUllEc1N3VmFTWDkydnN5NWxjQUgyNlZ0T3ZJYWFkVW05TUN2UG5uVks5M2UtRjN6MjZnQVHSAY8BQVVfeXFMTkV2U0p6TG1hRFBmZzlWbWtuUHNaY3M5ZFI5Y0Z4ZzlYZ3YyNWhydm56UUVxN0wteWdyVGp5blppSkZGdGxHbVBYQTlOdThrSW9hQ1EwWjREc2hzVGYzUlhianFsbTV1TjBpeG9RZmszVmZwNDhtanVfMlBtcmJKNHk2clF4bGxCVElRYkQ5Y1k?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-26T16:09:31.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-26T16:48:35.598Z",
-      "relevant": false,
-      "summary": "Billy Crystal criticizes Trump's moves regarding the Kennedy Center, calling them selfish and petty.",
-      "whyItMatters": "No evident Capital One connection; any mention would be incidental.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-26T16:48:35.598Z"
-    },
-    {
-      "id": "b7d51fb50f00987c",
-      "title": "Mets' Francisco Lindor wins 2026 Roberto Clemente Award",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVptc1ZoSlNxUFNhX2NHc2lGdUxwN2FhdmhVMnZQM1ZBcUVjdDBYaU83SzhWZ29fQ0VueHdpbFhsMWVzLWUzbjJtV2VyS09FaDZJRW02eVlQX0hqd2cyendkVHV0X3Z1ZDRfUEFjQW9fZ1NONWN0OFp3ZDZvT05jWDhzb1pvNzdDemRvbkk3cUpNNlZELTQ1UnhuajdwR2NPNWE0RA?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-26T14:43:55.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-26T16:48:35.598Z",
-      "relevant": false,
-      "summary": "Mets shortstop Francisco Lindor won the 2026 Roberto Clemente Award.",
-      "whyItMatters": "Sports award story with no evident Capital One focus.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-26T16:48:35.598Z"
     }
   ]
 }
