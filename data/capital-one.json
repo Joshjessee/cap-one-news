@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-10T12:47:23.053Z",
+  "updatedAt": "2026-11-10T17:53:20.651Z",
   "briefing": [
     "Capital One shows up only in low-priority consumer-finance roundups in this batch. CNBC's ranking of the best online personal loans of 2026 may list Capital One among lenders, but its inclusion is unconfirmed. (CNBC)",
     "CNBC's November 2026 roundup of the best free checking accounts also does not say which banks it includes, so Capital One's presence can't be confirmed. (CNBC)",
@@ -690,23 +690,6 @@
       "relevant": false,
       "summary": "A Politico 'Down-ballot digest' roundup of state and local election news; the headline gives no indication of Capital One being a subject.",
       "whyItMatters": "No evident Capital One connection, so the policy team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-27T20:43:20.614Z"
-    },
-    {
-      "id": "f70d6263eff64e90",
-      "title": "Raptors F Kawhi Leonard (knee) out at least a week",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1FxSWR6TUVaSXhZMC01aFY0Y1hIZVNvVGVjVDltTDBDMDItcWpycGpSUThvSGxjN0Jlbl9sV2ZrSEhBblZWellvN2hkRGZpZlhWdVFqTVZ6Q1NwTmhUa29JV0d0X29mUC1sVk1ZLWsxMFJuVW5Kc1JOaURjY1doUTMzWnhSTE5uQmVPSEY4elJSTmtsTFE?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-27T16:15:43.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-27T20:43:20.614Z",
-      "relevant": false,
-      "summary": "Reuters reports that Toronto Raptors forward Kawhi Leonard will miss at least a week with a knee injury.",
-      "whyItMatters": "Sports news with no relevance to Capital One or its policy interests.",
       "priority": "low",
       "category": "Other",
       "analysisVersion": 2,

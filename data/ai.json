@@ -1,14 +1,31 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-10T12:47:23.437Z",
+  "updatedAt": "2026-11-10T17:53:21.072Z",
   "briefing": [
-    "The Senate advanced an energy permitting bill opposed by some Democrats and tribes, and Reuters reports it is Congress's first post-'Blue Wave' look at data center buildout through permitting. (Reuters)",
-    "Congressional Democrats are demanding answers from the Trump administration on its AI policy after reports of a spy plot, signaling oversight pressure tied to AI and national security. (The New York Times)",
-    "Nvidia's ties to the Trump administration face scrutiny after reports that CEO Jensen Huang was targeted by Chinese intelligence, which may feed debate over AI chip export policy. (CNBC)",
-    "The Maryland Advisory Committee to the U.S. Commission on Civil Rights will hold public meetings to plan a briefing on AI in voting administration. (Federal Register)"
+    "The Senate advanced an energy permitting bill opposed by some Democrats and tribes, and Reuters says it gives Congress its first post-'Blue Wave' look at data center policy. (Reuters)",
+    "Congressional Democrats are demanding answers from the Trump administration on its AI policy after reports that Nvidia CEO Jensen Huang was targeted in a Chinese intelligence spy plot. (The New York Times, Reuters, CNBC)",
+    "Trump's close ties to Huang and Nvidia are under scrutiny, which could add oversight pressure on AI chip and export policy. (Reuters, CNBC)",
+    "The Maryland Advisory Committee to the U.S. Commission on Civil Rights will hold public Zoom meetings to plan a briefing on AI in voting administration. (Federal Register)"
   ],
-  "briefingUpdatedAt": "2026-11-10T04:09:07.544Z",
+  "briefingUpdatedAt": "2026-11-10T17:53:21.072Z",
   "articles": [
+    {
+      "id": "a8a778be2110b37d",
+      "title": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-11-10T16:55:09.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-10T17:53:21.072Z",
+      "relevant": false,
+      "summary": "Markets wrap: stocks and bonds fell after CPI data raised bets on a Federal Reserve rate hike.",
+      "whyItMatters": "General market news with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-10T17:53:21.072Z"
+    },
     {
       "id": "b00cd132f1b1b654",
       "title": "- The White House (.gov)",
@@ -112,6 +129,24 @@
       "storyId": "5f2b17d88355e651",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-10T04:09:07.544Z"
+    },
+    {
+      "id": "9f946de6277dbbb1",
+      "title": "Trump's close ties to Nvidia's Huang scrutinized after foreign intelligence concerns",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWVFLU9IdFNEUzFUaXdxTC1PZ3VrOElsd1BDMXE4ckx1ZmdLWnBBMjZtTUF3MXBXcVJLRVJmbFZ0MnhNakc1czRyNFRFSzVZX29adEw3ZjV4aGRycmVwVmQ0RGZpaWxmWXJ2NUQ5U1ptVkVISXdOdjFnaGdkZGNBVVI2OHdiVVVYWEpZNEhMZ3NtckVDYi1mMHU0VUJHcDN1dEF1NmxkNEZxZGpOWjRtM1cyVTgxT256SFNDOEdBZ3I4MThjY0E4bVF1ZERTV2c?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-09T18:09:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-10T17:53:21.072Z",
+      "relevant": true,
+      "summary": "Reuters reports that President Trump's close ties to Nvidia CEO Jensen Huang are being scrutinized after foreign intelligence concerns about Huang being targeted.",
+      "whyItMatters": "It bears on scrutiny of the administration's AI and chip export policy and the influence of industry leaders on it.",
+      "priority": "medium",
+      "category": "Administration",
+      "storyId": "ab92bc2ec158e293",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-10T17:53:21.072Z"
     },
     {
       "id": "0fe2ccd7b11029a2",
@@ -2056,40 +2091,6 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-27T20:43:25.121Z"
-    },
-    {
-      "id": "cb4f3e5f1baa0404",
-      "title": "Critical Material List; Addition of Helium",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21884/critical-material-list-addition-of-helium",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-27T16:00:00.000Z",
-      "snippet": "Notice — Energy Department — The United States (U.S.) Department of Energy (DOE) is issuing this notice to advise the public that DOE added helium to the DOE Critical Material List. This notice also provides the link to the assessment that forms the justification for including helium on the Critical Material List. Helium is non-substitutable for multiple critical energy functions, including: semiconductor manufacturing, leak testing natural gas infrastructure, and quantum computing, along with being essential to key medical/scientific applications. Demand for helium is also growing as it enabl",
-      "firstSeenAt": "2026-10-27T11:47:12.332Z",
-      "relevant": false,
-      "summary": "The Department of Energy added helium to its Critical Material List, citing uses in semiconductor manufacturing, quantum computing and other applications.",
-      "whyItMatters": "Only tangentially tied to AI supply chains; not AI policy or financial regulation.",
-      "priority": "low",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-27T11:47:12.332Z"
-    },
-    {
-      "id": "db0e1827bd9d9695",
-      "title": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-27T13:35:09.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-27T15:53:52.691Z",
-      "relevant": false,
-      "summary": "Markets wrap noting US stock futures rising and oil falling on comments about Iran.",
-      "whyItMatters": "General market news with no AI policy angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-27T15:53:52.691Z"
     }
   ]
 }
