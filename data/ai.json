@@ -1,13 +1,13 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-10T17:53:21.072Z",
+  "updatedAt": "2026-11-10T23:26:04.827Z",
   "briefing": [
-    "The Senate advanced an energy permitting bill opposed by some Democrats and tribes, and Reuters says it gives Congress its first post-'Blue Wave' look at data center policy. (Reuters)",
-    "Congressional Democrats are demanding answers from the Trump administration on its AI policy after reports that Nvidia CEO Jensen Huang was targeted in a Chinese intelligence spy plot. (The New York Times, Reuters, CNBC)",
-    "Trump's close ties to Huang and Nvidia are under scrutiny, which could add oversight pressure on AI chip and export policy. (Reuters, CNBC)",
-    "The Maryland Advisory Committee to the U.S. Commission on Civil Rights will hold public Zoom meetings to plan a briefing on AI in voting administration. (Federal Register)"
+    "The Senate advanced an energy permitting bill opposed by some Democrats and tribes, and Reuters says it gives Congress its first post-'Blue Wave' opportunity to address data centers. (Reuters)",
+    "Congressional Democrats are demanding answers on the Trump administration's AI policy after reports that Nvidia CEO Jensen Huang was targeted by Chinese intelligence, and Trump's close ties to Huang are drawing scrutiny. Trump says Huang denied knowing that a woman he had an affair with was a Chinese spy. (The New York Times, Reuters, CNBC, The Washington Post)",
+    "New York Gov. Kathy Hochul launched what Politico calls the nation's first state-run AI testing program. Details were not provided, but it may be a model for other states. (Politico)",
+    "The Maryland Advisory Committee to the U.S. Commission on Civil Rights will hold public Zoom meetings to hear expert testimony and plan its briefing on AI in voting administration. (Federal Register)"
   ],
-  "briefingUpdatedAt": "2026-11-10T17:53:21.072Z",
+  "briefingUpdatedAt": "2026-11-10T23:26:04.827Z",
   "articles": [
     {
       "id": "a8a778be2110b37d",
@@ -25,6 +25,41 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-10T17:53:21.072Z"
+    },
+    {
+      "id": "446e681351d92a54",
+      "title": "New York’s Hochul launches nation’s first state AI testing program",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0NOelNaTWQ2a0diSTY0SEdqSEpITktNcVdRdlo2eUJwdzRJZWg2LUthSGR1VFhwc1VZZ0pKcTQ3UVpLYXd6OG5OUmMxOGVFbEpHdnZjajlfTGxPN2RhbjE1dUYwcjREWW1rcEZjdHpyMGxZclNXVHVXQm1qVHRSM0RWVzJDUTBmUlkyV05wYzFDeVpVWEFnZUVOclQ?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-11-10T13:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-10T23:26:04.827Z",
+      "relevant": true,
+      "summary": "New York Governor Kathy Hochul has launched what Politico calls the nation's first state-run AI testing program. Details are not given beyond the headline.",
+      "whyItMatters": "State AI testing initiatives can set precedents that influence federal approaches and industry compliance expectations, including in financial services.",
+      "priority": "medium",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-10T23:26:04.827Z"
+    },
+    {
+      "id": "0bb2b1d264cf44bf",
+      "title": "Trump says Nvidia CEO denied knowing woman he had affair with was a Chinese spy",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOW1HU00tbS1Cc1hhRHRONTBJakI4QW15UDhOUWFqVVByOXdEcWpUeXFpMVFwQ2wySFg0UkRfd3NjX0lma1RhX1k3cjJpcXRQd2FfbzFvdS1nUjdPcTJXSW1TRWpDV0drNnJqRG1iZks0TkJ2dEFadGFBZlJNcVdFdUU5OUVWYXpsTjFhMXRYenhsM29zUkFXT0tlRFc5SDJfYWJIYjFmQjhYRlB2dUdweVBHZGgxeVE?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-10T07:10:47.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-10T23:26:04.827Z",
+      "relevant": true,
+      "summary": "Trump says Nvidia CEO Jensen Huang denied knowing that a woman he had an affair with was a Chinese spy. This continues coverage of the Huang intelligence-targeting reports.",
+      "whyItMatters": "The story feeds scrutiny of Trump's AI and chip export policy and Nvidia ties, which could prompt congressional oversight.",
+      "priority": "low",
+      "category": "Administration",
+      "storyId": "ab92bc2ec158e293",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-10T23:26:04.827Z"
     },
     {
       "id": "b00cd132f1b1b654",
@@ -2040,57 +2075,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-28T11:46:32.437Z"
-    },
-    {
-      "id": "9f36015d71c71e96",
-      "title": "Banks Eye $21 Billion of Bonds for Broadcom Chip-Financing Deal",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObENDd2ZaNmE1VUlBR0d6Q1YydGNyX1dNZUV1YVVoTlpfb1hJckdOV1VKTDJqLXZhbzNWdnpUOWNwc2huLVBXWUF5ZFZzUU1meXhPTzlGMmc4cUt5VzBCeEJwb0NLQ3p3d2xhc0NVb0tuOFRHS3JmbjRHMXp4UDd5WEZiUUJKbHBrTFNJLVVMSnFLZmU1ZHRhMzVVZnBFS2xjY05LQzdDSTFPSGMxVzVQNkFocw?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-10-27T21:17:50.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-28T01:25:12.981Z",
-      "relevant": false,
-      "summary": "Bloomberg reports that banks are looking at roughly $21 billion of bond sales tied to financing for a Broadcom chip deal. The headline points to a capital markets transaction, with no policy or regulatory angle evident.",
-      "whyItMatters": "This is deal financing news with no evident federal AI policy or regulatory action, so the team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-28T01:25:12.981Z"
-    },
-    {
-      "id": "7d6349805316d37f",
-      "title": "Spy Chief Tries to Restore Order After Upheaval at Intelligence Office",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FaTBuVnpQZ1BHaVFqaHNGdDdJbDlFcGNCM2VfMEs5aWtrbl9ucE1HOTN0VHZ5eFMwRkZ2ODBWV2hSYkEwT3djRUVHRXlrejVXYlliQUctc2JJRkRDdmdEUEtlQlBnekhlYld4RFZvWTZkNVNZNjRZ?oc=5",
-      "source": "The New York Times",
-      "paywalled": true,
-      "publishedAt": "2026-10-27T20:23:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-27T20:43:25.121Z",
-      "relevant": false,
-      "summary": "The NYT reports that the spy chief is trying to restore order after upheaval at an intelligence office. The headline gives no indication of an AI policy angle.",
-      "whyItMatters": "Appears to be general intelligence-community news with no evident AI policy or financial services relevance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-27T20:43:25.121Z"
-    },
-    {
-      "id": "c30c60193cc3cbb0",
-      "title": "Trump says he will ban the term artificial intelligence",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWdCemlqWmdjRWJ3TlVwdVVxQU1Jei1IM2ZMZERVMHBwcUZKdnY4OVhBeFhmV1pSNE9NU29nck5rMWdXbXgzRFVaV0ZHZlBjOUdRTjhGY1VQNFJFUTBRdkpnaVVJQnZZYnRJM1NPbTR1RWtSbVUtSDlHWUtsNVUxaFJhU3FKWkRsZ1BpUzRSeE1waGZrclRj0gGcAUFVX3lxTE9DUHZBbUFob0lyNnJQZjhBZzVrWFYxU2NmQVhDOWFmb2xTMU5JTnpIS3FwejdpdnZmUU5kUDBtaVRkb3h1NkszSVo4by1oRjVtdDlfNklZRFRsRUpjVFJCelhudTRSTnAtSm9OT3UwX2ZMRFpqUE02NExrbEZTeWVsNG0wV0pYVjdnUkxTUFVoYVZfWm0zdGs0RXdlMQ?oc=5",
-      "source": "The Hill",
-      "paywalled": false,
-      "publishedAt": "2026-10-27T18:37:21.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-27T20:43:25.121Z",
-      "relevant": true,
-      "summary": "The Hill reports that President Trump says he will ban the term 'artificial intelligence.' The headline alone does not say how or whether this would be formalized.",
-      "whyItMatters": "A presidential statement on how AI is named or framed could signal Administration messaging or policy direction, though any concrete action is unclear.",
-      "priority": "medium",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-27T20:43:25.121Z"
     }
   ]
 }

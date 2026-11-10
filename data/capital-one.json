@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-10T17:53:20.651Z",
+  "updatedAt": "2026-11-10T23:26:04.450Z",
   "briefing": [
     "Capital One shows up only in low-priority consumer-finance roundups in this batch. CNBC's ranking of the best online personal loans of 2026 may list Capital One among lenders, but its inclusion is unconfirmed. (CNBC)",
     "CNBC's November 2026 roundup of the best free checking accounts also does not say which banks it includes, so Capital One's presence can't be confirmed. (CNBC)",
@@ -677,23 +677,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-28T22:37:47.764Z"
-    },
-    {
-      "id": "c715b293d6b6e513",
-      "title": "Down-ballot digest",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1ktakJzc1U5b2hfTVQ5Qm1WV05FS2ZOZ1I2bmF4TThiUVZGSjczMzdmZUNYSmx4LTAzdzdmbHpCTDR1NTd3ZG9NckhnWXVLUmdFWEtWMnU1RW1tMkFOX0FrYWhjSkxTeXlrd3lRRFRSWExuYzNabXVoV2xCOWZHemhXZnc4MkczX1hleTlNUkU?oc=5",
-      "source": "Politico",
-      "paywalled": false,
-      "publishedAt": "2026-10-27T18:07:24.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-27T20:43:20.614Z",
-      "relevant": false,
-      "summary": "A Politico 'Down-ballot digest' roundup of state and local election news; the headline gives no indication of Capital One being a subject.",
-      "whyItMatters": "No evident Capital One connection, so the policy team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-27T20:43:20.614Z"
     }
   ]
 }
