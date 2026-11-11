@@ -1,13 +1,46 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-10T23:26:04.450Z",
+  "updatedAt": "2026-11-11T12:47:48.613Z",
   "briefing": [
-    "Capital One shows up only in low-priority consumer-finance roundups in this batch. CNBC's ranking of the best online personal loans of 2026 may list Capital One among lenders, but its inclusion is unconfirmed. (CNBC)",
-    "CNBC's November 2026 roundup of the best free checking accounts also does not say which banks it includes, so Capital One's presence can't be confirmed. (CNBC)",
-    "There are no regulatory, legislative, legal, enforcement, merger or Discover-related developments in these articles, so nothing needs action from the policy team today."
+    "Capital One appears only in passing in a CNBC consumer-finance roundup of the best online personal loans of 2026, which may list it among many lenders; there is no company-specific news or policy development. (CNBC)",
+    "No regulatory, congressional, legal, enforcement, merger (including Discover), executive or security developments involving Capital One appeared in the articles provided today."
   ],
-  "briefingUpdatedAt": "2026-11-10T04:09:03.539Z",
+  "briefingUpdatedAt": "2026-11-11T12:47:48.613Z",
   "articles": [
+    {
+      "id": "6aa072ae8ba2123d",
+      "title": "After US market shake-out, signs suggest too soon to say worst is over",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDNPMm44clZfWEJ5a0o3NTNEYVl5Y0ZuOHJTbnUyc2dDRjVITnk0akVVQnJiWWFIZnVGek5WTTBWN0JLTEV6YmhNS2tmV0NrWkc3aFNKWDZCdjVyNjRxd3JKSjVZcGtXM29kWEJlMGVvS3JYeTV6aU5tLXk2RUNEUEhpOHkzRlBURUpvbWd2NXllQXllZzVDOHkydnpZU0E2UWNZRDhUYXVIbGFVNzR2cWo3eE5PaTZscnNB?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-11T12:19:32.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-11T12:47:48.613Z",
+      "relevant": false,
+      "summary": "Reuters piece on the recent US stock market shake-out and whether signs indicate the selloff has ended. The headline does not mention Capital One.",
+      "whyItMatters": "No evident Capital One connection; general market coverage the policy team can skip.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-11T12:47:48.613Z"
+    },
+    {
+      "id": "5a9ad6fc298fbf14",
+      "title": "Charts suggest AI selloff may not derail broader stock rally",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5OF9ZQzBJYjFCS0g2OExQYThmMFpCNzAxSDRiUWQtOXFIYklNbmw5Ry1lTjVoUGl5aXh2M0VBTzhndWhQYS0xdFplMVZSVW53ZzN1bnpOWmdVM2d1V1hYcmtoN0hnb1lzeF9xY2hiX19YNzBiVHJDelhKOUpYZw?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-11T11:10:14.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-11T12:47:48.613Z",
+      "relevant": false,
+      "summary": "Reuters piece using charts to suggest an AI-driven stock selloff may not derail the broader market rally. The headline does not mention Capital One.",
+      "whyItMatters": "No evident Capital One connection; general market commentary the policy team can skip.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-11T12:47:48.613Z"
+    },
     {
       "id": "9e5bd0d4a79d76a8",
       "title": "Georgetown thumps Maryland to retain local bragging rights",
