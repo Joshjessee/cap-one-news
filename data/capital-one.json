@@ -1,12 +1,29 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-11T12:47:48.613Z",
+  "updatedAt": "2026-11-11T17:54:56.261Z",
   "briefing": [
     "Capital One appears only in passing in a CNBC consumer-finance roundup of the best online personal loans of 2026, which may list it among many lenders; there is no company-specific news or policy development. (CNBC)",
     "No regulatory, congressional, legal, enforcement, merger (including Discover), executive or security developments involving Capital One appeared in the articles provided today."
   ],
   "briefingUpdatedAt": "2026-11-11T12:47:48.613Z",
   "articles": [
+    {
+      "id": "d499ba6d8868e401",
+      "title": "Wachtell, Nvidia's pick for Huang probe, built reputation in boardroom battles",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbk9reEdsbkU3aURrbkFacUVNSWp1TVBBbDc1NmtpZmlhZGpfcXBkMTdIZUpHQTg5RTU5YUtFNEk2cVkydm05c0did3J4VllZYTI3azdaM3VOLWhCNTZKRGtsYXdGMHU2RlVDZExlNlVLUnlNYkZhbWJwRFZQazNiU2NDTlFvaWZsc2ZRU2laeTItaUpnUXB6T3NSUzAyUkdFNmo3STIwNHpSdU44Z2FmeHVaWmJZLTVscHM0M3BvaE9Idw?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-11T17:46:41.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-11T17:54:56.261Z",
+      "relevant": false,
+      "summary": "Reuters profiles law firm Wachtell, reportedly chosen by Nvidia for a probe involving Jensen Huang, and its reputation in boardroom battles. The headline gives no indication that Capital One is involved.",
+      "whyItMatters": "No evident Capital One connection, so the policy team can likely skip it.",
+      "priority": "low",
+      "category": "Legal",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-11T17:54:56.261Z"
+    },
     {
       "id": "6aa072ae8ba2123d",
       "title": "After US market shake-out, signs suggest too soon to say worst is over",
