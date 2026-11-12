@@ -14,7 +14,8 @@ import type { ArchiveData, Article, TopicData, TopicId } from "@/lib/types";
 
 const KEEP_DAYS = 14; // Articles older than this move to the archive (data/archive/)
 const MAX_TO_ANALYZE = 120; // Per topic per run, to cap cost if a feed suddenly floods
-const BRIEFING_MAX_AGE_HOURS = 24;
+// Under 24 so a refresh at the same time each morning always counts as "a day later".
+const BRIEFING_MAX_AGE_HOURS = 20;
 const STORY_MATCH_HOURS = 72; // New articles can be grouped with relevant articles this recent
 const MAX_KNOWN_STORIES = 60;
 // Bump this when the analysis prompt changes in a way that should re-check saved articles.
