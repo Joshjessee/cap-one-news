@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-11T17:54:56.261Z",
+  "updatedAt": "2026-11-12T00:46:23.493Z",
   "briefing": [
     "Capital One appears only in passing in a CNBC consumer-finance roundup of the best online personal loans of 2026, which may list it among many lenders; there is no company-specific news or policy development. (CNBC)",
     "No regulatory, congressional, legal, enforcement, merger (including Discover), executive or security developments involving Capital One appeared in the articles provided today."
@@ -710,23 +710,6 @@
       "storyId": "3a61a995ecbe4e63",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-29T11:46:48.323Z"
-    },
-    {
-      "id": "f30a457ff530345d",
-      "title": "Wizards F Justin Champagnie undergoes foot surgery",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSS15WF9iTWZjQzVfWTdxR3Jpak91OWFZZVVwd2lUV2toajQ4V3dZY2pVWlphY2JsT2thQ3NCRGxQZUU2amlJVkxtMXdoY1VWMHNoemRDMGdyOC1aeFZ4WTJ1OTR4dmhCN1NreWxfN1RXX0dtSEtNNHh5b0x6eHYteE5samZXdzlvcEFpdWdZa3VPN3BnQVVBU3RsdjhQQUU?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-28T19:33:43.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-28T22:37:47.764Z",
-      "relevant": false,
-      "summary": "Reuters reports that Washington Wizards forward Justin Champagnie underwent foot surgery. The headline gives no indication of any connection to Capital One.",
-      "whyItMatters": "This is a sports injury story with no evident link to Capital One or policy, so the team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-28T22:37:47.764Z"
     }
   ]
 }
