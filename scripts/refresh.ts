@@ -132,6 +132,11 @@ async function refreshTopic(topic: TopicConfig, useAi: boolean): Promise<boolean
       } catch (err) {
         console.warn(`  ✗ Briefing failed: ${(err as Error).message}`);
       }
+    } else {
+      // Nothing on-topic in the past week: say so instead of leaving an old briefing up.
+      briefing = [`No new ${topic.label} news from our trusted outlets in the past week.`];
+      briefingUpdatedAt = now;
+      console.log("  Briefing: nothing recent to summarize");
     }
   }
 
