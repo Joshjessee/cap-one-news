@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-12T12:47:36.923Z",
+  "updatedAt": "2026-11-12T18:21:43.008Z",
   "briefing": [
     "Capital One appears only in passing in a CNBC consumer-finance roundup of the best online personal loans of 2026, which may list it among many lenders; there is no company-specific news or policy development. (CNBC)",
     "No regulatory, congressional, legal, enforcement, merger (including Discover), executive or security developments involving Capital One appeared in the articles provided today."
@@ -573,23 +573,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-01T18:26:24.869Z"
-    },
-    {
-      "id": "5111e7a6f5f1e485",
-      "title": "Your ultimate D.C. Halloween weekend guide",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdndzQ3VDWlVDSHExZWFCQXJ0eWlQVXY0ZUFScnU2aWZhUWkyeEtBVnZZZHVUcEpxb1RCYUxOeldrY3VNNm5wLUpTbEdoUDRWYnFVNzRVamctdkJGdzB2NGJpazhvRm1zQVAwWTJCNFhwd0RBOGQ1Xzdwa0dQeFBJSnBVLVJHNUNVaXQ3TDBB?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-10-29T16:32:13.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-29T16:56:31.472Z",
-      "relevant": false,
-      "summary": "Axios guide to Halloween weekend events in Washington, D.C. Nothing in the headline indicates a focus on Capital One; any mention is likely the Capital One Arena venue.",
-      "whyItMatters": "Not about the company, so no policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-29T16:56:31.472Z"
     }
   ]
 }
