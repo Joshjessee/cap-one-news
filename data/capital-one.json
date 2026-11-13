@@ -1,12 +1,64 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-12T18:21:43.008Z",
+  "updatedAt": "2026-11-13T12:47:48.261Z",
   "briefing": [
     "Capital One appears only in passing in a CNBC consumer-finance roundup of the best online personal loans of 2026, which may list it among many lenders; there is no company-specific news or policy development. (CNBC)",
     "No regulatory, congressional, legal, enforcement, merger (including Discover), executive or security developments involving Capital One appeared in the articles provided today."
   ],
   "briefingUpdatedAt": "2026-11-11T12:47:48.613Z",
   "articles": [
+    {
+      "id": "3b6923bd950a1d3f",
+      "title": "Opinion | What a president’s pen — and Trump’s Sharpie — can tell you",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1g5dzJCeXA3ODR1ZmFaeE8wdC1lMXhVTVpVMmlZMlJhcmtEQkh6ZWRNZjk3NXhHRWp0RkNvQVNsc2RPT1EyUHRoMVhSSnE4WU5vRkpGMDdUcmtuekNxLXZkV1FVbE96Vzc0ZnFabk0tLUlxSVVVY3JzYzZRVUJfN0VTZ2Y2SWRsaFNkd3FwS3Y2STBNMVNtakFkNVpQU3Ay?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-13T11:55:48.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-13T12:47:48.261Z",
+      "relevant": false,
+      "summary": "A Washington Post opinion piece about what presidential handwriting and Trump's Sharpie signature reveal. Nothing in the headline connects it to Capital One.",
+      "whyItMatters": "No evident Capital One connection; no need to read.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-13T12:47:48.261Z"
+    },
+    {
+      "id": "59981af8fa42e269",
+      "title": "NBA roundup: Cade Cunningham puts up 52 points in Pistons' 2OT win",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0ZFZzE2d1pQTlJncUlxQlRiOEphMWdOdHZudDhjMjdFTnZlMmdVV1FHM3dkaU9DX2FjMl9aaXNZamtYRmQ0OUVxUWpxcnB0MkRKR24yWG9leTFfaERERUsyS1NVaTVibW9KaVFuUk5kZkNhUlRUZV83X0U4RmF3NUlITVpqVDhjN05pOWo2ODNWRjFXTGJvR09VSndLZTN2YnJreGgyLUJobFNKSnc?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-13T06:31:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-13T12:47:48.261Z",
+      "relevant": false,
+      "summary": "Reuters NBA roundup in which Cade Cunningham scored 52 points in the Pistons' double-overtime win. Any Capital One link is likely just arena naming.",
+      "whyItMatters": "Sports coverage with no policy relevance to Capital One.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-13T12:47:48.261Z"
+    },
+    {
+      "id": "a6ca897435715584",
+      "title": "Cade Cunningham's career-high 52 carry Pistons past Wizards in 2OT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUZRa0JmZ21ZLTUzSERQZ3dzaGduNV9CLTJyVll0RUxPMk1nbkR6ajlUWWw1SmFzdkNjcTM0T0g5YlJUM1U4SThJQ185OTN2bXV0ek1heTFsQkJzV1Z3dnR1UTNneG5DZDhwZkRveEdZdWJ5QmVWNmwzOFJiMmkwa3BTYUh1aThxZlhSbloxLXdKUDh6NklNNmFBY2Rvc3hoSEhXdGNCQnZkSzVOS1RmSTNWMHdhR0tuNk1Fckpn?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-13T03:51:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-13T12:47:48.261Z",
+      "relevant": false,
+      "summary": "Reuters game report on Cade Cunningham's career-high 52 points leading the Pistons past the Wizards in double overtime. Any Capital One mention is likely just the arena name.",
+      "whyItMatters": "Sports story with no policy relevance to Capital One.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "59981af8fa42e269",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-13T12:47:48.261Z"
+    },
     {
       "id": "d499ba6d8868e401",
       "title": "Wachtell, Nvidia's pick for Huang probe, built reputation in boardroom battles",
@@ -57,6 +109,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-11T12:47:48.613Z"
+    },
+    {
+      "id": "31f7a85689e72d4c",
+      "title": "November 11, 2026 Meredith O’Rourke Board Member National Park Foundation 1500 K Street NW, Suite 700 Washington, D.C. 20005 D",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTllwV09saGNoRlRUZnRqSTV2UDZ1TDZiaEpxdVF5SVpNVjIybWs2MlNwQ3p3dGhiTFFDdTFIanBwalM5OTRsMVp5ZHBibkxJejZjN0tweGhacS1FSXJwN19KQ2FiLXpPbXZTSHdINXhrRW5ibjZYOWhURXBPeXVsdFVldzc3S1lf?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-13T12:47:48.261Z",
+      "relevant": false,
+      "summary": "A Washington Post item that appears to be a letter or notice addressed to Meredith O'Rourke of the National Park Foundation, dated November 11, 2026. The headline shows no evident link to Capital One.",
+      "whyItMatters": "No clear Capital One connection from the headline; likely only a passing mention at most.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-13T12:47:48.261Z"
     },
     {
       "id": "9e5bd0d4a79d76a8",
@@ -539,40 +608,6 @@
       "storyId": "8b084bed5c401753",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-31T17:43:44.845Z"
-    },
-    {
-      "id": "1115639c3e5ae799",
-      "title": "Best High-Yield Savings Accounts of October 2026: Up to 5.00%",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTmNKb25IZHBMZXhRajhqZWgtaldPTEF0bkJ1VjY1SHZ6bDNwVDlkMl9PeDlTWmlPdmFvNUc3ZlhZdkp2U0NBYkhTRE83VFBpZWpKLVhCRFljS3U0a0k5YUFxVzd3aE15ekUxT0RfMzBFT0g2dGhGbzBKVzZ1MFBlc0tqS1pLaWJkdjlMMw?oc=5",
-      "source": "The Wall Street Journal",
-      "paywalled": true,
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-01T18:26:24.869Z",
-      "relevant": true,
-      "summary": "A WSJ roundup ranks the best high-yield savings accounts for October 2026, with rates up to 5.00%. The headline does not say whether Capital One is featured, but the article was flagged as mentioning the company.",
-      "whyItMatters": "Consumer deposit rate roundups may list Capital One's savings products, but this is routine comparison content with little policy significance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-01T18:26:24.869Z"
-    },
-    {
-      "id": "27fdac8f5bfb56ca",
-      "title": "Best secured credit cards of November 2026",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nbXdZaThqa19BVFdQcDA4QnBLSGRhREh1ckVVU2lRNWtaeHR0WWxCREk4VEpXRFo5LXRkYjZiMW9OTHRBaGV2VGZlUXpIN0F4OUZpOEM3UHlJZDjSAWBBVV95cUxQM1R6Z2hUeS02dklYWWFGQVZzdkVaY2NOOHFRRVJMeUFabVd2ODZlTW1sa0xXblBLRVUzbkUtODFjcEZNaUw5bjFWNVZDUzdwX0d3bWZNYUNqWi01b2xoQ2s?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-01T18:26:24.869Z",
-      "relevant": true,
-      "summary": "CNBC publishes a roundup of the best secured credit cards for November 2026. Capital One likely appears as one of the issuers listed, though the headline does not confirm it.",
-      "whyItMatters": "Product roundups that include Capital One are passing mentions with little policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-01T18:26:24.869Z"
     }
   ]
 }
