@@ -1,12 +1,29 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-13T12:47:48.261Z",
+  "updatedAt": "2026-11-13T17:46:19.113Z",
   "briefing": [
     "Capital One appears only in passing in a CNBC consumer-finance roundup of the best online personal loans of 2026, which may list it among many lenders; there is no company-specific news or policy development. (CNBC)",
     "No regulatory, congressional, legal, enforcement, merger (including Discover), executive or security developments involving Capital One appeared in the articles provided today."
   ],
   "briefingUpdatedAt": "2026-11-11T12:47:48.613Z",
   "articles": [
+    {
+      "id": "6fa8d3c2d38f1efc",
+      "title": "Just when the Commanders' season looked over, the team showed some life",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFF5YlpaSTEzWjQ2SkxmbE0zbE1zaS1IZ0pDRjV0ZEpRdWVqLXF1RHFTZTgwUlVMMS1SbUJWbVk0V2xITkdQVkRFcExJRW11UHQ5ay1sSExnb3owLVVQNjJacGF3ZlhGVjJNdWhrV3JRdFotQ1EzdDE0ZENIeHhFVnUtd3ZyWGFFVDJKblVpcEJ0UHhaWTBnSWs3aU8yV0ZvdThRaVNXVDVWZ1pqTGt6ODRhNndkTGhHTDRFdWhR?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-11-13T16:54:07.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-13T17:46:19.113Z",
+      "relevant": false,
+      "summary": "Axios piece on the Washington Commanders' football season and signs of life after a rough stretch. No evident connection to Capital One in the headline.",
+      "whyItMatters": "Sports story with no apparent bearing on Capital One or its policy issues.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-13T17:46:19.113Z"
+    },
     {
       "id": "3b6923bd950a1d3f",
       "title": "Opinion | What a president’s pen — and Trump’s Sharpie — can tell you",

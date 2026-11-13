@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-13T12:47:54.446Z",
+  "updatedAt": "2026-11-13T17:46:22.384Z",
   "briefing": [
-    "Commerce Secretary Lutnick has reportedly agreed to testify to Congress on China chip sales after Sen. Jim Banks and others pressed him over an alleged export 'loophole' tied to the Nvidia CEO scandal. Trump is still backing him, and Bloomberg reports scrutiny of his role in chip policy is growing. (CNBC, The Hill, Bloomberg)",
-    "Congressional calls for Nvidia probes and tighter AI chip export limits are intensifying after Jensen Huang's resignation, and Reuters expects tougher curbs on AI chip sales to China. OpenAI has joined the growing support for chip control measures, and lawmakers' views of Huang have shifted. (Roll Call, Reuters, Bloomberg, The New York Times)",
-    "Axios reports a Situation Room confrontation between Treasury Secretary Bessent and Lutnick over China chip security, and the NYT reports officials also clashed over Megaspeed, the firm at the center of the affair. The Washington Post reports the U.S. did little to help Singapore investigate the alleged Chinese spy. (Axios, The New York Times, The Washington Post)",
-    "Trump's AI task force met Thursday and discussed AI-powered cyberattacks, and the incoming Congress plans to push cybersecurity legislation. (Reuters, The Wall Street Journal)",
-    "For financial services, AI bots are now making credit card purchases and banks are racing to update systems and controls. American Banker research also looks at Citi redesigning 100 processes for AI and what is holding other banks back. (The Wall Street Journal, American Banker)"
+    "Nvidia's China spy scandal is now a Washington policy fight: Commerce Secretary Lutnick has reportedly agreed to testify to Congress after Sen. Jim Banks and others pressed him on an alleged export 'loophole', while Trump publicly backs him even as aides blame him for the fallout. (CNBC, The Hill, Bloomberg, The Wall Street Journal)",
+    "Momentum is building for tougher AI chip export limits on China after Nvidia CEO Jensen Huang's resignation, with growing congressional calls for investigations and OpenAI joining support for chip control measures. Reuters says tighter curbs are likely, and the NYT notes the AI industry has lost its most powerful Washington backer. (Roll Call, Reuters, Bloomberg, The New York Times)",
+    "Axios reports Treasury Secretary Bessent confronted Lutnick in the Situation Room over China chip security, a sign of an administration split over export policy. (Axios)",
+    "Trump's AI task force met Thursday and discussed AI-powered cyberattacks, and WSJ reports the incoming Congress plans to push cyber legislation. (Reuters, The Wall Street Journal)",
+    "For financial services: WSJ reports AI bots are making credit card purchases and banks are racing to update their systems and controls, while American Banker research shows Citi redesigning 100 processes around AI. (The Wall Street Journal, American Banker)"
   ],
-  "briefingUpdatedAt": "2026-11-13T12:47:54.446Z",
+  "briefingUpdatedAt": "2026-11-13T17:46:22.384Z",
   "articles": [
     {
       "id": "66e7862c5fb0a3b0",
@@ -130,6 +130,24 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-13T01:07:04.755Z"
+    },
+    {
+      "id": "845fb32057dc7919",
+      "title": "Lutnick Fights for His Job as Trump Aides Blame Him for Nvidia Fallout",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHNjVWV4allxWlI5bV9vdHIxNUVScENRellUNHpWV2lIOGJCOU5MS2ZEbDBMS3N3LUdoUUpMcE9SOF9oMThfSVdjdEVPd3A0dDBEcmMyRXhIbGhUelRtYXBvQjZtN2JJandKa1ljeDBHT0NDU2dBMGVodU1FMF9zZGJkOU9WblptbVZDejJzWTdYandKOXc3OXMteE5kRUM0SW5GT1BQS2h2dE9XTFFKdUJDQ3gyUQ?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-11-13T00:44:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-13T17:46:22.384Z",
+      "relevant": true,
+      "summary": "WSJ reports Commerce Secretary Lutnick is fighting to keep his job as Trump aides blame him for the fallout from the Nvidia China spy scandal and chip export controls.",
+      "whyItMatters": "Lutnick's standing affects Commerce's AI chip export policy and could shape coming tighter controls.",
+      "priority": "medium",
+      "category": "Administration",
+      "storyId": "fa99312987468b68",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-13T17:46:22.384Z"
     },
     {
       "id": "b30aa8a08d7572ea",
@@ -441,6 +459,23 @@
       "storyId": "ab92bc2ec158e293",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-12T18:21:43.532Z"
+    },
+    {
+      "id": "c52f71d1005547ea",
+      "title": "Texas Democrat files bill to follow through on Hinojosa’s $1.5K check promise",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDlnNFpteHZKSlJxUGpfTlNNNDBTSU1YaE1rQS1HaG8xLVBNdmY4V3otYnhpTkZTcXl2QlhsYlpGd3RseWdoRmJNbVFYOFY4MzFfaERWUXo0Sk5EZjZNc2FoNE1ocWpGeFhXYVAzeVJKYUJESThzall5UU9kcXhPVEFDa0ZDMG94M2ZyVlNEUmZ4TnVR0gGaAUFVX3lxTE1JWlVyMGVoUnJFdWJ6QjVkVFkwYWdIS1J0WjdiNUUyeWFSbFZ2WWlrSGRuSld4NWQ3THhUUmlBU3ZLLVBhb0EtTktOVk9JQjVHd1lZU1dYWnZURkt5NHZDN1hLdks2WGM0U2NFQXlGOE1pREZxWThXdmpJY1BtSmFNY1dtM0Y3REo5YXhSWjBjZjBaUXhGdGRMYkE?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-11-11T21:53:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-13T17:46:22.384Z",
+      "relevant": false,
+      "summary": "A Texas Democrat filed a bill to deliver a $1,500 check promised by Hinojosa, per the headline.",
+      "whyItMatters": "Appears unrelated to AI policy, so the team can skip it.",
+      "priority": "low",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-13T17:46:22.384Z"
     },
     {
       "id": "b74792177f6a7eef",
@@ -2276,23 +2311,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-10-30T22:23:52.651Z"
-    },
-    {
-      "id": "b7a59793882f523d",
-      "title": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies; Institutional Eligibility Under the Higher Education Act of 1965, as Amended; Student Assistance General Provisions",
-      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22174/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies",
-      "source": "Federal Register",
-      "paywalled": false,
-      "publishedAt": "2026-10-30T16:00:00.000Z",
-      "snippet": "Rule — Education Department — The Department revises the existing accrediting agency recognition regulations to implement the directives set forth in Executive Order 14279, Reforming Accreditation to Strengthen Higher Education, and other Administration priorities, align the regulations more closely with statute, and reduce regulatory burden.",
-      "firstSeenAt": "2026-10-30T11:45:59.771Z",
-      "relevant": false,
-      "summary": "The Education Department issued a rule revising accrediting agency recognition regulations to implement Executive Order 14279 and reduce regulatory burden in higher education.",
-      "whyItMatters": "It concerns higher education accreditation, not AI policy or financial services, so it is not relevant to this team.",
-      "priority": "low",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-30T11:45:59.771Z"
     }
   ]
 }
