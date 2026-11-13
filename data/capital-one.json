@@ -1,11 +1,10 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-13T17:46:19.113Z",
+  "updatedAt": "2026-11-13T23:36:55.452Z",
   "briefing": [
-    "Capital One appears only in passing in a CNBC consumer-finance roundup of the best online personal loans of 2026, which may list it among many lenders; there is no company-specific news or policy development. (CNBC)",
-    "No regulatory, congressional, legal, enforcement, merger (including Discover), executive or security developments involving Capital One appeared in the articles provided today."
+    "Light day for Capital One policy news: the only item is a CNBC consumer-finance roundup of 11 credit cards for Black Friday and Cyber Monday shopping, and it is unclear whether Capital One is among the cards featured, so it is low priority with no regulatory, legal, or Discover-related developments. (CNBC)"
   ],
-  "briefingUpdatedAt": "2026-11-11T12:47:48.613Z",
+  "briefingUpdatedAt": "2026-11-13T23:36:55.452Z",
   "articles": [
     {
       "id": "6fa8d3c2d38f1efc",
@@ -143,6 +142,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-13T12:47:48.261Z"
+    },
+    {
+      "id": "36c3fa7603cc7ef2",
+      "title": "Save more on Black Friday and Cyber Monday with these 11 credit cards",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemdIakJ2SWhLU09aaHFHa19tQVliUjA3U0hYUm95SU9RV1M4ZnVkd0hKWURjamlNODJfdmx4NHBBdkpEUFg2RDBPRHphdXE1VHBMcmhjUlRFUmQ5YUVWZW52MnZLazdpMVRyVnRKYTl2U25UcGhEelljR1RRb3RONVBsN19GREHSAYwBQVVfeXFMTWs0SEhxakFuUHhLSk9GeDZ4d21IcXZZRmlGOTRJT1pmLUdMWUdVeGY3YTU1b3JNZUs1cVo5VnNUNVBkUjBTQlM3SGJ1VktfQl94dDRSdVhMQnA5RjJFc2gxLUVycnhfNUFHLVprcXVzUkIwQWEzaFNfOUtFZTZ0dWRVVGJKdkZua1dieFQ?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-13T23:36:55.452Z",
+      "relevant": true,
+      "summary": "A CNBC consumer-finance roundup highlights 11 credit cards for Black Friday and Cyber Monday shopping. The headline doesn't say whether Capital One is among them, so its role is unclear.",
+      "whyItMatters": "Likely a routine consumer card roundup with little policy relevance; at most it shows how Capital One cards are positioned in holiday shopping coverage.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-13T23:36:55.452Z"
     },
     {
       "id": "9e5bd0d4a79d76a8",
