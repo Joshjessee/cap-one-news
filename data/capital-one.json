@@ -1,11 +1,28 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-13T23:36:55.452Z",
+  "updatedAt": "2026-11-14T18:44:20.625Z",
   "briefing": [
     "Light day for Capital One policy news: the only item is a CNBC consumer-finance roundup of 11 credit cards for Black Friday and Cyber Monday shopping, and it is unclear whether Capital One is among the cards featured, so it is low priority with no regulatory, legal, or Discover-related developments. (CNBC)"
   ],
   "briefingUpdatedAt": "2026-11-13T23:36:55.452Z",
   "articles": [
+    {
+      "id": "28a85df572604704",
+      "title": "Maryland can’t sustain first-half brilliance and succumbs to No. 6 Virginia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQmpzZDdzTHZhVXF6RFVDaWFtRjNndmJzQ082d1lJWG5hVFh1UXI3dGxGaTd1aDJxRGpiVTZ5ZWYtRDBEY0NwSXMwVmhTT3dlZU5hWEwxZER0SnBseEVtRHJZNUNJNzB0cVY1OVkxcXJORTBncTVLekNDV2xtV1VCeHVzcWtoU2NRbDlEZHFYSWxPWlU2MmdpNXM4SEx4ODlsYUMtZ1NLUDU4cUk?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-14T13:56:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-14T18:44:20.625Z",
+      "relevant": false,
+      "summary": "A sports story about Maryland losing to No. 6 Virginia after a strong first half. The headline gives no sign of any connection to Capital One the company.",
+      "whyItMatters": "It is a sports result, not company news, so the policy team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-14T18:44:20.625Z"
+    },
     {
       "id": "6fa8d3c2d38f1efc",
       "title": "Just when the Commanders' season looked over, the team showed some life",
@@ -606,41 +623,6 @@
       "storyId": "d6f77c36e6f95e45",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-02T00:45:05.863Z"
-    },
-    {
-      "id": "8b084bed5c401753",
-      "title": "Second-half outburst fuels Wizards’ win over Hornets in AJ Dybantsa’s home debut",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS0hrcjV5VnNDM0NWRjQ2aUJ2QUFhRVlINktab3hlZG9ZR2RETTVISllvV19MNHZIaFJfU0Foc0ZrWjBXd1M0QWZTaW5PYUVHNXBMUE9EQkU1ZW5BYUxhcVhORWNjUGZ6Rldfa1pMN0E4MzFFa0Utc1Z4X3lIaW85dnUycU9DeWZrRTF2X280b0xTSnk3N3JRcDFDOXhLN29MOXNsY2M0cF82MlNzOEtzdXFBSUVhR1hzTTBVV284ZXd0NmM?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-10-31T05:10:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-31T17:43:44.845Z",
-      "relevant": false,
-      "summary": "Recap of the Wizards' win over the Hornets in AJ Dybantsa's home debut. Any Capital One mention is likely just the arena name.",
-      "whyItMatters": "Sports story; not about Capital One the company.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-31T17:43:44.845Z"
-    },
-    {
-      "id": "d4d4bd1b2ea5ec21",
-      "title": "Anthony Davis leads new-look Wizards to win over anemic Hornets",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeWRyQ010RG9LYXlfbmFTbGlyQ0xtYzE5Mk82WThiVDFyREhnbk1YSkNlOXVkcHZBTDZNdGxoR0RXQlE5VmxBT3VrYjNEaHozWVJfWjZZNXFwT2xBN2xKS09EVl9zdTRoaXBxTnJ4cDROQlcxMHR0cEFSbTczak1DbkgtazlDYWtJeE4ydEJGQ29QQUZxdmpfQ2NnOU13SWVFOFZuLTZkSTRZUW5CRmx0ck8wU3lSRmJ0T2lB?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-10-31T02:01:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-10-31T17:43:44.845Z",
-      "relevant": false,
-      "summary": "Reuters recap of the Wizards beating the Hornets, led by Anthony Davis.",
-      "whyItMatters": "Sports coverage; Capital One appears at most as an arena name.",
-      "priority": "low",
-      "category": "Other",
-      "storyId": "8b084bed5c401753",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-10-31T17:43:44.845Z"
     }
   ]
 }
