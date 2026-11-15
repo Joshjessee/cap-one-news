@@ -1,10 +1,12 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-14T18:44:20.625Z",
+  "updatedAt": "2026-11-15T01:02:02.499Z",
   "briefing": [
-    "Light day for Capital One policy news: the only item is a CNBC consumer-finance roundup of 11 credit cards for Black Friday and Cyber Monday shopping, and it is unclear whether Capital One is among the cards featured, so it is low priority with no regulatory, legal, or Discover-related developments. (CNBC)"
+    "Capital One has only a possible, unconfirmed presence in CNBC's roundup of the most exclusive credit cards for November 2026. The summary doesn't confirm any Capital One card is included, so this is low priority for the policy team. (CNBC)",
+    "CNBC's list of 11 credit cards for Black Friday and Cyber Monday shopping may or may not include Capital One products. The company's role is unclear, and there is no policy or regulatory angle. (CNBC)",
+    "No regulatory, congressional, legal, enforcement, or Discover-integration developments involving Capital One appear in the articles provided."
   ],
-  "briefingUpdatedAt": "2026-11-13T23:36:55.452Z",
+  "briefingUpdatedAt": "2026-11-15T01:02:02.499Z",
   "articles": [
     {
       "id": "28a85df572604704",
@@ -91,6 +93,23 @@
       "storyId": "59981af8fa42e269",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-13T12:47:48.261Z"
+    },
+    {
+      "id": "937fffddb496a6f9",
+      "title": "The most exclusive credit cards of November 2026",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXcGdWWjQzR25TQVpDckt1MzcxZXFJdm1qMTZUQmUzSzhtWGRRLUJsb2NMMktqbmZVV0pManBmQ01jWUlYdld2V09kSFl6dmliTnd2R1dEaFA0S3FxR0ZaOWZpeGx2OUXSAWxBVV95cUxOd2JyaTFVWVR5WWpCd18yZVdackx0X1dBcXR3Vkx6RlhRTkxpWE1rdFVBRk9UNnhxZGVhdkgtUXhpMkZocFFkTm1nREtXTTVkOWhHRXpmbEVMQ0ZQMFlFT2N0QU9rdFBPdk1WSXE?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-15T01:02:02.499Z",
+      "relevant": true,
+      "summary": "CNBC roundup ranking the most exclusive credit cards for November 2026. The headline does not mention Capital One, but the article may include its cards, since it is a list of card products.",
+      "whyItMatters": "Capital One is likely only one of several issuers listed, so this is a low-value consumer roundup for a policy team.",
+      "priority": "low",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-15T01:02:02.499Z"
     },
     {
       "id": "d499ba6d8868e401",

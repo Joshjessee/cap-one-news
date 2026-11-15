@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-14T18:44:24.203Z",
+  "updatedAt": "2026-11-15T01:02:08.497Z",
   "briefing": [
     "The Nvidia/China chip scandal dominates Washington: Commerce Secretary Lutnick has reportedly agreed to testify to Congress after Sen. Jim Banks and others pressed for answers, and lawmakers are calling for Nvidia probes and tighter chip export limits, with Reuters expecting tougher curbs on AI chip sales to China after the Nvidia CEO's resignation. (CNBC, The Hill, Roll Call, Reuters, Politico)",
     "Administration infighting is escalating over the response: Treasury Secretary Bessent faulted Commerce for not blacklisting Megaspeed, and Trump aides are blaming Lutnick for the fallout as he fights to keep his job. (The New York Times, The Washington Post, The Wall Street Journal, Bloomberg)",
@@ -28,6 +28,23 @@
       "analyzedAt": "2026-11-14T18:44:24.203Z"
     },
     {
+      "id": "1fc7b40f96e3b290",
+      "title": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTXJxbmhIRHJLcVZuUzJOYmtWTnJVSVhERVR1NjFGNVNseVdCSE5tcVMwaFpueTFBUWVNUWNtUGNfS3ptTzRqdGRKaFhWX1cwZzIxc0VqRFBQWUJYb29DX05FOUZ1RmpndHVCN3M5T3VMMXpGSk1yU2ROWmFsaldhZmFac3A1aTZLVU13WHhKTTFBZjdTc2xMVzhCRWJHLVdDSWx5dWQySXZrc1BNSlhscQ?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-11-14T13:30:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-15T01:02:08.497Z",
+      "relevant": false,
+      "summary": "Bloomberg reports that Stephen Miller's growing influence in the White House is unsettling Mexico trade negotiators.",
+      "whyItMatters": "This is about trade negotiations, not AI policy, so it is not relevant to this team.",
+      "priority": "low",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-15T01:02:08.497Z"
+    },
+    {
       "id": "4bffb54182addf8b",
       "title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
@@ -43,6 +60,23 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-14T18:44:24.203Z"
+    },
+    {
+      "id": "ab70c99f6368a075",
+      "title": "Trump administration ups ante on aviation funds after ground stop",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQjVBN2RVZ1RtMGUyOEhQVE0zWklmQWFzUmVWQUJubEJ2TkUzZ3pSZW1Xa1ZvbHc3YXVIODJEWjFBa002cEg3eFZibnhpTUp5cHRPZ1IwUDNTY0d3cElYZ0hTTlhOVGFVdGtpWV9WQm9xOXJtNWZORkJTWmQzQ3A1TDNKeEVXY0NSQXNaNFhMOUtDcmJZSUtZVGhR?oc=5",
+      "source": "Roll Call",
+      "paywalled": false,
+      "publishedAt": "2026-11-14T04:23:58.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-15T01:02:08.497Z",
+      "relevant": false,
+      "summary": "Roll Call reports that the Trump administration is escalating its position on aviation funding following a ground stop.",
+      "whyItMatters": "This is about aviation funding and has no evident AI policy or financial services angle.",
+      "priority": "low",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-15T01:02:08.497Z"
     },
     {
       "id": "637abfeb84c1525f",
