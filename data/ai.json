@@ -1,15 +1,48 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-15T01:02:08.497Z",
+  "updatedAt": "2026-11-15T19:22:48.805Z",
   "briefing": [
-    "The Nvidia/China chip scandal dominates Washington: Commerce Secretary Lutnick has reportedly agreed to testify to Congress after Sen. Jim Banks and others pressed for answers, and lawmakers are calling for Nvidia probes and tighter chip export limits, with Reuters expecting tougher curbs on AI chip sales to China after the Nvidia CEO's resignation. (CNBC, The Hill, Roll Call, Reuters, Politico)",
-    "Administration infighting is escalating over the response: Treasury Secretary Bessent faulted Commerce for not blacklisting Megaspeed, and Trump aides are blaming Lutnick for the fallout as he fights to keep his job. (The New York Times, The Washington Post, The Wall Street Journal, Bloomberg)",
-    "The White House is urging eased liability to encourage companies to disclose AI incidents and vulnerabilities, and Trump's AI task force met Thursday and discussed AI-powered cyberattacks. (Bloomberg, Reuters)",
-    "AI bots are increasingly making credit card purchases and banks are racing to update systems and controls, while Citi is redesigning 100 processes for AI, signaling agentic AI and operational pressure points for financial services. (The Wall Street Journal, American Banker)",
-    "Political and industry fallout is widening: the AI industry loses its top Washington backer in Huang, OpenAI joined growing support for AI chip control measures, and the scandal is putting Southeast Asia's AI boom and transshipment under scrutiny. (The New York Times, Bloomberg, The Washington Post, Reuters)"
+    "The White House is urging that liability be eased to encourage companies to disclose AI-related incidents and vulnerabilities, a concrete signal on the Administration's approach to AI security and incident reporting that could matter for regulated firms. (Bloomberg)",
+    "Trump's top economic advisers are clashing over Commerce Secretary Lutnick's handling of Nvidia and chip export controls, with Treasury Secretary Bessent reportedly calling for a 'dramatic shakeup' at Nvidia, including an outside CEO, amid the fallout from the Jensen Huang China-related spy scandal. (The Washington Post, CNBC)",
+    "The NYT reports Lutnick pushed to weaken chip export rules that overlap with his family's business, adding scrutiny to Commerce's chip policy and its credibility on AI export controls. (The New York Times)",
+    "The Nvidia scandal is creating political problems for Trump after Democratic election gains, as rival factions in his circle compete to shape China policy; this could raise the odds of congressional oversight of AI chip exports. (The Washington Post, The Wall Street Journal)"
   ],
-  "briefingUpdatedAt": "2026-11-14T18:44:24.203Z",
+  "briefingUpdatedAt": "2026-11-15T19:22:48.805Z",
   "articles": [
+    {
+      "id": "6887d2782940da1d",
+      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2V3FTYlVUQ2VXQjBsaE1rbGpaU0FsM2RJN2FydGM4VHJsSU43eDR0SUMxNFhXZGtfZ2M2cDFWa2xLakZIellLQWNlaHpNazBCamhVeG14T25tREVFZG1ST3ExMHJma2l4Z3RCWktVbFBXRXduZlFFdHJsaXIxd9IBgwFBVV95cUxPeGkzNkNkWTB4ZkUzekc2SVFfVUlfQ0lFQTFtcWNMS05oaTA1dWhadV80YVZjNzJYLWhsT083bjFSZGNPdjEwU0JMeUZHVWdQS0ZmWTJOYm1hNU1qOVRtRnI5ZjJ1ZjgwV29ZTVhmNzVsMFZfUExiazhQeUltenVvU2tzYw?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-15T16:49:11.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-15T19:22:48.805Z",
+      "relevant": true,
+      "summary": "Treasury Secretary Bessent reportedly called for a major shakeup at Nvidia, including bringing in an outside CEO, amid the ongoing fallout over the company's China-related scandal.",
+      "whyItMatters": "Shows escalating Administration involvement in AI chip policy and Treasury's stance on AI firms.",
+      "priority": "medium",
+      "category": "Treasury",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-15T19:22:48.805Z"
+    },
+    {
+      "id": "584d399446191ad0",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSG5Ua0Eya2ctVDEweEN2X3Z4VmxHU0EtZU5ERk5HRUNLZ3lLdWx3VFkzYjBjMzZKS0FPRE9CaHp2MUJNTWJaenk0UV9OQldvdGVrdndRakI2UmxwSllMQVVUZUM3Wi1aaEd3WllvNVRpNWdhaE9aRWJ2Z204WE5nRmtiNFgwMFJfMGlpMmIwdUdIN3gtVk52dXZscHFYRUFF?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-11-15T10:02:05.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-15T19:22:48.805Z",
+      "relevant": true,
+      "summary": "The NYT reports Commerce Secretary Lutnick pushed to weaken chip export rules that overlap with his family's business, adding to scrutiny of his handling of Nvidia and chip policy.",
+      "whyItMatters": "Bears on the direction of AI chip export controls and likely congressional oversight of Commerce.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-15T19:22:48.805Z"
+    },
     {
       "id": "9d93e64477874d36",
       "title": "Nvidia scandal hits Trump’s political vulnerabilities after Democratic sweep",
@@ -43,6 +76,23 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-15T01:02:08.497Z"
+    },
+    {
+      "id": "08b2744daf838d31",
+      "title": "16 Totally Plausible Deals Trump Could Make With Democrats",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV193ZjZMRHliTkJhdmZkV05pdTBQY3JMWmJuQmg5ZFN4cC1OTnh4SG9NZW5GTnhmZDFNUEtGazhVUkFCQkRkMTZEYVAtcmxFcHZPVVBTYml3bnd5VUZYY2FzMW11SmZHY29famdGTUJjN0dLdlVQZjYzTU1YeWhkWFFmUUlfYTg?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-15T19:22:48.805Z",
+      "relevant": false,
+      "summary": "Politico column imagining plausible deals Trump could strike with Democrats after the election; no evident AI policy focus.",
+      "whyItMatters": "Not evidently about AI policy.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-15T19:22:48.805Z"
     },
     {
       "id": "4bffb54182addf8b",
@@ -146,6 +196,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-13T23:37:01.237Z"
+    },
+    {
+      "id": "6bf3b419ca6d11f7",
+      "title": "Playbook PM",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rallxTGg4ZUk4dk9pOWJ5QU9iMUV4Tlg5TWo2d0hBdWtYaFNQekpwdGR1NVlzeUdhYThYUHBBeTV3V2JHSkl1bzhoa1BoVjJCRm41NFIxUDBUZ182?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-11-13T19:11:49.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-15T19:22:48.805Z",
+      "relevant": false,
+      "summary": "Politico's Playbook PM daily newsletter; the headline gives no specific AI policy content.",
+      "whyItMatters": "No identifiable AI policy angle from the headline.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-15T19:22:48.805Z"
     },
     {
       "id": "c3408661ad14cdb5",
@@ -2313,40 +2380,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-03T03:29:36.187Z"
-    },
-    {
-      "id": "4e9c74cde69a836a",
-      "title": "‘Anyone can be a super-hacker now’: The world faces a cybersecurity reckoning",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0RGRFF5Yk1NZnJINDREQTBzSHN3NWhFck1hOXB3cE92SUZIUDdOajR0OWNBQl9NcFM5T2JLc05PTHBrNkdDdEUxTmUzNDlmTnJVVHdPYi1JeTZRS1E1QzhTOXhNNUEzWm40aExiQ01CNzVhRmQ0ZGNmdE1HNnJoYUFDZjk1bkFGdGUzOU5pNWg5NTlFOXlwbTBMN2lHaVlr?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-01T17:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-02T12:53:29.656Z",
-      "relevant": true,
-      "summary": "The Washington Post reports that AI tools are lowering the barrier to hacking, creating a global cybersecurity reckoning.",
-      "whyItMatters": "AI-enabled cyber threats bear on financial-sector security and may drive government policy responses.",
-      "priority": "medium",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-02T12:53:29.656Z"
-    },
-    {
-      "id": "d35ebd9bf8dec34b",
-      "title": "Everything changed for the oil, AI and bond trades over the past month",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55dmNrd1FhM2Y4WF9rSFZ5Tm91U1p6T0lkcDFtMjdSTC1HeW1nckRObm80bGNoMkIxVGMtenhNZERydEk0Y1Y0ZGNsZnhCVmR1UjQwcnE2cHloLVZDT3VXT3E3dzNnR2k0NFZtLTg0TdIBdEFVX3lxTFBvYzVYUk8tSlRXcDhuMVh4bU56TVJaRjNfc0pjcmctU1JPaUtmWmhFZzMtWXhkdGxRTlRYQ2xHblVGRVRUbXZleVh0UHJQUWdpazlKMjBxa1RRaGtPMl95a1hwUjMteUp2NzJIV1dPMTZOeW1z?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-11-01T15:58:24.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-02T12:53:29.656Z",
-      "relevant": false,
-      "summary": "CNBC discusses market shifts in oil, AI and bond trades over the past month.",
-      "whyItMatters": "This is market commentary with no evident federal AI policy angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-02T12:53:29.656Z"
     }
   ]
 }
