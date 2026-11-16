@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-15T19:22:42.129Z",
+  "updatedAt": "2026-11-16T01:01:07.028Z",
   "briefing": [
     "Capital One has only a possible, unconfirmed presence in CNBC's roundup of the most exclusive credit cards for November 2026. The summary doesn't confirm any Capital One card is included, so this is low priority for the policy team. (CNBC)",
     "CNBC's list of 11 credit cards for Black Friday and Cyber Monday shopping may or may not include Capital One products. The company's role is unclear, and there is no policy or regulatory angle. (CNBC)",
@@ -676,41 +676,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-02T12:53:25.289Z"
-    },
-    {
-      "id": "d6f77c36e6f95e45",
-      "title": "In Capitals’ 5-1 loss to Wild, early deficit and late penalties prove too much",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXlrOGpiVkhuQjd0Z000V21EdFN1aTkwSWxGMWtwdERZS0Z6VVR2d3owbzBkdUo5ZW1kc3o1NTJHc2lFVS1SZmM5T2l3Mm9yeU5xRHZMaEUtTEFEUzVtWGJrYmNOLTlLcERGMGhYNUU2R1pvbkJ2MGR4aGx5dE4wanY3NnIzbmw5b2pZa19oWTFlLThrcmxDQ3diZGxjMm4tLUFGT2VVaUZQOFhYUnZtVGMtTk5DUjg?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-02T00:39:15.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-02T00:45:05.863Z",
-      "relevant": false,
-      "summary": "Game recap of the Washington Capitals' 5-1 loss to the Minnesota Wild, driven by an early deficit and late penalties.",
-      "whyItMatters": "Sports story with no evident connection to Capital One as a company; not relevant to the policy team.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-02T00:45:05.863Z"
-    },
-    {
-      "id": "3e0ec530ff0561f7",
-      "title": "Wild's fast start snaps Capitals' streak",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTR6a3lERFB3NmhlR1BmT2Q0eUswOTRiN3Vfek5MeUczZ2lRNkZvLXM3RGxqbDNPZU5PSUVEZWktOFRFbUNDYmxqcWZhd3k4WWdCaklNbHRLOGVRX0tkbDI5Z1dXMFJCeDVpV0NYSDlBOGo3cnZqbWlvN2dtSE5NckRjYS11R01nOXdvdWRIcnd3VEta?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-01T23:36:52.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-02T00:45:05.863Z",
-      "relevant": false,
-      "summary": "Reuters recap of the Minnesota Wild's fast start ending the Washington Capitals' winning streak.",
-      "whyItMatters": "Sports story with no evident connection to Capital One as a company; not relevant to the policy team.",
-      "priority": "low",
-      "category": "Other",
-      "storyId": "d6f77c36e6f95e45",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-02T00:45:05.863Z"
     }
   ]
 }
