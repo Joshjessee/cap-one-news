@@ -1,13 +1,64 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-16T01:01:07.028Z",
+  "updatedAt": "2026-11-16T12:48:35.826Z",
   "briefing": [
-    "Capital One has only a possible, unconfirmed presence in CNBC's roundup of the most exclusive credit cards for November 2026. The summary doesn't confirm any Capital One card is included, so this is low priority for the policy team. (CNBC)",
-    "CNBC's list of 11 credit cards for Black Friday and Cyber Monday shopping may or may not include Capital One products. The company's role is unclear, and there is no policy or regulatory angle. (CNBC)",
-    "No regulatory, congressional, legal, enforcement, or Discover-integration developments involving Capital One appear in the articles provided."
+    "No major Capital One policy, regulatory, legal, or Discover-integration news appears in the latest articles; all three items are low-priority mentions at most.",
+    "Punchbowl News published its Q3 2026 lobbying readout, which was flagged as a match, but the summary doesn't confirm Capital One's spending or issues, so the policy team may want to check the full readout for the company's entry. (Punchbowl News)",
+    "CNBC credit card roundups on exclusive cards and Black Friday/Cyber Monday offers may include Capital One products, but the summaries don't confirm it and there is no company-specific news. (CNBC)"
   ],
-  "briefingUpdatedAt": "2026-11-15T01:02:02.499Z",
+  "briefingUpdatedAt": "2026-11-16T12:48:35.826Z",
   "articles": [
+    {
+      "id": "887c9d6290af2a61",
+      "title": "Nationals push for $380M stadium renovation at D.C. Council",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9udW9Bb0JqQVRsS0ljeC1kak1ZTnZncGo5N25JdUkzYWpnNGJhNG5UZkdOWWhxekw5cmVvUjJ6MXpVNDdlZUwzMXdMbXlzeXQ4Nkh4QzUxdG4wby1TZi1FR2Y2SDRVYlNlQTFzLURsMnF4SzJLZ1M2TzM2Z1k?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-11-16T11:02:36.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-16T12:48:35.826Z",
+      "relevant": false,
+      "summary": "The Nationals are asking the D.C. Council to approve a $380M renovation of their stadium. The headline does not mention Capital One.",
+      "whyItMatters": "No evident connection to Capital One based on the headline; not relevant to the policy team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-16T12:48:35.826Z"
+    },
+    {
+      "id": "b1569d19f8c59a01",
+      "title": "Wizards’ defense collapses in seventh straight loss",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFNuLW1MUlg1a1VlVVBGSFQxVlJVREE1QUJ6X1FQZWZ6SDJMOENHZDUtQ0R4RFlYR2dXMXRxb3ZwNHhKdzdncTc2dktWN0RIRjlya1F3ckE1RzVhTUtkSWltN3VRWGIyRmpyeUZGVkVOOHpnUy1fUzVwWGFNbUhNWXpHOWV3Rk9jeDV3UEMyNUpDQ05DOWl3WFpCelRxdw?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-16T06:51:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-16T12:48:35.826Z",
+      "relevant": false,
+      "summary": "The Washington Wizards lost their seventh straight game as their defense collapsed. This is a sports recap.",
+      "whyItMatters": "Capital One is not evidently the subject; any link is likely just the Capital One Arena venue name.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-16T12:48:35.826Z"
+    },
+    {
+      "id": "f592c4ccbeb7308b",
+      "title": "Rockets crush Wizards, hold Trae Young to career-first 0 points",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHo0VzJZdXdRblNwcTk0QnVMWWYwNktFRy1iSUpTcldCX3RhS09OUk9RSXVyMG54VkZSOWxINDAxVElpWGtpVHFKeGRiNHJNdVFGamVFZWc0NTVHXzZfV0pVZzFpMU81UndNWUlBUE1VWXVpTDRIbXZ3N2FTTTg2c2tzb1VLZ2dMa2pSWHZqNzlmVk9zdkxuWDljZzNEbDNJcUVXRXdVTXFSRUtzdTFSUXhBT216SGpJdlE?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-16T02:58:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-16T12:48:35.826Z",
+      "relevant": false,
+      "summary": "The Rockets beat the Wizards decisively, and Trae Young scored 0 points for the first time in his career. This is a sports game recap.",
+      "whyItMatters": "No apparent Capital One policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-16T12:48:35.826Z"
+    },
     {
       "id": "6f5341c2a00fd3a5",
       "title": "New lines, same result: Capitals fall to Devils",
@@ -659,23 +710,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-02T20:23:57.571Z"
-    },
-    {
-      "id": "dc074309fa041fe1",
-      "title": "NHL roundup: Connor McDavid's historic night leads Oilers past Rangers",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTl9ZdGplSTI2RmVZMGVCdDBkUm5lTGJIZEZWaWlOUlpwdnBEQ2JtV2Z6SzRGNXExTkxSdTBNYlBCMTkzTjg1cEVITV9WZzFMaHQtbDRzWC1laWNwSXZpR3JPTF8zWTBBSTFqSV9NbUdzLUtLcWtLQjEzUnpNdTNRUWFiOXRzZ09mS3lBb1VENFRaTHF5TlRYVXc3UmpOTFVZNkRwSnJ6QjgwTjA2ZXZ3dHB4NTlfXzA?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-02T06:14:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-02T12:53:25.289Z",
-      "relevant": false,
-      "summary": "A Reuters sports roundup about Connor McDavid's standout performance leading the Oilers over the Rangers. The headline gives no indication that Capital One is involved.",
-      "whyItMatters": "This is a sports story with no evident connection to Capital One or policy, so the team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-02T12:53:25.289Z"
     }
   ]
 }
