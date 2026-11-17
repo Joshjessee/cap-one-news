@@ -2,6 +2,23 @@
   "topic": "ai",
   "articles": [
     {
+      "id": "d11d2e32eb3cd817",
+      "title": "White House refuses to disclose how it vets AI security threats",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzVaRWF3M05XNENCeWdkX1lJWGRjck8yWGh5SkZuR2N0WlFpYldkMXZCU2pXNWJ4WXgwQWl1aEJwYzhGbUJidkxic3lHQWtHMzFyUGtSTE1CamhlV19nQW5QUEtWUG13ZGFBZ0xaSDBjVjBlbGFSUzZocEdvZnRuWDhSbHBaN3lnUlNLZmNWTGh4ekRoTG5RVUpfamRQZ25nejJvVm9TQ0R1dE9lbWFScU5jWFg?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-03T05:28:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-03T17:52:33.423Z",
+      "relevant": true,
+      "summary": "The Washington Post reports the White House is declining to disclose how it vets AI security threats.",
+      "whyItMatters": "Signals limited transparency in the Administration's AI security oversight, which could affect future policy and expectations for industry including financial firms.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-03T17:52:33.423Z"
+    },
+    {
       "id": "5ede081f340fa1d5",
       "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVIwNmtWSjgyZ3BiQUV2akNTSzVrQnQyeTVVSEtua3BBVXpiQURSQmsyVzVwY2R3QTdOTWZER24xTTBPay0ybXl6RzBPdmtzOVdPbnR4dmtDOEliZWtyQUZwVjhtN1h4VVo4c09iVTMweVVYUmdSdjUyeEtNZXpOYXdFTk4?oc=5",
