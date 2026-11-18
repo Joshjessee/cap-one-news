@@ -1,13 +1,64 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-17T19:12:07.950Z",
+  "updatedAt": "2026-11-18T02:27:42.503Z",
   "briefing": [
-    "Berkshire Hathaway trimmed its stakes in Bank of America and Capital One while adding to Delta, according to its latest filing. (Reuters)",
-    "Punchbowl News published its Q3 2026 lobbying readout; it is unclear whether Capital One is featured, but the policy team may want to check for its lobbying activity. (Punchbowl News)",
-    "CNBC card roundups on exclusive cards for November and Black Friday/Cyber Monday deals may include Capital One products, though the summaries do not confirm it; this is low-priority consumer coverage. (CNBC)"
+    "Berkshire Hathaway trimmed its stakes in Capital One and Bank of America in its latest filing while adding to Delta Air Lines, a notable shareholder move for investor relations and policy staff to track. (Reuters, CNBC)",
+    "Axios published a conversation between Maria Sharapova and a Capital One executive on the next era of luxury, likely tied to the company's premium card and lifestyle offerings. (Axios)",
+    "Banking Dive reports a banking disruption that left thousands unable to access accounts has been resolved; the summary does not confirm Capital One was involved, so verify before acting. (Banking Dive)"
   ],
-  "briefingUpdatedAt": "2026-11-17T04:31:11.934Z",
+  "briefingUpdatedAt": "2026-11-18T02:27:42.503Z",
   "articles": [
+    {
+      "id": "9e297799477402ad",
+      "title": "European tech startups set for second-strongest funding year",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb1JVS1RDUDY1bGhjTkEtUEhVRHpacldkX2YweWZvWGUySUlpRHJ2ZFFlYUMyd2NjTzRWVTByMjIzRUJMS3V2X2syS3l5STlHUUZwSThXcHVnRUZOVm9za2FWRGx4Slh5MndtTEtjZ0RIb205WWpnc0FRX0dPeW5ydkNKYTRpbFJxT2FDY2FuZE1JZVpwQmh4VEtyZzAwQlNFV2puZmtoY3NqT1N3c3ZaMVRR?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-17T23:04:09.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-18T02:27:42.503Z",
+      "relevant": false,
+      "summary": "Reuters reports on European tech startup funding heading for its second-strongest year. The headline gives no indication of a Capital One connection.",
+      "whyItMatters": "No evident Capital One link; likely not relevant to the policy team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-18T02:27:42.503Z"
+    },
+    {
+      "id": "c0773082ba02c526",
+      "title": "Maria Sharapova and Capital One executive on luxury's next era",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LLThObGlrUW1MWlQ1RGotX1JwN3I5czF3R2dPYm5UODFOdnRuSjJyZExWMExyVE1CSEJCRHdycEpMVThDbm5ZNkJGbDBVbFBIc25EU21QclFWTEo0M1FqVksxcW5vZUE5MlhmS0lsMGczMEpJOEFFYnJhRVg?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-11-17T21:31:45.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-18T02:27:42.503Z",
+      "relevant": true,
+      "summary": "Axios features a conversation between Maria Sharapova and a Capital One executive about the next era of luxury, likely tied to Capital One's premium card or lifestyle offerings.",
+      "whyItMatters": "It shows how Capital One is positioning its premium brand, but it is routine marketing-type content with no policy angle.",
+      "priority": "medium",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-18T02:27:42.503Z"
+    },
+    {
+      "id": "e2e8f76b70236c31",
+      "title": "Georgetown, Navy each coming in hot for matchup in DC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLUxVcEh6TkcwcjJOUm1JOGRQTlFsOWF0Y3BhTlp0b1kwZXhfNGFQOWxPN2I1dUE1MmhkcHRfUWE5SWJlYTdUWDltQlFuZjBfcW1pbEFTbmRiZkhoRWRBZXoxc2QtbF8tbm84bU5JTV9Fa25LSG1lQ1lNOWJVMjd3ckM1YUtBR2d6Rkt5SWtYdDNNQ01qQVFrX2MxeS1LalhtUFA0?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-17T21:09:36.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-18T02:27:42.503Z",
+      "relevant": false,
+      "summary": "Reuters previews a Georgetown vs. Navy basketball game in Washington, DC, likely played at Capital One Arena.",
+      "whyItMatters": "Sports story where Capital One appears only as a venue name; no policy relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-18T02:27:42.503Z"
+    },
     {
       "id": "7b9cc6b886c902ff",
       "title": "The problem with the Vault seats? The team in front of them.",
@@ -24,6 +75,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-17T19:12:07.950Z"
+    },
+    {
+      "id": "46e06fbe7002475a",
+      "title": "Banking disruption resolved after thousands report access issues",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaURKa3ZYOWphXzNyVlNZWHFxdlNKam11eGdlTXNXbng4blFVMHVTRUhPRkJCLWVBcmduNEM2X3RLUXBkRGJLZDE5Q1pKQ2tnUEtGTmJPajdZR3JJSGVHSXlDMDlkUzRPM1BYWGFrcGdZZjRmdlUyZTJhMXdic0VOWkpQLXNveEJBdUE1OFpDVGU1TkpORW55bHhpWFVRTVMzNDl5dF94RFhjbGRKNjc1U0tKeGZnZF9vTWE1bzRVdjc?oc=5",
+      "source": "Banking Dive",
+      "paywalled": false,
+      "publishedAt": "2026-11-17T17:19:54.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-18T02:27:42.503Z",
+      "relevant": true,
+      "summary": "Banking Dive reports a banking disruption that left thousands reporting access issues has been resolved. The headline does not name Capital One, but the article may involve it given the outlet and the team's coverage.",
+      "whyItMatters": "An outage affecting customers could draw regulatory attention, but the Capital One link is unconfirmed from the headline alone.",
+      "priority": "medium",
+      "category": "Business & Earnings",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-18T02:27:42.503Z"
     },
     {
       "id": "643911aad7b0abae",
