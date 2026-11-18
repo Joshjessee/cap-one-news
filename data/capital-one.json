@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-18T02:27:42.503Z",
+  "updatedAt": "2026-11-18T12:47:32.008Z",
   "briefing": [
     "Berkshire Hathaway trimmed its stakes in Capital One and Bank of America in its latest filing while adding to Delta Air Lines, a notable shareholder move for investor relations and policy staff to track. (Reuters, CNBC)",
     "Axios published a conversation between Maria Sharapova and a Capital One executive on the next era of luxury, likely tied to the company's premium card and lifestyle offerings. (Axios)",
@@ -8,6 +8,23 @@
   ],
   "briefingUpdatedAt": "2026-11-18T02:27:42.503Z",
   "articles": [
+    {
+      "id": "4571eac278ed505c",
+      "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzFCWVhTaXRGa0xoLTRJUUVKTjNaYXZzU2FhbHYxR2tyallCbFJsUFM1U21lbXN0UVN2U3FfZnlsWWdGWERVTWRBdmhHVmZaS0Z3X0REWFhvaXhQYXpoNHRlTG0wbHp0WHd5b3N3dnpOYnJONWE4bWVXdEJObHFqZTFYd2szQ3p1SU5LV1JxODNpSVpoWnZTdXVWRDJTSUl0MTRvQnotcjJrUUE?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-18T11:23:13.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-18T12:47:32.008Z",
+      "relevant": false,
+      "summary": "Reuters reports on Meta's Muse AI agent and early safety mishaps that have surfaced. Nothing in the headline indicates a connection to Capital One.",
+      "whyItMatters": "No evident Capital One link, so the team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-18T12:47:32.008Z"
+    },
     {
       "id": "9e297799477402ad",
       "title": "European tech startups set for second-strongest funding year",
@@ -1104,57 +1121,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-04T23:42:26.321Z"
-    },
-    {
-      "id": "b48782a8d584ca36",
-      "title": "Exclusive: Agentic data security startup Sentra Raises $150M",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTBNVnhnVkhGT08wUlF5cHctV1o5dDJaOS1EN1BKUDdwT2ZwT3Nqdk1iY19jNHMzYzBvQnluWkZMNHREdHFlMU1PVlJWYU9iTWZFNS1wSG1KM1BTSWROSDZjc1lwbmhuRTdYS2Nad1pPSFh1UE9UMGdLOWFycEI0MEIwTzU1NG5Xc1NMN3A3bXhmNWZFNmNGTFQ1NA?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-11-04T12:37:43.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-04T12:46:29.524Z",
-      "relevant": false,
-      "summary": "Axios reports exclusively that agentic data security startup Sentra raised $150M in funding. The headline does not mention Capital One.",
-      "whyItMatters": "Nothing in the headline connects this to Capital One, so the policy team likely needn't read it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-04T12:46:29.524Z"
-    },
-    {
-      "id": "2b2cc68e82d9d787",
-      "title": "9 Best Free Checking Accounts of November 2026",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbGd5bVUtRlE3MmcyQWNRN0cydkdXWTJ4Z0pvQ1hfSFFxeG9GVER1V0YySXQ0TkhIWlh4akh5clVSejJXMlQ3SHM1V2VnbGQ1RHByMV9qSGEydWVvQ01qTHlqY3ZpUUdYSlE?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-11-04T08:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-06T23:12:21.265Z",
-      "relevant": true,
-      "summary": "CNBC published a roundup ranking the best free checking accounts for November 2026. The headline doesn't say which banks are listed, so Capital One's inclusion can't be confirmed.",
-      "whyItMatters": "It's a consumer-product roundup and likely only a passing mention of Capital One, so it's low priority for the policy team.",
-      "priority": "low",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-06T23:12:21.265Z"
-    },
-    {
-      "id": "c13dbcca0fa0e993",
-      "title": "Behind Jason Robertson's natural hat trick, Stars hold off Capitals",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcElEdU94SlRRMHd3OF9fUUU4NklOYlJpZWhqOXdEUXVsWjQ2QUpCbjhoZ3ZwZnB4NWRmSU1aejVyd3lSZjRZM0VaRFdEWjhpWlhiaGZHRGhVcXYtVDJKam1hWXZidlk0QUdzc1FrSHo1NDZ1RlVKa2ItQmxoVEktRlU1YmdpX2lnVTlkbUE5U0o5OFoya2ZTRG9jZThTMW5Pd3dHN0ZCX3E0WW03c1lBbk1aLTBZcDVU?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-04T03:08:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-04T12:46:29.524Z",
-      "relevant": false,
-      "summary": "Reuters recap of a hockey game in which Jason Robertson's natural hat trick led the Stars past the Capitals.",
-      "whyItMatters": "A sports story with no evident link to Capital One as a company, so it's not relevant to the policy team.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-04T12:46:29.524Z"
     }
   ]
 }
