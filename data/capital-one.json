@@ -1,12 +1,13 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-19T01:54:20.289Z",
+  "updatedAt": "2026-11-19T12:47:46.184Z",
   "briefing": [
-    "Berkshire Hathaway trimmed its stakes in Capital One and Bank of America in its latest filing while adding to Delta Air Lines, a notable shareholder move for investor relations and policy staff to track. (Reuters, CNBC)",
-    "Axios published a conversation between Maria Sharapova and a Capital One executive on the next era of luxury, likely tied to the company's premium card and lifestyle offerings. (Axios)",
-    "Banking Dive reports a banking disruption that left thousands unable to access accounts has been resolved; the summary does not confirm Capital One was involved, so verify before acting. (Banking Dive)"
+    "Berkshire Hathaway trimmed its Capital One and Bank of America stakes in its latest filing while adding to Delta Air Lines, a shift in a high-profile shareholder position. (Reuters, CNBC)",
+    "A technical issue at JPMorgan Chase triggered online banking delays and access problems for customers of several major US banks; the disruption has since been resolved, though the coverage does not specify how Capital One was affected. (The Washington Post, Banking Dive)",
+    "Axios features a conversation between Maria Sharapova and a Capital One executive on the next era of luxury, likely tied to the company's premium card and lifestyle offerings. (Axios)",
+    "Punchbowl News published its Q3 2026 lobbying readout, which was flagged as a match; it is unclear from the summary how prominently Capital One appears. (Punchbowl News)"
   ],
-  "briefingUpdatedAt": "2026-11-18T02:27:42.503Z",
+  "briefingUpdatedAt": "2026-11-19T12:47:46.184Z",
   "articles": [
     {
       "id": "4571eac278ed505c",
@@ -263,6 +264,24 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-17T04:31:11.934Z"
+    },
+    {
+      "id": "3c77e0c48bc86066",
+      "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSTFFb3RqSTl2eDBJa0Q3MjNkTTdWRWNsTkFlZnRrUURRcUdUQlJaOXFQYkZLVC1KMkJ3ZzZ3RlhFbmFXRlkwdGZFYkJZMTlrcUpEdmZHY21aMUVLMEVDclcxaUlQbUxRSHJlajU3WHpXN2toWEFIT1JJR0locm1wdFRkeUxlRVl6X241SDU5ektxTi1tQ190TWkweGJBM1U5OWVfeEpKd0tEQzFISktkS0lNMWtYZHp5UDM1ZDhuUGxlLWo4ekpiUDlsWFB5Zm5q?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-17T03:27:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-19T12:47:46.184Z",
+      "relevant": true,
+      "summary": "A technical issue at JPMorgan Chase caused online banking delays and access problems for customers of several major US banks. The headline does not say how Capital One was affected, but it appears to be among the banks impacted.",
+      "whyItMatters": "A multi-bank outage could draw regulator attention to operational resilience and third-party dependencies, so the team should be aware of it.",
+      "priority": "medium",
+      "category": "Other",
+      "storyId": "46e06fbe7002475a",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-19T12:47:46.184Z"
     },
     {
       "id": "a6a9f4621ab34cce",
@@ -1069,41 +1088,6 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-07T18:02:38.129Z"
-    },
-    {
-      "id": "4472d65f0274a4aa",
-      "title": "Wizards can’t stop Hawks’ three-point barrage in a home loss",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3pDdGg4dllXSS1DNDROVWlobUg5Nm10b2RsMlhhRmI1cTJrbHpnbzY3dkZQY2kwRW81eWZVSzhyNFRjenozVkVrN0Y3WUh3Yjhaa3dLZ2F2dF9RNUF5RVhmc3FkdHdpUG4xdWtlMXk2N2gtb2Q4MVJhT2NTZHN0WVFGM055X0Z6dkVic1hlVWdzdUlKTzU3dmViQzA0dVlWNWdpc2RB?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-05T06:35:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-05T12:46:44.877Z",
-      "relevant": false,
-      "summary": "Recap of the Atlanta Hawks beating the Washington Wizards behind a heavy three-point shooting night. No evident connection to Capital One beyond a possible arena name.",
-      "whyItMatters": "Sports game recap with no apparent link to Capital One's business or policy matters.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-05T12:46:44.877Z"
-    },
-    {
-      "id": "e0925b1a1b94bfca",
-      "title": "Hawks sink 19 3-pointers en route to comfortable win over Wizards",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXBYNWRBRWVYM3pKaG5vM2RnVzEtVENObkRlN292Z2NWTWR1VDZsa0x4WWpteTNDSUxhd2FNYVFySmI0S1l0QTFTNy1vUGpmRjl4N3lQSGJnR3VDY2ExLVBsWFBNY1N3d2l0MHFudGdOaGFvRzY5T0E2YVB0cnRNRmpFQkxUTjJNQ0FyRlRZUTBQRDh1MEZKT0pmNEZKTUlEUm9JMWpJWUZ1dHI1djg1S0dLOExyRlRLdXd5cXF3?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-05T02:54:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-05T12:46:44.877Z",
-      "relevant": false,
-      "summary": "Reuters recap of the Hawks' win over the Wizards, in which Atlanta hit 19 three-pointers.",
-      "whyItMatters": "Sports coverage of the same game; no Capital One relevance evident.",
-      "priority": "low",
-      "category": "Other",
-      "storyId": "4472d65f0274a4aa",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-05T12:46:44.877Z"
     }
   ]
 }
