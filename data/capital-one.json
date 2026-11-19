@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-19T12:47:46.184Z",
+  "updatedAt": "2026-11-19T19:00:28.420Z",
   "briefing": [
     "Berkshire Hathaway trimmed its Capital One and Bank of America stakes in its latest filing while adding to Delta Air Lines, a shift in a high-profile shareholder position. (Reuters, CNBC)",
     "A technical issue at JPMorgan Chase triggered online banking delays and access problems for customers of several major US banks; the disruption has since been resolved, though the coverage does not specify how Capital One was affected. (The Washington Post, Banking Dive)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-11-19T12:47:46.184Z",
   "articles": [
+    {
+      "id": "c099fc33d370dbbb",
+      "title": "Your D.C. weekend: Spirit watch parties, plus Wale",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3N5MlJUVUFNeTgzcFVGN3NlRjZXd2lxZjh5UjdIcHJRS1NMT25DVnBiQjNfaThUWXF0Zk1POEVobVh4aGdPcUFuVzJNMDFmYlEzRi1sY3FqbUR6VFVHa09NQ0N3eVQwVUMzWW9CY3FJSzMyVHE3WVJpQ1A3OWJPNC1TRVRaanVtc0pQckx1TmhMOFRJR2JQY01IVFYwTVhz?oc=5",
+      "source": "Axios",
+      "paywalled": false,
+      "publishedAt": "2026-11-19T17:04:42.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-19T19:00:28.420Z",
+      "relevant": false,
+      "summary": "An Axios local weekend events roundup for Washington, D.C., featuring Spirit watch parties and a Wale appearance. Nothing in the headline indicates it is about Capital One as a company.",
+      "whyItMatters": "Likely a passing venue or sponsor mention at most, with no policy or business relevance.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-19T19:00:28.420Z"
+    },
     {
       "id": "4571eac278ed505c",
       "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
@@ -1071,23 +1088,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-08T18:21:32.264Z"
-    },
-    {
-      "id": "05495b03cb5ebddb",
-      "title": "The best online personal loans of 2026",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0d01uVF9hRlZIRUVCTER5Z2wzb0NILVBwNkliZGxLM2p5V0huMWpVeHZkdG1VQTJmdFp4X09FWWVQUjdrT2lMVnN5LXI0T08za2dDa1FnVTk4aHBRRzFsZFhQTkVhd9IBa0FVX3lxTE83U0Z1UXQ2b1FORTU2ZEhVYi0xUGFEMHhEQWdQa3IxWERSdEp5SFU1dGNkX1Nwc1o5blRJQUYyWUExeWg5aHhneFdzZFhmWllJdTFtMFN5ZEFNb1V6eVdhekxoV3FyS1ROYUxN?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-11-05T17:21:25.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-07T18:02:38.129Z",
-      "relevant": true,
-      "summary": "CNBC consumer-finance roundup ranking the best online personal loans of 2026, which may list Capital One among lenders.",
-      "whyItMatters": "Capital One is likely only one of several lenders listed, so it is of minimal policy interest.",
-      "priority": "low",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-07T18:02:38.129Z"
     }
   ]
 }
