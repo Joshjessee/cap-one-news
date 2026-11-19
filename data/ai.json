@@ -1,15 +1,66 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-18T18:52:36.215Z",
+  "updatedAt": "2026-11-19T01:54:20.821Z",
   "briefing": [
-    "The Trump administration directed Commerce to close a loophole in AI chip export rules that let China obtain Nvidia chips, ahead of the President's Asia trip; Commerce says it has acted after White House intervention, and the administration is also probing Megaspeed after criticism. (Reuters, Politico, The New York Times, The Washington Post)",
-    "Nvidia's fallout is moving to Congress: CEO Jensen Huang is slated to appear before House panels Dec. 1 and an Nvidia lawyer is due to testify Dec. 2, while Sen. McCormick pushes to keep advanced AI tech out of China's hands. (CNBC, U.S. Senate)",
-    "Fed Governor Barr warned that AI agents could fuel future bank runs by speeding deposit movement, a notable signal for AI risk in financial services supervision. (Bloomberg)",
-    "The administration is reportedly set to name Nvidia among AI 'national champions' even as the scandal exposes White House divisions over China policy, with Treasury Secretary Bessent taking a more hawkish line and calling for a shakeup at Nvidia. (The Wall Street Journal, The New York Times, The Washington Post, Bloomberg)",
-    "Congress watch: senators still see the NDAA as a possible vehicle for online safety legislation, and a permitting bill would charge data centers billions for power. (Roll Call, The New York Times)"
+    "The Trump administration is weighing a requirement that U.S. companies disclose their use of Chinese AI models, an idea that could carry compliance implications for banks and other firms using third-party AI. (Reuters)",
+    "Nvidia CEO Jensen Huang is slated to appear before House panels Dec. 1 and an Nvidia lawyer is due to testify Dec. 2, as the fallout over chip export enforcement escalates. Reporting describes the dispute as fueling a feud among top Trump aides and a public split on China policy. (CNBC, The Washington Post, The New York Times)",
+    "The administration says it is investigating Megaspeed, a company tied to concerns over AI chip access for China, after criticism. Sen. McCormick's office also announced efforts to keep advanced AI technology out of China's hands. (The New York Times, U.S. Senate)",
+    "Sens. Wicker and Luján introduced legislation to block exploitative bots and protect intellectual property. Rep. Nadler is urging Congress to act on AI companies' use of creators' work. (U.S. Senate, U.S. House)",
+    "Senators still see the NDAA as a possible vehicle for online safety legislation, while Rep. Ocasio-Cortez and Paris Hilton pressed for action on AI deepfakes. (Roll Call, The Hill)"
   ],
-  "briefingUpdatedAt": "2026-11-18T02:27:51.107Z",
+  "briefingUpdatedAt": "2026-11-19T01:54:20.821Z",
   "articles": [
+    {
+      "id": "933302277809d823",
+      "title": "Cortez Masto Grills Trump Nominee about Conflicts of Interest Surrounding AI Data Center Construction on Public Lands",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaDItb0pXWHBSLUNTcnhXNWNTWUJERjVOVG5pWmN5YzhWd1NTZTlEdGIwaDc5R0NtdXFWT1Q3NTlDV21rclA0QUlWWC1FX2U2SWY4dVpKRDFIT0hLa05xQnRlSTVmb2V0akEwSjF4YU1fZDhTZWZobUtWdEtvSnF2U1hTd2pJdkI3aXlRVUdLSE9fOVdLbHpUX2N3ZjEwRzRUVlZOdnJ3VTlRTENTVG5wRC1uRVBUMHl1ckc1elA1TlhneWpGaWFZMTJpcmFiRE5BeGVhRUNlR3gtWDV6aTgwRVdoWEFHRnMyVWxnbWh5NTlXMmpGUnRaQmhEbjg1ZXFER2c?oc=5",
+      "source": "U.S. Senate",
+      "paywalled": false,
+      "publishedAt": "2026-11-19T00:23:52.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-19T01:54:20.821Z",
+      "relevant": true,
+      "summary": "Sen. Cortez Masto questioned a Trump nominee about conflicts of interest tied to building AI data centers on public lands.",
+      "whyItMatters": "Signals congressional scrutiny of federal land use for AI infrastructure, which could shape data center policy.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-19T01:54:20.821Z"
+    },
+    {
+      "id": "b9ce1d96eea35aba",
+      "title": "Senators Wicker and Luján Introduce Legislation to Block Exploitative Bots & Protect Intellectual Property",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNajY4X0hGWHBZM2RvUkdldzZNU3BPV19kYXhFVFlrcm41c1JyZ0Q2NEIzN1B5N2lnWlNrV1J2NmxiSUtoOXk5QWtGc3hnTTlHN3hpcXU5VVJmYzFaZ0tTVE02VFduanQ1R2NhNm16cTdJaG5HeDFRZ2ZwbUdOWXdUVVR6WVFscElSdE14dFpHZVlPS2cwa2JVMGtzcU1XLTNxODlBcnVNZEtLRG1hNmJzVWxjUUNJSHl3X1UyTUNsa0ZYa1hzclVuZWV2UFhkY1RwZmxJbUFLZEU3VnJ4eF9z?oc=5",
+      "source": "U.S. Senate",
+      "paywalled": false,
+      "publishedAt": "2026-11-18T23:08:21.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-19T01:54:20.821Z",
+      "relevant": true,
+      "summary": "Senators Wicker and Luján introduced legislation to block exploitative bots and protect intellectual property.",
+      "whyItMatters": "A new bipartisan Senate AI-related bill that could affect how automated bots and AI scraping are regulated.",
+      "priority": "high",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-19T01:54:20.821Z"
+    },
+    {
+      "id": "41668062bbdbee3e",
+      "title": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDZYbWdKS2hHRWRxVU9jRTZmUW5GdUZXdXNnMW43cnNKNmV1d2JIcnByM0dBWVBKbkd0TkkydWpQSkdZVkNWQ1RnS2JRQmI1TFE0ODRrX1lCdXkwejVvN3Qwa0taTDZtMkt2VWlTblJqZ0FQeVlMajlocTZ5UE95V29GQ19xQUlkNDh6WVRKVXJDbjM2ZUdaM0c4X25lUlFWRk1qakhGSkwzMGhKdWxFNlBsSnVhVE0?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-18T21:53:07.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-19T01:54:20.821Z",
+      "relevant": true,
+      "summary": "Reuters reports the Trump administration is weighing requiring US companies to disclose their use of Chinese AI models.",
+      "whyItMatters": "A possible disclosure mandate could create compliance obligations for firms, including financial institutions, using Chinese AI.",
+      "priority": "high",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-19T01:54:20.821Z"
+    },
     {
       "id": "add2b6b9891eefd5",
       "title": "Agency Information Collection Activities; Submission for OMB Review; American Time Use Survey (ATUS) Super Intelligence (SI) Questions",
@@ -61,6 +112,23 @@
       "storyId": "1708537140860e12",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-18T12:47:35.408Z"
+    },
+    {
+      "id": "db74a07309430265",
+      "title": "Watch live: Mullin, FBI deputy chief testify before House on national security threats",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2RoUmp5RnhiTzVWcUlETE1KWThQTjFDeHpzZmN0Sl9JdEo5cHdkWFBVMzVIQndEWV8zdDRJTFNyT2ljSTdsRU9LS0djQjItVG1UMTgwc3djTTBOZHhCZHRUTUNiQ3psd3JNc01Ic3V4UHpxb0RPQUt0T3VZQUNoYzAyUk8tMy00QWxVSTZDMVZjTjdmYTdkSGk3NU1DQTI0a083QnJ3eE5nbVBlTGJJQ1I0VVNCNFRlLVJadmtFMlrSAcYBQVVfeXFMUEpyV0xOcXpkWDRrT0ptVG03ZHY4cE1NbFdjZzhRdGJpR1ZUWE5uODh0dFdsMGZrTllSZ1VaVU9QRHJDWVhtWnVoZ1JlUjFIejlURlQyQ1hISmNFX05YR1FxZFRueWVtckg0TmhfSlJZV3ViTzNUMFlSNG1EbHZuekIwcjMtempUZ0pyM1EzNWxwXzlnYWNxZHRENnZ2LWxMcWpXNVlsZ3RDWWhQLXdkNUpQOGcyNzZqaGE0NXQ1ZXdGMGwwUUdR?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-11-18T15:05:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-19T01:54:20.821Z",
+      "relevant": false,
+      "summary": "Live coverage of a House hearing where Mullin and the FBI deputy chief testify on national security threats.",
+      "whyItMatters": "The headline gives no clear AI policy angle, so it is likely not relevant to this team.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-19T01:54:20.821Z"
     },
     {
       "id": "60d4dafdeff58cc1",
@@ -233,6 +301,23 @@
       "analyzedAt": "2026-11-17T19:12:12.740Z"
     },
     {
+      "id": "7f748da76ad20b93",
+      "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWhaSXdja0FJbTdibG5fb3BEQWpTMzNmbTVUNkhtN2haanZFaWxtd3EzNVJUa2tkcW12NUhHMVRiUkhydS02b1JEeWphTEdRRHVUVjZZdzJnLVo5RE84d3B1NmJIYTZfWmpwMXVHSUlzSm9ra05ILTg3dUE1bHo3dUNCWU5Fbm1PSHJhek93N0JxMURmdUc5c3JwbUwyTG93TGJNbFJhX0R4UzctRVpiaTcxek16MnFRX09ocjhQWDJqNE0?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-11-17T17:56:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-19T01:54:20.821Z",
+      "relevant": false,
+      "summary": "Market report on Treasury and eurozone bond yields edging lower.",
+      "whyItMatters": "Routine bond market news with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-19T01:54:20.821Z"
+    },
+    {
       "id": "a26263463b8fa31c",
       "title": "Hung Cao, Navy secretary nominee, faces tough questions in Senate hearing",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlVVZUN5Y3NZM3hsOWNISGZFeDQ4WEJleGpDVW1qTG9jdjBWeE53cGM0aDRyVXJ2VnhaeDFWT29nT1FVVGVqNWxnczdXTmhpUFM2b3J0RzlXZlctSFlKWDU2d3o0akR5MEdxNzlzdDFMcmRNRW9iMksxSHlYMGxkM2cxZlVjSGxNcXh2b2J3VDZ3VW1ReFoyRzJROHQ2X0MxSzdWLTVWd2U0VWR1UEZRZW9nbWJpTEFCQV9NS0Y3dVNkZC1YWHlpMQ?oc=5",
@@ -368,6 +453,23 @@
       "category": "Financial Regulators",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-17T19:12:12.740Z"
+    },
+    {
+      "id": "520abe068bdb94b7",
+      "title": "A More Precise Clock Is on Its Way",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZi1GQU4xbFpncGFuN2pCcUVOLWRPbTQxRThXY1Q2TnBhcURqZ29tTVF2NTJ5dGdYcmF4Ukhlc3RpWEhwNXExdS0zMzFHakRBLXIxeWY2cmdfRFRwWnBISXBsWFZ2SkZKSkROZTNlOURzTU1FUExGWl9FclpocWpnYg?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-11-17T10:00:32.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-19T01:54:20.821Z",
+      "relevant": false,
+      "summary": "A feature about a more precise clock technology on the way.",
+      "whyItMatters": "No evident AI policy or government action angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-19T01:54:20.821Z"
     },
     {
       "id": "bae0ba3b6c8a9746",
@@ -2609,40 +2711,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-05T23:40:27.197Z"
-    },
-    {
-      "id": "b6e301e1e7d7deb3",
-      "title": "AI & Tech Brief: Midterms turn the AI tide",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYVlJZTNQdjRVeEJpNlFXY2hEVmt4T2xsbmdtTEVxRUtmeXBQUXlCZ3E2UmlrMVZseDZYTVdrN2VvZk1CaXVjdzA1UFQ0LTVIMDhMY0RmdlAxZjlOQVFhTGpWTFNfM2tvMWhremlya3VObHJQRGtQS0RTZFBwckxqQV83M2otdXV0Z2JiNW9qMVV3bFNEdVlfV1ZtWnFXTEVUVkNUeDR6MTVNY1U3?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-04T23:30:25.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-04T23:42:34.209Z",
-      "relevant": true,
-      "summary": "Washington Post tech newsletter looks at how the midterm results shift the AI policy landscape, with Democrats gaining power in Congress.",
-      "whyItMatters": "A change in congressional control could reshape AI oversight, hearings and legislation the team tracks.",
-      "priority": "medium",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-04T23:42:34.209Z"
-    },
-    {
-      "id": "a7ef473b779e8a9f",
-      "title": "Democrat permitting bill authors 'not going to wait' for new US Congress",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTc1M0RpVjZDeEt3b3ZaVFQyV2pBRlNkNF9ITzlydEpUVUtEZHRJZ092bmFBZjJFTFpaeFN4RUFkXzdZNXdOaEpvSmtzQlJBX2F1NXg3RFB2Z1kxbW45LTltQ20wVGhpVDBWNzNWY1AxdEJlQ1hvTmt6VGpTQkk0bzYtbjJPVkFPM1U0WDdGSzRYQjY2RnJNT0htWTVvZWZUTFdhSDdTSU1wMTBfRDFST0J2SzlkZG8?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-04T22:17:35.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-06T12:47:45.186Z",
-      "relevant": false,
-      "summary": "Authors of a Democratic permitting bill say they won't wait for the new Congress to move forward.",
-      "whyItMatters": "Permitting reform is only loosely tied to AI (possibly data center buildout); the headline gives no clear AI policy angle.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-06T12:47:45.186Z"
     }
   ]
 }

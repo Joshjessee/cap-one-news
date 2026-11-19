@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-18T12:47:32.008Z",
+  "updatedAt": "2026-11-19T01:54:20.289Z",
   "briefing": [
     "Berkshire Hathaway trimmed its stakes in Capital One and Bank of America in its latest filing while adding to Delta Air Lines, a notable shareholder move for investor relations and policy staff to track. (Reuters, CNBC)",
     "Axios published a conversation between Maria Sharapova and a Capital One executive on the next era of luxury, likely tied to the company's premium card and lifestyle offerings. (Axios)",
@@ -1104,23 +1104,6 @@
       "storyId": "4472d65f0274a4aa",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-05T12:46:44.877Z"
-    },
-    {
-      "id": "a03b0d92fed2b327",
-      "title": "Sentra may look at M&A as data security heats up",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2tpTXVYSGhjaXhzVmdQVm1VMW9VcFZKc1A4MWdLTklHSlZpVDEtOWdsTS1VMlJrV3c2NmNZU3NIVWhXbGNWdjVxakxHOW5ZVzlYdTJkUFR0MGhGVVVmNndnVVhkY3FDWmpjZmVUeHB0b3ZCaUFMWldMa1d1ZF94Y3JEWWtpcWNiYTdFSmZiVVJMc1k?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-11-04T21:40:59.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-04T23:42:26.321Z",
-      "relevant": false,
-      "summary": "Axios reports that data security company Sentra may consider mergers and acquisitions as the data security sector heats up. The headline gives no indication that Capital One is a subject of the story.",
-      "whyItMatters": "Capital One is not evidently the focus here, so the policy team can likely skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-04T23:42:26.321Z"
     }
   ]
 }
