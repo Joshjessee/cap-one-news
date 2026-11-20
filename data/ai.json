@@ -1,15 +1,49 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-19T19:00:31.888Z",
+  "updatedAt": "2026-11-20T01:47:54.917Z",
   "briefing": [
-    "Sen. Warner is leading a bipartisan bill to scrutinize how AI is financed, citing systemic risk concerns, a direct hit for financial services policy. (Politico)",
-    "Commerce's BIS issued an interim final rule restricting exports to overseas data centers that remotely supply large volumes of compute to firms headquartered in Country Group D:5 or Macau. Separately, Reuters reports the administration is weighing requiring US firms to disclose their use of Chinese AI models. (Federal Register, Reuters)",
-    "Congress and the administration are pressing on AI chips and China: the Nvidia/Jensen Huang scandal is fueling a bipartisan push to block chip sales to China, and the administration says it is investigating Megaspeed. (CNBC, The New York Times)",
-    "ACUS requested public comment on policies for generative AI use by agency adjudicators, staff, and parties, which may inform best-practice recommendations. (Federal Register)",
-    "Other Hill activity: Wicker and Luján introduced a bill to block exploitative bots and protect IP, a bipartisan Senate pair urged immediate White House action on AI-enabled cyber threats, and senators see the NDAA as a possible vehicle for online safety legislation. (U.S. Senate, Politico, Roll Call)"
+    "Sen. Warner is leading a bipartisan bill to scrutinize how AI is financed, citing systemic risk concerns, which bears directly on financial services and financial stability oversight. (Politico)",
+    "Reps. Jacobs, Maloy and Beyer released an outline for sweeping bipartisan House AI safety legislation, with a framework bill teased. (U.S. House, Bloomberg)",
+    "Reuters reports exclusively that the Trump administration is weighing requiring U.S. companies to disclose their use of Chinese AI models. Separately, Commerce's BIS issued an interim final rule restricting exports to overseas data centers that remotely supply large volumes of compute to firms headquartered in Country Group D:5 or Macau. (Reuters, Federal Register)",
+    "ACUS issued a request for comments on policies for generative AI use by agency adjudicators, staff and parties in federal adjudications. Senators Wicker and Luján also introduced legislation to block exploitative bots and protect intellectual property. (Federal Register, U.S. Senate)",
+    "A bipartisan Senate pair urged immediate White House action on AI-enabled cyber threats. Sen. Cortez Masto pressed a Trump nominee on conflicts of interest over AI data centers on public lands, and a Senate committee dropped Trump's science agency nominee. (Politico, U.S. Senate, Bloomberg)"
   ],
-  "briefingUpdatedAt": "2026-11-19T19:00:31.888Z",
+  "briefingUpdatedAt": "2026-11-20T01:47:54.917Z",
   "articles": [
+    {
+      "id": "465de89d256adc78",
+      "title": "US Banks Send Bearish ‘Death Cross’ Signal as Stock Rout Extends",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTNXbHg2RUtWZkltQUZCYmlkRVhhbVRoTEE1RHpDMTFkYS1qODNHX3RwUGZoNHdNU1JTcFlDOUlOUG1LUXdocHBmbkZtdG56cmN1U2ltejRJV3Y2YmNkQjNreTZMNDFZV0RLV09WMG5zeE14MDg0R08yY252bEdYN1l2ZS1UcE1Wb0pLNS1GRDFCdkpkT21QTHJ4VDJNaXJhWlNNdkswakNaWnliVGNVT3laaw?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-11-19T21:11:13.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-20T01:47:54.917Z",
+      "relevant": false,
+      "summary": "Bloomberg reports a bearish 'death cross' technical signal for US bank stocks as the sell-off extends.",
+      "whyItMatters": "Market-move story with no evident AI policy or government action angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-20T01:47:54.917Z"
+    },
+    {
+      "id": "21660aafd0f756a3",
+      "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-11-19T20:12:38.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-20T01:47:54.917Z",
+      "relevant": false,
+      "summary": "Market report on Treasury yields falling while German bund yields tick higher.",
+      "whyItMatters": "Bond market coverage with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-20T01:47:54.917Z"
+    },
     {
       "id": "e7cc0a24394002ba",
       "title": "Banks’ private credit risk gets spotlight in Treasury, SEC nominations",
@@ -28,6 +62,23 @@
       "analyzedAt": "2026-11-19T19:00:31.888Z"
     },
     {
+      "id": "9d889089fd813cce",
+      "title": "Jacobs, Maloy, Beyer Release Outline For Sweeping, Bipartisan AI Safety Legislation",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYmdYdXA5Wjdid2JPQklvb040NFFwRmdvdjduTnhsUlRKZ2kwdG10U0dOMTFHVlBYcGp0djBqOGY4S2lHMFpkSVZXNmptSkhMQWlNeHFqc0tDRFFicm5sSHRJdEhHb2prR0pQVktEalJJcVVzMW00WlpkaHZWbTNWaHRoc2tKQkJYQ3ZuNU4wV0xqMXJDbmFVTDJIR3B2bXFUcWE0MHpfSGFBU1BTMjRfQWdHOEdsajBwLXJYRThvYW9tOW1BU2JJLQ?oc=5",
+      "source": "U.S. House",
+      "paywalled": false,
+      "publishedAt": "2026-11-19T18:37:19.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-20T01:47:54.917Z",
+      "relevant": true,
+      "summary": "Reps. Jacobs, Maloy and Beyer released an outline for sweeping, bipartisan AI safety legislation in the House.",
+      "whyItMatters": "A bipartisan House AI safety framework could shape federal AI rules that affect regulated industries, including financial services.",
+      "priority": "high",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-20T01:47:54.917Z"
+    },
+    {
       "id": "92337d50643e1180",
       "title": "'Systemic risk': Warner leads bipartisan bill to scrutinize AI financing",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTBpbzJnN0xCdlY3R2ZBMmRUY0txZnEtdi1PdUphNFV5ZllMMTRlLUhSNjkwWnFVUjdUdUF5MUtTWEJXTjF5SDNhSGVKaTFmcG80eWkzbjVvR21YemJ3RUtqekFEZ3A1X1UwS00zUEJMd2xGQ1p2d0g1amFERmFLaGNlTlphdFR2cktGbXdR?oc=5",
@@ -43,6 +94,24 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-19T19:00:31.888Z"
+    },
+    {
+      "id": "cbbdea23bd7730c7",
+      "title": "AI Safety Framework Bill Teased by Bipartisan House Lawmakers",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGtyNHdRRUh3cWdXNmUwXzZTYW9KcU5KZkVKM09ldXBhQTF6VHpQOVd6OFgzcEdkblNPV0pGbEwxSnhETW5VRU1qMFp6UjRQMnlTOU5yR0lZalktOWlWd2N3TTVyRFlINXlLd2RRVnpkTGN2WGpiUDdGTllJaU80WEVoVkF0M281MDY2blhOMzU0ckJrMTlRbl9oSVFlU19rVXR1azVpLWt5SFBFanZOWUVB?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-11-19T17:02:44.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-20T01:47:54.917Z",
+      "relevant": true,
+      "summary": "Bloomberg reports bipartisan House lawmakers have teased an AI safety framework bill.",
+      "whyItMatters": "Same House AI safety proposal; signals where federal AI legislation may head.",
+      "priority": "high",
+      "category": "Congress",
+      "storyId": "9d889089fd813cce",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-20T01:47:54.917Z"
     },
     {
       "id": "353ee68d19109db5",
@@ -2780,57 +2849,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-06T12:47:45.186Z"
-    },
-    {
-      "id": "01ab6dcc436dee2f",
-      "title": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-11-05T22:17:59.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-08T00:35:25.347Z",
-      "relevant": false,
-      "summary": "Bloomberg's markets wrap says the US stock rout paused as dip buyers stepped in. The headline gives no sign of a policy action.",
-      "whyItMatters": "General market news with no evident AI policy or regulatory angle.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-08T00:35:25.347Z"
-    },
-    {
-      "id": "0c6596ebd6d4e1df",
-      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVlBX0FCZGw4ZnNTUlRoSU5wSjJRWllFQ2JTZjBHNy1CQ0VXNWZWb1Y1V2dDWXhLQWIxZC1hNG00U0xXUjZIdHV6U0FaWS1hN1BURXBNd2g4Q0RoT0lFX21qMlNrQTkwelZndmExbGpSdlhlQ24taDl4QXpTQkNmVlJZc3FaajZl0gGOAUFVX3lxTE9peU5XOFhISzIwSnNNaGtiR0Iya1JqWVNFcXgyQXVPVXNubjAyMXVYMUR2aHd1MWRnZEhmLXI1MnRONmk3SHIzUGtOZnQ1U3JFdjBkSnYxNHdsQTVSQnBGWmVwUGxSZWJIYW1JZURVYUxsa2prV1VXeUs1VW5CU0pISHRtYVUzLV9LSTNyTEE?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-11-05T21:42:17.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-06T17:31:24.448Z",
-      "relevant": false,
-      "summary": "CNBC reports that Tesla and SpaceX lost over $420 billion in combined market value after the midterm elections. The headline frames it as a market reaction to the political outcome, with no evident AI policy action.",
-      "whyItMatters": "It is mainly a stock-move story with no clear federal AI policy or financial regulation angle, so the team can skip it.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-06T17:31:24.448Z"
-    },
-    {
-      "id": "ce7e2cc7aaa7c187",
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10WmvSAYwBQVVfeXFMTWdsc2pjdEpUS1NXdWRzcld3SFp2eVBhWkU2NWNOTXRsUS1WbTNRVlg3S0ZRalhiYnR5WTNKQUxiR1JXNkI3b3ItbnBsZkdoZE9lbWJkVFB1eTFwMFluVFNobUtfLU1sTUJPSlRVSU1IUnRhYXFPVzNEc0NRempsZGM3MTFTVFZSUGUzS0Y?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-11-05T20:16:52.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-05T23:40:27.197Z",
-      "relevant": true,
-      "summary": "Top Democrats are calling for a national moratorium on data center buildout following their midterm election sweep, signaling a push to rein in AI infrastructure expansion.",
-      "whyItMatters": "A Democratic-controlled Congress pushing AI infrastructure limits signals the policy agenda ahead that could affect AI investment and regulation.",
-      "priority": "medium",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-05T23:40:27.197Z"
     }
   ]
 }

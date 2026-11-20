@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-19T19:00:28.420Z",
+  "updatedAt": "2026-11-20T01:47:49.820Z",
   "briefing": [
     "Berkshire Hathaway trimmed its Capital One and Bank of America stakes in its latest filing while adding to Delta Air Lines, a shift in a high-profile shareholder position. (Reuters, CNBC)",
     "A technical issue at JPMorgan Chase triggered online banking delays and access problems for customers of several major US banks; the disruption has since been resolved, though the coverage does not specify how Capital One was affected. (The Washington Post, Banking Dive)",
@@ -9,6 +9,40 @@
   ],
   "briefingUpdatedAt": "2026-11-19T12:47:46.184Z",
   "articles": [
+    {
+      "id": "529d0966bf4f38e7",
+      "title": "Justice Department urges federal judge to let 2-year Kennedy Center closure go forward",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0dMTzNwZ0tpNkU3dF9xdER3elkxRkdYTGZSaU1EQTlzWU9fdzAtOFp3bVZMS0xJb3RmUWFOTXZUdzA5M1Y5UEo0dG5paXVMS1c1eDJUNE8wZTJpMVRqSzUtdDJ4RU1DZmFRR1NSYzEtTDBwY09GOHFOVXJxUjVUdHFQY2daMGtienhqakd5eEFPZ9IBlwFBVV95cUxOdFZOd1plcjJxQkpVcm5kWXR6bjAza2NlNjVUWEVYU0tudWZMN0ZibzJMRlBJVVlOZE5xYkJYb19RV05pVFM4ZzBFX0dOMlRWbUNVREh6Wk1DQVU1NUM5b2VaOVRKREQycGtVUkltT0tqMnZXV2w0THJJOVVUdGZVOWdVNUtGOHVmM25keFhWeDlSVmZuZjZJ?oc=5",
+      "source": "The Hill",
+      "paywalled": false,
+      "publishedAt": "2026-11-19T21:59:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-20T01:47:49.820Z",
+      "relevant": false,
+      "summary": "The Justice Department asked a federal judge to allow a planned two-year closure of the Kennedy Center to proceed. The headline gives no indication of any Capital One involvement.",
+      "whyItMatters": "No evident connection to Capital One; likely only a passing or name mention.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-20T01:47:49.820Z"
+    },
+    {
+      "id": "c0db24683a69299e",
+      "title": "Bending Spoons SpA (BSP.O) | Stock Price & Latest News",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HTUstSWkzWEVvczFpTjhYNW44bUNPWWI5UUtkQmhzLTJLcnRyQW9JNy16Mnl5QjRLNkJfZlFLYXpmZ2pXdjdZZHNIaFFrWXNyc1B6QWhUMHNrU09r?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-19T21:28:13.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-20T01:47:49.820Z",
+      "relevant": false,
+      "summary": "A Reuters stock quote and news page for Bending Spoons SpA. The headline does not show Capital One as a subject.",
+      "whyItMatters": "Capital One is not evidently a subject, so the team needn't prioritize it.",
+      "priority": "low",
+      "category": "Business & Earnings",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-20T01:47:49.820Z"
+    },
     {
       "id": "c099fc33d370dbbb",
       "title": "Your D.C. weekend: Spirit watch parties, plus Wale",
@@ -25,6 +59,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-19T19:00:28.420Z"
+    },
+    {
+      "id": "37206e168f7ae622",
+      "title": "3 ways to save on groceries when half of Americans say food prices strain their budget",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DT09OaTZLblVobnhoSmJIelR0T01TUTh0bm1ZUmk5ek5rNTYxU0F3cGZNTk00WXktc2FTN05rcXVrS0s5QXRBWko2OFBkR0w3TmpOMFpBc2xteUw2TEJHSDJLaUhtWm40cHlNS9IBbEFVX3lxTE9DT09OaTZLblVobnhoSmJIelR0T01TUTh0bm1ZUmk5ek5rNTYxU0F3cGZNTk00WXktc2FTN05rcXVrS0s5QXRBWko2OFBkR0w3TmpOMFpBc2xteUw2TEJHSDJLaUhtWm40cHlNSw?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-19T12:02:01.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-20T01:47:49.820Z",
+      "relevant": false,
+      "summary": "CNBC offers three tips for saving on groceries as many Americans say food prices strain their budgets. The headline does not show Capital One as a subject.",
+      "whyItMatters": "Consumer affordability context only; no evident Capital One link.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-20T01:47:49.820Z"
     },
     {
       "id": "4571eac278ed505c",
