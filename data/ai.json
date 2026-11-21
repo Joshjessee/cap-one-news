@@ -1,15 +1,66 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-21T01:33:08.380Z",
+  "updatedAt": "2026-11-21T20:06:06.293Z",
   "briefing": [
-    "Sen. Mark Warner is leading a bipartisan bill to scrutinize how AI is financed, citing systemic risk concerns, which bears directly on financial services. (Politico)",
-    "Reps. Jacobs, Maloy and Beyer released an outline for sweeping bipartisan AI safety legislation, with a framework bill teased for the House. (U.S. House, Bloomberg)",
-    "Commerce's BIS issued an interim final rule restricting exports to overseas data centers that remotely supply large volumes of compute to firms headquartered in Country Group D:5 or Macau. Separately, ACUS opened a request for comment on policies for generative AI use in agency adjudication. (Federal Register)",
-    "Trump said the US will penalize firms that build AI data centers abroad, though no penalty details were given. Reports also say officials approved sales of 580,000 Nvidia chips to Chinese companies, tied to a House committee finding of nearly 900,000 AI chips approved for China in six months. (Reuters, The Washington Post)",
-    "Treasury Secretary Bessent said Trump and Xi agreed that military AI decisions should involve humans. Trump also nominated Pentagon cyber chief Kirsten Davies as National Cyber Director. (Reuters, Bloomberg, The White House)"
+    "Trump said the U.S. will penalize American tech firms that build AI data centers abroad; details of the penalty mechanism have not been disclosed, and the companies are already facing backlash. (Associated Press, Reuters, The Washington Post)",
+    "A House committee found the U.S. approved sales of nearly 900,000 AI chips to China in six months, and The Washington Post reports officials cleared 580,000 Nvidia chips for Chinese buyers, which will likely fuel export-control scrutiny. (Reuters, The Washington Post)",
+    "A senator proposed a select committee on AI as Democrats look to move quickly on AI regulation. (The Washington Post)",
+    "Treasury Secretary Bessent said Trump and Xi agreed that military AI decisions should involve humans. (Reuters, Bloomberg)",
+    "Trump is nominating Pentagon cyber chief Kirsten Davies as National Cyber Director, following the reported departure of Sean Cairncross. Separately, American Banker interviewed Maxine Waters on her House Financial Services Committee priorities. (The White House, Politico, American Banker)"
   ],
-  "briefingUpdatedAt": "2026-11-21T01:33:08.380Z",
+  "briefingUpdatedAt": "2026-11-21T20:06:06.293Z",
   "articles": [
+    {
+      "id": "7d5a497bf51c6901",
+      "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+      "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+      "source": "Federal Register",
+      "paywalled": false,
+      "publishedAt": "2026-11-23T16:00:00.000Z",
+      "snippet": "Rule — Labor Department, Wage and Hour Division — This final rule rescinds the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA or Act) set forth in the Department of Labor's (Department) regulations and replaces it with an analysis similar to what it published in a final rule promulgated in 2021, with several modifications and enhancements. In addition, this final rule amends provisions in the Department's regulations implementing the Family and Medical Leave Act (FMLA) and Migrant and Seasonal Agricultural Worker Protection Act (MSPA",
+      "firstSeenAt": "2026-11-21T20:06:06.293Z",
+      "relevant": false,
+      "summary": "The Labor Department issued a final rule changing how employee versus independent contractor status is determined under the FLSA, and amending FMLA and MSPA regulations.",
+      "whyItMatters": "It is a labor rule with no AI policy angle.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-21T20:06:06.293Z"
+    },
+    {
+      "id": "7c1b06506a5cb82e",
+      "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
+      "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change",
+      "source": "Federal Register",
+      "paywalled": false,
+      "publishedAt": "2026-11-23T16:00:00.000Z",
+      "snippet": "Notice — Securities and Exchange Commission",
+      "firstSeenAt": "2026-11-21T20:06:06.293Z",
+      "relevant": false,
+      "summary": "The SEC published notice of a proposed rule change by 24X National Exchange to govern options trading on the exchange.",
+      "whyItMatters": "It is routine market structure news with no AI connection.",
+      "priority": "low",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-21T20:06:06.293Z"
+    },
+    {
+      "id": "cf332db60c044845",
+      "title": "Senator proposes select committee on AI as Democrats hope to move quickly to regulate it",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUxEbDByUzRBdDVDVUpaQ1dzSm40eFJJQmlPUVVfVzdMRWtCRjE4Z0c4SEhMUUZqWWwtbGtvc1RSQmMwaDVsYVFfTWI5cmJ4NldNbFpyb0QzMjE1VUVVbkV4YWxMeEYyaDk1Mk1JbV82RGFQUHF3OG53QkJvOF9yUTk4NHNqZzdCeDRvUk1nUEhLXzdTSlhZZU9TZ0FkVFNFRUVPamxDUUN3MmtZRE5wbjdQTGhrR3dKZWRYWll1X19RZTk5Ym1HUTkxSm9IX2lVZWE2dUU3SUJ3ZWFWVmpJ?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-21T06:07:43.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-21T20:06:06.293Z",
+      "relevant": true,
+      "summary": "A senator proposed a select committee on AI as Democrats look to move quickly on AI regulation.",
+      "whyItMatters": "It signals the direction of congressional AI oversight and possible legislation that could affect financial services.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-21T20:06:06.293Z"
+    },
     {
       "id": "39c834584ecf244b",
       "title": "Pentagon watchdog to audit deals with defense tech start-ups",
@@ -46,6 +97,41 @@
       "analyzedAt": "2026-11-21T01:33:08.380Z"
     },
     {
+      "id": "f53b93f759a7435b",
+      "title": "Regulators OK UK fintech’s Michigan bank deal",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzh5SEM2bHRjajJySzRPTkhVTnN4T0NQTnI2cE1UYzBORkk2SVFRcVRDa0l6ampRN3NLUUdYUExMVmdQQUJ3blZuT3ZuY040WGhqWmFRZklUdjdEUWp0X0Nlek1FOHQyLVpqSEUyTmQ3ckRoNGFmS095N083eHptVG9vTjE0eS1NcEh1Ng?oc=5",
+      "source": "American Banker",
+      "paywalled": true,
+      "publishedAt": "2026-11-20T23:31:16.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-21T20:06:06.293Z",
+      "relevant": false,
+      "summary": "Regulators approved a UK fintech's deal for a Michigan bank.",
+      "whyItMatters": "It is bank licensing news with no evident AI policy angle.",
+      "priority": "low",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-21T20:06:06.293Z"
+    },
+    {
+      "id": "fee3254776070a71",
+      "title": "Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtzQUtZSkNqOE9ReXZEMTlIRVNjOEdzRVp0b1E1UkFiYncyMGpadjRFV1ZSeDJqSnJuRnhhZ3JvRkt3ZG9BNlN3Z0VESFpTbHFTREp6bzVFWnBKZVNweW5wUUVpMzFaZk14UzA3RFVveWdDUW9rVjI1dTZOeEVVeGl5Ql9QYVFpdWl3cm15VHg4SlZNVXR3dWVuTm0xVk1HZkZZdg?oc=5",
+      "source": "Associated Press",
+      "paywalled": false,
+      "publishedAt": "2026-11-20T22:28:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-21T20:06:06.293Z",
+      "relevant": true,
+      "summary": "AP reports Trump wants to penalize US companies that build AI data centers abroad, even as the companies face backlash.",
+      "whyItMatters": "It signals a potential administration action on AI infrastructure and investment.",
+      "priority": "medium",
+      "category": "Administration",
+      "storyId": "b059b048e861c90d",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-21T20:06:06.293Z"
+    },
+    {
       "id": "8b4657aa20d663ae",
       "title": "Trump says US to penalize firms building data centers abroad",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5",
@@ -62,6 +148,23 @@
       "storyId": "b059b048e861c90d",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-21T01:33:08.380Z"
+    },
+    {
+      "id": "9a3966a896ded9c3",
+      "title": "Bank Stocks Set for Worst Week Since April 2025 as Rout Deepens",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVm5ITE41YzhZTjRBNEV0cEhMQVd6aElzZjJEWG9qLUxYRnc2TGtLWDI5di1wRzc0aWctbUJpbkZCemNoM3RtM3lORW9yWmhDNG9KUjZOVUstLVhsMzlCclVYWjFuNGNvXzJ4S2JsWmJkMGFHbl85Sm1EVTU1ZFV0Nlp2UlJZVm9KQkZEb19DNDdjT3FQMnRPYWkybVA2QmYxdHotTFVSdW5kNld3QTZnVmJHZFc?oc=5",
+      "source": "Bloomberg",
+      "paywalled": true,
+      "publishedAt": "2026-11-20T21:12:17.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-21T20:06:06.293Z",
+      "relevant": false,
+      "summary": "Bank stocks are headed for their worst week since April 2025 as the sell-off deepens.",
+      "whyItMatters": "It is market news with no AI policy angle evident from the headline.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-21T20:06:06.293Z"
     },
     {
       "id": "479869147601edb1",
@@ -233,6 +336,24 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-20T12:47:52.587Z"
+    },
+    {
+      "id": "4897684e7dca2aac",
+      "title": "National Cyber Director Sean Cairncross to depart White House",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWZUdTZCcU40UDJLdUtUU2pVaTAzVWlsck1RZkRidEdXdXFHZ3ZOYTNDVDZ4ZHpZN0tLZ0dNaW41bDFBQ1BMYm12NndtRmNtNDNoMHlKV2x1Z0RFVWt4U1JDNjNlb0ZnYXB3S2VUU09wUWFhckhUNlJYY25pek1xMHlHMlg5b1FHZXVaVQ?oc=5",
+      "source": "Politico",
+      "paywalled": false,
+      "publishedAt": "2026-11-20T03:20:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-21T20:06:06.293Z",
+      "relevant": true,
+      "summary": "National Cyber Director Sean Cairncross is leaving the White House.",
+      "whyItMatters": "The departure affects White House cyber leadership, which touches AI-related security policy.",
+      "priority": "low",
+      "category": "Administration",
+      "storyId": "a1e075eb647cc47c",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-21T20:06:06.293Z"
     },
     {
       "id": "1ab2ca13895f1bd3",
@@ -2989,23 +3110,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-08T00:35:25.347Z"
-    },
-    {
-      "id": "868cae47e0bee356",
-      "title": "Senate Plan to Fast-Track Energy Projects Headed for a Showdown",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjFMVEw1YWRqRGdzc215ZlN5ZWVJVTVzaXNGSEx5Ty0tb1I3U05NdzJCc0FhVnVLVjNTSnNoT1NCYTNZWTdJSE0yS2xWazVtMmJ5WU9rNmZNVTIxOEQtemFfZnBoLWdVVVVVVWduVTRfYUxTSm5FWGdjdFlQMnNlcTl6RUtWaFpWVGZCTkNYcmdEWTRGQWthRjJRei1TY29LM0dJQ09xMGlCNktQV3FCa1d3TkE?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-11-07T16:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-07T18:02:43.667Z",
-      "relevant": false,
-      "summary": "Bloomberg reports on a Senate plan to fast-track energy projects that is headed for a political showdown. The headline gives no indication of an AI-specific angle.",
-      "whyItMatters": "Energy permitting could indirectly affect data center buildout, but nothing here points to AI policy, so it is low value for this team.",
-      "priority": "low",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-07T18:02:43.667Z"
     }
   ]
 }

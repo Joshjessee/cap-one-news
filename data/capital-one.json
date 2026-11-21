@@ -1,13 +1,13 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-20T18:39:01.048Z",
+  "updatedAt": "2026-11-21T20:05:58.449Z",
   "briefing": [
-    "Berkshire Hathaway trimmed its Capital One and Bank of America stakes while adding to Delta Air Lines, per its latest filing. (Reuters, CNBC)",
-    "A technical issue at JPMorgan Chase caused online banking delays for customers of several major US banks, and Capital One appears to be among those affected, though the reports do not say how. A separate Banking Dive item says a banking disruption with thousands of access complaints has been resolved, but it does not name Capital One. (The Washington Post, Banking Dive)",
-    "Axios featured a conversation between Maria Sharapova and a Capital One executive on luxury's next era, which is likely tied to the company's premium card and lifestyle offerings. (Axios)",
-    "A Washington Post analysis on the economic value of credit card rewards touches on topics relevant to Capital One and Discover, including the interchange and swipe-fee debates. Punchbowl News also published its Q3 2026 lobbying readout, though it is unclear whether Capital One is featured. (The Washington Post, Punchbowl News)"
+    "Berkshire Hathaway trimmed its Capital One and Bank of America stakes while adding to Delta Air Lines, according to its latest filing. (Reuters, CNBC)",
+    "A technical issue at JPMorgan Chase triggered online banking delays and access problems across several major US banks, and Banking Dive reports the disruption has since been resolved. Capital One's exact exposure isn't confirmed in the summaries, so check before citing it. (The Washington Post, Banking Dive)",
+    "Axios ran a conversation between Maria Sharapova and a Capital One executive on the next era of luxury, which likely ties to Capital One's premium card and lifestyle offerings. (Axios)",
+    "A Washington Post analysis of the economic value of credit card rewards touches on Capital One and Discover's business and the swipe-fee debate. CNBC's November best checking accounts roundup likely lists Capital One, though that isn't confirmed. Punchbowl's Q3 lobbying readout may also be worth checking for Capital One. (The Washington Post, CNBC, Punchbowl News)"
   ],
-  "briefingUpdatedAt": "2026-11-20T12:47:43.583Z",
+  "briefingUpdatedAt": "2026-11-21T20:05:58.449Z",
   "articles": [
     {
       "id": "472c655e4d208862",
@@ -127,6 +127,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-20T01:47:49.820Z"
+    },
+    {
+      "id": "13aea8cdf4d1a9f1",
+      "title": "The best checking accounts of November 2026",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VaFdTRVJCcWh1dE5IUDBuaG5RVVFsUFJxR01WUnpWOWd5dDFBZ2NpTlVoekZuVF83ekpxTWJSWThSTVpkeFIwbExoVEZlcU9MbzVJRkRKRHdQc2lYVHAyX9IBZkFVX3lxTE5HTjVrSjlRY1hDOGxLWTZsa3paZ3JCNlJabjBEOEZkZzcxTldQc3ZyclFzR1JWa1hTT1ExRVVLSi1rdUgwMFlqXzBzNlFlLVh2T1FwdzQ1TTVUYjR1WkU4SE14dzZwdw?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-18T22:00:21.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-21T20:05:58.449Z",
+      "relevant": true,
+      "summary": "CNBC published a roundup ranking the best checking accounts for November 2026. Based on the headline alone, Capital One is likely one of the banks listed, though the teaser does not confirm this.",
+      "whyItMatters": "It is a consumer product roundup where Capital One is at most one of several banks, so it needs little attention from the policy team.",
+      "priority": "low",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-21T20:05:58.449Z"
     },
     {
       "id": "4571eac278ed505c",
@@ -1105,40 +1122,6 @@
       "storyId": "28cd735ad8c8a6ad",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-08T00:35:18.968Z"
-    },
-    {
-      "id": "57183476c8f83ea2",
-      "title": "Fal raises at $16B valuation, Crowdstrike strikes for two deals",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmYxMnZZelJ5MklNV296TnFHRERkY1hhTHRieEJubFBpVmdHMmNCOUo0TXN1M2IwbGd0RFl3TFpVeEZoaDJsNjVPdDhlcktLaWxEYzZvTGxSQjU5SEp4YU8yQUd6bnhFTUNwUEVDNi0zQnluc2hId3lXYU80ZVVVcV9peVdJQ3Rxdkh5YTg0VGU5bC1CWjk0?oc=5",
-      "source": "Axios",
-      "paywalled": false,
-      "publishedAt": "2026-11-07T13:17:38.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-07T18:02:38.129Z",
-      "relevant": false,
-      "summary": "Axios dealmaking newsletter item: Fal raises funding at a $16B valuation and Crowdstrike announces two deals. Nothing in the headline ties it to Capital One.",
-      "whyItMatters": "No evident Capital One connection from the headline; likely only a passing or incidental mention.",
-      "priority": "low",
-      "category": "Business & Earnings",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-07T18:02:38.129Z"
-    },
-    {
-      "id": "4b208d30db61c035",
-      "title": "Lewis and Mallory help No. 9 Virginia overcome slow start and beat Northeastern 97-72",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXQxUl9Rc0E4d3o3Q09DQzB0YkN2U053QjJ3MzMxOE53aUtyUGhJRTliQU9wWmoyeHpZeF94MFpRYm9JR3Z3aEtBWVBVdWlOOGFtWkU5R1U4N3o5ZGp2WGFkU1ZfSzR1MGFEalFQUHZwTTFHQk0tbTdndGtiRXBOdDI4YlpneFJMTjlabURnUjNIX0dSekNNdDJNcU83NXowUnBaUkZEV2YzQzR0SkFTU1F5cG40TnEyTnhTWmcyckl4N3FCXzJVZVgxZ0hFa05EODRRLWpJeGFfRThE?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-07T03:26:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-07T18:02:38.129Z",
-      "relevant": false,
-      "summary": "Recap of a college basketball game in which No. 9 Virginia beat Northeastern 97-72.",
-      "whyItMatters": "Sports story; any Capital One mention is likely just a sponsorship or venue name, not company news.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-07T18:02:38.129Z"
     }
   ]
 }
