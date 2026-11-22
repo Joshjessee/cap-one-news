@@ -1,13 +1,13 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-22T01:17:38.759Z",
+  "updatedAt": "2026-11-22T20:21:33.610Z",
   "briefing": [
-    "Berkshire Hathaway trimmed its Capital One and Bank of America stakes while adding to Delta Air Lines, according to its latest filing. (Reuters, CNBC)",
-    "A technical issue at JPMorgan Chase triggered online banking delays and access problems across several major US banks, and Banking Dive reports the disruption has since been resolved. Capital One's exact exposure isn't confirmed in the summaries, so check before citing it. (The Washington Post, Banking Dive)",
-    "Axios ran a conversation between Maria Sharapova and a Capital One executive on the next era of luxury, which likely ties to Capital One's premium card and lifestyle offerings. (Axios)",
-    "A Washington Post analysis of the economic value of credit card rewards touches on Capital One and Discover's business and the swipe-fee debate. CNBC's November best checking accounts roundup likely lists Capital One, though that isn't confirmed. Punchbowl's Q3 lobbying readout may also be worth checking for Capital One. (The Washington Post, CNBC, Punchbowl News)"
+    "Berkshire Hathaway trimmed its stakes in Capital One and Bank of America while adding to Delta Air Lines, according to its latest filing. (Reuters, CNBC)",
+    "A technical issue at JPMorgan Chase caused online banking delays and access problems for customers of several major US banks, with thousands reporting problems; the disruption has since been resolved. The reports do not make clear how Capital One was affected. (The Washington Post, Banking Dive)",
+    "A Capital One executive joined Maria Sharapova for a conversation on the next era of luxury, which appears tied to the company's premium card and lifestyle offerings. (Axios)",
+    "A Washington Post opinion/analysis piece on the economic value of credit card rewards touches on topics central to Capital One and Discover and the swipe-fee debate. CNBC's November checking account roundup likely lists Capital One, but this is unconfirmed. (The Washington Post, CNBC)"
   ],
-  "briefingUpdatedAt": "2026-11-21T20:05:58.449Z",
+  "briefingUpdatedAt": "2026-11-22T20:21:33.610Z",
   "articles": [
     {
       "id": "472c655e4d208862",
@@ -1052,41 +1052,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-13T23:36:55.452Z"
-    },
-    {
-      "id": "9e5bd0d4a79d76a8",
-      "title": "Georgetown thumps Maryland to retain local bragging rights",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3NxYzlFOW5DbE9ZWEh5WXhfSFY5bm5wdVdablZNOVJZSlNQVi16bG4zMXVaWmVIWTdITFBuOFRiZVBOaEJrbkdjOFY5MXlWeVVpb3FjWVVZMFJMZ1ktWTh2WjZFZmsxdmtabXEyeTM5elhSQkM5dU8ydE56REJaNjdmcVNia1dvSGVMZW1XTHh0OW1uV0FiN2VDTUpUdTVoTHFvNFNhbkM?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-08T06:30:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-08T18:21:32.264Z",
-      "relevant": false,
-      "summary": "Georgetown beat Maryland in a college basketball game, retaining local bragging rights.",
-      "whyItMatters": "No evident connection to Capital One beyond a possible venue name; not relevant to the policy team.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-08T18:21:32.264Z"
-    },
-    {
-      "id": "164350bc06068d8a",
-      "title": "Georgetown powers past Maryland for second consecutive season",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2tSY25vc3NLMHVaaDdQenJmNUNibUdsTEdxQlBnelRxQnNHbl85WDRqS0VESHQ3Q1VhZDVONnpKYXk3cWpLcG1sS0E2Nm10MTczMUZBOWJDUGR0ems0Sko3UVB4dUlucnZKRC1IUHFGbkxDUW1VbS1wSWxJNDNoOFZnLVd0NXNVT2tFVW91TkJlSXJLazhTYlJROWl2ZGc2QmczMG5hOGNFM3NwT3kzVk9CaURoVlE?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-08T03:06:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-08T18:21:32.264Z",
-      "relevant": false,
-      "summary": "Reuters reports Georgetown beat Maryland for the second consecutive season.",
-      "whyItMatters": "Sports result with no evident Capital One policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "storyId": "9e5bd0d4a79d76a8",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-08T18:21:32.264Z"
     }
   ]
 }
