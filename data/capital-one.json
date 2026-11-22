@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-21T20:05:58.449Z",
+  "updatedAt": "2026-11-22T01:17:38.759Z",
   "briefing": [
     "Berkshire Hathaway trimmed its Capital One and Bank of America stakes while adding to Delta Air Lines, according to its latest filing. (Reuters, CNBC)",
     "A technical issue at JPMorgan Chase triggered online banking delays and access problems across several major US banks, and Banking Dive reports the disruption has since been resolved. Capital One's exact exposure isn't confirmed in the summaries, so check before citing it. (The Washington Post, Banking Dive)",
@@ -1087,41 +1087,6 @@
       "storyId": "9e5bd0d4a79d76a8",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-08T18:21:32.264Z"
-    },
-    {
-      "id": "28cd735ad8c8a6ad",
-      "title": "Capitals secure much-needed home win over Panthers after Tom Wilson gets tossed",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSl90dEdBVmlhbEJpNWZTZ2ZOQi1FSEZrSjJDZzdEc3pBMjMxTGExNGg5Skk2c3lFSGhSM2t1QXBkY0dXaS1TQWxWbVg5RzNJTk1MLWw5Y19oUDJIaHNobkdZSmFGY1FOMkhDY3c0QXVUMF9WbHFjVVpTUFpLYV9GVGlSZ0t4UksyZmFWcXdkZlBXbWRBSEdTcGVsbkE3cmF0VmFuT3dncFlmYVVWamZ1WGhSUXlxM00ycGhicTJXLVZLN1U?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-07T23:44:02.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-08T00:35:18.968Z",
-      "relevant": false,
-      "summary": "The Washington Capitals won a home game against the Florida Panthers after Tom Wilson was ejected. The headline does not mention Capital One.",
-      "whyItMatters": "Sports story with no evident connection to Capital One as a company, so no policy relevance.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-08T00:35:18.968Z"
-    },
-    {
-      "id": "edee3c9ec069bb8c",
-      "title": "Capitals end two-game skid, hold off Panthers 4-3",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzM4UzFiMUk2bTg1dXZ0Mkd1SExjRnl5SEl6Y0dkVnltOUpNQ2wzRENheFJRTmhrWHExMnUwelRRV0hNQWhMX2lnbFk1dmI1RDJlcl9PRnloSkFtNzVENlFwTjRscFhkVjg3RUJaR2dWdHlFRDVtbHFjLWx6Tk5hRktMNV9fdmM2a3QwbF9vSS1NQjdYS01YemVqU3RwblU2cEE?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-07T21:06:28.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-08T00:35:18.968Z",
-      "relevant": false,
-      "summary": "The Capitals ended a two-game losing streak by beating the Panthers 4-3. The headline has no reference to Capital One.",
-      "whyItMatters": "Sports recap unrelated to Capital One or its policy interests.",
-      "priority": "low",
-      "category": "Other",
-      "storyId": "28cd735ad8c8a6ad",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-08T00:35:18.968Z"
     }
   ]
 }

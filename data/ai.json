@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-21T20:06:06.293Z",
+  "updatedAt": "2026-11-22T01:17:39.169Z",
   "briefing": [
-    "Trump said the U.S. will penalize American tech firms that build AI data centers abroad; details of the penalty mechanism have not been disclosed, and the companies are already facing backlash. (Associated Press, Reuters, The Washington Post)",
-    "A House committee found the U.S. approved sales of nearly 900,000 AI chips to China in six months, and The Washington Post reports officials cleared 580,000 Nvidia chips for Chinese buyers, which will likely fuel export-control scrutiny. (Reuters, The Washington Post)",
-    "A senator proposed a select committee on AI as Democrats look to move quickly on AI regulation. (The Washington Post)",
+    "President Trump said he will penalize U.S. companies that build AI data centers outside the United States, though no penalty mechanism has been detailed and the companies already face backlash. (The Wall Street Journal, Reuters, Associated Press, The Washington Post)",
+    "A senator proposed a select committee on AI as Democrats say they hope to move quickly to regulate the technology. (The Washington Post)",
+    "Officials approved the sale of 580,000 Nvidia chips to Chinese companies, which appears tied to a House committee finding that nearly 900,000 AI chips were approved for China. (The Washington Post)",
     "Treasury Secretary Bessent said Trump and Xi agreed that military AI decisions should involve humans. (Reuters, Bloomberg)",
-    "Trump is nominating Pentagon cyber chief Kirsten Davies as National Cyber Director, following the reported departure of Sean Cairncross. Separately, American Banker interviewed Maxine Waters on her House Financial Services Committee priorities. (The White House, Politico, American Banker)"
+    "Maxine Waters laid out her priorities for the House Financial Services Committee in an American Banker Q&A, relevant to AI oversight in financial services. (U.S. House)"
   ],
-  "briefingUpdatedAt": "2026-11-21T20:06:06.293Z",
+  "briefingUpdatedAt": "2026-11-22T01:17:39.169Z",
   "articles": [
     {
       "id": "7d5a497bf51c6901",
@@ -43,6 +43,23 @@
       "category": "Financial Regulators",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-21T20:06:06.293Z"
+    },
+    {
+      "id": "42c8864c2a8ccb5d",
+      "title": "Howard Lutnick Is the Ultimate Survivor in the Trump Administration",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWdaT2Rsd3FHbFF3cjhUMXZpTDQ5X0MydDhvUTNaa2doWGtScV85RVJETVBnRGgwZTRLSm5XeVluV2xoN1dHc1cwWXF1ZmN1akwwSGRmLWxMTDFxaC1kcVVRMzFoa3hncWN5U0tHZmJsVW9mQzVrRDZEVlRWeW9rdl9FRHhyMGMwdS1yRWNIalpjSkQxQ01tTnNyUFdLZE1oeFpfS1diVnBsWHFialRiVXZn?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-22T01:17:39.169Z",
+      "relevant": false,
+      "summary": "Profile of Commerce Secretary Howard Lutnick and his staying power in the Trump administration.",
+      "whyItMatters": "Personality-focused piece with no evident AI policy action, though Commerce oversees some AI and chip policy.",
+      "priority": "low",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-22T01:17:39.169Z"
     },
     {
       "id": "cf332db60c044845",
@@ -167,6 +184,24 @@
       "analyzedAt": "2026-11-21T20:06:06.293Z"
     },
     {
+      "id": "83426b49e294c736",
+      "title": "Trump Says He Will Penalize Companies That Build Data Centers Outside the U.S.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeV9TbzdSZG9XU0txYXlXR0l4RF9oaUpOakxpQXhRVFRDQjBCYzlUSm9lZ011c1ZTbzVOaVRXM1JSS1Q1REtQSTE1MTZ3cTB0NlpsY0VSSjB6R3FiLThtZ2Eyc3NISER4WWhuWWlYWVpzM25QNHBkbzNHOEcwLXNmNldudnZGclpUQ1ZHTHVpREZvclhzRFFHWk01alJnR2d3NzRSMnVJdUh5NXprTkZJ?oc=5",
+      "source": "The Wall Street Journal",
+      "paywalled": true,
+      "publishedAt": "2026-11-20T20:55:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-22T01:17:39.169Z",
+      "relevant": true,
+      "summary": "Trump said he will penalize US companies that build data centers outside the United States.",
+      "whyItMatters": "Potential penalties on overseas AI infrastructure could affect tech and cloud providers that financial institutions depend on.",
+      "priority": "high",
+      "category": "Administration",
+      "storyId": "b059b048e861c90d",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-22T01:17:39.169Z"
+    },
+    {
       "id": "479869147601edb1",
       "title": "American Banker - Q&A: Maxine Waters talks priorities for House committee",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaG9FenFpamVoV0lnU01EbkpMcXBTbDlfY2M0VzNZRWZYTzgwM3RrQk1xOXNsVW1mUC14c1podm9LQkhoNDRMcER4b2VlZEc3ZjFDVl9hTzJhSHBQUUtCRkg5a2x5dDJacGI2aS1OVkpQTHI4VDkyd0R1Ykg4b1lTdC1OS29XczBpQVJabUZUbXBFZw?oc=5",
@@ -251,6 +286,23 @@
       "category": "Treasury",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-20T18:39:01.455Z"
+    },
+    {
+      "id": "78379650821b34c3",
+      "title": "Banks race to patch vulnerabilities amid amplified tech outage risk",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdGtTVERnNDZDcVloVmxJNS1tb0U0SWZqUk8weWlqTFUxTW4yYjZFdkQwNFZhNFc3WlFscVQwSHNCVnZsSU5aYnhEMWo3RVJUc0gxWVZvYzE5UUJhc2d1aTRvWmk4UTBId3hQN0hmcGFyMHhLUm1na1NZTUJsd3ItRFhhY2tWTTI4SDBUdXJCeFRqWmdKcmkwRXh2QVdSbTZhV09DTUpIMkE?oc=5",
+      "source": "Banking Dive",
+      "paywalled": false,
+      "publishedAt": "2026-11-20T16:31:59.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-22T01:17:39.169Z",
+      "relevant": false,
+      "summary": "Banks are rushing to patch vulnerabilities as the risk of technology outages grows.",
+      "whyItMatters": "Relevant to bank operational resilience, but the headline shows no AI policy or government action angle.",
+      "priority": "low",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-22T01:17:39.169Z"
     },
     {
       "id": "948d83a2e2745183",
@@ -422,6 +474,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-20T01:47:54.917Z"
+    },
+    {
+      "id": "a525eaf61f80477f",
+      "title": "Can banks provide the added security AI assistants require?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGtzdG9mTFhiMkNIZnBjdkE0UU9td0RzLVdhQ204WkxKdjFJRklHLTBmMVJZZmhfYjdZRmwyX3VsQUs2VXJLYUowMzNOWlk0Z2VoVkk1a3N3R3ZsdnlZbGpzcVFFaTNwaXZxZEN1dWlBR0poSDVPU25rNHNkZEtDaW9VOHBIbUFwMjF4VVhmazQ1NUZVM1BLTTVZTXRXRlIzMVgzaTB3?oc=5",
+      "source": "American Banker",
+      "paywalled": true,
+      "publishedAt": "2026-11-19T20:33:45.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-22T01:17:39.169Z",
+      "relevant": true,
+      "summary": "American Banker examines whether banks can offer the added security that AI assistants require.",
+      "whyItMatters": "It touches AI in financial services and security expectations, which may shape future regulatory attention.",
+      "priority": "medium",
+      "category": "Financial Regulators",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-22T01:17:39.169Z"
     },
     {
       "id": "21660aafd0f756a3",
@@ -3093,23 +3162,6 @@
       "storyId": "ab92bc2ec158e293",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-11T12:47:56.240Z"
-    },
-    {
-      "id": "d9b087c526dcbb5e",
-      "title": "Trump says he offered White House press secretary role to UFC’s Dana White",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDk3dmNRMjFNZWFHWWtoOWFCeDVLXzB1WnlKVEljUk01NXhRX20zcllRMjJETzMzZElwYVE5ZXN5QVpfTWJELXlkMFk3SktkX1NmNjFqYkgxbFhNM2xzVVQtODAyaUstRGlGamNqbmtJOG42bU5WVFpVTC1Kd3FQV3VrVGRmQWlKVWR6UnJ4Y2ZCTDJTYzVpRDJLbElpVEVuQzlPUm9ndkp6RGxZNWlaTjlweTcyVm5odHc?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-07T23:55:59.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-08T00:35:25.347Z",
-      "relevant": false,
-      "summary": "Trump says he offered the White House press secretary job to UFC's Dana White. The headline shows no AI policy angle.",
-      "whyItMatters": "Personnel news with no connection to federal AI policy or financial services regulation.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-08T00:35:25.347Z"
     }
   ]
 }
