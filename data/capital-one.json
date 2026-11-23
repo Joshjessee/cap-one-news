@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-22T20:21:33.610Z",
+  "updatedAt": "2026-11-23T12:48:03.680Z",
   "briefing": [
     "Berkshire Hathaway trimmed its stakes in Capital One and Bank of America while adding to Delta Air Lines, according to its latest filing. (Reuters, CNBC)",
     "A technical issue at JPMorgan Chase caused online banking delays and access problems for customers of several major US banks, with thousands reporting problems; the disruption has since been resolved. The reports do not make clear how Capital One was affected. (The Washington Post, Banking Dive)",
@@ -9,6 +9,41 @@
   ],
   "briefingUpdatedAt": "2026-11-22T20:21:33.610Z",
   "articles": [
+    {
+      "id": "6d29174a13d02634",
+      "title": "Wizards make it rain to win third straight game",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHd4dGhJVUlBWEtnODZ0ZWZSTTdRRTZhU0NtMGI5N2tndzZkVzV0REg4ZENqRzdoU0Vtb2JIaEVHdWxrWmlkMHF0NzV2Qm00SmhndnVYYzBVUl9yVi1Va0NMZDRmbG5GdXN3Q2t1c2JndlUyTkVxY0IxYTE0OGc2TFRta3dtUmFXZEltS3hBUFdyVkFXdjBjZVFsbw?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-23T06:39:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-23T12:48:03.680Z",
+      "relevant": false,
+      "summary": "The Washington Post reports on the Wizards winning their third straight game with strong three-point shooting.",
+      "whyItMatters": "This is a sports story with no evident connection to Capital One's business, so the policy team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-23T12:48:03.680Z"
+    },
+    {
+      "id": "69e4da5f5c38c3ea",
+      "title": "Wizards pour in 22 threes in wire-to-wire win over Magic",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnZOaWpPdVpsRHgwOWVLU2x4SkRlaTVuQXVGcTBEcGMtdTlGRk1iWWRraWluMzdrZGZmTXNfRzhiWTFUalN2ZHFKTG1femRXZVVSRnZ1S09zcEF0bVh1ZHpaLWdnaUZRbEFRZkQ3OEw3N21ibzhMQmp6UHdwWXpBbXpTeVgya1ZKdUVxQ3RaV3g3SzAyT3d1TTZteDE1SFVVdGNzcldwR0dIOUxISmc?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-23T02:42:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-23T12:48:03.680Z",
+      "relevant": false,
+      "summary": "Reuters reports the Wizards made 22 three-pointers in a wire-to-wire win over the Magic.",
+      "whyItMatters": "This is a sports game recap with no evident Capital One angle (any link would only be the arena name), so it's not relevant.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "6d29174a13d02634",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-23T12:48:03.680Z"
+    },
     {
       "id": "472c655e4d208862",
       "title": "Frustration mounts, and Capitals come up short again",
