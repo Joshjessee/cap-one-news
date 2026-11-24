@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-23T22:04:27.945Z",
+  "updatedAt": "2026-11-24T20:41:02.795Z",
   "briefing": [
     "A technical issue at JPMorgan Chase caused online banking delays and access problems across several major US banks, and Banking Dive reports the disruption affecting thousands of users has since been resolved. The articles do not confirm how Capital One was affected, so check for any customer impact. (The Washington Post, Banking Dive)",
     "Berkshire Hathaway trimmed its stakes in Bank of America and Capital One while adding to Delta, according to its latest filing. (Reuters)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-11-23T22:04:27.945Z",
   "articles": [
+    {
+      "id": "fad5dd440be4ac2e",
+      "title": "This painter has crafted 11 portraits of Alex Ovechkin — and counting",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWFIQ0hRLXFLRHl0NXJzc1ZVMDlGXzlNWkQ1QUVUa1NOWnZVNGpybUdOUHVmWHRWMkpaOEpRVUVlYVpWMHVRSDYtRlg0Y3BmcFE3TEhUaGlhbVpfOFVJRjZhU3U4a3hzNURXS09ORFl2SW45Ti1Mcm1XQ3dUTE0yU2V4cFlCdGhHczJZa2xxRDZOYzlRYXM0bHB4WFp0Skc2Q0VsVUx1Ym01WW52UjJF?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-24T20:02:57.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-24T20:41:02.795Z",
+      "relevant": false,
+      "summary": "A Washington Post feature about a painter who has made 11 portraits of hockey star Alex Ovechkin. The headline gives no sign of Capital One being involved.",
+      "whyItMatters": "Capital One does not appear to be a subject of this story, so the policy team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-24T20:41:02.795Z"
+    },
     {
       "id": "6d29174a13d02634",
       "title": "Wizards make it rain to win third straight game",
