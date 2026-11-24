@@ -1,15 +1,51 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-23T22:04:31.359Z",
+  "updatedAt": "2026-11-24T06:06:11.567Z",
   "briefing": [
-    "Treasury Secretary Bessent said the US is seeking answers from Nvidia on its chip sales to China, and Politico reports Treasury is still waiting for a response; separately, the administration plans to sanction the Singaporean firm at the center of the Nvidia chip scandal. (The New York Times, Reuters, Politico)",
-    "Some US banks are tightening controls on AI agents over concerns that models could escape safeguards, per a Reuters exclusive; American Banker also has an opinion piece urging banks to reconsider putting AI agent liability on consumers and a report on how data center backlash could pressure banks' AI investments. (Reuters, American Banker)",
-    "A GOP House member says he is optimistic Congress can pass an AI bill before the current Congress ends, though the headline does not specify which bill. (The Hill)",
-    "Nvidia reinstated Jensen Huang as CEO after Trump spoke directly to the board, drawing criticism from US lawmakers amid the China chip-sales controversy; the Washington Post also looks back at Nvidia's years-long Washington lobbying to sell chips to China. (The Washington Post, Reuters)",
-    "DNI Jay Clayton will serve as acting national cyber director following Sean Cairncross's departure. (The Washington Post, CNBC)"
+    "The Trump administration blacklisted Singapore-based Megaspeed, the firm at the center of the Nvidia chip-sales scandal, after earlier reports that sanctions were planned. (The Washington Post, The New York Times)",
+    "Treasury Secretary Bessent said the U.S. is seeking answers from Nvidia on its chip sales to China, and Treasury was still awaiting responses as of Nov. 22. (Reuters, The New York Times, Politico)",
+    "Nvidia reinstated Jensen Huang as CEO after Trump spoke directly to the board, drawing criticism from U.S. lawmakers and raising questions about White House involvement. (The Washington Post, Reuters, CNBC)",
+    "Some U.S. banks are tightening controls on AI agents over concerns that models could escape safeguards. American Banker separately argues banks should reconsider putting AI agent liability on consumers and notes that data center backlash could pressure banks' AI bets. (Reuters, American Banker)",
+    "A GOP House member said he is optimistic Congress can pass an AI bill before the current Congress ends, though the specific bill was not identified. Separately, DNI Jay Clayton will serve as acting national cyber director after Sean Cairncross's departure. (The Hill, The Washington Post, CNBC)"
   ],
-  "briefingUpdatedAt": "2026-11-23T22:04:31.359Z",
+  "briefingUpdatedAt": "2026-11-24T06:06:11.567Z",
   "articles": [
+    {
+      "id": "26819dc593a3e615",
+      "title": "Trump administration blacklists Megaspeed, key firm in Nvidia scandal",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmlyVWhMSk5veUZMcWQ5dlRSRGdwenl3TnBpeER3cVVwYzVoellWQ08xX3ZfaHZUaXV1bVVaLVltVUxGZkhVTkw5cExBQVRobjZwR1dDeTZIZk52cmNQanQ3V1luc0tZN2RWa3g0QTFBV3NVaUZEWlhUSXhxZVJYMFJEdlVvenZ0QndCUm9WcXJGdGlXYlJJemhPcXFRWXdUcV9aZjNJXzg4UWpZQXA0NjFaRE44NHFnZTBr?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-24T03:12:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-24T06:06:11.567Z",
+      "relevant": true,
+      "summary": "The Trump administration has blacklisted Megaspeed, the Singapore-based firm at the center of the Nvidia chip-sales scandal. This follows earlier reports that the administration planned to sanction the firm.",
+      "whyItMatters": "It is a concrete federal export-control action on AI chips and shows how aggressively the administration is enforcing restrictions on China-bound AI hardware.",
+      "priority": "high",
+      "category": "Administration",
+      "storyId": "99f17e4cc7717d57",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-24T06:06:11.567Z"
+    },
+    {
+      "id": "8e883193ca24b447",
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kZXRBYm1KcWt3TUMtd3Vqcl9PT05RdV9RbjNUc1FoRzBOc19HS0hDRHBHNktRSVNhaGZuYmladU9xVEdQbVV1X2tRUkxqMHVLc0pab295dS1GYnZUc2U5SzB3eldxTEdIdHpSRzFWaFc3aHpIZGVrTUNfWETSAYIBQVVfeXFMT0Faamsta2ZJMzhadXdkWVZBRUdWVXliYlFOcVZwV1BpOGhZY2NRaHB0X3VIOE5LcVVJaTZyY2hwc1JPaHNlTWJIQVNvSjYzUENITGFUNVlwTHczR25vbjZLWWF3bUs3R25uZjR5NjdCUVZfWFZMcTNvcmRNRWpySW9zUQ?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-24T03:05:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-24T06:06:11.567Z",
+      "relevant": true,
+      "summary": "CNBC lists six key questions raised by Jensen Huang's return as Nvidia CEO, in the wake of the chip-sales scandal and White House involvement.",
+      "whyItMatters": "It gives context on government pressure over AI chip exports to China, though it is analysis of an event already covered rather than new federal action.",
+      "priority": "medium",
+      "category": "Administration",
+      "storyId": "e689a5a18ce9a53e",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-24T06:06:11.567Z"
+    },
     {
       "id": "6c3af0fe6d78252a",
       "title": "Trump intel czar Jay Clayton to serve as acting cyber director",
@@ -3266,40 +3302,6 @@
       "storyId": "ab92bc2ec158e293",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-10T23:26:04.827Z"
-    },
-    {
-      "id": "b00cd132f1b1b654",
-      "title": "- The White House (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRk16Y0ZOSzRFY3ZiVGI0VDhjd0daNWpDQ3ZzSmhkZHQzcU5JMklsMHc4ZFRMM3FsejV4M0NsNWxDTGw3TkliT2NzS1VzaTJpMVNxTm5CcXZKakFKZ0pzbGlPcE9lamxGeW1WaDItWEFZWTVRSjdvYnJtTWlpZXBackpjWDRWa0JaMFFRVk1sSlJXekU4M0ozYWN0Q3JXSEF3Y3Z0aXB6U0MwR0ZZMm5KZjBqckgzaHR1SHJRYUFEanZfRE0?oc=5",
-      "source": "The White House",
-      "paywalled": false,
-      "publishedAt": "2026-11-10T03:01:14.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-10T12:47:23.437Z",
-      "relevant": false,
-      "summary": "The only information available is an outlet name (The White House) and a placeholder headline with no content, so the subject of the item can't be determined.",
-      "whyItMatters": "Nothing indicates an AI policy action, so there is nothing to act on until a real headline or text is available.",
-      "priority": "low",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-10T12:47:23.437Z"
-    },
-    {
-      "id": "560c67f31226225b",
-      "title": "Silicon Valley’s Trump-era playbook is falling apart. A major shift is underway.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWRzQnpKeWZ1UnFjYmlMRXJUTjZzTk9VRUNnU1BNS1VnN2t1RWo0bGJqbUo1dTFER3BfQmdBWml4eklMVm9wUllwTTk2NWZ1aDdQamtqeUZiTXBGUENpMUlZb0w2bkhCVUlxemUxZnBYalViZ2FJeHRfRHlQRi0yTHJPY3g1NG5EVUl4ZU9IVlN5TWNMZzlRVHNZMFhOVFJ5Wm85ZXZjUV84dG1jYV8w?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-09T23:17:59.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-11T12:47:56.240Z",
-      "relevant": true,
-      "summary": "The Washington Post analyzes a shift in Silicon Valley's political strategy under Trump as its playbook falters.",
-      "whyItMatters": "It offers context on tech-industry influence over AI policy.",
-      "priority": "low",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-11T12:47:56.240Z"
     }
   ]
 }
