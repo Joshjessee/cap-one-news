@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-25T04:54:53.577Z",
+  "updatedAt": "2026-11-25T12:47:39.428Z",
   "briefing": [
     "Capital One is pursuing a payments modernization effort, updating its payments technology and infrastructure, per Payments Dive; no regulatory angle noted, but relevant to the company's post-Discover network strategy. (Payments Dive)",
     "CNBC is promoting a Capital One Venture card welcome bonus worth $1,050 or more in travel that is ending soon, a routine product marketing item. (CNBC)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-11-25T04:54:53.577Z",
   "articles": [
+    {
+      "id": "48bf9159be3dd511",
+      "title": "NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3U5QXBDWTNacGl5SkdSV1ZtUmszYUtPY3ZkWVE3dTVCbW1OQ3hyR0NKU3ZXSW1zZjd3TnFPT0wzc2xCbTNZYXFORGRhUEpqcERzUkFIRnJheG5iTHVPTkZhdkM5OVZwUlRreURmY0laR2FENVc5VWFlZnZMUzYxX0VKa3NvRFhUT1BQNlprb0lnSl9jVkJsLXJHc0p1b3YzcTA5ZHRRbGltb3BwVXJR?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-25T09:07:34.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-25T12:47:39.428Z",
+      "relevant": false,
+      "summary": "A Reuters NBA game roundup about Jayson Tatum scoring 41 as the Celtics beat the Wizards. Capital One is likely named only via the Capital One Arena venue.",
+      "whyItMatters": "Sports story with no apparent connection to Capital One's business or policy issues.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-25T12:47:39.428Z"
+    },
     {
       "id": "e255d26b9fdc4d9b",
       "title": "Rough first half dooms Wizards in home loss to the Celtics",
@@ -111,6 +128,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-24T20:41:02.795Z"
+    },
+    {
+      "id": "3f8bf505d9bba5d9",
+      "title": "Best credit cards for military members in 2026",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IdV9TUlhqVnhtenZOUFVNQm9Ka1k3ZUlZdnZoQzhsMHd5WHYtN1dQcVRGVFdpMkhJMFh2UFFoSUFJWmlxSGh2YjhXcEx4NTlZNzNjR0JtVzMyaWpnZVNVb201aU1LdDBlWGM40gFwQVVfeXFMT1FTQl9INEF1ZTNVN2NzbjlUOVN6YVpfNGtjQWtrS3lqWFBLT0hIbTkwWDAwVnAwM1BKX284Nk5zdDlTcXRleTBiSjE2UjJGRGsxNzZCNlRlUTBoOVdzbExJZkp5amwxWjctOWNCRkh1ZQ?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-25T12:47:39.428Z",
+      "relevant": true,
+      "summary": "CNBC roundup of the best credit cards for military members in 2026. The headline doesn't mention Capital One, but the article may include its cards among the picks.",
+      "whyItMatters": "Consumer card roundup; only minor competitive relevance and it may mention Capital One in passing.",
+      "priority": "low",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-25T12:47:39.428Z"
     },
     {
       "id": "6d29174a13d02634",
@@ -1122,74 +1156,6 @@
       "category": "Legal",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-11T17:54:56.261Z"
-    },
-    {
-      "id": "6aa072ae8ba2123d",
-      "title": "After US market shake-out, signs suggest too soon to say worst is over",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDNPMm44clZfWEJ5a0o3NTNEYVl5Y0ZuOHJTbnUyc2dDRjVITnk0akVVQnJiWWFIZnVGek5WTTBWN0JLTEV6YmhNS2tmV0NrWkc3aFNKWDZCdjVyNjRxd3JKSjVZcGtXM29kWEJlMGVvS3JYeTV6aU5tLXk2RUNEUEhpOHkzRlBURUpvbWd2NXllQXllZzVDOHkydnpZU0E2UWNZRDhUYXVIbGFVNzR2cWo3eE5PaTZscnNB?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-11T12:19:32.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-11T12:47:48.613Z",
-      "relevant": false,
-      "summary": "Reuters piece on the recent US stock market shake-out and whether signs indicate the selloff has ended. The headline does not mention Capital One.",
-      "whyItMatters": "No evident Capital One connection; general market coverage the policy team can skip.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-11T12:47:48.613Z"
-    },
-    {
-      "id": "5a9ad6fc298fbf14",
-      "title": "Charts suggest AI selloff may not derail broader stock rally",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5OF9ZQzBJYjFCS0g2OExQYThmMFpCNzAxSDRiUWQtOXFIYklNbmw5Ry1lTjVoUGl5aXh2M0VBTzhndWhQYS0xdFplMVZSVW53ZzN1bnpOWmdVM2d1V1hYcmtoN0hnb1lzeF9xY2hiX19YNzBiVHJDelhKOUpYZw?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-11T11:10:14.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-11T12:47:48.613Z",
-      "relevant": false,
-      "summary": "Reuters piece using charts to suggest an AI-driven stock selloff may not derail the broader market rally. The headline does not mention Capital One.",
-      "whyItMatters": "No evident Capital One connection; general market commentary the policy team can skip.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-11T12:47:48.613Z"
-    },
-    {
-      "id": "31f7a85689e72d4c",
-      "title": "November 11, 2026 Meredith O’Rourke Board Member National Park Foundation 1500 K Street NW, Suite 700 Washington, D.C. 20005 D",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTllwV09saGNoRlRUZnRqSTV2UDZ1TDZiaEpxdVF5SVpNVjIybWs2MlNwQ3p3dGhiTFFDdTFIanBwalM5OTRsMVp5ZHBibkxJejZjN0tweGhacS1FSXJwN19KQ2FiLXpPbXZTSHdINXhrRW5ibjZYOWhURXBPeXVsdFVldzc3S1lf?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T12:47:48.261Z",
-      "relevant": false,
-      "summary": "A Washington Post item that appears to be a letter or notice addressed to Meredith O'Rourke of the National Park Foundation, dated November 11, 2026. The headline shows no evident link to Capital One.",
-      "whyItMatters": "No clear Capital One connection from the headline; likely only a passing mention at most.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T12:47:48.261Z"
-    },
-    {
-      "id": "36c3fa7603cc7ef2",
-      "title": "Save more on Black Friday and Cyber Monday with these 11 credit cards",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemdIakJ2SWhLU09aaHFHa19tQVliUjA3U0hYUm95SU9RV1M4ZnVkd0hKWURjamlNODJfdmx4NHBBdkpEUFg2RDBPRHphdXE1VHBMcmhjUlRFUmQ5YUVWZW52MnZLazdpMVRyVnRKYTl2U25UcGhEelljR1RRb3RONVBsN19GREHSAYwBQVVfeXFMTWs0SEhxakFuUHhLSk9GeDZ4d21IcXZZRmlGOTRJT1pmLUdMWUdVeGY3YTU1b3JNZUs1cVo5VnNUNVBkUjBTQlM3SGJ1VktfQl94dDRSdVhMQnA5RjJFc2gxLUVycnhfNUFHLVprcXVzUkIwQWEzaFNfOUtFZTZ0dWRVVGJKdkZua1dieFQ?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T23:36:55.452Z",
-      "relevant": true,
-      "summary": "A CNBC consumer-finance roundup highlights 11 credit cards for Black Friday and Cyber Monday shopping. The headline doesn't say whether Capital One is among them, so its role is unclear.",
-      "whyItMatters": "Likely a routine consumer card roundup with little policy relevance; at most it shows how Capital One cards are positioned in holiday shopping coverage.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T23:36:55.452Z"
     }
   ]
 }
