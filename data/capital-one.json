@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-25T12:47:39.428Z",
+  "updatedAt": "2026-11-25T19:58:11.667Z",
   "briefing": [
     "Capital One is pursuing a payments modernization effort, updating its payments technology and infrastructure, per Payments Dive; no regulatory angle noted, but relevant to the company's post-Discover network strategy. (Payments Dive)",
     "CNBC is promoting a Capital One Venture card welcome bonus worth $1,050 or more in travel that is ending soon, a routine product marketing item. (CNBC)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-11-25T04:54:53.577Z",
   "articles": [
+    {
+      "id": "cfae80a33f6c5ab7",
+      "title": "Alex Ovechkin is a legendary goal scorer. He’s also the Capitals’ assist king.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkVoQXVMZHAyS0RkZnJnbWxhMVNfRFVtWkNrcUpQa0NDQ3FWdERGeWpFR1dOczdKZVVva090dk1mamtvQmFRLXJ1NDRCdFp3V1hGeVl1ZHFaWkVVWkY0dG1SMnlzQjFabVVSeVllYVRiWVExX3JfWlE2bFhOWlFwQkduckI2WllleExpd1Q0RFFnbnVXLXBWT2dja1oyd0RRNTZRRTFpVHpaY1J2cTh0X3B2bExiX1FwTFE?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-25T19:53:40.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-25T19:58:11.667Z",
+      "relevant": false,
+      "summary": "A sports feature about Alex Ovechkin's playmaking and assists for the Washington Capitals. Capital One appears at most as a venue name (Capital One Arena), not as a subject.",
+      "whyItMatters": "No connection to Capital One's business or policy matters.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-25T19:58:11.667Z"
+    },
     {
       "id": "48bf9159be3dd511",
       "title": "NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
@@ -145,6 +162,23 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-25T12:47:39.428Z"
+    },
+    {
+      "id": "3f6cc8e458f736a4",
+      "title": "Best virtual credit cards of November 2026",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vMkNQaGdBSE9tSEtmeU91OHJKclZNZ3V2NDM3OW1wdDBabk9pdjF5RlcyQlZPTGZKcVVRdXE0bFQ5OFQteDR6T1FnQThuWjk1VzZ3NTlwREN1SF92MHlZVHppYlXSAWpBVV95cUxPa3RrMnhZaW10bFFLR2dOdzQ0SldvbDZiN0lkdVMtUG5XSzdFcFJSMXNmNTc0RWVxNlBqOU9rb1NOY1p4UG80YnU3cmdwYkpZS0IyS1dWU25Ea2U3TFZMdWN1UWJfXzhfbm5R?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-25T19:58:11.667Z",
+      "relevant": true,
+      "summary": "A CNBC roundup ranking the best virtual credit cards for November 2026. Capital One may be among the issuers listed, though the headline does not say so.",
+      "whyItMatters": "It is a consumer-product roundup with at most a passing mention of Capital One, so it is of limited policy interest.",
+      "priority": "low",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-25T19:58:11.667Z"
     },
     {
       "id": "6d29174a13d02634",
@@ -1139,23 +1173,6 @@
       "category": "Products & Technology",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-15T01:02:02.499Z"
-    },
-    {
-      "id": "d499ba6d8868e401",
-      "title": "Wachtell, Nvidia's pick for Huang probe, built reputation in boardroom battles",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbk9reEdsbkU3aURrbkFacUVNSWp1TVBBbDc1NmtpZmlhZGpfcXBkMTdIZUpHQTg5RTU5YUtFNEk2cVkydm05c0did3J4VllZYTI3azdaM3VOLWhCNTZKRGtsYXdGMHU2RlVDZExlNlVLUnlNYkZhbWJwRFZQazNiU2NDTlFvaWZsc2ZRU2laeTItaUpnUXB6T3NSUzAyUkdFNmo3STIwNHpSdU44Z2FmeHVaWmJZLTVscHM0M3BvaE9Idw?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-11T17:46:41.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-11T17:54:56.261Z",
-      "relevant": false,
-      "summary": "Reuters profiles law firm Wachtell, reportedly chosen by Nvidia for a probe involving Jensen Huang, and its reputation in boardroom battles. The headline gives no indication that Capital One is involved.",
-      "whyItMatters": "No evident Capital One connection, so the policy team can likely skip it.",
-      "priority": "low",
-      "category": "Legal",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-11T17:54:56.261Z"
     }
   ]
 }
