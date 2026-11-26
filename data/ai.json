@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-26T12:47:48.421Z",
+  "updatedAt": "2026-11-26T19:38:27.880Z",
   "briefing": [
-    "Commerce's International Trade Administration published a Federal Register notice creating an On-Demand Consortia pathway under the American AI Exports Program, implementing Executive Order 14320 on exporting the American AI technology stack; it also allows re-designation and de-designation of packages selected under the April 2026 call for proposals. (Federal Register)",
-    "Jensen Huang is set to face questioning in Washington the same day Nvidia releases new products at GTC, amid congressional scrutiny of Nvidia's chip sales to China following his reinstatement as CEO. (CNBC)",
-    "Huang's return has set off a Washington fight over China's access to advanced AI chips, with lawmakers and officials split over export controls; Trump's backing of Huang is seen as a setback for China hawks in his administration and Congress. (Reuters, The Washington Post)",
-    "Market and political fallout continues: holders of Nvidia chips are reportedly seeking new buyers as U.S. curbs limit China's access, while Mitt Romney said the Huang episode 'smells of profit, corruption and perhaps worse.' (CNBC, The Hill)",
-    "Commentary on the Huang saga centers on conflicts of interest and tech's political power, with CNBC saying Trump's involvement has revived voter concern and a Washington Post opinion piece arguing the key conflict is already public. (CNBC, The Washington Post)"
+    "Commerce's International Trade Administration published a Federal Register notice creating an On-Demand Consortia pathway under the American AI Exports Program, implementing Executive Order 14320 on exporting the U.S. AI technology stack. The notice also covers re-designation and de-designation of packages selected under the April 2026 call for proposals. (Federal Register)",
+    "Despite bipartisan appetite to regulate AI, efforts in Congress face significant obstacles to advancing legislation. (The New York Times)",
+    "Jensen Huang's return as Nvidia CEO has set off a Washington fight over China's access to advanced AI chips, with lawmakers and officials split over export controls. (Reuters)",
+    "Trump's backing of Huang is being read as a setback for China hawks in his administration and Congress. Separately, holders of Nvidia chips are reportedly seeking new buyers as U.S. curbs limit China's access. (The Washington Post, CNBC)",
+    "Trump's involvement in the Huang reinstatement has revived public concern over tech's political power, and a Washington Post opinion piece argues the Nvidia conflict of interest is already public. (CNBC, The Washington Post)"
   ],
-  "briefingUpdatedAt": "2026-11-26T12:47:48.421Z",
+  "briefingUpdatedAt": "2026-11-26T19:38:27.880Z",
   "articles": [
     {
       "id": "c45682b149152466",
@@ -26,6 +26,23 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-26T12:47:48.421Z"
+    },
+    {
+      "id": "364c37213c8e37fe",
+      "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5",
+      "source": "The New York Times",
+      "paywalled": true,
+      "publishedAt": "2026-11-26T10:03:47.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-26T19:38:27.880Z",
+      "relevant": true,
+      "summary": "The New York Times reports that although both parties want to regulate artificial intelligence, efforts in Congress face significant obstacles to advancing legislation.",
+      "whyItMatters": "It signals the likely trajectory and hurdles for federal AI legislation, including any rules that would affect financial services.",
+      "priority": "medium",
+      "category": "Congress",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-26T19:38:27.880Z"
     },
     {
       "id": "35e2777c54491008",
@@ -3161,58 +3178,6 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-13T01:07:04.755Z"
-    },
-    {
-      "id": "3fa6228a12f03a96",
-      "title": "Explainer: Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRERObVhKZklNOEliOFhfQmhqMmZaQWktbkVWTXlxZU8zbUtxQ1cwZnZpaGJwZ1djUHFFVVlydTFsQUd3UUJEV0NOdUliUGY1ZGNKN1ZPWG1zYkpxcEgtNGJlSFVrTi1EVm84MnFFbWxmeXR1YmotNUdzVFBtUVU1VmhPR3ZGTHFUcHlSUnRQQmU0WUYyRi1fdnNHOHc3QUh2OWVsQURUb3BwVTVaMm9NRUdnbw?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-12T19:08:21.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T01:07:04.755Z",
-      "relevant": true,
-      "summary": "Reuters explains that tougher curbs on AI chip sales to China are likely after the Nvidia CEO's resignation.",
-      "whyItMatters": "Signals coming export control tightening affecting AI policy.",
-      "priority": "high",
-      "category": "Administration",
-      "storyId": "ab92bc2ec158e293",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T01:07:04.755Z"
-    },
-    {
-      "id": "bcfd2e929b5928e0",
-      "title": "New Congress to Push Cyber Legislation",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjQxa3liZ3QzSzVPVV9mRHRyMWRFbFctME83LXRLUmRLVC02TE1tT3hUN0Q1T2ZlVTZNVkIzckJKYm1OeUg3XzNWbDdDZjRvUC0xSkRjWkF1UHB3bnlfQlBIeDhSWHZJSXRZSElHRWNnZ2x2QldrRU1hZHJkdUVhcERmUWZULXlJVVh3T0FR?oc=5",
-      "source": "The Wall Street Journal",
-      "paywalled": true,
-      "publishedAt": "2026-11-12T17:15:03.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T12:47:54.446Z",
-      "relevant": true,
-      "summary": "WSJ reports the incoming Congress plans to push cybersecurity legislation.",
-      "whyItMatters": "Cyber legislation could affect financial institutions and intersect with AI-related security policy.",
-      "priority": "medium",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T12:47:54.446Z"
-    },
-    {
-      "id": "fa99312987468b68",
-      "title": "Trump Backs Lutnick Despite Uproar Over Nvidia Chip Controls",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1FwaWhheUk3dk55VE5iZUNpa1FzSHJrR1ppZzN2TGY1X3BTaXFTVjAzZmtwTG82NWZlV1pxQnJPT013d1Zzc3NsMTJFSHpqS2oxTEY5LVdSejZrUERSc0EwZXV5ejJqQ2JlbldydWg3NXpISk1pd0Y5cW0xNzdyTm80eUtjNVNsdEltZHd5dmppN3ZRcmJMemVLTFBBZzF1Zkx3OUNBODFiRXZWcmpWRA?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-11-12T15:29:23.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-12T18:21:43.532Z",
-      "relevant": true,
-      "summary": "President Trump is standing by Commerce Secretary Lutnick despite criticism over how the administration has handled Nvidia chip export controls to China.",
-      "whyItMatters": "Signals the administration's direction on AI chip export policy, which affects the broader federal AI policy environment.",
-      "priority": "medium",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-12T18:21:43.532Z"
     }
   ]
 }
