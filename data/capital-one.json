@@ -1,14 +1,49 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-26T02:52:55.174Z",
+  "updatedAt": "2026-11-26T12:47:41.960Z",
   "briefing": [
-    "Capital One is pursuing a payments modernization effort, updating its payments technology and infrastructure, per Payments Dive; no regulatory angle noted, but relevant to the company's post-Discover network strategy. (Payments Dive)",
-    "CNBC is promoting a Capital One Venture card welcome bonus worth $1,050 or more in travel that is ending soon, a routine product marketing item. (CNBC)",
-    "A Washington Post opinion/analysis piece on the economic value of credit card rewards touches on themes tied to Capital One and Discover's business and the interchange and swipe-fee debate. (The Washington Post)",
-    "Capital One is likely among the banks in CNBC's November 2026 best checking accounts roundup, though the teaser does not confirm it; low-priority mention. (CNBC)"
+    "Capital One is pursuing a payments modernization effort, updating its payments technology and infrastructure (Payments Dive).",
+    "A Washington Post piece on the economic value of credit card rewards feeds into the interchange and swipe-fee debate, which bears on the business models of Capital One and Discover (The Washington Post).",
+    "CNBC is promoting a Capital One Venture card welcome bonus worth $1,050 or more in travel that is ending soon, a routine product item (CNBC).",
+    "Capital One may appear in CNBC roundups of the best credit cards for military members and the best virtual credit cards for November 2026, though the summaries do not confirm it (CNBC)."
   ],
-  "briefingUpdatedAt": "2026-11-25T04:54:53.577Z",
+  "briefingUpdatedAt": "2026-11-26T12:47:41.960Z",
   "articles": [
+    {
+      "id": "f9056260b14500e6",
+      "title": "Capitals get it together and end five-game skid with win over Flyers",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEMtV2g1RVJpa083N1pIeTY5clFOcGo5dFlQRUJ5MDdSdkItdDRaYm5iU3JET1BZTmEwN2NaS2kxZi1NajFObl83eVpNRGRabkxHWDY4WlVNVEVraEZpSlp0UGxXM1hRbjJFVkd2eFIzT1FoX19HREhyTTJIWi1lT1ViTXFKZG5SQTlIY0ZUMGd4WW9ySG9mWU1UZ2ZrRHlYRUxqNjVoWGVpcDF6REp6eDNsUFU?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-26T06:16:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-26T12:47:41.960Z",
+      "relevant": false,
+      "summary": "Recap of the Washington Capitals ending a five-game losing streak with a win over the Flyers. Capital One is not evidently the subject; any link is likely just the arena name.",
+      "whyItMatters": "Sports coverage with no apparent connection to Capital One's business or policy issues.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-26T12:47:41.960Z"
+    },
+    {
+      "id": "db4f15cdeb654ef1",
+      "title": "Behind Alex Tuch's big night, Capitals best Flyers, end 5-game skid",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaEVBWWZkeEZoLTJlRFgyZkxEZGZOdXhmRlU4YzB2WTY4eWpvT2VPbG02TGVhT1lOSFdDNWQ3VDRSMTE2SUpsdEhaMUtyX3BWZFRBV0JfRkc0dEhzQWRSSEFiaVNwYlpzNVJRaTlvMlY5MlJPRHBxSXFMQllnaFBWeTM4Z0xJUGJHY3RUVWNnZWFsYXV3ODd5UUFOTkJnU3QwZW1Vc29BVFVKTjBYdmg4Q1lLZXRnVW8?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-26T03:22:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-26T12:47:41.960Z",
+      "relevant": false,
+      "summary": "Reuters recap of the Capitals beating the Flyers behind a big night from Alex Tuch, ending a five-game skid.",
+      "whyItMatters": "Sports game coverage unrelated to Capital One's business or policy matters.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "f9056260b14500e6",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-26T12:47:41.960Z"
+    },
     {
       "id": "28f5b144361b8500",
       "title": "Stevie Wonder serenaded by Howard University students in powerful tribute",
@@ -1173,23 +1208,6 @@
       "storyId": "59981af8fa42e269",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-13T12:47:48.261Z"
-    },
-    {
-      "id": "937fffddb496a6f9",
-      "title": "The most exclusive credit cards of November 2026",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXcGdWWjQzR25TQVpDckt1MzcxZXFJdm1qMTZUQmUzSzhtWGRRLUJsb2NMMktqbmZVV0pManBmQ01jWUlYdld2V09kSFl6dmliTnd2R1dEaFA0S3FxR0ZaOWZpeGx2OUXSAWxBVV95cUxOd2JyaTFVWVR5WWpCd18yZVdackx0X1dBcXR3Vkx6RlhRTkxpWE1rdFVBRk9UNnhxZGVhdkgtUXhpMkZocFFkTm1nREtXTTVkOWhHRXpmbEVMQ0ZQMFlFT2N0QU9rdFBPdk1WSXE?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-11-12T08:00:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-15T01:02:02.499Z",
-      "relevant": true,
-      "summary": "CNBC roundup ranking the most exclusive credit cards for November 2026. The headline does not mention Capital One, but the article may include its cards, since it is a list of card products.",
-      "whyItMatters": "Capital One is likely only one of several issuers listed, so this is a low-value consumer roundup for a policy team.",
-      "priority": "low",
-      "category": "Products & Technology",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-15T01:02:02.499Z"
     }
   ]
 }
