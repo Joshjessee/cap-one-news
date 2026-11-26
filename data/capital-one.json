@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-25T19:58:11.667Z",
+  "updatedAt": "2026-11-26T02:52:55.174Z",
   "briefing": [
     "Capital One is pursuing a payments modernization effort, updating its payments technology and infrastructure, per Payments Dive; no regulatory angle noted, but relevant to the company's post-Discover network strategy. (Payments Dive)",
     "CNBC is promoting a Capital One Venture card welcome bonus worth $1,050 or more in travel that is ending soon, a routine product marketing item. (CNBC)",
@@ -9,6 +9,23 @@
   ],
   "briefingUpdatedAt": "2026-11-25T04:54:53.577Z",
   "articles": [
+    {
+      "id": "28f5b144361b8500",
+      "title": "Stevie Wonder serenaded by Howard University students in powerful tribute",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSnI1WE1Md0xJczRNTDVJaEdkd2cyVThaRHl2SVU1ZW5pYW1uYzc1YU9ZS19ZVGJ4c0xrUi1VOEJXQnJ4eUNOM29LUTJCSnA5SG1wSmlycHNveUpiX3NZejFvM3QyblRVcW1SRkttYnlvMC1JX3V0bW43TzdrWjZqZjhnRDcxMnZtbGtPc3hRTGpEbTFiZWFTaWFpMnppZkJzOFM1dFBuUE44dG5kaG9Ob0JFLWszVFh1MldlRTV1MA?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-26T02:50:18.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-26T02:52:55.174Z",
+      "relevant": false,
+      "summary": "The Washington Post reports on Howard University students paying musical tribute to Stevie Wonder. Nothing in the headline indicates the story is about Capital One.",
+      "whyItMatters": "No evident connection to Capital One or its policy interests, so the team can skip it.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-26T02:52:55.174Z"
+    },
     {
       "id": "cfae80a33f6c5ab7",
       "title": "Alex Ovechkin is a legendary goal scorer. He’s also the Capitals’ assist king.",
