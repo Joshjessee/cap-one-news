@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-26T12:47:41.960Z",
+  "updatedAt": "2026-11-27T02:52:40.178Z",
   "briefing": [
     "Capital One is pursuing a payments modernization effort, updating its payments technology and infrastructure (Payments Dive).",
     "A Washington Post piece on the economic value of credit card rewards feeds into the interchange and swipe-fee debate, which bears on the business models of Capital One and Discover (The Washington Post).",
@@ -197,6 +197,23 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-24T20:41:02.795Z"
+    },
+    {
+      "id": "63ed30f15fa868c6",
+      "title": "9 best free checking accounts of December 2026",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbGd5bVUtRlE3MmcyQWNRN0cydkdXWTJ4Z0pvQ1hfSFFxeG9GVER1V0YySXQ0TkhIWlh4akh5clVSejJXMlQ3SHM1V2VnbGQ1RHByMV9qSGEydWVvQ01qTHlqY3ZpUUdYSlHSAW9BVV95cUxQbnhieGQ2WjBLeFZPRHBtQXNXamJFcC05ZDUxS1FBUkgwTFRISTJrUFlqWHFYLUJ1UktlWHA4MGlQZW45Y0dvVllUTTFXWHNBYVN6UjNrS01DZFdORFRtelpmWGkwTV9xcndhUko4YVU?oc=5",
+      "source": "CNBC",
+      "paywalled": false,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-27T02:52:40.178Z",
+      "relevant": true,
+      "summary": "CNBC roundup ranking the best free checking accounts for December 2026. Capital One may be among the banks listed, but only the headline is available.",
+      "whyItMatters": "It is a consumer-finance roundup where Capital One is at most one of several banks, so it is of limited policy interest.",
+      "priority": "low",
+      "category": "Products & Technology",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-27T02:52:40.178Z"
     },
     {
       "id": "3f8bf505d9bba5d9",
