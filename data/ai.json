@@ -1,14 +1,14 @@
 {
   "topic": "ai",
-  "updatedAt": "2026-11-27T02:52:43.564Z",
+  "updatedAt": "2026-11-27T12:47:03.535Z",
   "briefing": [
-    "Commerce's International Trade Administration published a Federal Register notice creating an On-Demand Consortia pathway under the American AI Exports Program, implementing Executive Order 14320 on exporting the U.S. AI technology stack. The notice also covers re-designation and de-designation of packages selected under the April 2026 call for proposals. (Federal Register)",
-    "Efforts to pass AI legislation face significant obstacles in Congress despite bipartisan appetite to regulate the technology. (The New York Times)",
-    "Jensen Huang's return as Nvidia CEO has set off a Washington fight over China's access to advanced AI chips, with lawmakers and officials split on export controls. Trump's backing of Huang is seen as a setback for China hawks in his administration and Congress, while chip holders seek new buyers as U.S. curbs limit China's access. (Reuters, The Washington Post, CNBC)",
-    "Banks face a surge of software patches and are racing to fix them; Bloomberg's headline does not specify the cause, though it may relate to AI-driven vulnerability discovery. Worth watching for financial-sector cyber and AI risk implications. (Bloomberg)",
-    "Commentary on Trump's involvement in the Huang reinstatement is reviving public concern over tech's political power and Nvidia-administration conflicts of interest. (CNBC, The Washington Post)"
+    "Commerce's International Trade Administration published a Federal Register notice creating an On-Demand Consortia pathway under the American AI Exports Program, implementing Executive Order 14320 on exporting the American AI technology stack. The notice also covers re-designation and de-designation of packages designated under the April 2026 call for proposals. (Federal Register)",
+    "Both parties say they want to regulate AI, but efforts in Congress face significant obstacles to advancing legislation. (The New York Times)",
+    "Jensen Huang's return as Nvidia CEO has set off a Washington fight over China's access to advanced AI chips, with lawmakers and officials split over export controls. The Post reports that Hegseth and Pentagon officials floated using a wartime law to reappoint Huang. (Reuters, The Washington Post)",
+    "As U.S. restrictions limit China's access to AI chips, holders of Nvidia chips are reportedly looking for new buyers. (CNBC)",
+    "The FCC reportedly approved SpaceX's plan for up to 1 million orbital data centers aimed at AI computing infrastructure, drawing objections from astronomers over the effect on the night sky. (The Washington Post)"
   ],
-  "briefingUpdatedAt": "2026-11-27T02:52:43.564Z",
+  "briefingUpdatedAt": "2026-11-27T12:47:03.535Z",
   "articles": [
     {
       "id": "c45682b149152466",
@@ -26,6 +26,23 @@
       "category": "Administration",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-26T12:47:48.421Z"
+    },
+    {
+      "id": "fac5560adfa9a0f5",
+      "title": "FCC approves 1 million SpaceX data centers in space. Astronomers are dismayed.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWRGMWR3bjFJZmlWaVE5Si0zTk56UnpEcDNYS0gxalgyV2Q5ZVBiNWRoMVAycmRvVUlfN1Mydm00dlpZdWZsTkVPMGtabEZsQ3FlNC1QbXFSZTF1MXhMQ2p0R3JtRUg1VlEyUFc2aVBGVkMwWHFrZl9UanJfQkg3VkNMejE1ZEs4TUdNVE1KdkZELURVd0NHNnZaOHJRZUhCMUxyckJqMmZGUEl2enh2MmRVd2V5VnpnaUNpakx5QnVUSXdWUmc?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-26T22:53:27.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-27T12:47:03.535Z",
+      "relevant": true,
+      "summary": "The FCC reportedly approved SpaceX's plan for up to 1 million orbital data centers, a move aimed at AI computing infrastructure. Astronomers are objecting over the effect on the night sky.",
+      "whyItMatters": "It shows federal regulators enabling AI compute infrastructure, but it has little direct bearing on financial services AI policy.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-27T12:47:03.535Z"
     },
     {
       "id": "f123c29f42301ef5",
@@ -60,6 +77,23 @@
       "category": "Congress",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-26T19:38:27.880Z"
+    },
+    {
+      "id": "d09ce37fa057770f",
+      "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-26T06:32:48.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-27T12:47:03.535Z",
+      "relevant": true,
+      "summary": "Per the Post, Hegseth and Pentagon officials discussed using a wartime law to reappoint Nvidia's CEO. This adds to the ongoing Washington controversy over Huang and China chip access.",
+      "whyItMatters": "It is a new development in the Nvidia/Huang saga shaping AI chip export policy and Administration-industry ties.",
+      "priority": "medium",
+      "category": "Administration",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-27T12:47:03.535Z"
     },
     {
       "id": "35e2777c54491008",
@@ -2988,76 +3022,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-14T18:44:24.203Z"
-    },
-    {
-      "id": "a470760262e56175",
-      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wMjVwVXVjeGhLbERpVG81ZXFmakJVRVF3cmdCZWNhTUQzdTR4TXlBeWo0LUYxSGhMNlNjS19FWUs1WXplUjk3eEVtUG1sSTlhM1RGTDRTcHZYbE9MVkNMWHozLWZaQlFROFZoUGNZVHZPUzdEU1Fzdmln0gF_QVVfeXFMTUxaWHpOeEtydmE4Zk9zRm52ODloaUlYamZlYUM1R29KOEh5MF9KY1d3anhYNHEzaFFpX2gzOC12bnBYRW5tYnlseUlqckxsa0FKT3hRV1RpaDQwNTU2c0s5QXlybkVRR0pNZUlsQzhjM1Y3bjdtTGllRDNuT3VHcw?oc=5",
-      "source": "CNBC",
-      "paywalled": false,
-      "publishedAt": "2026-11-13T10:54:40.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T12:47:54.446Z",
-      "relevant": true,
-      "summary": "Commerce Secretary Lutnick is reportedly drawn into the Nvidia scandal and has agreed to testify to Congress about China chip sales.",
-      "whyItMatters": "A congressional testimony could shape AI chip export control policy and Commerce's role.",
-      "priority": "high",
-      "category": "Administration",
-      "storyId": "262029f718c39a72",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T12:47:54.446Z"
-    },
-    {
-      "id": "07398fd9929ea42d",
-      "title": "Nvidia Crisis Prompts Scrutiny of Lutnick’s Role in Chip Policy",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVreDlTUVZLbjBNRGZmNkxwcmMyNWN2UnZKNzdpMnVSQ0tlUUdGa2VzOWhQZnpOWFVXZEFoa3g2Rm1WbnlvNFpjVElGdUZwVXpGbkZLdDlQWmN6ZGtUY2RNSUNuR2FYNmcwbElSZ0p5aVg5ODFvcTg0TEJNa1FGRHVwMTVhSmNfdmFvZkxrTEdkai1tMThtbkVuX2l2THV1NWxucldhekVDR3c3aFE2RFVpZEM?oc=5",
-      "source": "Bloomberg",
-      "paywalled": true,
-      "publishedAt": "2026-11-13T04:59:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T12:47:54.446Z",
-      "relevant": true,
-      "summary": "Bloomberg reports the Nvidia crisis is bringing scrutiny to Lutnick's role in shaping chip export policy.",
-      "whyItMatters": "Signals possible changes in Commerce leadership and AI chip export policy.",
-      "priority": "medium",
-      "category": "Administration",
-      "storyId": "fa99312987468b68",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T12:47:54.446Z"
-    },
-    {
-      "id": "ec3208e41fac5a25",
-      "title": "Calls for Nvidia probes, new chip export limits intensify",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHc1b3ZaSzA2am5BZ045VzVvV1V0eVdoSUpoUHdfUG1mTE5hdXpZRDdoOVlzcUtlWWhPRHV5dWtpLUhZSUZiT0dmdEw0Y2Z3ajNMcW5nbVNRSkdGSWlGVE9pVHdPdHpFVkxWU1VoYVJXZVVVQ2ZIajFoNlFsM3dsVGxlaTkxT280VVhmeDZlUENZSTA?oc=5",
-      "source": "Roll Call",
-      "paywalled": false,
-      "publishedAt": "2026-11-13T03:55:42.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T12:47:54.446Z",
-      "relevant": true,
-      "summary": "Roll Call reports growing congressional calls for Nvidia investigations and tighter chip export limits.",
-      "whyItMatters": "Points to likely legislative action on AI chip export controls.",
-      "priority": "high",
-      "category": "Congress",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T12:47:54.446Z"
-    },
-    {
-      "id": "dc66a27667f22520",
-      "title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTMxZ0ZpeTBfbVZEb3dFbFRpM0xYcU9ta3ZRVnRzc040LUlmWU9IN05La0xrSnBKYzlVVUF3amZuaTJHZGZYa05ObFpJcERkajJiajhVV2RBVzJDVzc0Uzk4NVVfeGhWOG5SSnUtQlRTV1M3MnNON29WZzZZYVlnbGVCVE1LTkpUcm8zOHlmOTdaWGo0dGZJT2Eyb2NqNlB2VWk1bmRCcXdIS3JjRDQ0aTRn?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-13T02:54:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T12:47:54.446Z",
-      "relevant": true,
-      "summary": "Trump's AI task force met Thursday and discussed AI-powered cyberattacks.",
-      "whyItMatters": "Indicates Administration focus on AI-enabled cyber threats, relevant to financial sector security.",
-      "priority": "high",
-      "category": "Administration",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T12:47:54.446Z"
     }
   ]
 }

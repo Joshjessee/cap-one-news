@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-27T02:52:40.178Z",
+  "updatedAt": "2026-11-27T12:47:02.947Z",
   "briefing": [
     "Capital One is pursuing a payments modernization effort, updating its payments technology and infrastructure (Payments Dive).",
     "A Washington Post piece on the economic value of credit card rewards feeds into the interchange and swipe-fee debate, which bears on the business models of Capital One and Discover (The Washington Post).",
@@ -1173,58 +1173,6 @@
       "category": "Other",
       "analysisVersion": 2,
       "analyzedAt": "2026-11-13T17:46:19.113Z"
-    },
-    {
-      "id": "3b6923bd950a1d3f",
-      "title": "Opinion | What a president’s pen — and Trump’s Sharpie — can tell you",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1g5dzJCeXA3ODR1ZmFaeE8wdC1lMXhVTVpVMmlZMlJhcmtEQkh6ZWRNZjk3NXhHRWp0RkNvQVNsc2RPT1EyUHRoMVhSSnE4WU5vRkpGMDdUcmtuekNxLXZkV1FVbE96Vzc0ZnFabk0tLUlxSVVVY3JzYzZRVUJfN0VTZ2Y2SWRsaFNkd3FwS3Y2STBNMVNtakFkNVpQU3Ay?oc=5",
-      "source": "The Washington Post",
-      "paywalled": true,
-      "publishedAt": "2026-11-13T11:55:48.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T12:47:48.261Z",
-      "relevant": false,
-      "summary": "A Washington Post opinion piece about what presidential handwriting and Trump's Sharpie signature reveal. Nothing in the headline connects it to Capital One.",
-      "whyItMatters": "No evident Capital One connection; no need to read.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T12:47:48.261Z"
-    },
-    {
-      "id": "59981af8fa42e269",
-      "title": "NBA roundup: Cade Cunningham puts up 52 points in Pistons' 2OT win",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0ZFZzE2d1pQTlJncUlxQlRiOEphMWdOdHZudDhjMjdFTnZlMmdVV1FHM3dkaU9DX2FjMl9aaXNZamtYRmQ0OUVxUWpxcnB0MkRKR24yWG9leTFfaERERUsyS1NVaTVibW9KaVFuUk5kZkNhUlRUZV83X0U4RmF3NUlITVpqVDhjN05pOWo2ODNWRjFXTGJvR09VSndLZTN2YnJreGgyLUJobFNKSnc?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-13T06:31:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T12:47:48.261Z",
-      "relevant": false,
-      "summary": "Reuters NBA roundup in which Cade Cunningham scored 52 points in the Pistons' double-overtime win. Any Capital One link is likely just arena naming.",
-      "whyItMatters": "Sports coverage with no policy relevance to Capital One.",
-      "priority": "low",
-      "category": "Other",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T12:47:48.261Z"
-    },
-    {
-      "id": "a6ca897435715584",
-      "title": "Cade Cunningham's career-high 52 carry Pistons past Wizards in 2OT",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUZRa0JmZ21ZLTUzSERQZ3dzaGduNV9CLTJyVll0RUxPMk1nbkR6ajlUWWw1SmFzdkNjcTM0T0g5YlJUM1U4SThJQ185OTN2bXV0ek1heTFsQkJzV1Z3dnR1UTNneG5DZDhwZkRveEdZdWJ5QmVWNmwzOFJiMmkwa3BTYUh1aThxZlhSbloxLXdKUDh6NklNNmFBY2Rvc3hoSEhXdGNCQnZkSzVOS1RmSTNWMHdhR0tuNk1Fckpn?oc=5",
-      "source": "Reuters",
-      "paywalled": true,
-      "publishedAt": "2026-11-13T03:51:00.000Z",
-      "snippet": "",
-      "firstSeenAt": "2026-11-13T12:47:48.261Z",
-      "relevant": false,
-      "summary": "Reuters game report on Cade Cunningham's career-high 52 points leading the Pistons past the Wizards in double overtime. Any Capital One mention is likely just the arena name.",
-      "whyItMatters": "Sports story with no policy relevance to Capital One.",
-      "priority": "low",
-      "category": "Other",
-      "storyId": "59981af8fa42e269",
-      "analysisVersion": 2,
-      "analyzedAt": "2026-11-13T12:47:48.261Z"
     }
   ]
 }
