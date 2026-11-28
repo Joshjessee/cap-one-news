@@ -1,6 +1,6 @@
 {
   "topic": "capital-one",
-  "updatedAt": "2026-11-27T19:29:47.920Z",
+  "updatedAt": "2026-11-28T02:44:47.988Z",
   "briefing": [
     "Capital One is pursuing payments modernization, reportedly updating its payments technology and infrastructure, in routine business news with no regulatory angle noted. (Payments Dive)",
     "CNBC is promoting a Capital One Venture card welcome bonus worth $1,050 or more in travel that is ending soon. (CNBC)",
@@ -8,6 +8,41 @@
   ],
   "briefingUpdatedAt": "2026-11-27T19:29:47.920Z",
   "articles": [
+    {
+      "id": "f9968b6e80aa96bc",
+      "title": "Capitals lose to Panthers, 3-2, after allowing two late goals",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU05kTGgwREJaRi16R0ZteVM2UjJTN3FXdW91OHhxSGR1SE1Dd2dZTXc4OG5QU21qSVkxMU1EdHhoWUVGeE04ZWQxV2xQUEdEbkRjcTVELUJ0MHdXdU9DX2I1R1Z2MDJrMGc1QkRKbEdLX2FOQ1dfSFQ5Qmt4dXJ6YlN6VjJCN0UzaHJvZ0VDYnZPaUs0Zmh5Vw?oc=5",
+      "source": "The Washington Post",
+      "paywalled": true,
+      "publishedAt": "2026-11-28T01:32:24.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-28T02:44:47.988Z",
+      "relevant": false,
+      "summary": "Recap of an NHL game in which the Capitals lost 3-2 to the Panthers after allowing two late goals. No mention of Capital One is evident from the headline.",
+      "whyItMatters": "Sports result with no evident connection to Capital One or policy; no action needed.",
+      "priority": "low",
+      "category": "Other",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-28T02:44:47.988Z"
+    },
+    {
+      "id": "14229b6a4832aff6",
+      "title": "Sam Bennett's last-minute goal lifts Panthers past Capitals",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGtZRWlWZWJPREs4NXhiU2ZycmxXWl9QZnFMU3BRaGtkaFYzakk2ME9xTTNZUnZ0RUY0b2p1VDdLZGxhVXJQQnRCNTd0R09OSmZSY0NFMVgzQUxwRHRkOGx3cU83N3pBUjQ2bnRJS1dJWS13OElWWEZhU290dFpZUDd1alhWcVN0MXpEdEQyN3IzT1lWUWpQNnVsMjFCOUtCVVlwejRJWm1KUnctaXR3?oc=5",
+      "source": "Reuters",
+      "paywalled": true,
+      "publishedAt": "2026-11-27T23:16:30.000Z",
+      "snippet": "",
+      "firstSeenAt": "2026-11-28T02:44:47.988Z",
+      "relevant": false,
+      "summary": "Reuters reports that Sam Bennett's last-minute goal gave the Panthers a win over the Capitals. This is the same game as the Washington Post recap.",
+      "whyItMatters": "Sports result with no evident connection to Capital One or policy; no action needed.",
+      "priority": "low",
+      "category": "Other",
+      "storyId": "f9968b6e80aa96bc",
+      "analysisVersion": 2,
+      "analyzedAt": "2026-11-28T02:44:47.988Z"
+    },
     {
       "id": "f9056260b14500e6",
       "title": "Capitals get it together and end five-game skid with win over Flyers",
